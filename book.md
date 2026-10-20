@@ -1,6 +1,6 @@
 # IIBA® ECBA™ Exam Guide: From Business Analysis Basics to Exam-Ready {#p-00-title-iiba-ecba-exam-guide-from-business-analysis-basics-to-exam-ready}
 
-### A Study Guide for the Entry Certificate in Business Analysis™ {#p-00-title-a-complete-study-guide-for-the-entry-certificate-in-business-analysis}
+### A Study Guide for the Entry Certificate in Business Analysis™ {#p-00-title-a-study-guide-for-the-entry-certificate-in-business-analysis}
 
 *Study business analysis concepts, work through examples, and review your reasoning against the source references.*
 
@@ -18,11 +18,11 @@ Check the [current official information](#p-08-official-resources-official-resou
 
 # Copyright and notices {#p-01-copyright-copyright-and-notices}
 
-© Kadir Çamoğlu.
+© 2026 Kadir Çamoğlu.
 
-The author's original text, questions, explanations, and diagrams in this freely shared guide are licensed under [Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt that material for noncommercial purposes under the licence terms, with attribution, a link to the licence, and an indication of changes.
+The author's original text, questions, explanations, and diagrams in this freely shared guide are licensed under [Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You may share and adapt that material for noncommercial purposes under the license terms, with attribution, a link to the license, and an indication of changes.
 
-IIBA material quoted or identified here, including the activity statements from the ECBA Exam Blueprint, remains the property of IIBA and is excluded from this licence. Other third-party material retains its owners' rights. The licence does not grant rights to IIBA publications or trademarks.
+IIBA material quoted or identified here, including the activity statements from the ECBA Exam Blueprint, remains the property of IIBA and is excluded from this license. Other third-party material retains its owners' rights. The license does not grant rights to IIBA publications or trademarks.
 
 International Institute of Business Analysis™ (IIBA®) owns the registered marks IIBA®, BABOK® Guide, and Business Analysis Body of Knowledge®. Entry Certificate in Business Analysis™ (ECBA™) and Business Analysis Core Concept Model™ (BACCM™) are IIBA trademarks. *The Business Analysis Standard* is an IIBA publication. These names identify the certification and sources discussed in this guide.
 
@@ -168,7 +168,7 @@ The exam tests **understanding and applied judgment at a foundational level**. I
 | **Result**          | Pass/fail, shown on screen; confirmed by email |
 | **Answer choices**  | Four options (A–D); exactly one is best        |
 
-Fifty questions in seventy-five minutes is a comfortable pace, provided that you do not get stuck. A time-management habit to practice is simple: answer the question in front of you, and if it is taking more than about two minutes, mark it, record your best guess, and move on. There is no advantage to leaving an answer blank, because an unanswered question and a wrong answer score the same. For that reason, you should always record a best choice before time runs out.
+Fifty questions in seventy-five minutes is a comfortable pace, provided that you do not get stuck. A time-management habit to practice is simple: answer the question in front of you, and if it is taking more than about two minutes, record your best guess, note it for review if the exam interface allows, and move on. A blank answer cannot earn credit, so record a best choice for every question before time runs out.
 
 -----
 
@@ -178,7 +178,7 @@ The exam is organized into nine domains. The first three domains are **foundatio
 
 ### Figure 0.1 — The nine domains by exam weight {#fig-0-1}
 
-![Figure 0.1 — The nine domains by exam weight. Nine horizontal bars list the domains in numerical order. Their labels show weights of twenty, fourteen, six, and then ten percent for each remaining domain. Domains one to three use the Standard; four to nine use BABOK.](../../figures/fig-00-1-domain-weights.svg)
+![Figure 0.1 — The nine domains by exam weight. Nine horizontal bars list the domains in numerical order. Their labels show weights of twenty, fourteen, six, and then ten percent for each remaining domain. Domains one to three use the Standard; four to nine use BABOK.](figures/fig-00-1-domain-weights.svg)
 
 | Domain | Name                                    | Weight | Chapter   | Source   |
 | ------ | --------------------------------------- | -----: | --------- | -------- |
@@ -220,7 +220,7 @@ The two-step strategy is a reasoning method for practice. First eliminate option
 
 ### Figure 0.2 — The two-step answering strategy {#fig-0-2}
 
-![Figure 0.2 — The two-step answering strategy. Four boxes run from top to bottom. Start by reading every option, eliminate clearly wrong choices, compare all remaining choices against the scenario, and choose the option that fits. No fixed number of remaining choices is assumed.](../../figures/fig-00-2-two-step-method.svg)
+![Figure 0.2 — The two-step answering strategy. Four boxes run from top to bottom. Start by reading every option, eliminate clearly wrong choices, compare all remaining choices against the scenario, and choose the option that fits. No fixed number of remaining choices is assumed.](figures/fig-00-2-two-step-method.svg)
 
 | Stage | What you do | Result |
 | --- | --- | --- |
@@ -285,7 +285,7 @@ The Introduction covers the book’s purpose, audience, and reading order in ful
 
 **[Chapter 10](#ch10)** is a full, 50-question Practice Exam that mirrors the weighting of the real exam. You should take it timed, after the nine domain chapters. Its answer key and rationale are in the back matter.
 
-The **reference appendices**, which are the [BACCM Quick Reference](#p-03-appendix-baccm-appendix-baccm-quick-reference), the Techniques Quick Reference, the Competency Quick Reference, and the Critical Concept Pairs, are tools for your final week. The concept-pairs appendix in particular is your sharpest defence against near-miss distractors.
+The **reference appendices**, which are the [BACCM Quick Reference](#p-03-appendix-baccm-appendix-baccm-quick-reference), the Techniques Quick Reference, the Competency Quick Reference, and the Critical Concept Pairs, are tools for your final week. The concept-pairs appendix in particular is your sharpest defense against near-miss distractors.
 
 The **[Glossary](#p-07-glossary-glossary)** gives concise definitions of the key terms. You should use it whenever a term is unfamiliar.
 
@@ -308,7 +308,7 @@ Scheduling, rescheduling, and the detailed check-in procedure are all handled th
 | Item                    | Detail                                                                         |
 | ----------------------- | ------------------------------------------------------------------------------ |
 | Blueprint weight        | 20% — the highest-weight domain                                                |
-| Questions per ECBA exam | 10 out of 50                                                                   |
+| Questions per ECBA exam | About 10 of 50 (from the weight)                                               |
 | Source                  | The Business Analysis Standard (2025), Ch. 2 — Understanding Business Analysis |
 | Activity Statements     | 1.1, 1.2, 1.3, 1.4                                                             |
 
@@ -323,7 +323,7 @@ Domain 1 checks whether you understand what **business analysis** is before you 
 
 Instead, this domain asks you to build three core habits of thinking. First, you should be able to recognize business analysis work across different roles, industries, and delivery approaches. Second, you should be able to use the BACCM as a structured way to think about business analysis situations. Third, you should be able to make better decisions in exam scenarios by keeping value, outcomes, and stakeholder needs at the center of your reasoning.
 
-This domain carries the largest share of the exam, with ten of the fifty questions. That makes it important not only because of the number of questions, but also because the ideas in this domain support how you interpret many business analysis situations throughout the exam.
+This domain carries the largest share of the exam, with about ten of the fifty questions. That makes it important not only because of the number of questions, but also because the ideas in this domain support how you interpret many business analysis situations throughout the exam.
 
 The encouraging part is that Domain 1 is not mainly about memorizing complex details. It is about developing a clear understanding of the purpose, the mindset, and the language of business analysis. Once this foundation is in place, many questions become easier to reason through.
 
@@ -364,7 +364,7 @@ The first type is an identification question. It is essentially asking, “Is th
 
 The second type is a definition question. Here, the exam may try to pull you toward a familiar but incomplete answer, such as “documenting requirements.” Requirements documentation can be part of business analysis, but it is not the whole purpose of business analysis.
 
-In both types of question, the best answer should align with the Standard’s definition and stay within entry-level expectations. A practical way to remember this is simple: the business analyst helps understand the need, supports the analysis, and recommends possible ways forward. The business analyst does not approve, authorize, or own the change decision.
+In both types of question, the best answer should align with the Standard’s definition and stay within entry-level expectations. A practical way to remember this is simple: the business analyst helps understand the need, supports the analysis, and recommends possible ways forward. Where the scenario assigns approval or ownership of the change to another role, the business analyst supports that decision rather than taking it over.
 
 ### The Official IIBA Definition {#p-ch1-the-official-iiba-definition}
 
@@ -388,7 +388,7 @@ Where authorization belongs to the sponsor or another designated role, the analy
 
 ### The 9 Functions of Business Analysis {#p-ch1-the-9-functions-of-business-analysis}
 
-These nine functions are easier to hold in mind once you see that they cluster into three jobs. The first two functions are about understanding the problem. The next four are about shaping a value-focused solution. The last three are about delivering it and continuing to improve. You do not need to memorize the list word for word. Instead, recognize the pattern, and note the three functions flagged in [section 1.3](#as-1-3) that the exam leans on most. The third column shows the value angle, which is revisited in A.S. 1.3, so the table is given once, here.
+These nine functions are easier to hold in mind once you see that they cluster into three jobs. The first two functions are about understanding the problem. The next four are about shaping a value-focused solution. The last three are about delivering it and continuing to improve. You do not need to memorize the list word for word. Instead, recognize the pattern, and note the three functions compared in [section 1.3](#as-1-3). The third column shows the value angle, which is revisited in A.S. 1.3, so the table is given once, here.
 
 | Function                  | One-line exam meaning                                                                                                                                                                          | How it creates value                                                              |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -416,7 +416,7 @@ This is important for the exam because questions may deliberately describe busin
 
 > ⚠️ **Exam Trap — “Business analysis = IT work.”**
 > 
-> A common mistake is to assume that business analysis only happens in software or IT environments. The Standard is clear on this point: business analysis can be applied across different industries, roles, and delivery approaches.
+> Do not assume that business analysis only happens in software or IT environments. The Standard is clear on this point: business analysis can be applied across different industries, roles, and delivery approaches.
 > 
 > So, if the exam scenario describes a hospital improving patient intake, a farm optimizing its supply process, or a city government redesigning a public service, do not dismiss it just because there is no software system involved. It may still be a business analysis situation.
 > 
@@ -453,25 +453,25 @@ These four models describe how an enterprise organizes its business analysis cap
 **Options.**
 
 - A. She is not performing business analysis because she does not hold the business analyst title.
-- B. She is performing business analysis because she is defining needs and context before recommending a value-focused solution.
+- B. She is performing solution implementation because the software category has already been named.
 - C. She is performing project management because she is preparing to control scope and schedule.
-- D. She is performing solution implementation because the software category has already been named.
+- D. She is performing business analysis because she defines needs and context before recommending a solution.
 
-##### C1-EL01 — Answer: B {#c1-el01-answer}
+##### C1-EL01 — Answer: D {#c1-el01-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C1-EL01 | B | 1 | 1.1 | situation | medium | Standard §2.1; Standard §4.1 |
+| C1-EL01 | D | 1 | 1.1 | situation | medium | Standard §2.1; Standard §4.1 |
 
-**A.** A job title does not determine whether the work is business analysis.
+**A.** *Incorrect.* A job title does not determine whether the work is business analysis.
 
-**B.** Defining needs, examining context, and clarifying value fit business analysis.
+**B.** *Incorrect.* Naming a software category does not mean implementation has begun.
 
-**C.** No scope or schedule control activity is described.
+**C.** *Incorrect.* No scope or schedule control activity is described.
 
-**D.** Naming a software category does not mean implementation has begun.
+**D.** *Correct.* Defining needs, examining context, and clarifying value fit business analysis.
 
-**Reasoning (two-step).** In Step 1, you eliminate the clearly wrong options. Option A fails the role-agnostic rule, because the job title is irrelevant. Option C describes the control of scope and schedule, which is not present in the scenario. That leaves options B and D. In Step 2, you apply the scope and source filter. The Standard says that business analysis means defining needs and recommending value-focused solutions, and the scenario shows exactly that, because she conducts interviews, considers the context, and clarifies the expected value before any tool is chosen. Option B fits.
+**Reasoning (two-step).** In Step 1, you eliminate the clearly wrong options. Option A fails the role-agnostic rule, because the job title is irrelevant. Option C describes the control of scope and schedule, which is not present in the scenario. That leaves options B and D, and naming a software category does not mean that implementation has begun, so B does not fit. In Step 2, you apply the scope and source filter. The Standard says that business analysis means defining needs and recommending value-focused solutions, and the scenario shows exactly that, because she conducts interviews, considers the context, and clarifies the expected value before any tool is chosen. Option D fits.
 
 **Source detail:** Standard §2.1; Standard §4.1
 
@@ -493,11 +493,11 @@ These four models describe how an enterprise organizes its business analysis cap
 
 ### Why the BACCM Exists {#p-ch1-why-the-baccm-exists}
 
-The **Business Analysis Core Concept Model (BACCM)** is a thinking and organizing model for business analysis work. It gives you six concepts that appear in almost every situation: Change, Need, Solution, Stakeholder, Value, and Context. Their defining feature, and the thing the exam tests most, is that they are interrelated. In other words, if you change any one of them, you should re-check the others.
+The **Business Analysis Core Concept Model (BACCM)** is a thinking and organizing model for business analysis work. It gives you six concepts that appear in almost every situation: Change, Need, Solution, Stakeholder, Value, and Context. Their defining feature, and the point to hold onto, is that they are interrelated. In other words, if you change any one of them, you should re-check the others.
 
 ### Figure 1.1 — The BACCM and how its six concepts relate {#fig-1-1}
 
-![Figure 1.1 — The BACCM and how its six concepts relate. Context encloses the other five concepts. Need and Change connect in both directions. Solution points upward to Need and downward to Value; Value points to Stakeholder. The labels explain satisfaction of needs, delivery of value, and stakeholder judgment.](../../figures/fig-01-1-baccm.svg)
+![Figure 1.1 — The BACCM and how its six concepts relate. Context encloses the other five concepts. Need and Change connect in both directions. Solution points upward to Need and downward to Value; Value points to Stakeholder. The labels explain satisfaction of needs, delivery of value, and stakeholder judgment.](figures/fig-01-1-baccm.svg)
 
 | Relationship | What it means |
 | --- | --- |
@@ -565,25 +565,25 @@ A simple way to apply the BACCM in a scenario is to ask six questions, one for e
 **Options.**
 
 - A. Change
-- B. Need
-- C. Solution
+- B. Solution
+- C. Need
 - D. Context
 
-##### C1-EL02 — Answer: B {#c1-el02-answer}
+##### C1-EL02 — Answer: C {#c1-el02-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C1-EL02 | B | 1 | 1.2 | standard | easy | Standard §2.2 |
+| C1-EL02 | C | 1 | 1.2 | standard | easy | Standard §2.2 |
 
-**A.** Change is a transformation in response to a need.
+**A.** *Incorrect.* Change is a transformation in response to a need.
 
-**B.** Need is the problem or opportunity to address.
+**B.** *Incorrect.* Solution is a way to satisfy a need.
 
-**C.** Solution is a way to satisfy a need.
+**C.** *Correct.* Need is the problem or opportunity to address.
 
-**D.** Context comprises the circumstances surrounding the change.
+**D.** *Incorrect.* Context comprises the circumstances surrounding the change.
 
-**Reasoning (two-step).** In Step 1, options C and D describe different concepts, because a Solution is a way of satisfying a need, and Context is the surrounding circumstances, so you can eliminate both. In Step 2, you choose between A and B. A Change is the transformation that happens in response to a need, while the problem or opportunity itself is the Need. Option B matches the exact wording.
+**Reasoning (two-step).** In Step 1, options B and D describe different concepts, because a Solution is a way of satisfying a need, and Context is the surrounding circumstances, so you can eliminate both. In Step 2, you choose between A and C. A Change is the transformation that happens in response to a need, while the problem or opportunity itself is the Need. Option C matches the exact wording.
 
 **Source detail:** Standard §2.2
 
@@ -599,7 +599,7 @@ A simple way to apply the BACCM in a scenario is to ask six questions, one for e
 **Options.**
 
 - A. Distinguishing the underlying Need from the proposed chatbot Solution.
-- B. Replacing the Need with a clearer Stakeholder request.
+- B. Replacing the Need with a clearer and more specific Stakeholder request.
 - C. Confirming the Value before the Context is understood.
 - D. Treating the chatbot as the Change that defines the initiative.
 
@@ -609,13 +609,13 @@ A simple way to apply the BACCM in a scenario is to ask six questions, one for e
 |---|---|---|---|---|---|---|
 | C1-EL03 | A | 1 | 1.2 | situation | medium | Standard §2.2 |
 
-**A.** The analyst distinguishes the underlying problem from the proposed tool.
+**A.** *Correct.* The analyst distinguishes the underlying problem from the proposed tool.
 
-**B.** A clearer request still does not establish the underlying need.
+**B.** *Incorrect.* A clearer request still does not establish the underlying need.
 
-**C.** No assessment of worth is described; the analyst asks about the problem.
+**C.** *Incorrect.* No assessment of worth is described; the analyst asks about the problem.
 
-**D.** Labelling the chatbot as the change skips clarifying its purpose.
+**D.** *Incorrect.* Labelling the chatbot as the change skips clarifying its purpose.
 
 **Reasoning (two-step).** In Step 1, option B reframes a request as a need, which is backwards, and option D calls the proposed tool the “Change” and skips the need entirely, so you can eliminate both. In Step 2, you choose between A and C. The analyst is not discussing worth, which would be Value, at all. Instead, he is separating the stated solution, which is a chatbot, from the underlying problem. That is the Need-versus-Solution distinction, so option A fits.
 
@@ -637,7 +637,7 @@ A simple way to apply the BACCM in a scenario is to ask six questions, one for e
 
 **How it is tested.** A mistake to check for is declaring success too early, where a solution ships, one metric moves, and a distractor calls the work done. The keyed answer keeps monitoring the outcomes. Other angles include distinguishing a symptom from the underlying problem, and recognizing business analysis value in a non-IT or cross-industry scenario.
 
-### The Three Functions the Exam Leans On {#p-ch1-the-three-functions-the-exam-leans-on}
+### Three Functions to Compare {#p-ch1-three-functions-to-compare}
 
 All nine functions from [section 1.1](#as-1-1) support value. Compare these three functions when reviewing outcome-focused work.
 
@@ -663,7 +663,7 @@ Business analysis is not tied to any one sector. The Standard frames it broadly.
 
 ### Exam Focus — A.S. 1.3 {#p-ch1-exam-focus-a-s-1-3}
 
-**Traps.** Two traps recur here. The first is to declare success after a single metric moves, or at the moment of implementation, when you should instead keep monitoring the outcomes. The second is to confuse a symptom with the underlying problem, when you should investigate the cause rather than fix the surface.
+**Traps.** Check two distinctions here. The first is to declare success after a single metric moves, or at the moment of implementation, when you should instead keep monitoring the outcomes. The second is to confuse a symptom with the underlying problem, when you should investigate the cause rather than fix the surface.
 
 **How questions are framed.** Practice three question forms. The first is a “the work is done because it shipped, or because one number improved” distractor, set against continued outcome monitoring. The second is a symptom-versus-problem scenario, where the business analyst investigates first. The third is a cross-industry or multi-level recognition, across the strategic, tactical, and operational levels, where the business analyst stays in a supporting, value-focused role rather than deciding.
 
@@ -687,13 +687,13 @@ Business analysis is not tied to any one sector. The Standard frames it broadly.
 |---|---|---|---|---|---|---|
 | C1-EL04 | B | 1 | 1.3 | situation | medium | Standard §2.4 |
 
-**A.** Drafting hotline requirements assumes the proposed solution is appropriate.
+**A.** *Incorrect.* Drafting hotline requirements assumes the proposed solution is appropriate.
 
-**B.** Investigating the complaint increase establishes the problem before selecting a response.
+**B.** *Correct.* Investigating the complaint increase establishes the problem before selecting a response.
 
-**C.** Adding drivers assumes a cause not established by the evidence.
+**C.** *Incorrect.* Adding drivers assumes a cause not established by the evidence.
 
-**D.** Understanding a service problem can be business analysis work.
+**D.** *Incorrect.* Understanding a service problem can be business analysis work.
 
 **Reasoning (two-step).** In Step 1, option A jumps to building a chosen solution before the problem is understood, and option C leaps to a fix that the evidence does not yet support, so you can eliminate both. Option D wrongly pushes the issue out of scope. In Step 2, problem understanding comes first. The business analyst investigates the underlying cause, for example whether the packaging change slows handling or mislabels orders, before recommending anything. Option B fits, and it stays in a supporting role.
 
@@ -713,7 +713,7 @@ Business analysis is not tied to any one sector. The Standard frames it broadly.
 
 **What this means.** You should be able to define value in the Standard’s terms, recognize its forms, which include tangible and intangible, realized and preserved, and always relative to a stakeholder and a context, and tell the difference between an output and an outcome. An output is what was delivered, while an outcome is what changed as a result. Value realization is judged by outcomes, and not by delivery.
 
-**How it is tested.** The dominant pattern is output versus outcome. An option calls a project successful because something was delivered on time, while the keyed answer asks whether the intended change actually happened. Watch also for preserved value, where avoiding a loss or a risk still counts, and for relative value, where different stakeholders value different things, so you should not crown a single winner.
+**How it is tested.** The central distinction is output versus outcome. An option calls a project successful because something was delivered on time, while the keyed answer asks whether the intended change actually happened. Watch also for preserved value, where avoiding a loss or a risk still counts, and for relative value, where different stakeholders value different things, so you should not crown a single winner.
 
 ### IIBA’s Definition of Value {#p-ch1-iiba-s-definition-of-value}
 
@@ -739,7 +739,7 @@ Do not treat intangible value as “not real.” The Standard includes intangibl
 | Value realized  | New returns, gains, or improvements are created. | A new onboarding flow increases completed applications.       |
 | Value preserved | Losses, risks, or costs are reduced or avoided.  | A compliance change reduces the risk of regulatory penalties. |
 
-Do not assume that value exists only when revenue increases. However, reducing a risk or avoiding a loss also preserves value.
+Do not assume that value exists only when revenue increases: reducing a risk or avoiding a loss preserves value.
 
 ### Value Is Relative {#p-ch1-value-is-relative}
 
@@ -774,9 +774,9 @@ An output-focused option can sound productive, such as “deliver the dashboard,
 **Options.**
 
 - A. The output was delivered, but the desired outcome has not yet been achieved.
-- B. The initiative has delivered value because the dashboard exists.
+- B. The initiative has delivered value because the dashboard now exists.
 - C. The solution should be considered successful because it met the schedule.
-- D. The problem is only a training issue, because dashboards always improve decisions.
+- D. The problem is a training issue, because the dashboard itself was delivered as planned.
 
 ##### C1-EL05 — Answer: A {#c1-el05-answer}
 
@@ -784,15 +784,15 @@ An output-focused option can sound productive, such as “deliver the dashboard,
 |---|---|---|---|---|---|---|
 | C1-EL05 | A | 1 | 1.4 | situation | medium | Standard §2.5 |
 
-**A.** The dashboard is an output; timely decisions are the intended outcome.
+**A.** *Correct.* The dashboard is an output; timely decisions are the intended outcome.
 
-**B.** An artifact existing does not establish the intended benefit.
+**B.** *Incorrect.* An artifact existing does not establish the intended benefit.
 
-**C.** Schedule achievement does not establish improved decision-making.
+**C.** *Incorrect.* Schedule achievement does not establish improved decision-making.
 
-**D.** The cause has not been established, and dashboards do not guarantee better decisions.
+**D.** *Incorrect.* The scenario does not establish a training cause, and delivery as planned does not show that the outcome was achieved.
 
-**Reasoning (two-step).** In Step 1, options B and C both equate existence or schedule with value, so you can eliminate them. Option D over-generalizes, with “dashboards always improve decisions,” and assumes a cause that is not in the scenario. In Step 2, option A separates the output, which is the dashboard, from the outcome, which is faster and better decisions. That is exactly the value-realization question, so option A fits.
+**Reasoning (two-step).** In Step 1, options B and C both equate existence or schedule with value, so you can eliminate them. Option D assumes a training cause that the scenario does not establish. In Step 2, option A separates the output, which is the dashboard, from the outcome, which is faster and better decisions. That is exactly the value-realization question, so option A fits.
 
 **Source detail:** Standard §2.5
 
@@ -808,7 +808,7 @@ An output-focused option can sound productive, such as “deliver the dashboard,
   - A **Need** is a problem or opportunity — not a requirement or a stakeholder’s proposed feature.
   - **Context** is broader than the project boundary: culture, regulations, market, technology, attitudes, processes.
   - **Value** can be tangible or intangible, and realized or preserved; it is relative to the stakeholder and context.
-  - **Outputs** are what you deliver; **outcomes** are what change because of it. ECBA value questions favour outcomes.
+  - **Outputs** are what you deliver; **outcomes** are what change because of it. ECBA value questions favor outcomes.
   - Business analysis does not stop at implementation. If the solution is live but value is not being realized, the BA supports monitoring, analysis, and improvement.
 
 ## Chapter 1 — Exam Essentials {#p-ch1-chapter-1-exam-essentials}
@@ -886,10 +886,10 @@ A manufacturing group sets up a small central unit responsible for defining busi
 
 A retailer needs to cut checkout abandonment. A stakeholder says, “Our solution is the new one-page checkout we asked for.” Using the BACCM meaning of Solution, which statement is MOST accurate?
 
-- A. The requested checkout automatically satisfies the underlying need because stakeholders asked for it.
+- A. The requested checkout satisfies the underlying need, because stakeholders asked for it.
 - B. A Solution satisfies a need in context; the requested checkout is one proposed way.
 - C. The Solution is the reduction in checkout abandonment the retailer expects to gain.
-- D. The Solution is the documented requirement that the checkout must be completed on a single page.
+- D. The Solution is the documented requirement for a single-page checkout.
 
 ### C1-Q05 {#c1-q05}
 
@@ -910,7 +910,7 @@ Midway through an initiative to automate invoice approvals, a new tax regulation
 
 - A. Update the Solution design so the approval logic matches the new regulation, since the design is where the legal change takes effect.
 - B. Recalculate the expected Value and business case, because the regulation changes the costs and benefits the initiative will deliver.
-- C. Flag that the change in Context may affect the Need, Solution, and Value together, and support re-examining them as a connected set rather than fixing one in isolation.
+- C. Flag that the Context change may affect the Need, Solution, and Value together, and support re-examining them as a set.
 - D. Raise a formal Change request to add the regulation as a new requirement, so the initiative’s scope is reset around it.
 
 ### C1-Q07 {#c1-q07}
@@ -942,9 +942,9 @@ Six weeks after a city launches a mobile parking-payment app, the project team p
 A retailer is asked to fund an improved data-backup and recovery capability. It adds no customer-facing features; its benefit is preventing the severe revenue and reputation loss that a prolonged system failure would cause. A manager says, “This has no real value — customers won’t see anything new.” What is the BEST value-focused response?
 
 - A. The benefit is really risk management rather than value, so it should be justified on a separate risk register, not as part of the solution’s value.
-- B. The capability is valuable only if it also lowers day-to-day operating costs.
+- B. The capability should be justified by the operating costs it lowers, rather than by losses avoided.
 - C. Preventing potential losses and mitigating risk is a legitimate form of value, even when nothing new is visible to customers.
-- D. Value can be claimed only once the capability has measurably prevented a loss that would otherwise have occurred.
+- D. Its value should be claimed after it has measurably prevented an actual loss.
 
 ### C1-Q10 {#c1-q10}
 
@@ -966,7 +966,7 @@ A business analyst is helping compare two options for a hospital’s appointment
 | Item                    | Detail                                                                                 |
 | ----------------------- | -------------------------------------------------------------------------------------- |
 | Blueprint weight        | 14%                                                                                    |
-| Questions per ECBA exam | 7 out of 50                                                                            |
+| Questions per ECBA exam | About 7 of 50 (from the weight)                                                        |
 | Source                  | The Business Analysis Standard (2025), Ch. 3 — Mindset for Effective Business Analysis |
 | Activity Statements     | 2.1, 2.2, 2.3, 2.4                                                                     |
 
@@ -1025,7 +1025,7 @@ In IIBA’s framework, mindset is the mental framework that guides decision-maki
 | Adopting appropriate principles               | Use the business analysis principles (A.S. 2.3) to guide behavior and trade-offs.      | The BA applies “See the whole” when a team fixates on one department’s issue.                  |
 | Deciding how to approach the work             | Choose and adapt the analysis approach based on the situation.                          | The BA adjusts the approach because stakeholder feedback is changing the team’s understanding. |
 | Actively developing foundational competencies | Deliberately improve the competencies needed for effective analysis (A.S. 2.4).         | The BA practices facilitation before a complex multi-stakeholder workshop.                     |
-| Being able to use foundational techniques     | Know when and how to apply the basic techniques that support the work.                  | The BA chooses interviews when one stakeholder needs private clarification first.              |
+| Being able to use foundational techniques     | Know when and how to apply the foundational techniques ([section 3.2](#p-ch3-foundational-techniques-in-the-standard)). | The BA chooses interviews when one stakeholder needs private clarification first.              |
 
 ### Seven Abilities Enabled by an Empowering Mindset {#p-ch2-seven-abilities-enabled-by-an-empowering-mindset}
 
@@ -1043,7 +1043,7 @@ Distinguish these two lists. Focus areas are how you develop the mindset, while 
 
 ### Figure 2.1 — Focus areas feed the mindset; the mindset produces the abilities {#fig-2-1}
 
-![Figure 2.1 — Focus areas feed the mindset; the mindset produces the abilities. Read three groups from top to bottom. Six focus areas develop an empowering mindset that adapts to context. The mindset enables seven abilities. The diagram separates activities used to develop the mindset from abilities it enables.](../../figures/fig-02-1-mindset-engine.svg)
+![Figure 2.1 — Focus areas feed the mindset; the mindset produces the abilities. Read three groups from top to bottom. Six focus areas develop an empowering mindset that adapts to context. The mindset enables seven abilities. The diagram separates activities used to develop the mindset from abilities it enables.](figures/fig-02-1-mindset-engine.svg)
 
 | Part | Items |
 | --- | --- |
@@ -1059,7 +1059,7 @@ The single anchor that resolves this trap is this: you work on a focus area so t
 
 ### Exam Focus — A.S. 2.1 {#p-ch2-exam-focus-a-s-2-1}
 
-**Traps.** Two traps recur here. The first is focus area versus enabled ability, which are two parallel lists that sound interchangeable, where only the “enabled” items belong to what the mindset produces. The second is reusing a past method without checking that it fits, which feels disciplined but ignores the context, and is the wrong mindset.
+**Traps.** Check two distinctions here. The first is focus area versus enabled ability, which are two parallel lists that sound interchangeable, where only the “enabled” items belong to what the mindset produces. The second is reusing a past method without checking that it fits, which feels disciplined but ignores the context, and is the wrong mindset.
 
 **How questions are framed.** Expect three shapes. The first asks “Which behavior shows an empowering mindset?”, where the keyed answer adapts to the context and the near-miss reuses a proven approach. The second asks “Is this a focus area or an enabled ability?” as a classification. The third is a scenario where uncertainty is rising, and the business analyst should adapt and keep learning, rather than freeze the planning or hand the decision to the sponsor.
 
@@ -1072,9 +1072,9 @@ The single anchor that resolves this trap is this: you work on a focus area so t
 
 **Options.**
 
-- A. Reuse the previous plan, because consistency reduces analysis risk.
-- B. Avoid planning until all stakeholder needs are stable.
-- C. Adapt the approach to the current context and update it as learning occurs.
+- A. Reuse the previous initiative’s plan, because consistency across initiatives reduces analysis risk.
+- B. Delay planning the approach until stakeholder needs have become stable.
+- C. Adapt the approach to this context and update it as the team learns.
 - D. Ask the sponsor to select the analysis approach and document the decision.
 
 ##### C2-EL01 — Answer: C {#c2-el01-answer}
@@ -1083,13 +1083,13 @@ The single anchor that resolves this trap is this: you work on a focus area so t
 |---|---|---|---|---|---|---|
 | C2-EL01 | C | 2 | 2.1 | situation | medium | Standard §3.1 |
 
-**A.** Prior success does not establish that the same plan fits uncertain needs.
+**A.** *Incorrect.* Prior success does not establish that the same plan fits uncertain needs.
 
-**B.** Uncertainty calls for appropriate planning and adaptation, rather than abandoning planning.
+**B.** *Incorrect.* Uncertainty calls for appropriate planning and adaptation, rather than abandoning planning.
 
-**C.** Adapting to evidence and context demonstrates an empowering mindset.
+**C.** *Correct.* Adapting to evidence and context demonstrates an empowering mindset.
 
-**D.** Recording a sponsor decision alone does not address how analysis should adapt.
+**D.** *Incorrect.* Recording a sponsor decision alone does not address how analysis should adapt.
 
 **Reasoning (two-step).** In Step 1, option B is wrong because planning still matters under uncertainty, and option D is wrong because the business analyst contributes to the approach rather than merely recording the sponsor’s choice. In Step 2, you choose between A and C. An empowering mindset is flexible and context-aware, so the business analyst fits the approach to this situation and keeps adapting. Option C fits.
 
@@ -1107,7 +1107,7 @@ The single anchor that resolves this trap is this: you work on a focus area so t
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**What this means.** The Standard presents business analysis as a human-centred, creative process. The shared values are the beliefs that keep that process useful, ethical, and value-focused. You should be able to recognize which value a behavior demonstrates, or which one is being violated.
+**What this means.** The Standard presents business analysis as a human-centered, creative process. The shared values are the beliefs that keep that process useful, ethical, and value-focused. You should be able to recognize which value a behavior demonstrates, or which one is being violated.
 
 **How it is tested.** To practice applying the values, consider a scenario that shows a behavior, such as a business analyst challenging a popular but unsupported solution, or including a stakeholder voice that was being ignored, and asks which value it reflects. Adjacent values, such as Collaboration and Courage, can both seem plausible, so pick the one that names the defining act.
 
@@ -1157,25 +1157,25 @@ Several values sit close enough to trip you up. When two of them feel possible, 
 **Options.**
 
 - A. Proceed, because the sponsor owns the decision and the option is legal.
-- B. Raise the ethical concern with the appropriate stakeholders before proceeding.
-- C. Reject the solution, because an ethical concern automatically makes it invalid.
-- D. Wait until customers complain, so the team has stronger evidence.
+- B. Wait until customers complain, so the team has stronger evidence.
+- C. Reject the solution on the BA’s own authority, because of the ethical concern.
+- D. Raise the ethical concern with the appropriate stakeholders before proceeding.
 
-##### C2-EL02 — Answer: B {#c2-el02-answer}
+##### C2-EL02 — Answer: D {#c2-el02-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C2-EL02 | B | 2 | 2.2 | situation | medium | Standard §3.2 |
+| C2-EL02 | D | 2 | 2.2 | situation | medium | Standard §3.2 |
 
-**A.** Legality and sponsor preference do not settle the ethical concern.
+**A.** *Incorrect.* Legality and sponsor preference do not settle the ethical concern.
 
-**B.** Surfacing the concern enables an informed stakeholder decision.
+**B.** *Incorrect.* Waiting for complaints withholds a known concern from the decision.
 
-**C.** An ethical concern calls for examination; it does not automatically invalidate the option.
+**C.** *Incorrect.* The scenario gives the analyst no authority to reject the solution; the ethical concern calls for examination with the right stakeholders.
 
-**D.** Waiting for complaints withholds a known concern from the decision.
+**D.** *Correct.* Surfacing the concern enables an informed stakeholder decision.
 
-**Reasoning (two-step).** In Step 1, option C is wrong because the scenario gives the analyst no authority to reject the solution independently, and option D is wrong because waiting can let harm continue. In Step 2, you choose between A and B. Legality and sponsor authority do not erase the ethical issue, so the business analyst surfaces it for consideration. Option B fits, and it stays in scope, because the business analyst raises the concern rather than deciding.
+**Reasoning (two-step).** In Step 1, option C is wrong because the scenario gives the analyst no authority to reject the solution independently, and option B is wrong because waiting can let harm continue. In Step 2, you choose between A and D. Legality and sponsor authority do not erase the ethical issue, so the business analyst surfaces it for consideration. Option D fits, and it stays in scope, because the business analyst raises the concern rather than deciding.
 
 **Source detail:** Standard §3.2
 
@@ -1193,7 +1193,7 @@ Several values sit close enough to trip you up. When two of them feel possible, 
 
 **What this means.** The seven business analysis principles are rules that help the business analyst decide how to act when several reasonable choices exist. You should be able to match the principle to the behavior in a scenario, and tell apart principles that describe related but distinct ideas.
 
-**How it is tested.** A scenario shows the business analyst doing something, such as removing a useless report, connecting a local fix to the bigger purpose, or scoping to constraints, and asks which principle it applies. The two classic confusions are Avoid waste versus Understand what is doable, and See the whole versus Stimulate collaboration.
+**How it is tested.** A scenario shows the business analyst doing something, such as removing a useless report, connecting a local fix to the bigger purpose, or scoping to constraints, and asks which principle it applies. Two pairs to compare are Avoid waste versus Understand what is doable, and See the whole versus Stimulate collaboration.
 
 | Principle                                          | Meaning                                                                                                                                         | Behavioural example                                                               |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -1215,7 +1215,7 @@ Several values sit close enough to trip you up. When two of them feel possible, 
 
 ### Exam Focus — A.S. 2.3 {#p-ch2-exam-focus-a-s-2-3}
 
-**Traps.** Two traps recur here. The first is Avoid waste versus Understand what is doable, which is removing non-value work as against scoping to constraints. The second is See the whole versus Stimulate collaboration, which is analyzing the big picture as against getting stakeholders to contribute.
+**Traps.** Check two distinctions here. The first is Avoid waste versus Understand what is doable, which is removing non-value work as against scoping to constraints. The second is See the whole versus Stimulate collaboration, which is analyzing the big picture as against getting stakeholders to contribute.
 
 **How questions are framed.** Expect three shapes. The first asks “Which principle is being applied?”, where one principle clearly matches the action and a neighboring principle is the near-miss. The second asks “Which principle is most at risk?”, when the business analyst is busy collaborating but has not connected the work to its purpose, which is See the whole. The third is an action such as deleting a report that no one uses, keyed to Avoid waste rather than to the broader “prioritize” or “improve” principles.
 
@@ -1229,9 +1229,9 @@ Several values sit close enough to trip you up. When two of them feel possible, 
 **Options.**
 
 - A. Understand what is doable, because the team has limited time.
-- B. Avoid waste, because the activity does not add value or help satisfy the need.
+- B. Avoid waste, because the activity adds no value toward the need.
 - C. See the whole, because reporting connects the team to the wider enterprise.
-- D. Analyze to determine what is valuable, because every activity should be prioritized.
+- D. Analyze to determine what is valuable, because the activity should be prioritized.
 
 ##### C2-EL03 — Answer: B {#c2-el03-answer}
 
@@ -1239,13 +1239,13 @@ Several values sit close enough to trip you up. When two of them feel possible, 
 |---|---|---|---|---|---|---|
 | C2-EL03 | B | 2 | 2.3 | situation | medium | Standard §3.3 |
 
-**A.** The issue is an activity that adds no value, rather than feasibility within constraints.
+**A.** *Incorrect.* The issue is an activity that adds no value, rather than feasibility within constraints.
 
-**B.** Removing work that does not help satisfy the need applies Avoid waste.
+**B.** *Correct.* Removing work that does not help satisfy the need applies Avoid waste.
 
-**C.** The report is not helping establish the wider context.
+**C.** *Incorrect.* The report is not helping establish the wider context.
 
-**D.** The action removes noncontributing work rather than ranking competing options.
+**D.** *Incorrect.* The action removes noncontributing work rather than ranking competing options.
 
 **Reasoning (two-step).** In Step 1, option C is wrong because the report is not helping anyone understand the bigger picture, and option D is too broad, because the action is not ranking competing work but eliminating useless work. In Step 2, you choose between A and B. Time limits are real, but the tested behavior is removing an activity that does not contribute to the need. That is Avoid waste, so option B fits.
 
@@ -1263,7 +1263,7 @@ Several values sit close enough to trip you up. When two of them feel possible, 
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**What this means.** Foundational competencies are the basic skills, abilities, and characteristics used in effective business analysis. Standard §3.4 highlights five that matter across initiatives: Adaptability, Facilitation, Leadership and Influencing, Problem Solving, and Systems Thinking. The Blueprint also includes all 29 BABOK underlying competencies: study their purpose, meaning, and signs of effective use together. [Appendix B](#p-05-appendix-b-competencies-appendix-b-competency-quick-reference) provides a concise guide to those three dimensions, with BABOK [Chapter 9](#ch9) references. The sources do not assign a separate examination depth to the five and the remaining 24.
+**What this means.** Foundational competencies are the basic skills, abilities, and characteristics used in effective business analysis. Standard §3.4 highlights five that matter across initiatives: Adaptability, Facilitation, Leadership and Influencing, Problem Solving, and Systems Thinking. The Blueprint also includes all 29 BABOK underlying competencies: study their purpose, meaning, and signs of effective use together. [Appendix B](#p-05-appendix-b-competencies-appendix-b-competency-quick-reference) provides a concise guide to those three dimensions, with BABOK Chapter 9 references. The sources do not assign a separate examination depth to the five and the remaining 24.
 
 **How it is tested.** A scenario shows a skill in action, such as structuring a neutral session, reconciling competing interests, or finding a root cause, and asks which competency it is. Compare Facilitation with Negotiation and Conflict Resolution. One source point matters a great deal: Decision Making is testable, but it is not one of the five priority competencies.
 
@@ -1324,13 +1324,13 @@ Where stakeholders own a decision, the business analyst helps them decide withou
 |---|---|---|---|---|---|---|
 | C2-EL04 | A | 2 | 2.4 | situation | medium | Standard §3.4; BABOK §9.5.1; BABOK §9.5.2 |
 
-**A.** Structuring a neutral session and enabling participation demonstrate Facilitation.
+**A.** *Correct.* Structuring a neutral session and enabling participation demonstrate Facilitation.
 
-**B.** The BA is not choosing an option against decision criteria.
+**B.** *Incorrect.* The BA is not choosing an option against decision criteria.
 
-**C.** The scenario does not analyze enterprise interconnections.
+**C.** *Incorrect.* The scenario does not analyze enterprise interconnections.
 
-**D.** Leadership can also guide groups, but the specific work is structuring a neutral discussion.
+**D.** *Incorrect.* Leadership can also guide groups, but the specific work is structuring a neutral discussion.
 
 **Reasoning (two-step).** In Step 1, option B is wrong because no option is being chosen, and option C is wrong because the scenario is not about enterprise interconnections. In Step 2, you choose between A and D. The business analyst is structuring a neutral session, rather than building support for a particular direction. That is Facilitation. There is also no conflict of interests here, so it is not Negotiation either.
 
@@ -1348,7 +1348,7 @@ Where stakeholders own a decision, the business analyst helps them decide withou
 **Options.**
 
 - A. Creative Thinking, because the BA may suggest a different solution.
-- B. Problem Solving, because the BA is finding the root cause behind the request.
+- B. Problem Solving, because the BA is finding the cause behind the request.
 - C. Adaptability, because the BA is changing the stakeholder’s preferred approach.
 - D. Leadership and Influencing, because the BA is guiding stakeholders toward a decision.
 
@@ -1358,13 +1358,13 @@ Where stakeholders own a decision, the business analyst helps them decide withou
 |---|---|---|---|---|---|---|
 | C2-EL05 | B | 2 | 2.4 | situation | medium | Standard §3.4; BABOK §9.1.4 |
 
-**A.** The analyst is investigating a cause rather than generating alternative ideas.
+**A.** *Incorrect.* The analyst is investigating a cause rather than generating alternative ideas.
 
-**B.** Finding the underlying cause before choosing a response demonstrates Problem Solving.
+**B.** *Correct.* Finding the underlying cause before choosing a response demonstrates Problem Solving.
 
-**C.** No adjustment of the analyst’s behavioral style is described.
+**C.** *Incorrect.* No adjustment of the analyst’s behavioral style is described.
 
-**D.** No attempt to build support for a selected direction is described.
+**D.** *Incorrect.* No attempt to build support for a selected direction is described.
 
 **Reasoning (two-step).** In Step 1, option C is wrong because the business analyst is not adjusting her behavioral style, and option D is wrong because the scenario is not about consensus or influence. In Step 2, you choose between A and B. A new solution might emerge later, but the behavior shown is digging past the requested artifact to the underlying cause. That is Problem Solving, so option B fits.
 
@@ -1499,10 +1499,10 @@ Two clinics that are merging disagree on appointment-slot length: one insists on
 
 A business analyst uses agreed criteria — value, risk, and effort — to compare three feasible options and recommend one for stakeholder review. A study guide lists this behavior among the “five priority foundational competencies” from Standard §3.4. Why is that classification inaccurate?
 
-- A. The behavior describes Problem Solving, which is one of the five priority competencies, so the study guide’s classification is correct after all.
+- A. The behavior describes Problem Solving, which is one of the five priority competencies, so the study guide’s classification is correct.
 - B. The behavior describes Decision Making, which is a BABOK underlying competency but not one of the five priority competencies in §3.4.
 - C. The behavior describes Systems Thinking, a priority competency, so the guide named the wrong competency but was right to list it among the five.
-- D. The behavior is not a competency but a business analysis principle, so it does not belong on the competency list at all.
+- D. The behavior is a business analysis principle rather than a competency, so it belongs with the principles.
 
 ---
 
@@ -1513,7 +1513,7 @@ A business analyst uses agreed criteria — value, risk, and effort — to compa
 | Item                    | Detail                                                                        |
 | ----------------------- | ----------------------------------------------------------------------------- |
 | Blueprint weight        | 6% — the smallest domain                                                      |
-| Questions per ECBA exam | 3 out of 50                                                                   |
+| Questions per ECBA exam | About 3 of 50 (from the weight)                                               |
 | Source                  | The Business Analysis Standard (2025), Ch. 4 — Implementing Business Analysis |
 | Activity Statements     | 3.1, 3.2, 3.3, 3.4                                                            |
 
@@ -1598,13 +1598,13 @@ These models are not mutually exclusive. A single organization may run a CoE for
 |---|---|---|---|---|---|---|
 | C3-EL01 | C | 3 | 3.1 | situation | medium | Standard §4.6 |
 
-**A.** A peer-sharing community alone does not meet the requested dedicated standards function.
+**A.** *Incorrect.* A peer-sharing community alone does not meet the requested dedicated standards function.
 
-**B.** No external provider is requested.
+**B.** *Incorrect.* No external provider is requested.
 
-**C.** A dedicated internal standards and quality function fits a Centre of Excellence.
+**C.** *Correct.* A dedicated internal standards and quality function fits a Centre of Excellence.
 
-**D.** Keeping separate local practices does not meet the request for shared standards.
+**D.** *Incorrect.* Keeping separate local practices does not meet the request for shared standards.
 
 **Reasoning (two-step).** In Step 1, you eliminate the clearly wrong options. Option B introduces an outside provider that the scenario never asks for, and option D keeps the very inconsistency that leadership wants to fix. That leaves options A and C. In Step 2, you apply the defining-act filter. The goal is to set and maintain shared standards and check quality, which is a capability function with authority, in other words a CoE. A CoP can compare and share, but it has no mandate to publish standards that others must follow. Option C fits.
 
@@ -1618,7 +1618,7 @@ These models are not mutually exclusive. A single organization may run a CoE for
 
 **Reference Map:** Standard ch.4
 
-**[Glossary](#p-07-glossary-glossary):** [Adaptive approach](#gl-adaptive-approach), [Approach](#gl-approach), [Backlog](#gl-backlog), [Hybrid approach](#gl-hybrid-approach), [Just enough, just in time](#gl-just-enough-just-in-time), [Predictive approach](#gl-predictive-approach).
+**[Glossary](#p-07-glossary-glossary):** [Adaptive approach](#gl-adaptive-approach), [Approach](#gl-approach), [Backlog](#gl-backlog), [Customer Journey Mapping](#gl-customer-journey-mapping), [Data Storytelling](#gl-data-storytelling), [Hybrid approach](#gl-hybrid-approach), [Just enough, just in time](#gl-just-enough-just-in-time), [Predictive approach](#gl-predictive-approach).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
@@ -1636,11 +1636,11 @@ These models are not mutually exclusive. A single organization may run a CoE for
 
 Hybrid is not “the average” of the other two, and it is not a polite default for “we are not sure.” It means using what works best for each part. Consider an example of one initiative with two kinds of work. For example, a fixed regulatory component is handled predictively, alongside a new user experience that is refined through feedback. A hybrid approach fits this example because it deliberately combines predictive and adaptive work.
 
-The threshold that separates “adaptive” from “hybrid” trips people up, so use the cue in [Figure 3.1](#fig-3-1).
+The threshold that separates “adaptive” from “hybrid” needs a clear test, so use the cue in [Figure 3.1](#fig-3-1).
 
 ### Figure 3.1 — Choosing predictive, adaptive, or hybrid {#fig-3-1}
 
-![Figure 3.1 — Choosing predictive, adaptive, or hybrid. Begin with context and governance, including any imposed approach. The next box branches to three contextual cues: fixed and sequential work suggests predictive, uncertainty and feedback suggest adaptive, and mixed kinds of work suggest hybrid.](../../figures/fig-03-1-approach-decision-tree.svg)
+![Figure 3.1 — Choosing predictive, adaptive, or hybrid. Begin with context and governance, including any imposed approach. The next box branches to three contextual cues: fixed and sequential work suggests predictive, uncertainty and feedback suggest adaptive, and mixed kinds of work suggest hybrid.](figures/fig-03-1-approach-decision-tree.svg)
 
 | Condition | Approach |
 | --- | --- |
@@ -1650,9 +1650,25 @@ The threshold that separates “adaptive” from “hybrid” trips people up, s
 
 Adaptive work, when it needs to record and prioritize the remaining items, often does so through a managed backlog, which is a prioritized, evolving list of work that the team draws from increment by increment. Use [Appendix A](#p-04-appendix-a-techniques-appendix-a-ecba-techniques-quick-reference) for Backlog Management purpose and usage considerations. Recognize that “prioritized, emerging, iteration-by-iteration work” signals an adaptive setting, and not a predictive one.
 
+### Foundational Techniques in the Standard {#p-ch3-foundational-techniques-in-the-standard}
+
+Standard §4.3 notes that more than 90 business analysis techniques are described across the *BABOK® Guide*, the *Agile Extension*, the *Guide to Business Data Analytics*, and the *Guide to Product Ownership Analysis*. It then names a short set as a practical starting point for new practitioners, because each one applies to many kinds of initiative. Recognize each of them by its purpose.
+
+| Technique | Purpose in plain terms | Described in full in |
+| --- | --- | --- |
+| Backlog Management | Record, track, and prioritize the remaining work items. | *Agile Extension*; BABOK §10.2 |
+| [Customer Journey Mapping](#gl-customer-journey-mapping) | Show the customer’s end-to-end experience with the solution, including motivations and experience at each point of interaction. | *Guide to Product Ownership Analysis* |
+| [Data Storytelling](#gl-data-storytelling) | Present insights from data as a narrative with business context, so that decision makers can act on them. | *Guide to Business Data Analytics* |
+| Process Analysis | Assess how efficient and effective a process is, and find opportunities to create more value. | BABOK §10.34 |
+| Workshops and Interviews | Work with stakeholders, in a group or one to one, to learn, teach, assess, or review business information. | BABOK §10.50; BABOK §10.25 |
+
+Customer Journey Mapping and Data Storytelling are the two that BABOK Chapter 10 does not describe. A journey map fits when a scenario asks how customers actually experience a service across its touchpoints, for example where applicants give up on a form. Data storytelling fits when the analysis is finished but the decision makers need the findings framed around the decision they face, rather than handed over as a table of figures. These techniques do not replace the 20 BABOK techniques listed in the ECBA Exam Blueprint, which [Appendix A](#p-04-appendix-a-techniques-appendix-a-ecba-techniques-quick-reference) summarizes. They are part of the Standard’s chapter that the Reference Map assigns to Domain 3.
+
+> **In Practice — the dashboard nobody read.** An analyst finishes a careful analysis of why late deliveries cluster on Mondays and sends the operations director a forty-row table. Nothing changes. The second time, she opens with the decision the director faces, shows one chart of the Monday pattern, explains the cause in two sentences, and ends with the two options and their trade-offs. The data is the same; the narrative makes it usable. That is data storytelling.
+
 > ⚠️ **Exam Trap — “Adaptive means no documentation.”** Adaptive approaches use just-enough, just-in-time documentation. They change when and how much you document, and not whether you document at all. The claim that “the team is adaptive, so requirements do not need to be written down” is wrong. Right-sized is not zero.
 
-> 💡 **Exam Tip — A.S. 3.2.** Predictive is not “old,” and adaptive is not “better.” The exam never rewards a fashion judgment. It rewards matching the approach to the situation. Regulated, known, and sequential work points to predictive. Uncertain, emerging, and feedback-driven work points to adaptive. Two kinds of work in one initiative point to hybrid.
+> 💡 **Exam Tip — A.S. 3.2.** Predictive is not “old,” and adaptive is not “better.” Match the approach to the situation rather than to fashion. Regulated, known, and sequential work points to predictive. Uncertain, emerging, and feedback-driven work points to adaptive. Two kinds of work in one initiative point to hybrid.
 
 > **In Practice — working within an imposed approach.** A bank requires baselined requirements and formal reviews for a regulated change. The analyst follows that governance while identifying where feedback or prototypes can help. Standard §4.2 allows an approach to be imposed; where practitioners can choose, they select an approach that fits the context. Entry-level status alone does not remove that choice.
 
@@ -1671,24 +1687,24 @@ Adaptive work, when it needs to record and prioritize the remaining items, often
 
 **Options.**
 
-- A. Adaptive, because building in increments lets the team learn the legal rules as it goes.
-- B. Predictive, because the work is well-defined, regulated, and can be completed sequentially.
-- C. Hybrid, because any government initiative should blend predictive and adaptive work.
+- A. Predictive, because the work is well-defined, regulated, and can be completed sequentially.
+- B. Adaptive, because building in increments lets the team learn the legal rules as it goes.
+- C. Hybrid, because government initiatives should blend predictive and adaptive work.
 - D. Adaptive, because regulated work benefits most from reducing documentation.
 
-##### C3-EL02 — Answer: B {#c3-el02-answer}
+##### C3-EL02 — Answer: A {#c3-el02-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C3-EL02 | B | 3 | 3.2 | situation | medium | Standard §4.2 |
+| C3-EL02 | A | 3 | 3.2 | situation | medium | Standard §4.2 |
 
-**A.** The stated rules are already known; discovering them iteratively is not the identified need.
+**A.** *Correct.* Known work and a defined sequential review route support a predictive approach here.
 
-**B.** Known work and a defined sequential review route support a predictive approach here.
+**B.** *Incorrect.* The stated rules are already known; discovering them iteratively is not the identified need.
 
-**C.** Government work does not automatically require a hybrid approach.
+**C.** *Incorrect.* Government work does not automatically require a hybrid approach.
 
-**D.** Reducing documentation does not address the stated review obligations.
+**D.** *Incorrect.* Reducing documentation does not address the stated review obligations.
 
 **Reasoning (two-step).** First identify the known rules, fields, and mandatory sequential reviews. Then compare the approaches against those facts. Predictive fits this work; neither public-sector status nor regulation alone dictates an approach.
 
@@ -1727,7 +1743,7 @@ There are two quick anchors for the abstract pair. First, inclusion is not satis
 
 ### Exam Focus — A.S. 3.3 {#p-ch3-exam-focus-a-s-3-3}
 
-**Traps.** Several traps recur here. The first is the business analyst as the sole decider, when the business analyst raises and supports rather than approving, overriding, or designing alone. The second is treating ethics as legality only, when a legal and profitable option can still be unfair. The third is treating inclusion as mere representation. The fourth is deferring security to “later.”
+**Traps.** Check these distinctions here. The first is the business analyst as the sole decider, when the business analyst raises and supports rather than approving, overriding, or designing alone. The second is treating ethics as legality only, when a legal and profitable option can still be unfair. The third is treating inclusion as mere representation. The fourth is deferring security to “later.”
 
 **How questions are framed.** Expect three shapes. The first asks “Which consideration applies?”, as a recognition from a scenario signal. The second asks “What should the business analyst do first?”, where the keyed answer raises the concern and involves the right people, while the distractors either proceed regardless or unilaterally halt. The third is a “legal and profitable, so proceed” option that the ethical-analysis answer declines to rubber-stamp.
 
@@ -1736,13 +1752,13 @@ There are two quick anchors for the abstract pair. First, inclusion is not satis
 **A.S.:** 3.3
 
 
-**Stem.** A retailer is designing dynamic pricing that adjusts prices by neighbourhood. Early analysis suggests the rule would charge higher prices in lower-income areas. The sponsor notes it is legal and would raise margins, and asks the analyst to write it into the requirements. Working under direction, what should the BA do FIRST?
+**Stem.** A retailer is designing dynamic pricing that adjusts prices by neighborhood. Early analysis suggests the rule would charge higher prices in lower-income areas. The sponsor notes it is legal and would raise margins, and asks the analyst to write it into the requirements. Working under direction, what should the BA do FIRST?
 
 **Options.**
 
 - A. Write the rule into the requirements, since it is legal and the sponsor has decided.
-- B. Remove the rule on the BA’s own authority, because any fairness concern makes a feature unusable.
-- C. Raise the fairness concern with the appropriate stakeholders and support an analysis of the impact before the rule is accepted.
+- B. Remove the rule on the BA’s own authority, because a fairness concern outweighs the margin gain.
+- C. Raise the fairness concern with the right stakeholders and support an impact analysis.
 - D. Quietly soften the rule in the requirements so the disparity is less visible.
 
 ##### C3-EL03 — Answer: C {#c3-el03-answer}
@@ -1751,13 +1767,13 @@ There are two quick anchors for the abstract pair. First, inclusion is not satis
 |---|---|---|---|---|---|---|
 | C3-EL03 | C | 3 | 3.3 | situation | medium | Standard §4.5.2 |
 
-**A.** Legal compliance and margin alone do not resolve the fairness concern.
+**A.** *Incorrect.* Legal compliance and margin alone do not resolve the fairness concern.
 
-**B.** The scenario does not authorize the analyst to remove the rule independently.
+**B.** *Incorrect.* The scenario does not authorize the analyst to remove the rule independently.
 
-**C.** Raising the concern supports informed ethical analysis before acceptance.
+**C.** *Correct.* Raising the concern supports informed ethical analysis before acceptance.
 
-**D.** Concealing the disparity prevents an informed decision.
+**D.** *Incorrect.* Concealing the disparity prevents an informed decision.
 
 **Reasoning (two-step).** First separate legal compliance from ethical acceptability. Then compare unilateral removal with raising the concern for informed review. The assigned supporting role calls for the latter.
 
@@ -1785,7 +1801,7 @@ This is the most important idea in the chapter, and the figure below is the one 
 
 ### Figure 3.2 — Requirement versus design (purpose decides which) {#fig-3-2}
 
-![Figure 3.2 — Requirement versus design (purpose decides which). Three boxes distinguish purpose. A requirement represents a need and possible value; a design represents a solution and how value might be realized. The final box explains that the same artifact can serve either purpose and that traceability links both.](../../figures/fig-03-2-requirements-designs.svg)
+![Figure 3.2 — Requirement versus design (purpose decides which). Three boxes distinguish purpose. A requirement represents a need and possible value; a design represents a solution and how value might be realized. The final box explains that the same artifact can serve either purpose and that traceability links both.](figures/fig-03-2-requirements-designs.svg)
 
 | Element | What it represents |
 | --- | --- |
@@ -1797,7 +1813,9 @@ A **future-state process model** makes the point concrete. If it expresses *what
 
 > ⚠️ **Exam Trap — requirement versus design.** A requirement represents a need, which is what value could be delivered if it were fulfilled. A design represents a solution, which is how value might be realized if it were built. The same artifact, whether a process model, a screen, or a document, can be either. Purpose distinguishes them, and not the notation, the tool, or who produced it.
 
-### The Five Requirement Types {#p-ch3-the-five-requirement-types}
+### Requirement Types {#p-ch3-requirement-types}
+
+The Standard names four main requirement types: business, stakeholder, solution, and transition. Solution requirements are split into functional and non-functional, which gives the five rows below (Standard §4.4).
 
 | Requirement type                      | What it is                                                                                    | Example                                                             |
 | ------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -1807,7 +1825,7 @@ A **future-state process model** makes the point concrete. If it expresses *what
 | Solution requirement — non-functional | A *quality or condition* the solution must meet — not what it does, but how well.             | “The dashboard loads within three seconds.”                         |
 | Transition requirement                | A *temporary* capability needed only to move from the current to the future state.            | “Train warehouse staff before the new dashboard goes live.”         |
 
-Beginners blur these five types, so fix the pairs that trip people up.
+Compare the pairs that are easy to confuse.
 
 | Easily confused                | How to tell them apart                                                                                                                                                                                                                                                                                                          |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1828,7 +1846,7 @@ The clearest way to hold all five in mind is to watch one need flow through them
 
 A memory hook for the order is this: why, then who needs what, then what it does, then how well, then temporary.
 
-> 💡 **Exam Tip — A.S. 3.4.** Non-functional requirements are still requirements, and not designs, because a quality the solution must have is a need about the solution, rather than a decision about how to build it. A “must respond in two seconds” target is the classic non-functional cue.
+> 💡 **Exam Tip — A.S. 3.4.** Non-functional requirements are still requirements, and not designs, because a quality the solution must have is a need about the solution, rather than a decision about how to build it. A “must respond in two seconds” target is a clear non-functional cue.
 
 A boundary worth keeping straight is this: a stakeholder requirement and a design idea can both come from a stakeholder, so you should classify by what they describe. If the stakeholder states the need or behavior they require, such as “supervisors need to see delayed tasks,” it is a requirement. If they dictate the layout, the mechanism, or the specific solution, such as “put these five fields in this order on this screen,” they have stepped into design, so you should treat it as a design idea and work back to the need.
 
@@ -1842,7 +1860,7 @@ Traceability keeps this chain honest. It tracks the relationships from the origi
 
 ### Exam Focus — A.S. 3.4 {#p-ch3-exam-focus-a-s-3-4}
 
-**Traps.** Several traps recur here. The first is classifying a requirement or a design by format, when you should classify by purpose, which is need versus solution, and not by notation, tool, or author. The second is business versus stakeholder, where the business requirement is the organization’s why, while the stakeholder requirement is what a specific group needs to reach it. The third is stakeholder versus functional, where the stakeholder need, such as “supervisors need to see delays,” differs from the capability that meets it, such as “the system displays delays by zone.” The fourth is treating a non-functional requirement as a design, when a quality the solution must have is still a requirement. The fifth is treating a transition requirement as permanent, when transition requirements are temporary and exist only for crossing to the future state. The sixth is treating a solution-shaped request as the requirement, when you should treat it as a design idea and explore the underlying need.
+**Traps.** Check these distinctions here. The first is classifying a requirement or a design by format, when you should classify by purpose, which is need versus solution, and not by notation, tool, or author. The second is business versus stakeholder, where the business requirement is the organization’s why, while the stakeholder requirement is what a specific group needs to reach it. The third is stakeholder versus functional, where the stakeholder need, such as “supervisors need to see delays,” differs from the capability that meets it, such as “the system displays delays by zone.” The fourth is treating a non-functional requirement as a design, when a quality the solution must have is still a requirement. The fifth is treating a transition requirement as permanent, when transition requirements are temporary and exist only for crossing to the future state. The sixth is treating a solution-shaped request as the requirement, when you should treat it as a design idea and explore the underlying need.
 
 **How questions are framed.** Expect four shapes. The first asks “Is this a requirement or a design?”, where the artifact, such as a process model or a mock-up, could be either, and purpose decides. The second asks “Which requirement type?”, with functional, non-functional, and transition as the common confusions. The third is a stakeholder who states a design-shaped request, where the keyed answer uses it to explore the need. The fourth is a traceability angle, where bidirectional tracing exposes a gap that a flat list would hide.
 
@@ -1856,25 +1874,25 @@ Traceability keeps this chain honest. It tracks the relationships from the origi
 **Options.**
 
 - A. As a business requirement, because it came from a senior stakeholder and states what the business wants.
-- B. As a design idea, to be used as a starting point for exploring the underlying need and value.
+- B. As a non-functional requirement, because it specifies how the interface must be laid out.
 - C. As a transition requirement, because the screen will help users move to the new tool.
-- D. As a non-functional requirement, because it specifies how the interface must be laid out.
+- D. As a design idea, to be used as a starting point for exploring the underlying need and value.
 
-##### C3-EL04 — Answer: B {#c3-el04-answer}
+##### C3-EL04 — Answer: D {#c3-el04-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C3-EL04 | B | 3 | 3.4 | situation | medium | Standard §4.4 |
+| C3-EL04 | D | 3 | 3.4 | situation | medium | Standard §4.4 |
 
-**A.** The seniority of the speaker does not turn a screen design into a business goal.
+**A.** *Incorrect.* The seniority of the speaker does not turn a screen design into a business goal.
 
-**B.** The specific screen arrangement proposes a solution whose underlying need must be explored.
+**B.** *Incorrect.* A prescribed layout represents a solution rather than a quality target.
 
-**C.** No temporary transition capability is described.
+**C.** *Incorrect.* No temporary transition capability is described.
 
-**D.** A prescribed layout represents a solution rather than a quality target.
+**D.** *Correct.* The specific screen arrangement proposes a solution whose underlying need must be explored.
 
-**Reasoning (two-step).** In Step 1, option C misuses “transition,” because there is nothing temporary here, since the screen is meant to be permanent. Option D misreads the layout as a quality target, but a specific screen-and-field arrangement is a proposed solution, and not a quality the solution must meet. In Step 2, you choose between A and B. The request is solution-shaped, because it specifies a particular screen and field order, so it is not a statement of the business goal. A business requirement would say why, meaning the outcome sought, and not what the screen looks like. The right move is to treat it as a design idea and work back to the need. Option B fits.
+**Reasoning (two-step).** In Step 1, option C misuses “transition,” because there is nothing temporary here, since the screen is meant to be permanent. Option B misreads the layout as a quality target, but a specific screen-and-field arrangement is a proposed solution, and not a quality the solution must meet. In Step 2, you choose between A and D. The request is solution-shaped, because it specifies a particular screen and field order, so it is not a statement of the business goal. A business requirement would say why, meaning the outcome sought, and not what the screen looks like. The right move is to treat it as a design idea and work back to the need. Option D fits.
 
 **Source detail:** Standard §4.4
 
@@ -1954,10 +1972,10 @@ A university is replacing its financial-aid system. The award-calculation and di
 
 An adaptive team documents only high-level user stories before each iteration and adds the acceptance details as the next increment becomes clearer through stakeholder feedback. A stakeholder objects that this is poor analysis because all requirements were not baselined and signed off up front. What is the BEST response?
 
-- A. The current documentation is appropriate: adaptive work uses just-enough documentation, created just in time to support each increment and its feedback.
-- B. The stakeholder is right; without a full requirements baseline up front, the analysis cannot be trusted.
+- A. The current documentation fits: adaptive work uses just-enough documentation, created just in time for each increment.
+- B. The stakeholder is right; without a full requirements baseline up front, the analysis is not reliable.
 - C. The team should stop writing requirements altogether, since an adaptive approach relies on conversation rather than documents.
-- D. The team should keep the current practice but defer all acceptance details until after each increment is released, as a record.
+- D. The team should keep the current practice but defer acceptance details until after each increment is released, as a record.
 
 ### C3-Q04 {#c3-q04}
 
@@ -2001,7 +2019,7 @@ A business analyst builds a future-state process model showing how order handlin
 | Item                    | Detail                                                       |
 | ----------------------- | ------------------------------------------------------------ |
 | Blueprint weight        | 10%                                                          |
-| Questions per ECBA exam | 5 out of 50                                                  |
+| Questions per ECBA exam | About 5 of 50 (from the weight)                              |
 | Source                  | BABOK Guide                                                  |
 | Activity Statements     | 4.1, 4.2, 4.3, 4.4                                           |
 | BACCM concept           | **Change** — the act of transformation in response to a need |
@@ -2013,7 +2031,7 @@ A business analyst builds a future-state process model showing how order handlin
 | 4.3  | Track progress toward goals and support teams in adapting to changes, under direction.            |
 | 4.4  | Suggest and help implement simple improvements, working within clear guidelines.                  |
 
-Domain 4 is built on the BACCM concept of Change, which was introduced in [Chapter 1, section 1.2](#as-1-2), as “the act of transformation in response to a need.” It is not “change management” treated as a separate discipline. Instead, it is how business analysis helps an enterprise understand, plan, track, and improve a change. From here on, the domains draw on the BABOK Guide, which is the Business Analysis Body of Knowledge, IIBA’s detailed catalogue of business analysis tasks and techniques, so each activity statement maps to one or more specific BABOK tasks. Do not be alarmed by the size of the catalogue. BABOK has dozens of tasks across six knowledge areas, but you only need the handful mapped to each activity statement, and this chapter names them for you.
+Domain 4 is built on the BACCM concept of Change, which was introduced in [Chapter 1, section 1.2](#as-1-2), as “the act of transformation in response to a need.” It is not “change management” treated as a separate discipline. Instead, it is how business analysis helps an enterprise understand, plan, track, and improve a change. From here on, the domains draw on the BABOK Guide, which is the Business Analysis Body of Knowledge, IIBA’s detailed catalog of business analysis tasks and techniques, so each activity statement maps to one or more specific BABOK tasks. Do not be alarmed by the size of the catalog. BABOK has dozens of tasks across six knowledge areas, but you only need the handful mapped to each activity statement, and this chapter names them for you.
 
 > 📌 **One thing to settle now.** The ECBA does not ask you to recall BABOK task numbers, such as “3.1” or “8.2.” This book names the tasks in plain words, and the numbers live only in the back-end references, for anyone who wants to look up the source. Learn the concepts and the distinctions, rather than the numbering.
 
@@ -2078,7 +2096,7 @@ Sometimes a solution works exactly as built, and value still does not appear, be
 
 It helps to hold the contrast in one line. A solution limitation is a flaw inside the solution, such as a defect, a missing function, or poor usability. An enterprise limitation is a barrier around it, such as culture, incentives, or reporting lines. In Domain 4 you mostly meet the enterprise side, because the task mapped to A.S. 4.1 is Assess Enterprise Limitations. The full solution-versus-enterprise pairing is developed in Chapters 8 and 9, where both halves are taught together.
 
-> ⚠️ **Exam Trap — solution limitation versus enterprise limitation.** Ask one question: is the barrier caused by the solution itself, or by the organization around it? A double-booking bug is inside the solution, which makes it a solution limitation. Managers discouraging use because it changes how they are measured is around it, which makes it an enterprise limitation. “The solution works, but value is not realized” is the classic enterprise-limitation cue.
+> ⚠️ **Exam Trap — solution limitation versus enterprise limitation.** Ask one question: is the barrier caused by the solution itself, or by the organization around it? A double-booking bug is inside the solution, which makes it a solution limitation. Managers discouraging use because it changes how they are measured is around it, which makes it an enterprise limitation. “The solution works, but value is not realized” is a clear enterprise-limitation cue.
 
 > **In Practice — the dashboard nobody was allowed to feed.** A business analyst supports a new cross-department analytics dashboard. It is built correctly and passes every test, yet weeks later it shows almost nothing useful. The reason is not the dashboard. A long-standing policy keeps two departments from sharing the underlying data, so the dashboard sits half-empty. Nothing about the solution is broken. The barrier is a factor around it, which is an enterprise limitation. The entry-level move is to name that clearly and raise it with the right stakeholders, rather than to “fix” a dashboard that is already working.
 
@@ -2097,26 +2115,26 @@ It helps to hold the contrast in one line. A solution limitation is a flaw insid
 
 **Options.**
 
-- A. A solution limitation, because expected value is not being realized.
-- B. An enterprise limitation: incentives and the manual process restrict value.
+- A. An enterprise limitation: incentives and the manual process restrict value.
+- B. A solution limitation, because expected value is not being realized.
 - C. A requirements defect, because fast approval was never written as a functional requirement.
 - D. A poor business analysis approach, because a more formal plan would have prevented this.
 
-##### C4-EL01 — Answer: B {#c4-el01-answer}
+##### C4-EL01 — Answer: A {#c4-el01-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C4-EL01 | B | 4 | 4.1 | situation | medium | BABOK §8.3; BABOK §8.4 |
+| C4-EL01 | A | 4 | 4.1 | situation | medium | BABOK §8.3; BABOK §8.4 |
 
-**A.** The described barrier is not an internal defect in the software.
+**A.** *Correct.* Incentives and the parallel process around the solution restrict value.
 
-**B.** Incentives and the parallel process around the solution restrict value.
+**B.** *Incorrect.* The described barrier is not an internal defect in the software.
 
-**C.** No missing functional requirement has been established.
+**C.** *Incorrect.* No missing functional requirement has been established.
 
-**D.** The scenario does not establish that planning formality caused the delay.
+**D.** *Incorrect.* The scenario does not establish that planning formality caused the delay.
 
-**Reasoning (two-step).** In Step 1, you eliminate the clearly wrong options. Option C invents a requirements-quality problem that the scenario does not show, and option D blames the planning method, which is not the cause. That leaves options A and B. In Step 2, you ask whether the barrier is inside or around the solution. The software approves correctly, so the barrier is not inside the solution. It is the incentive structure and the manual log around it. That is an enterprise limitation, so option B fits.
+**Reasoning (two-step).** In Step 1, you eliminate the clearly wrong options. Option C invents a requirements-quality problem that the scenario does not show, and option D blames the planning method, which is not the cause. That leaves options A and B. In Step 2, you ask whether the barrier is inside or around the solution. The software approves correctly, so the barrier is not inside the solution. It is the incentive structure and the manual log around it. That is an enterprise limitation, so option A fits.
 
 **Source detail:** BABOK §8.3; BABOK §8.4
 
@@ -2140,7 +2158,7 @@ It helps to hold the contrast in one line. A solution limitation is a flaw insid
 
 ### Governance: How Decisions Are Made (Plan Business Analysis Governance) {#p-ch4-governance-how-decisions-are-made-plan-business-analysis-governance}
 
-Plan Business Analysis Governance defines how decisions get made about requirements and designs. This includes reviews, change control, prioritization, approvals, and what information a decision-maker needs first. The exam’s favourite bait is to shrink this down to project scope or budget control. In business analysis, change control means managing changes to business analysis information, especially requirements and designs, and not just the project schedule.
+Plan Business Analysis Governance defines how decisions get made about requirements and designs. This includes reviews, change control, prioritization, approvals, and what information a decision-maker needs first. A tempting distractor shrinks this down to project scope or budget control. In business analysis, change control means managing changes to business analysis information, especially requirements and designs, and not just the project schedule.
 
 | Governance element | The question it answers                                                                                |
 | ------------------ | ------------------------------------------------------------------------------------------------------ |
@@ -2157,7 +2175,7 @@ Define Change Strategy develops and assesses alternative routes for the change, 
 
 ### Figure 4.1 — Define Change Strategy: current state to future state {#fig-4-1}
 
-![Figure 4.1 — Define Change Strategy: current state to future state. Read from current state through gap analysis and possible transition states to future state. The final box names Change Strategy and Solution Scope as outputs. This teaching sequence summarizes the relationships rather than imposing a delivery lifecycle.](../../figures/fig-04-1-change-strategy.svg)
+![Figure 4.1 — Define Change Strategy: current state to future state. Read from current state through gap analysis and possible transition states to future state. The final box names Change Strategy and Solution Scope as outputs. This teaching sequence summarizes the relationships rather than imposing a delivery lifecycle.](figures/fig-04-1-change-strategy.svg)
 
 | Stage | Meaning |
 | --- | --- |
@@ -2201,13 +2219,13 @@ Two outputs come out of this task: the Change Strategy, which is the recommended
 |---|---|---|---|---|---|---|
 | C4-EL02 | B | 4 | 4.2 | situation | medium | BABOK §6.4 |
 
-**A.** The task produces Solution Scope; a complete scope is not a prerequisite to all strategy work.
+**A.** *Incorrect.* The task produces Solution Scope; a complete scope is not a prerequisite to all strategy work.
 
-**B.** Define Change Strategy produces the boundary of the selected solution.
+**B.** *Correct.* Define Change Strategy produces the boundary of the selected solution.
 
-**C.** Governance determines decision responsibilities and processes, rather than the solution boundary.
+**C.** *Incorrect.* Governance determines decision responsibilities and processes, rather than the solution boundary.
 
-**D.** Today’s description does not determine the selected future solution boundary.
+**D.** *Incorrect.* Today’s description does not determine the selected future solution boundary.
 
 **Reasoning (two-step).** In Step 1, option C confuses the boundary of the solution with the decision process, which is governance, and option D confuses the boundary with the description of today. You can eliminate both. In Step 2, both options A and B name Solution Scope, so the split is input versus output. The Solution Scope emerges from the change-strategy analysis that the scenario describes, so it is an output. Option B fits.
 
@@ -2221,7 +2239,7 @@ Two outputs come out of this task: the Change Strategy, which is the recommended
 
 **Reference Map:** BABOK §3.5; BABOK §5.1; BABOK §8.2
 
-**[Glossary](#p-07-glossary-glossary):** [Analyze Performance Measures](#gl-analyze-performance-measures), [BA performance](#gl-ba-performance), [Cover](#gl-cover), [Depends](#gl-depends), [Derive](#gl-derive), [Identify Business Analysis Performance Improvements](#gl-identify-business-analysis-performance-improvements), [Indicator](#gl-indicator), [KPI (Key Performance Indicator)](#gl-kpi-key-performance-indicator), [Lessons Learned](#gl-lessons-learned), [Measure Solution Performance](#gl-measure-solution-performance), [Metric](#gl-metric), [Root Cause Analysis](#gl-root-cause-analysis), [Satisfy](#gl-satisfy), [Solution performance](#gl-solution-performance), [Trace Requirements and Designs](#gl-trace-requirements-and-designs), [Validate](#gl-validate), [Working under direction](#gl-working-under-direction).
+**[Glossary](#p-07-glossary-glossary):** [Analyze Performance Measures](#gl-analyze-performance-measures), [BA performance](#gl-ba-performance), [Cover](#gl-cover), [Depends](#gl-depends), [Derive](#gl-derive), [Identify Business Analysis Performance Improvements](#gl-identify-business-analysis-performance-improvements), [Indicator](#gl-indicator), [KPI (Key Performance Indicator)](#gl-kpi-key-performance-indicator), [Lessons Learned](#gl-lessons-learned), [Measure Solution Performance](#gl-measure-solution-performance), [Metric](#gl-metric), [Root Cause Analysis](#gl-root-cause-analysis), [Satisfy](#gl-satisfy), [Solution performance](#gl-solution-performance), [Trace Requirements](#gl-trace-requirements), [Validate](#gl-validate), [Working under direction](#gl-working-under-direction).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
@@ -2249,16 +2267,16 @@ Trace Requirements keeps requirements and designs aligned across levels, and let
 | Derive       | One requirement is **derived from** another — a lower-level requirement *spawned by* a higher one.                                          | From “support contactless payment,” you derive “accept NFC cards.” The detailed one exists *because of* the broader one.                 |
 | Depends      | A requirement needs another for implementation (**necessity**) or becomes easier to implement with it (**effort**).                                                                                  | “Email a receipt” depends on “capture a verified email address.”                                                                         |
 | Satisfy      | A solution **component** satisfies (implements) a requirement.                                                                              | A “send-receipt service” satisfies “email a receipt.”                                                                                    |
-| Validate     | A **test case** or check determines whether the built solution fulfils a requirement.                                                       | A test “confirm a receipt arrives within 2 min” validates the receipt requirement.                                                       |
+| Validate     | A **test case** or check determines whether the built solution fulfills a requirement.                                                       | A test “confirm a receipt arrives within 2 min” validates the receipt requirement.                                                       |
 | Cover | Supplementary coverage check: lower-level items together account for a higher-level need; it is not a fifth named BABOK §5.1 relationship. | Accept, refund, and restock together cover a return. |
 
-> ⚠️ **Exam Trap — satisfies versus validates.** A solution component satisfies a requirement, because it implements it. A test case validates a requirement, because it checks whether the built solution fulfils it. If the option says “a test case determines whether the solution meets the requirement,” that is Validate, and not Satisfy.
+> ⚠️ **Exam Trap — satisfies versus validates.** A solution component satisfies a requirement, because it implements it. A test case validates a requirement, because it checks whether the built solution fulfills it. If the option says “a test case determines whether the solution meets the requirement,” that is Validate, and not Satisfy.
 
 > ⚠️ **Exam Trap — derive versus cover.** These feel alike, but they point in opposite directions. Derive is top-down generation, where a detailed requirement is born from a broader one, such as “accept NFC cards” derived from “support contactless payment.” Cover is bottom-up completeness, where several lower-level items, taken together, fully account for a higher-level one, such as “process a return” covered by accept, refund, and restock. Ask yourself: am I spawning a child from a parent, which is Derive, or checking that the children add up to the parent, which is Cover?
 
 ### Interpreting Performance Information (Analyze Performance Measures) {#p-ch4-interpreting-performance-information-analyze-performance-measures}
 
-Analyze Performance Measures takes performance data that has already been collected, and interprets it: the trends, the variances, and what the numbers mean for value. Its output is the Solution Performance Analysis. Its neighbour, Measure Solution Performance, is the task that defines and collects those measures in the first place. The split is simple: deciding what to measure and setting it up is Measure, while making sense of what was already measured is Analyze. A mnemonic that sticks is this: Measure means make the metrics, and Analyze means assess the numbers.
+Analyze Performance Measures takes performance data that has already been collected, and interprets it: the trends, the variances, and what the numbers mean for value. Its output is the Solution Performance Analysis. Its neighbor, Measure Solution Performance, is the task that defines and collects those measures in the first place. The split is simple: deciding what to measure and setting it up is Measure, while making sense of what was already measured is Analyze. A mnemonic that sticks is this: Measure means make the metrics, and Analyze means assess the numbers.
 
 Here is a measurement vocabulary note that the exam tests. A metric is a quantifiable level of an indicator, which is a number you track. A KPI is a metric tied to a strategic goal or objective. “Daily tickets closed,” on its own, is a metric. “Reduction in resolution time measured against the annual customer-experience goal” is a KPI. Value measurement is developed further in [Chapter 8](#ch8).
 
@@ -2285,7 +2303,7 @@ This is the chapter’s densest stretch, so here is the whole thing on one card,
 
 ### Exam Focus — A.S. 4.3 {#p-ch4-exam-focus-a-s-4-3}
 
-**Traps.** Five traps recur here. The first is business analysis performance versus solution performance, which is the work about the work as against the live solution’s data. The second is satisfies versus validates, where a component satisfies and a test case validates. The third is derive versus cover, which is top-down spawning as against bottom-up completeness. The fourth is Measure versus Analyze, which is define and collect as against interpret. The fifth is over-stepping “under direction,” which means tracking and suggesting, rather than deciding or enforcing.
+**Traps.** Check five distinctions here. The first is business analysis performance versus solution performance, which is the work about the work as against the live solution’s data. The second is satisfies versus validates, where a component satisfies and a test case validates. The third is derive versus cover, which is top-down spawning as against bottom-up completeness. The fourth is Measure versus Analyze, which is define and collect as against interpret. The fifth is over-stepping “under direction,” which means tracking and suggesting, rather than deciding or enforcing.
 
 **How questions are framed.** Expect four shapes. The first is a slow or rework scenario keyed to business analysis performance, and to Root Cause Analysis, distinct from live-solution data keyed to solution performance. The second is a traceability item that turns on the exact relationship name. The third is an “under direction” scenario where every over-reaching option is wrong. The fourth is a metric-versus-KPI distinction.
 
@@ -2299,9 +2317,9 @@ This is the chapter’s densest stretch, so here is the whole thing on one card,
 **Options.**
 
 - A. Satisfy, because the test case proves the requirement is implemented.
-- B. Validate, because the test case determines whether the solution fulfils the requirement.
+- B. Validate, because the test case checks whether the solution meets the requirement.
 - C. Derive, because the test case is a lower-level version of the requirement.
-- D. Depends, because the requirement cannot be released without the test case.
+- D. Depends, because the requirement needs the test case before release.
 
 ##### C4-EL03 — Answer: B {#c4-el03-answer}
 
@@ -2309,15 +2327,15 @@ This is the chapter’s densest stretch, so here is the whole thing on one card,
 |---|---|---|---|---|---|---|
 | C4-EL03 | B | 4 | 4.3 | situation | medium | BABOK §5.1 |
 
-**A.** Satisfy links an implementation element to the requirement it fulfills.
+**A.** *Incorrect.* Satisfy links an implementation element to the requirement it fulfills.
 
-**B.** Validate links a requirement to a test or other element that checks fulfillment.
+**B.** *Correct.* Validate links a requirement to a test or other element that checks fulfillment.
 
-**C.** The test is not a requirement derived at another abstraction level.
+**C.** *Incorrect.* The test is not a requirement derived at another abstraction level.
 
-**D.** The question describes a test relationship rather than a dependency between requirements.
+**D.** *Incorrect.* The question describes a test relationship rather than a dependency between requirements.
 
-**Reasoning (two-step).** In Step 1, option C describes deriving a sub-requirement, and not testing, so you can eliminate it, and option D describes an implementation dependency between requirements, and not a test, so you can eliminate it too. In Step 2, you choose between A and B. A component satisfies a requirement, but a test case that checks whether the solution fulfils it is the textbook definition of Validate. Option B fits.
+**Reasoning (two-step).** In Step 1, option C describes deriving a sub-requirement, and not testing, so you can eliminate it, and option D describes an implementation dependency between requirements, and not a test, so you can eliminate it too. In Step 2, you choose between A and B. A component satisfies a requirement, but a test case that checks whether the solution fulfills it is the textbook definition of Validate. Option B fits.
 
 **Source detail:** BABOK §5.1
 
@@ -2333,25 +2351,25 @@ This is the chapter’s densest stretch, so here is the whole thing on one card,
 **Options.**
 
 - A. Define the performance measures that should have been collected before launch.
-- B. Analyze the collected measures and explain their implications for value.
-- C. Approve an enhancement to bring the error rate down.
+- B. Approve an enhancement to bring the error rate down.
+- C. Analyze the collected measures and explain their implications for value.
 - D. Replace the current measurement framework with a new one.
 
-##### C4-EL04 — Answer: B {#c4-el04-answer}
+##### C4-EL04 — Answer: C {#c4-el04-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C4-EL04 | B | 4 | 4.3 | situation | medium | BABOK §8.1; BABOK §8.2 |
+| C4-EL04 | C | 4 | 4.3 | situation | medium | BABOK §8.1; BABOK §8.2 |
 
-**A.** Defining measures does not interpret the data already collected.
+**A.** *Incorrect.* Defining measures does not interpret the data already collected.
 
-**B.** Analyzing trends and variance explains the observed performance and value implications.
+**B.** *Incorrect.* The assigned task does not authorize enhancement approval.
 
-**C.** The assigned task does not authorize enhancement approval.
+**C.** *Correct.* Analyzing trends and variance explains the observed performance and value implications.
 
-**D.** The evidence does not establish that the whole framework needs replacement.
+**D.** *Incorrect.* The evidence does not establish that the whole framework needs replacement.
 
-**Reasoning (two-step).** In Step 1, option C has the business analyst approving, which is out of scope under direction, and option D over-reaches by replacing the framework, so you can eliminate both. In Step 2, you choose between A and B. The measures already exist, so defining them, which is option A and the Measure Solution Performance task, is the wrong task. The work is to interpret what was collected, which is Analyze Performance Measures. Option B fits.
+**Reasoning (two-step).** In Step 1, option B has the business analyst approving, which is out of scope under direction, and option D over-reaches by replacing the framework, so you can eliminate both. In Step 2, you choose between A and C. The measures already exist, so defining them, which is option A and the Measure Solution Performance task, is the wrong task. The work is to interpret what was collected, which is Analyze Performance Measures. Option C fits.
 
 **Source detail:** BABOK §8.1; BABOK §8.2
 
@@ -2414,24 +2432,24 @@ Before suggesting a fix, ground it in cause. Root Cause Analysis finds the under
 
 - A. Add the label now, since it is small and clearly useful.
 - B. Decline it, because a change touching three artifacts is too big to be a “simple improvement.”
-- C. Raise it through the established change-control process and help assess its impact, value, and scope.
-- D. Ask developers to add the label now and update the requirement and help article afterward.
+- C. Ask developers to add the label now and update the requirement and help article afterward.
+- D. Raise it through change control and help assess its impact, value, and scope.
 
-##### C4-EL05 — Answer: C {#c4-el05-answer}
+##### C4-EL05 — Answer: D {#c4-el05-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C4-EL05 | C | 4 | 4.4 | situation | medium | BABOK §3.3; BABOK §5.4 |
+| C4-EL05 | D | 4 | 4.4 | situation | medium | BABOK §3.3; BABOK §5.4 |
 
-**A.** Small size does not remove the established change process.
+**A.** *Incorrect.* Small size does not remove the established change process.
 
-**B.** Several affected artifacts call for assessment, rather than automatic refusal.
+**B.** *Incorrect.* Several affected artifacts call for assessment, rather than automatic refusal.
 
-**C.** Routing the request through governance supports an informed decision on its impacts.
+**C.** *Incorrect.* Implementing first bypasses assessment and the required decision process.
 
-**D.** Implementing first bypasses assessment and the required decision process.
+**D.** *Correct.* Routing the request through governance supports an informed decision on its impacts.
 
-**Reasoning (two-step).** In Step 1, option A skips governance for a change that touches three artifacts, and option D reverses the order and bypasses the process, so you can eliminate both. In Step 2, you choose between B and C. Option B over-rejects, because a change with impacts is not automatically too big; it just needs assessment. Option C raises it properly and supports the impact analysis, without the business analyst deciding alone. Option C fits.
+**Reasoning (two-step).** In Step 1, option A skips governance for a change that touches three artifacts, and option C reverses the order and bypasses the process, so you can eliminate both. In Step 2, you choose between B and D. Option B over-rejects, because a change with impacts is not automatically too big; it just needs assessment. Option D raises it properly and supports the impact analysis, without the business analyst deciding alone. Option D fits.
 
 **Source detail:** BABOK §3.3; BABOK §5.4
 
@@ -2524,7 +2542,7 @@ Requirement A (“the system must email a receipt to the customer”) cannot be 
 
 - A. Derives From, because Requirement A is a more detailed version of Requirement B.
 - B. Depends On, because Requirement A cannot be implemented without Requirement B.
-- C. Satisfies, because Requirement B fulfils Requirement A.
+- C. Satisfies, because Requirement B fulfills Requirement A.
 - D. Validates, because Requirement B confirms whether Requirement A works.
 
 ### C4-Q05 {#c4-q05}
@@ -2553,12 +2571,12 @@ A new self-checkout system is about to launch. Leadership wants to know later wh
 
 **A.S.:** 4.4
 
-Working within the initiative’s guidelines, a junior business analyst receives a stakeholder suggestion to add a confirmation pop-up before users delete a record. It seems small and helpful. The BA confirms that it would touch a requirement, a screen design, and the user training guide. What is the MOST appropriate action?
+The initiative’s agreed guidelines let analysts correct spelling and formatting errors in approved artifacts directly, while any change to a requirement’s meaning goes through change control. A junior analyst finds a misspelled field label in an approved requirement. On the same day, a stakeholder asks to raise the refund limit in that requirement from 100 to 150. What should the analyst do?
 
-- A. Implement the pop-up change directly, since it is small, beneficial, and clearly improves usability.
-- B. Decline the suggestion, because a change touching three artifacts is too large to count as a simple improvement.
-- C. Raise the suggestion through the established change control process and help assess its impact, value, and scope.
-- D. Ask the development team to add the pop-up now and update the requirement and training guide afterward.
+- A. Fix both items directly, because each change is small and clearly useful.
+- B. Send both items through change control, because approved artifacts are under governance.
+- C. Correct the misspelling under the guideline and raise the refund-limit change through change control.
+- D. Raise the misspelling through change control and update the refund limit, because the stakeholder requested it.
 
 ---
 
@@ -2569,7 +2587,7 @@ Working within the initiative’s guidelines, a junior business analyst receives
 | Item                    | Detail                                              |
 | ----------------------- | --------------------------------------------------- |
 | Blueprint weight        | 10%                                                 |
-| Questions per ECBA exam | 5 out of 50                                         |
+| Questions per ECBA exam | About 5 of 50 (from the weight)                     |
 | Source                  | BABOK Guide                                         |
 | Activity Statements     | 5.1, 5.2, 5.3, 5.4                                  |
 | BACCM concept           | **Need** — a problem or opportunity to be addressed |
@@ -2657,23 +2675,23 @@ Domain 5 is built on the BACCM concept of Need, from [Chapter 1, section 1.2](#a
 **Options.**
 
 - A. Schedule the workshop immediately so the departments can debate it together.
-- B. Clarify the scope of the elicitation activity — its expected outputs and the stakeholder dynamics.
-- C. Ask the sponsor to approve one department’s preferred output before elicitation begins.
+- B. Ask the sponsor to approve one department’s preferred output before elicitation begins.
+- C. Clarify the scope of the elicitation activity — its expected outputs and the stakeholder dynamics.
 - D. Prepare the final requirements template so stakeholders can fill it in during the session.
 
-##### C5-EL01 — Answer: B {#c5-el01-answer}
+##### C5-EL01 — Answer: C {#c5-el01-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C5-EL01 | B | 5 | 5.1 | situation | medium | BABOK §4.1 |
+| C5-EL01 | C | 5 | 5.1 | situation | medium | BABOK §4.1 |
 
-**A.** Booking the session does not resolve its unclear purpose and outputs.
+**A.** *Incorrect.* Booking the session does not resolve its unclear purpose and outputs.
 
-**B.** Scope preparation includes the domain, expected outputs, and stakeholder dynamics.
+**B.** *Incorrect.* Selecting one department’s output prematurely avoids clarifying the activity’s scope.
 
-**C.** Selecting one department’s output prematurely avoids clarifying the activity’s scope.
+**C.** *Correct.* Scope preparation includes the domain, expected outputs, and stakeholder dynamics.
 
-**D.** Choosing a final template assumes the output before it has been clarified.
+**D.** *Incorrect.* Choosing a final template assumes the output before it has been clarified.
 
 **Reasoning (two-step).** First identify the unresolved outputs and stakeholder dynamics. Then compare clarifying the scope with scheduling or selecting a template prematurely. Clarifying scope supports a suitable elicitation activity.
 
@@ -2687,17 +2705,17 @@ Domain 5 is built on the BACCM concept of Need, from [Chapter 1, section 1.2](#a
 
 **Reference Map:** BABOK §4.3; BABOK §7.1
 
-**[Glossary](#p-07-glossary-glossary):** [Ambiguity](#gl-ambiguity), [Confirm Elicitation Results](#gl-confirm-elicitation-results), [Conflict](#gl-conflict), [Data Modelling](#gl-data-modelling), [Error](#gl-error), [Level of abstraction](#gl-level-of-abstraction), [Omission](#gl-omission), [Requirement attributes](#gl-requirement-attributes), [Specify and Model Requirements and Designs](#gl-specify-and-model-requirements-and-designs), [User Stories](#gl-user-stories).
+**[Glossary](#p-07-glossary-glossary):** [Ambiguity](#gl-ambiguity), [Confirm Elicitation Results](#gl-confirm-elicitation-results), [Conflict](#gl-conflict), [Data Modelling](#gl-data-modelling), [Error](#gl-error), [Level of abstraction](#gl-level-of-abstraction), [Omission](#gl-omission), [Requirement attributes](#gl-requirement-attributes), [Specify and Model Requirements](#gl-specify-and-model-requirements), [User Stories](#gl-user-stories).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Confirm Elicitation Results; Specify and Model Requirements and Designs.
+**Source:** BABOK Guide — Confirm Elicitation Results; Specify and Model Requirements.
 
-**What this means.** Before raw elicitation results can be trusted, they must be confirmed, which means checked for accuracy and consistency with other information. Then they are specified and modelled, which means turned into clear, usable requirements and designs at the right level of detail.
+**What this means.** Before raw elicitation results can be trusted, they must be confirmed, which means checked for accuracy and consistency with other information. Then they are specified and modeled, which means turned into clear, usable requirements and designs at the right level of detail.
 
 **How it is tested.** The exam hands you raw notes, interview statements, or conflicting documents, and asks what to do next. If the information has not yet been checked against its sources, check its accuracy through Confirm Elicitation Results before treating it as confirmed information. A second angle tests how requirements are represented, whether text, matrix, or diagram, and at what level of abstraction.
 
-> 📝 **A wording heads-up.** The activity statement says “validate needs” in a broad, everyday sense, but the BABOK task mapped here is Confirm Elicitation Results. The formal Validate Requirements and Designs task is the subject of [section 5.3](#as-5-3). So, in this section, “validate” means “check what we captured,” which is Confirm, rather than the value-alignment task that comes later.
+> 📝 **A wording heads-up.** The activity statement says “validate needs” in a broad, everyday sense, but the BABOK task mapped here is Confirm Elicitation Results. The formal Validate Requirements task is the subject of [section 5.3](#as-5-3). So, in this section, “validate” means “check what we captured,” which is Confirm, rather than the value-alignment task that comes later.
 
 ### The Whole Map First: Confirm vs. Verify vs. Validate {#p-ch5-the-whole-map-first-confirm-vs-verify-vs-validate}
 
@@ -2711,7 +2729,7 @@ This domain’s centerpiece is a three-way distinction, and the three checks liv
 
 ### Figure 5.1 — Confirm, Verify, and Validate: three checks, three questions {#fig-5-1}
 
-![Figure 5.1 — Confirm, Verify, and Validate: three checks, three questions. Three separate boxes compare checks without imposing a sequence. Confirm checks captured elicitation results against sources. Verify checks developed requirements for quality and further use. Validate checks their value and support for the business objective.](../../figures/fig-05-1-confirm-verify-validate.svg)
+![Figure 5.1 — Confirm, Verify, and Validate: three checks, three questions. Three separate boxes compare checks without imposing a sequence. Confirm checks captured elicitation results against sources. Verify checks developed requirements for quality and further use. Validate checks their value and support for the business objective.](figures/fig-05-1-confirm-verify-validate.svg)
 
 | Check | Acts on | Question | Focus |
 | --- | --- | --- | --- |
@@ -2734,9 +2752,9 @@ Confirm Elicitation Results checks whether what was captured is accurate and con
 
 Here is a quick way to recall them: an error means something was captured wrong; an omission means something is missing; a conflict means two sources disagree; and an ambiguity means one phrase has several readings. All four are about the captured information, and that is what makes them Confirm problems, rather than quality or value problems.
 
-### Specify and Model Clearly (Specify and Model Requirements and Designs) {#p-ch5-specify-and-model-clearly-specify-and-model-requirements-and-designs}
+### Specify and Model Clearly (Specify and Model Requirements) {#p-ch5-specify-and-model-clearly-specify-and-model-requirements-and-designs}
 
-Once results are confirmed, this task turns them into usable requirements and designs. There are three things to remember. First, requirements can be represented as text, matrices, or diagrams. Second, the level of abstraction must fit the audience and the purpose. Third, requirement attributes, which are metadata such as the ID, priority, status, owner, and source, support management and traceability. Two techniques recur here: User Stories, which are a short, value-focused way to express what a user needs and why, and Data Modelling, which is for data objects, attributes, and relationships. Use the representation and abstraction level that fit the audience and purpose. [Appendix A](#p-04-appendix-a-techniques-appendix-a-ecba-techniques-quick-reference) summarizes Data Modelling and User Stories, including their strengths and limitations.
+Once results are confirmed, this task turns them into usable requirements and designs. There are three things to remember. First, requirements can be represented as text, matrices, or diagrams. Second, the level of abstraction must fit the audience and the purpose. Third, requirement attributes, which are metadata such as the ID, priority, status, owner, and source, support management and traceability. Two techniques apply here: User Stories, which are a short, value-focused way to express what a user needs and why, and Data Modelling, which is for data objects, attributes, and relationships. Use the representation and abstraction level that fit the audience and purpose. [Appendix A](#p-04-appendix-a-techniques-appendix-a-ecba-techniques-quick-reference) summarizes Data Modelling and User Stories, including their strengths and limitations.
 
 > ⚠️ **Exam Trap — Confirm versus Validate (see the master map above).** The easy mix-up here is Confirm, which asks “did we capture it correctly?” and is about the accuracy and consistency of the notes, with Validate, which asks “does it support the business goal?” and is the subject of [section 5.3](#as-5-3). Reviewing interview notes for contradictions is Confirm. Checking whether a requirement supports the objective is Validate. When the issue is the captured information, it is Confirm.
 
@@ -2760,23 +2778,23 @@ Once results are confirmed, this task turns them into usable requirements and de
 **Options.**
 
 - A. Validate which refund rule delivers the highest business value.
-- B. Identify the conflict and confirm the refund rule with stakeholders.
+- B. Ask the implementation team which rule is easier to build.
 - C. Rewrite the requirement so both timeframes are included.
-- D. Ask the implementation team which rule is easier to build.
+- D. Identify the conflict and confirm the refund rule with stakeholders.
 
-##### C5-EL02 — Answer: B {#c5-el02-answer}
+##### C5-EL02 — Answer: D {#c5-el02-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C5-EL02 | B | 5 | 5.2 | situation | medium | BABOK §4.3 |
+| C5-EL02 | D | 5 | 5.2 | situation | medium | BABOK §4.3 |
 
-**A.** Comparing value does not first resolve which rule the sources mean.
+**A.** *Incorrect.* Comparing value does not first resolve which rule the sources mean.
 
-**B.** Contradictory sources indicate a conflict to resolve in confirming elicitation results.
+**B.** *Incorrect.* Ease of implementation does not determine the intended refund rule.
 
-**C.** Keeping both contradictory rules does not resolve the conflict.
+**C.** *Incorrect.* Keeping both contradictory rules does not resolve the conflict.
 
-**D.** Ease of implementation does not determine the intended refund rule.
+**D.** *Correct.* Contradictory sources indicate a conflict to resolve in confirming elicitation results.
 
 **Reasoning (two-step).** First identify the contradiction between the captured results and the policy. Then distinguish confirming the intended rule from evaluating its business value. Confirmation addresses this conflict before the results are relied on.
 
@@ -2790,19 +2808,19 @@ Once results are confirmed, this task turns them into usable requirements and de
 
 **Reference Map:** BABOK §4.3; BABOK §7.3
 
-**[Glossary](#p-07-glossary-glossary):** [Assumptions](#gl-assumptions), [Measurable evaluation criteria](#gl-measurable-evaluation-criteria), [Root Cause Analysis](#gl-root-cause-analysis), [Validate Requirements and Designs](#gl-validate-requirements-and-designs), [Verify Requirements and Designs](#gl-verify-requirements-and-designs).
+**[Glossary](#p-07-glossary-glossary):** [Assumptions](#gl-assumptions), [Measurable evaluation criteria](#gl-measurable-evaluation-criteria), [Root Cause Analysis](#gl-root-cause-analysis), [Validate Requirements](#gl-validate-requirements), [Verify Requirements](#gl-verify-requirements).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Validate Requirements and Designs; Verify Requirements and Designs; Confirm Elicitation Results.
+**Source:** BABOK Guide — Validate Requirements; Verify Requirements; Confirm Elicitation Results.
 
 **What this means.** This statement is where the domain’s headline distinction lives. Validate checks whether a requirement actually supports the business goal and the value sought. When needs or outcomes do not line up, or stakeholders disagree, the ECBA-level business analyst flags the conflict for review, rather than deciding who is right.
 
 **How it is tested.** The exam describes a requirement that is clear, complete, and well-formatted, but questionable, because no one can connect it to the objective, and that is a validation issue. A mistake to check for is mixing up the three checking tasks, which are Confirm, Verify, and Validate, and over-stepping by resolving a conflict alone instead of flagging it.
 
-### Validate Requirements and Designs {#p-ch5-validate-requirements-and-designs}
+### Validate Requirements {#p-ch5-validate-requirements-and-designs}
 
-Validate Requirements and Designs checks alignment to business requirements and the delivery of needed value, and it produces Requirements (Validated). It involves making assumptions explicit, so that their risks can be managed, defining measurable evaluation criteria, which is how we will know the change worked, and checking alignment with solution scope, because useful is not the same as in-scope.
+Validate Requirements checks alignment to business requirements and the delivery of needed value, and it produces Requirements (Validated). It involves making assumptions explicit, so that their risks can be managed, defining measurable evaluation criteria, which is how we will know the change worked, and checking alignment with solution scope, because useful is not the same as in-scope.
 
 ### Verify and Validate (the second and third checks) {#p-ch5-verify-and-validate-the-second-and-third-checks}
 
@@ -2839,26 +2857,26 @@ At the ECBA level you flag conflicts for review, rather than deciding which stak
 
 **Options.**
 
-- A. A verification issue, because it is not written in enough detail.
-- B. A validation issue, because it may not support the business objective.
+- A. A validation issue, because it may not support the business objective.
+- B. A verification issue, because it is not written in enough detail.
 - C. It should be approved, since it meets the quality characteristics.
 - D. It should be prioritized lower, since it is probably too costly.
 
-##### C5-EL03 — Answer: B {#c5-el03-answer}
+##### C5-EL03 — Answer: A {#c5-el03-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C5-EL03 | B | 5 | 5.3 | situation | medium | BABOK §7.2; BABOK §7.3 |
+| C5-EL03 | A | 5 | 5.3 | situation | medium | BABOK §7.2; BABOK §7.3 |
 
-**A.** No missing specification detail is identified in this scenario.
+**A.** *Correct.* The concern is alignment with the business objective and expected value.
 
-**B.** The concern is alignment with the business objective and expected value.
+**B.** *Incorrect.* No missing specification detail is identified in this scenario.
 
-**C.** Acceptable specification quality alone does not establish value alignment.
+**C.** *Incorrect.* Acceptable specification quality alone does not establish value alignment.
 
-**D.** No cost evidence supports the proposed lower priority.
+**D.** *Incorrect.* No cost evidence supports the proposed lower priority.
 
-**Reasoning (two-step).** In Step 1, option C treats passing a quality check as sufficient, which it is not, if the value link is missing, and option D invents a cost concern that the scenario never raises. You can eliminate both. In Step 2, you choose between A and B. The requirement is explicitly described as well-written and testable, so quality, which is Verify, is not the problem. The problem is that it does not support the objective, which is alignment, in other words Validate. Option B fits.
+**Reasoning (two-step).** In Step 1, option C treats passing a quality check as sufficient, which it is not, if the value link is missing, and option D invents a cost concern that the scenario never raises. You can eliminate both. In Step 2, you choose between A and B. The requirement is explicitly described as well-written and testable, so quality, which is Verify, is not the problem. The problem is that it does not support the objective, which is alignment, in other words Validate. Option A fits.
 
 **Source detail:** BABOK §7.2; BABOK §7.3
 
@@ -2893,7 +2911,7 @@ Here is the tell: is the issue in the captured information, which is Confirm, in
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Prioritize Requirements and Designs.
+**Source:** BABOK Guide — Prioritize Requirements.
 
 **What this means.** Prioritization ranks requirements and designs by relative importance, and it is continual, because it is revisited as context, dependencies, costs, and risks change. At the ECBA level the business analyst supports the discussion: surfacing the relevant basis, helping compare trade-offs, and documenting the rationale, rather than setting the final order alone.
 
@@ -2922,7 +2940,7 @@ Two techniques support prioritization. Backlog Management records, tracks, perio
 
 ### Exam Focus — A.S. 5.4 {#p-ch5-exam-focus-a-s-5-4}
 
-**Traps.** Four traps recur here. The first is business value versus urgency versus compliance, where you match the basis the scenario names, rather than the flashiest feature. The second is a dependency hiding behind “low value,” because a low-value item can be top priority if others depend on it. The third is treating prioritization as one-and-done, when it is continual and is revisited when context changes. The fourth is the business analyst deciding the order, when the business analyst supports and documents, and the stakeholders decide.
+**Traps.** Check four distinctions here. The first is business value versus urgency versus compliance, where you match the basis the scenario names, rather than the flashiest feature. The second is a dependency hiding behind “low value,” because a low-value item can be top priority if others depend on it. The third is treating prioritization as one-and-done, when it is continual and is revisited when context changes. The fourth is the business analyst deciding the order, when the business analyst supports and documents, and the stakeholders decide.
 
 **How questions are framed.** Expect four shapes. The first is competing “important” items, where the keyed answer names the basis that the stem actually describes. The second is a low-visibility item that is a dependency for high-value work. The third is a “should the agreed order stay fixed?” item, keyed to revisiting priorities as context changes. The fourth is a compliance-versus-preference clash, where compliance can take precedence.
 
@@ -2935,9 +2953,9 @@ Two techniques support prioritization. Backlog Management records, tracks, perio
 
 **Options.**
 
-- A. Rank the dashboard first, because visible features drive engagement.
-- B. Raise the regulatory requirement as a prioritization factor that may take precedence over preference.
-- C. Decide the final order independently, because compliance is always the BA’s call.
+- A. Rank the dashboard first, because visible features drive customer engagement and satisfaction.
+- B. Raise the regulatory requirement as a factor that may take precedence over preference.
+- C. Decide the final order independently, because compliance needs are the BA’s responsibility.
 - D. Defer the regulatory requirement until stakeholders agree it has customer value.
 
 ##### C5-EL04 — Answer: B {#c5-el04-answer}
@@ -2946,13 +2964,13 @@ Two techniques support prioritization. Backlog Management records, tracks, perio
 |---|---|---|---|---|---|---|
 | C5-EL04 | B | 5 | 5.4 | situation | medium | BABOK §5.3 |
 
-**A.** Visibility alone is insufficient when a regulatory obligation is present.
+**A.** *Incorrect.* Visibility alone is insufficient when a regulatory obligation is present.
 
-**B.** Compliance is a prioritization basis to raise with stakeholders alongside other factors.
+**B.** *Correct.* Compliance is a prioritization basis to raise with stakeholders alongside other factors.
 
-**C.** The scenario assigns support under guidance, rather than unilateral final ranking.
+**C.** *Incorrect.* The scenario assigns support under guidance, rather than unilateral final ranking.
 
-**D.** A regulatory obligation is not deferred merely because stakeholders prefer another feature.
+**D.** *Incorrect.* A regulatory obligation is not deferred merely because stakeholders prefer another feature.
 
 **Reasoning (two-step).** In Step 1, option C has the business analyst deciding alone, which is out of scope, and option D subordinates a non-negotiable regulation to stakeholder agreement, which inverts how compliance works. You can eliminate both. In Step 2, you choose between A and B. Visibility and preference are real, but they do not override a regulatory obligation by default. The ECBA move is to raise compliance as a basis that may take precedence, and to support the discussion, rather than to rank by preference. Option B fits.
 
@@ -3033,7 +3051,7 @@ While reviewing interview notes before they are used, a business analyst finds t
 
 - A. A conflict between two sources, calling for the analyst to resolve which source is correct.
 - B. A validation issue, because the statement may not support the business objective.
-- C. An ambiguity in the elicitation results, calling for confirmation to clarify the intended meaning before the notes are used.
+- C. An ambiguity in the elicitation results, calling for confirmation of the intended meaning before use.
 - D. A verification issue, because the requirement is not yet written in the team’s standard format.
 
 ### C5-Q04 {#c5-q04}
@@ -3042,10 +3060,10 @@ While reviewing interview notes before they are used, a business analyst finds t
 
 A requirement reads: "The system shall generate the monthly compliance report." Stakeholders confirm it clearly supports the objective of cutting compliance-reporting errors, and everyone agrees it belongs in scope. A reviewer points out that it never says which data the report must contain, how often "monthly" is measured, or what counts as complete — so two developers could build very different reports from it. Which task does this situation MOST call for?
 
-- A. Validate Requirements and Designs, because the reviewer is questioning whether the requirement delivers value.
-- B. Verify Requirements and Designs, because the problem is the requirement's quality — it is incomplete and not testable.
+- A. Validate Requirements, because the reviewer is questioning whether the requirement delivers value.
+- B. Verify Requirements, because the requirement is incomplete and not testable.
 - C. Confirm Elicitation Results, because the requirement should be checked against the original interview notes.
-- D. Prioritize Requirements and Designs, because an unclear requirement should be ranked lower.
+- D. Prioritize Requirements, because an unclear requirement should be ranked lower.
 
 ### C5-Q05 {#c5-q05}
 
@@ -3055,8 +3073,8 @@ A proposed requirement for a new self-service portal is well-written and in scop
 
 - A. Approve the requirement, since it is clear, testable, and within scope.
 - B. Ask the development team to build the portal first so the behavior can be observed.
-- C. Remove the requirement, because value that depends on an untested assumption cannot be delivered.
-- D. Make the assumption about customer behavior explicit and flag it so the related value risk can be reviewed.
+- C. Remove the requirement, because value that depends on an untested assumption is too uncertain.
+- D. Make the customer-behavior assumption explicit and flag the related value risk for review.
 
 ### C5-Q06 {#c5-q06}
 
@@ -3066,7 +3084,7 @@ A team is prioritizing work for a new analytics platform. A data-cleanup require
 
 - A. Business value, because the cleanup should be judged on the value it directly creates for users.
 - B. Urgency, because the cleanup has no fixed deadline of its own.
-- C. Dependencies, because other high-value requirements cannot be delivered until the cleanup is complete.
+- C. Dependencies, because other high-value requirements need the cleanup to be done first.
 - D. Stakeholder agreement, because most stakeholders already want it ranked low.
 
 ### C5-Q07 {#c5-q07}
@@ -3075,10 +3093,10 @@ A team is prioritizing work for a new analytics platform. A data-cleanup require
 
 A team agreed a priority order for its requirements after elicitation. Two weeks later, a new dependency surfaces between two items and a market deadline shifts. A stakeholder asks the junior business analyst whether the agreed order should simply stay fixed. What is the BEST response?
 
-- A. Keep the order fixed, since priorities should change only if the sponsor formally reopens the initiative; record that the order stands.
-- B. Revisit the priorities, since they should be reconsidered as dependencies and context change; support the criteria-based discussion and help document the rationale.
+- A. Keep the order fixed until the sponsor formally reopens the initiative, and record that the order stands.
+- B. Revisit the priorities as dependencies and context change, supporting a criteria-based discussion and documenting the rationale.
 - C. Re-rank the items yourself, since the analyst is closest to the requirements and best placed to decide the new order.
-- D. Reorder only if the stakeholder who asked insists, to keep that stakeholder satisfied.
+- D. Reorder the items if the requesting stakeholder insists, to keep that stakeholder satisfied.
 
 ---
 
@@ -3089,7 +3107,7 @@ A team agreed a priority order for its requirements after elicitation. Two weeks
 | Item                    | Detail                                                                     |
 | ----------------------- | -------------------------------------------------------------------------- |
 | Blueprint weight        | 10%                                                                        |
-| Questions per ECBA exam | 5 out of 50                                                                |
+| Questions per ECBA exam | About 5 of 50 (from the weight)                                            |
 | Source                  | BABOK Guide                                                                |
 | Activity Statements     | 6.1, 6.2, 6.3, 6.4                                                         |
 | BACCM concept           | **Solution** — a specific way of satisfying one or more needs in a context |
@@ -3107,7 +3125,7 @@ The chapter’s sharpest confusion is requirement versus design, together with t
 
 ### Figure 6.1 — A design option is judged two ways {#fig-6-1}
 
-![Figure 6.1 — A design option is judged two ways. A chain runs from Need through Requirement and Design to Design options. Below it two branches show distinct judgments: verification examines quality for further work, while solution validation examines whether the option serves the need and objective.](../../figures/fig-06-1-design-option.svg)
+![Figure 6.1 — A design option is judged two ways. A chain runs from Need through Requirement and Design to Design options. Below it two branches show distinct judgments: verification examines quality for further work, while solution validation examines whether the option serves the need and objective.](figures/fig-06-1-design-option.svg)
 
 | Stage / judgment | Meaning |
 | --- | --- |
@@ -3139,11 +3157,11 @@ The chapter’s sharpest confusion is requirement versus design, together with t
 
 **Reference Map:** BABOK §5.1
 
-**[Glossary](#p-07-glossary-glossary):** [Orphan component](#gl-orphan-component), [Orphan requirement](#gl-orphan-requirement), [Process Analysis](#gl-process-analysis), [Solution validation](#gl-solution-validation), [Trace Requirements and Designs](#gl-trace-requirements-and-designs), [Workflow gap](#gl-workflow-gap).
+**[Glossary](#p-07-glossary-glossary):** [Orphan component](#gl-orphan-component), [Orphan requirement](#gl-orphan-requirement), [Process Analysis](#gl-process-analysis), [Solution validation](#gl-solution-validation), [Trace Requirements](#gl-trace-requirements), [Workflow gap](#gl-workflow-gap).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Trace Requirements and Designs.
+**Source:** BABOK Guide — Trace Requirements.
 
 **What this means.** Explain how evidence shows that a solution addresses its requirements and business need, and record any gaps. The mapped source, BABOK §5.1, is Trace Requirements: it links requirements and designs across levels and helps manage change. Tests can supply evidence that requirements are fulfilled. Passing a test against a specification does not by itself establish that the specification addresses the business need; traceability and value checks are also needed.
 
@@ -3151,14 +3169,14 @@ The chapter’s sharpest confusion is requirement versus design, together with t
 
 ### Validation vs. Verification — the One-Line Reminder {#p-ch6-validation-vs-verification-the-one-line-reminder}
 
-You met the full Confirm, Verify, and Validate map in [Chapter 5, section 5.2](#as-5-2), in [Figure 5.1](#fig-5-1). Domain 6 leans on just the two that act on developed work.
+You met the full Confirm, Verify, and Validate map in [Chapter 5, section 5.2](#as-5-2), in [Figure 5.1](#fig-5-1). Domain 6 uses just the two that act on developed work.
 
   - Validate asks “are we building the right thing?”, which is alignment to business goals, needs, and value. This is the focus of this domain.
   - Verify asks “are the requirements and designs usable?”, which is the quality and usability of the requirement or design.
 
 If a delivered feature works but does not achieve the business outcome, that is validation. If a requirement or design is unclear, inconsistent, or unusable, that is verification. The nine verification quality characteristics live in [section 9.4](#as-9-4), and you do not need them by name for Domain 6. This is the same “right thing, value alignment” logic you learned in Domain 5. Only the lens differs: in Domain 5 you validated a requirement against the objective, while here you assess solution coverage through traceability gaps.
 
-### Traceability for Gap Detection (Trace Requirements and Designs) {#p-ch6-traceability-for-gap-detection-trace-requirements-and-designs}
+### Traceability for Gap Detection (Trace Requirements) {#p-ch6-traceability-for-gap-detection-trace-requirements-and-designs}
 
 Traceability is more than a requirements list, because it records relationships, and that is what lets it expose gaps. You met the five relationships in [Chapter 4, section 4.3](#as-4-3). Here they are in one line each, so that you need not flip back, as the table below shows.
 
@@ -3167,7 +3185,7 @@ Traceability is more than a requirements list, because it records relationships,
 | Derive       | A detailed requirement spawned from a broader one               |
 | Depends      | One requirement cannot be implemented without another           |
 | Satisfy      | A solution **component** implements a requirement               |
-| Validate     | A **test case** checks the built solution fulfils a requirement |
+| Validate     | A **test case** checks the built solution fulfills a requirement |
 | Cover        | Lower-level items together account for a higher-level one       |
 
 The two gaps the exam cares about are mirror images, so learn both directions.
@@ -3180,9 +3198,9 @@ The two gaps the exam cares about are mirror images, so learn both directions.
 
 Process Analysis is the technique that surfaces the workflow side of this: bottlenecks, unnecessary handoffs, missed steps, and duplicated work. Reach for it when the scenario is about a workflow that the solution does not fully support. For example, tracing a returns process and finding a step where nothing in the solution handles damaged-item approval, Process Analysis is what exposes that missing step.
 
-> ⚠️ **Exam Trap — satisfies versus validates (from [section 4.3](#as-4-3)).** The defining directions still hold. A solution component satisfies a requirement, which runs from component to requirement, because it implements it. A test case validates a requirement, which runs from test to requirement, because it checks that the built solution fulfils it. Questions swap the two, so “the solution component validates the requirement” is the wrong-direction bait.
+> ⚠️ **Exam Trap — satisfies versus validates (from [section 4.3](#as-4-3)).** The defining directions still hold. A solution component satisfies a requirement, which runs from component to requirement, because it implements it. A test case validates a requirement, which runs from test to requirement, because it checks that the built solution fulfills it. Questions swap the two, so “the solution component validates the requirement” is the wrong-direction bait.
 
-> 🪞 **Terminology Alert — “validate.”** This word does double duty in Domain 6, and the exam knows it. Solution validation, which is this activity statement, is the concept, meaning “are we building the right thing?”, which is value alignment. The Validate traceability relationship, above, is narrower, meaning a test case checking that the built solution fulfils a requirement. A test confirms that the thing was built to spec. It does not confirm that the spec was the right thing. A rule of thumb is this: if the sentence is about a test case linked to a requirement, it is the relationship, but if it is about whether the solution serves the need or value, it is the concept.
+> 🪞 **Terminology Alert — “validate.”** This word does double duty in Domain 6, and the exam knows it. Solution validation, which is this activity statement, is the concept, meaning “are we building the right thing?”, which is value alignment. The Validate traceability relationship, above, is narrower, meaning a test case checking that the built solution fulfills a requirement. A test confirms that the thing was built to spec. It does not confirm that the spec was the right thing. A rule of thumb is this: if the sentence is about a test case linked to a requirement, it is the relationship, but if it is about whether the solution serves the need or value, it is the concept.
 
 > 💡 **Exam Tip — A.S. 6.1.** When a feature “works but does not achieve the outcome,” that is a validation finding, and the ECBA move is to record and raise, rather than to approve the feature, because a design alone does not prove alignment, or to unilaterally remove it from scope.
 
@@ -3204,25 +3222,25 @@ Process Analysis is the technique that surfaces the workflow side of this: bottl
 **Options.**
 
 - A. Approve the feature, because it already has a design component.
-- B. Record the traceability gap and raise it for review with the appropriate stakeholders.
-- C. Remove the feature from scope immediately, because unsupported features are always invalid.
-- D. Ask testers to validate the feature so no further analysis is needed.
+- B. Ask testers to validate the feature before any further analysis.
+- C. Remove the feature from scope now, because it is not linked to a requirement.
+- D. Record the traceability gap and raise it with the appropriate stakeholders.
 
-##### C6-EL01 — Answer: B {#c6-el01-answer}
+##### C6-EL01 — Answer: D {#c6-el01-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C6-EL01 | B | 6 | 6.1 | situation | medium | BABOK §5.1 |
+| C6-EL01 | D | 6 | 6.1 | situation | medium | BABOK §5.1 |
 
-**A.** A design link alone does not establish a business need or objective.
+**A.** *Incorrect.* A design link alone does not establish a business need or objective.
 
-**B.** Recording and raising the gap supports review of possible unsupported scope.
+**B.** *Incorrect.* Testing this specification alone does not restore its missing business justification.
 
-**C.** A missing link needs investigation, rather than automatic deletion.
+**C.** *Incorrect.* A missing link needs investigation, rather than automatic deletion.
 
-**D.** Testing this specification alone does not restore its missing business justification.
+**D.** *Correct.* Recording and raising the gap supports review of possible unsupported scope.
 
-**Reasoning (two-step).** In Step 1, option A treats “has a design” as proof of alignment, which it is not, and option C has the business analyst unilaterally removing scope, which is out of role. You can eliminate both. In Step 2, you choose between B and D. A test confirms that the feature works, rather than that it is needed, so it cannot fill a requirement or objective gap. Recording the gap and raising it is the entry-level action. Option B fits.
+**Reasoning (two-step).** In Step 1, option A treats “has a design” as proof of alignment, which it is not, and option C has the business analyst unilaterally removing scope, which is out of role. You can eliminate both. In Step 2, you choose between B and D. A test confirms that the feature works, rather than that it is needed, so it cannot fill a requirement or objective gap. Recording the gap and raising it is the entry-level action. Option D fits.
 
 **Source detail:** BABOK §5.1
 
@@ -3296,7 +3314,7 @@ Design options are possible ways to satisfy the need and reach the future state,
 
 > 💡 **Exam Tip — A.S. 6.2.** When comparing options, distrust any answer that decides on one factor, such as cheapest, fastest, or most requirements. The ECBA answer supports a balanced comparison, across value, time, opportunity cost, risk, and feasibility, for the decision-makers.
 
-> **In Practice — the cheaper option that cost more.** A business analyst helps compare two future states for the same need. Option 1 is cheaper, but it barely moves customer value, and it leaves several high-value opportunities on the table. Option 2 costs more up front, but it improves self-service, cuts operational effort, and builds reusable capability. The stakeholder’s instinct is to “go cheap.” The contribution of the business analyst is not to argue for a favourite. It is to lay the comparison out honestly: the quantitative and qualitative value, the time, the opportunity cost, and what level of investment is acceptable, so that the decision-makers see that the cheaper sticker hides a larger opportunity cost.
+> **In Practice — the cheaper option that cost more.** A business analyst helps compare two future states for the same need. Option 1 is cheaper, but it barely moves customer value, and it leaves several high-value opportunities on the table. Option 2 costs more up front, but it improves self-service, cuts operational effort, and builds reusable capability. The stakeholder’s instinct is to “go cheap.” The contribution of the business analyst is not to argue for a favorite. It is to lay the comparison out honestly: the quantitative and qualitative value, the time, the opportunity cost, and what level of investment is acceptable, so that the decision-makers see that the cheaper sticker hides a larger opportunity cost.
 
 ### Recommend Actions to Increase Solution Value {#p2-6-2-source-connection}
 
@@ -3304,7 +3322,7 @@ BABOK §8.5 connects option evaluation with action after limitations are underst
 
 ### Exam Focus — A.S. 6.2 {#p-ch6-exam-focus-a-s-6-2}
 
-**Traps.** Four traps recur here. The first is design versus implementation constraint, which is the nature of the solution as against the resources and time to build it. The second is that Define Future State has three outputs, rather than just the Future State Description. The third is avoid versus mitigate, which is risk gone as against risk lessened. The fourth is a one-factor option choice, because cheapest or fastest is not automatically best.
+**Traps.** Check four distinctions here. The first is design versus implementation constraint, which is the nature of the solution as against the resources and time to build it. The second is that Define Future State has three outputs, rather than just the Future State Description. The third is avoid versus mitigate, which is risk gone as against risk lessened. The fourth is a one-factor option choice, because cheapest or fastest is not automatically best.
 
 **How questions are framed.** Expect four shapes. The first is a list of limits to sort into design versus implementation. The second is an outputs question, where the three-part set is correct. The third is a risk-response scenario that turns on the defining move. The fourth is an option comparison keyed to balanced trade-offs, rather than a single metric.
 
@@ -3317,26 +3335,26 @@ BABOK §8.5 connects option evaluation with action after limitations are underst
 
 **Options.**
 
-- A. Both are design constraints, because both affect the solution.
-- B. Existing-platform storage is a design constraint; deadline and staffing constrain implementation.
+- A. The storage rule is a design constraint; the deadline and staffing constrain implementation.
+- B. Both are design constraints, because both affect the solution that is delivered.
 - C. The deadline is a design constraint; the data-storage rule is an implementation constraint.
 - D. Both are implementation constraints, because both affect delivery planning.
 
-##### C6-EL02 — Answer: B {#c6-el02-answer}
+##### C6-EL02 — Answer: A {#c6-el02-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C6-EL02 | B | 6 | 6.2 | situation | medium | BABOK §6.2 |
+| C6-EL02 | A | 6 | 6.2 | situation | medium | BABOK §6.2 |
 
-**A.** The deadline and team availability constrain implementation, rather than the solution’s nature.
+**A.** *Correct.* Platform storage constrains the solution; time and staffing constrain implementation.
 
-**B.** Platform storage constrains the solution; time and staffing constrain implementation.
+**B.** *Incorrect.* The deadline and team availability constrain implementation, rather than the solution’s nature.
 
-**C.** This reverses the two categories of constraint.
+**C.** *Incorrect.* This reverses the two categories of constraint.
 
-**D.** The storage platform rule constrains the solution itself.
+**D.** *Incorrect.* The storage platform rule constrains the solution itself.
 
-**Reasoning (two-step).** In Step 1, option C reverses the distinction, and option D ignores that the storage rule shapes the solution itself, rather than just delivery. You can eliminate both. In Step 2, you choose between A and B. The storage rule constrains what the solution must be, which is design, while the deadline and the team availability constrain how it gets built, which is implementation. They are mixed, so “both the same,” which is option A, is wrong. Option B fits.
+**Reasoning (two-step).** In Step 1, option C reverses the distinction, and option D ignores that the storage rule shapes the solution itself, rather than just delivery. You can eliminate both. In Step 2, you choose between A and B. The storage rule constrains what the solution must be, which is design, while the deadline and the team availability constrain how it gets built, which is implementation. They are mixed, so “both the same,” which is option B, is wrong. Option A fits.
 
 **Source detail:** BABOK §6.2
 
@@ -3413,7 +3431,7 @@ Two techniques support scope work. Scope Modelling visualizes the solution bound
 
 - A. Approve the dashboard, because it uses existing data and may add value.
 - B. Reject the dashboard, because implementation has already started.
-- C. Help assess the proposed change for scope, value, schedule, risk, and related requirement impacts.
+- C. Help assess the proposed change for scope, value, schedule, and risk.
 - D. Ask the technical architect to design the dashboard before analysis continues.
 
 ##### C6-EL03 — Answer: C {#c6-el03-answer}
@@ -3422,13 +3440,13 @@ Two techniques support scope work. Scope Modelling visualizes the solution bound
 |---|---|---|---|---|---|---|
 | C6-EL03 | C | 6 | 6.3 | situation | medium | BABOK §5.4; BABOK §7.4 |
 
-**A.** Possible value does not replace scope and impact assessment.
+**A.** *Incorrect.* Possible value does not replace scope and impact assessment.
 
-**B.** Implementation starting does not automatically rule out changes.
+**B.** *Incorrect.* Implementation starting does not automatically rule out changes.
 
-**C.** Assessing scope, value, schedule, risk, and related requirements supports the change decision.
+**C.** *Correct.* Assessing scope, value, schedule, risk, and related requirements supports the change decision.
 
-**D.** Technical design does not replace assessment of the requested change.
+**D.** *Incorrect.* Technical design does not replace assessment of the requested change.
 
 **Reasoning (two-step).** First recognize a proposed scope change during implementation. Then distinguish impact assessment from immediate approval, refusal, or detailed design. The assigned task is to help assess the change through the established process.
 
@@ -3442,7 +3460,7 @@ Two techniques support scope work. Scope Modelling visualizes the solution bound
 
 **Reference Map:** BABOK §3.4; BABOK §5.2; BABOK §7.1
 
-**[Glossary](#p-07-glossary-glossary):** [Information management approach](#gl-information-management-approach), [Maintain Requirements and Designs](#gl-maintain-requirements-and-designs), [Plan Business Analysis Information Management](#gl-plan-business-analysis-information-management).
+**[Glossary](#p-07-glossary-glossary):** [Information management approach](#gl-information-management-approach), [Maintain Requirements](#gl-maintain-requirements), [Plan Business Analysis Information Management](#gl-plan-business-analysis-information-management).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
@@ -3456,7 +3474,7 @@ Two techniques support scope work. Scope Modelling visualizes the solution bound
 
 The information management approach defines how business analysis information is organized, the right level of abstraction, the traceability approach, the plan for reuse, the storage and access, and the requirement attributes, which are metadata, used to manage it. A repository can help, but this task is about the approach, rather than simply buying or replacing a tool.
 
-### Maintain Existing Requirements and Designs (Maintain Requirements and Designs) {#p-ch6-maintain-existing-requirements-and-designs-maintain-requirements-and-designs}
+### Maintain Existing Requirements and Designs (Maintain Requirements) {#p-ch6-maintain-existing-requirements-and-designs-maintain-requirements-and-designs}
 
 Maintain keeps existing requirements and designs accurate and consistent, by correcting attributes, fixing errors, and enabling reuse, when what the requirement says is still valid. The trigger tells you whether it is Maintain or Assess Changes, as the table below shows.
 
@@ -3495,10 +3513,10 @@ BABOK §7.1 supports clear textual, matrix, and diagrammatic representations at 
 
 **Options.**
 
-- A. Assess it as a requirements change, because any update during implementation is a change request.
-- B. Maintain the artifact by correcting attributes and restoring traceability per the information-management approach.
+- A. Assess it as a requirements change, because the update happens during implementation.
+- B. Maintain the artifact by correcting its attributes and restoring its trace link.
 - C. Replace the diagram with a text document, because diagrams are too hard to maintain.
-- D. Ask the sponsor to approve the artifact before any metadata can be corrected.
+- D. Ask the sponsor to approve the artifact before the metadata is corrected.
 
 ##### C6-EL04 — Answer: B {#c6-el04-answer}
 
@@ -3506,13 +3524,13 @@ BABOK §7.1 supports clear textual, matrix, and diagrammatic representations at 
 |---|---|---|---|---|---|---|
 | C6-EL04 | B | 6 | 6.4 | situation | medium | BABOK §3.4; BABOK §5.2 |
 
-**A.** A metadata correction is not automatically a request for a different capability.
+**A.** *Incorrect.* A metadata correction is not automatically a request for a different capability.
 
-**B.** Correcting attributes and relationships maintains accurate, usable design information.
+**B.** *Correct.* Correcting attributes and relationships maintains accurate, usable design information.
 
-**C.** No evidence justifies discarding a valid diagram.
+**C.** *Incorrect.* No evidence justifies discarding a valid diagram.
 
-**D.** Follow the agreed maintenance permissions; the scenario does not require fresh sponsor approval.
+**D.** *Incorrect.* Follow the agreed maintenance permissions; the scenario does not require fresh sponsor approval.
 
 **Reasoning (two-step).** First distinguish a valid design with stale attributes from a request to change its capability. Then apply the agreed maintenance and access rules to correct the information and relationships.
 
@@ -3591,7 +3609,7 @@ While reviewing the traceability matrix for a loan-application system, an entry-
 - A. A solution component without a requirement, so the analyst should remove the orphaned component.
 - B. A passed validation, so the analyst should mark the requirement complete.
 - C. A verification issue, so the analyst should rewrite the requirement more clearly.
-- D. An unaddressed requirement, so the analyst should record the gap and raise it for review.
+- D. An unaddressed requirement, so the analyst should record the gap and raise it.
 
 ### C6-Q02 {#c6-q02}
 
@@ -3611,9 +3629,9 @@ A team links test case TC-22 to requirement R-40 so it can check whether the del
 While comparing solution options, a team records four limits: (1) the solution must encrypt all stored health data; (2) the rollout must be finished within four months; (3) the solution must run on the hospital’s existing identity-provider; (4) only one integration developer is available. Which limits are design constraints?
 
 - A. (2) and (4), because both restrict the project’s schedule and resources.
-- B. (1) and (3), because both define what must be true about the solution itself.
+- B. (1) and (3), because both restrict what the solution itself can be.
 - C. (1), (2), and (3), because anything mandatory shapes the design.
-- D. All four, because every constraint affects the solution that gets built.
+- D. (1), (2), (3), and (4), because each constraint affects the solution that gets built.
 
 ### C6-Q04 {#c6-q04}
 
@@ -3645,7 +3663,7 @@ A team has a long, approved requirements list, but stakeholders cannot see how t
 
 - A. Define Requirements Architecture, organizing related requirements and identifying gaps.
 - B. Solution architecture, because the team needs the technical components and their interactions designed.
-- C. Trace Requirements and Designs, because each requirement must be linked to a test case.
+- C. Trace Requirements, because each requirement must be linked to a test case.
 - D. Assess Requirements Changes, because missing security requirements are a change request.
 
 ### C6-Q07 {#c6-q07}
@@ -3656,7 +3674,7 @@ A previously approved screen design is still correct and no one is asking to cha
 
 - A. Assess Requirements Changes, because the design information is being updated during implementation.
 - B. Define Requirements Architecture, because the design must be fitted into a cohesive structure.
-- C. Maintain Requirements and Designs, because existing design information and its attributes must be kept accurate and current.
+- C. Maintain Requirements, because existing design information and its attributes must be kept accurate and current.
 - D. Define Design Options, because the design needs to be re-evaluated before it can be corrected.
 
 ---
@@ -3668,7 +3686,7 @@ A previously approved screen design is still correct and no one is asking to cha
 | Item                    | Detail                                                                                               |
 | ----------------------- | ---------------------------------------------------------------------------------------------------- |
 | Blueprint weight        | 10%                                                                                                  |
-| Questions per ECBA exam | 5 out of 50                                                                                          |
+| Questions per ECBA exam | About 5 of 50 (from the weight)                                                                      |
 | Source                  | BABOK Guide                                                                                          |
 | Activity Statements     | 7.1, 7.2, 7.3, 7.4                                                                                   |
 | BACCM concept           | **Stakeholder** — a group or individual with a relationship to the change, the need, or the solution |
@@ -3686,7 +3704,7 @@ Distinguish interest, impact, and influence by the direction of the relationship
 
 ### Figure 7.1 — Interest, impact, and influence {#fig-7-1}
 
-![Figure 7.1 — Interest, impact, and influence. The first box defines interest as the stakeholder’s stake. Impact has an arrow from Change to Stakeholder. Influence reverses that direction, showing the stakeholder’s ability to affect the change. The arrows and labels carry meaning independently of color.](../../figures/fig-07-1-interest-impact-influence.svg)
+![Figure 7.1 — Interest, impact, and influence. The first box defines interest as the stakeholder’s stake. Impact has an arrow from Change to Stakeholder. Influence reverses that direction, showing the stakeholder’s ability to affect the change. The arrows and labels carry meaning independently of color.](figures/fig-07-1-interest-impact-influence.svg)
 
 | Dimension | Direction | Meaning |
 | --- | --- | --- |
@@ -3726,7 +3744,7 @@ Distinguish interest, impact, and influence by the direction of the relationship
 
 **What this means.** Communication is not the same as sending information. Communicating business analysis information creates shared understanding, because a document, matrix, or presentation only succeeds when the target stakeholder understands it, can respond, and can use it. The job is tailoring: the right information, at the right time, in the right format, in the right terminology, for the right audience.
 
-**How it is tested.** The exam shows you several audiences who each need a different cut of the same findings, and asks how to communicate. The keyed answer tailors per audience, while sending everyone the identical full package is the classic wrong answer. A second angle separates communicating, which is sharing for understanding, from confirming, which is checking captured results, because they are adjacent tasks with different purposes.
+**How it is tested.** The exam shows you several audiences who each need a different cut of the same findings, and asks how to communicate. The keyed answer tailors per audience, while sending everyone the identical full package is the weak answer. A second angle separates communicating, which is sharing for understanding, from confirming, which is checking captured results, because they are adjacent tasks with different purposes.
 
 ### Tailoring the Message (Communicate Business Analysis Information) {#p-ch7-tailoring-the-message-communicate-business-analysis-information}
 
@@ -3774,26 +3792,26 @@ The two tasks sit one step apart, so hold them side by side, as the table below 
 
 **Options.**
 
-- A. Send the full detailed requirements package to all stakeholders so everyone receives identical information.
-- B. Prepare tailored communication packages using the format, terminology, and detail each audience needs.
-- C. Ask the sponsor to choose one format and require all groups to use it.
-- D. Delay all communication until every requirement is approved.
+- A. Send the full requirements package to each stakeholder group so that nothing is withheld.
+- B. Ask the sponsor to choose one format for the three groups to use.
+- C. Prepare packages tailored to each audience’s format, terms, and level of detail.
+- D. Delay communication until the requirements have been formally approved.
 
-##### C7-EL01 — Answer: B {#c7-el01-answer}
+##### C7-EL01 — Answer: C {#c7-el01-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C7-EL01 | B | 7 | 7.1 | situation | medium | BABOK §4.4 |
+| C7-EL01 | C | 7 | 7.1 | situation | medium | BABOK §4.4 |
 
-**A.** Identical detail can fail the needs of different audiences.
+**A.** *Incorrect.* Identical detail can fail the needs of different audiences.
 
-**B.** Tailored packages help each audience understand and use relevant information.
+**B.** *Incorrect.* Sponsor preference does not replace analysis of audience needs.
 
-**C.** Sponsor preference does not replace analysis of audience needs.
+**C.** *Correct.* Tailored packages help each audience understand and use relevant information.
 
-**D.** Communication supports understanding before as well as after approval.
+**D.** *Incorrect.* Communication supports understanding before as well as after approval.
 
-**Reasoning (two-step).** In Step 1, option C substitutes sponsor preference for the audiences’ actual needs, and option D treats communication as a post-approval event, when it supports understanding throughout. You can eliminate both. In Step 2, you choose between A and B. Identical information is not shared understanding, because it overwhelms some and under-serves others. Tailoring to each audience’s needs is the point of the task. Option B fits.
+**Reasoning (two-step).** In Step 1, option B substitutes sponsor preference for the audiences’ actual needs, and option D treats communication as a post-approval event, when it supports understanding throughout. You can eliminate both. In Step 2, you choose between A and C. Identical information is not shared understanding, because it overwhelms some and under-serves others. Tailoring to each audience’s needs is the point of the task. Option C fits.
 
 **Source detail:** BABOK §4.4
 
@@ -3871,23 +3889,23 @@ The output of this work is the Stakeholder Engagement Approach, which is broader
 **Options.**
 
 - A. Store associates have high influence; the compliance director has high impact.
-- B. Store associates have high impact; the compliance director has high influence.
+- B. Neither group should be analyzed until a solution design is approved.
 - C. Both groups have the same stakeholder role, since both are affected by the change.
-- D. Neither group should be analyzed until a solution design is approved.
+- D. Store associates have high impact; the compliance director has high influence.
 
-##### C7-EL02 — Answer: B {#c7-el02-answer}
+##### C7-EL02 — Answer: D {#c7-el02-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C7-EL02 | B | 7 | 7.2 | situation | medium | BABOK §3.2 |
+| C7-EL02 | D | 7 | 7.2 | situation | medium | BABOK §3.2 |
 
-**A.** This swaps being affected with the ability to affect a decision.
+**A.** *Incorrect.* This swaps being affected with the ability to affect a decision.
 
-**B.** Daily work changes show impact; policy rejection authority shows influence.
+**B.** *Incorrect.* Stakeholder analysis informs early planning and continues as the initiative evolves.
 
-**C.** Sharing a relationship to a change does not give both groups identical roles.
+**C.** *Incorrect.* Sharing a relationship to a change does not give both groups identical roles.
 
-**D.** Stakeholder analysis informs early planning and continues as the initiative evolves.
+**D.** *Correct.* Daily work changes show impact; policy rejection authority shows influence.
 
 **Reasoning (two-step).** First identify whose daily work changes and who can reject the approach. Then distinguish impact from influence. Store associates are highly affected; the director’s policy authority gives high influence. The stem does not establish that associates have no influence at all.
 
@@ -3909,7 +3927,7 @@ The output of this work is the Stakeholder Engagement Approach, which is broader
 
 **What this means.** Collaboration means encouraging stakeholders to work toward a common goal, rather than forcing complete agreement on every detail. Groups can disagree about priorities or workflows and still collaborate productively, as long as they stay anchored to the shared business outcome. The output is Stakeholder Engagement, which is a genuine willingness to participate, because attendance alone is not engagement.
 
-**How it is tested.** Two shapes recur here. The first is a technique choice, between a collaborative game and a workshop. The second is a stalled-collaboration scenario, where the keyed answer refocuses on the shared outcome, rather than escalating, pausing, or waiting for perfect consensus.
+**How it is tested.** Practice two shapes. The first is a technique choice, between a collaborative game and a workshop. The second is a stalled-collaboration scenario, where the keyed answer refocuses on the shared outcome, rather than escalating, pausing, or waiting for perfect consensus.
 
 ### Sustaining Collaboration (Manage Stakeholder Collaboration) {#p-ch7-sustaining-collaboration-manage-stakeholder-collaboration}
 
@@ -3958,13 +3976,13 @@ Facilitation structures neutral group discussion, while Teamwork supports shared
 |---|---|---|---|---|---|---|
 | C7-EL03 | B | 7 | 7.3 | situation | medium | BABOK §4.5; BABOK §10.10 |
 
-**A.** Reporting positions separately does not address the identified hidden assumptions.
+**A.** *Incorrect.* Reporting positions separately does not address the identified hidden assumptions.
 
-**B.** A structured game can reveal assumptions and develop shared understanding.
+**B.** *Correct.* A structured game can reveal assumptions and develop shared understanding.
 
-**C.** Choosing a group’s assumptions does not investigate or reconcile them.
+**C.** *Incorrect.* Choosing a group’s assumptions does not investigate or reconcile them.
 
-**D.** Stopping collaboration abandons the work needed to understand the disagreement.
+**D.** *Incorrect.* Stopping collaboration abandons the work needed to understand the disagreement.
 
 **Reasoning (two-step).** In Step 1, option C turns a collaboration problem into a premature sponsor decision, and option D abandons facilitation exactly when it is needed. You can eliminate both. In Step 2, you choose between A and B. A status meeting just lets each group restate its position, so it will not surface what is unspoken. A collaborative game is purpose-built to reveal hidden assumptions and build shared understanding. Option B fits.
 
@@ -3978,11 +3996,11 @@ Facilitation structures neutral group discussion, while Teamwork supports shared
 
 **Reference Map:** BABOK §3.2; BABOK §4.5; BABOK §5.5
 
-**[Glossary](#p-07-glossary-glossary):** [Approval tracking](#gl-approval-tracking), [Approve Requirements and Designs](#gl-approve-requirements-and-designs), [Concern](#gl-concern), [Decision factor](#gl-decision-factor), [Decision-making authority](#gl-decision-making-authority), [Driver](#gl-driver), [Formal approval](#gl-formal-approval), [Informal approval](#gl-informal-approval), [Interviews](#gl-interviews), [Negotiation and Conflict Resolution](#gl-negotiation-and-conflict-resolution).
+**[Glossary](#p-07-glossary-glossary):** [Approval tracking](#gl-approval-tracking), [Approve Requirements](#gl-approve-requirements), [Concern](#gl-concern), [Decision factor](#gl-decision-factor), [Decision-making authority](#gl-decision-making-authority), [Driver](#gl-driver), [Formal approval](#gl-formal-approval), [Informal approval](#gl-informal-approval), [Interviews](#gl-interviews), [Negotiation and Conflict Resolution](#gl-negotiation-and-conflict-resolution).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Plan Stakeholder Engagement; Manage Stakeholder Collaboration; Approve Requirements and Designs.
+**Source:** BABOK Guide — Plan Stakeholder Engagement; Manage Stakeholder Collaboration; Approve Requirements.
 
 **What this means.** Stakeholder behavior makes more sense when you separate drivers, which are what pulls them toward support, from concerns, which are what makes them hesitate, resist, or want more information. Reading these correctly shapes how you engage, and it matters most at approval time, when a stated driver does not cancel an unresolved concern.
 
@@ -3998,7 +4016,7 @@ Facilitation structures neutral group discussion, while Teamwork supports shared
 
 A single stakeholder commonly holds both at once. Understanding motivations lets you adjust communication, surface a risk, or clarify what an approver needs. It is not a lever to pressure stakeholders into agreement.
 
-### Approval Is Not Just a Signature (Approve Requirements and Designs) {#p-ch7-approval-is-not-just-a-signature-approve-requirements-and-designs}
+### Approval Is Not Just a Signature (Approve Requirements) {#p-ch7-approval-is-not-just-a-signature-approve-requirements-and-designs}
 
 Plan Business Analysis Governance establishes approval roles and the decision process; Approve Requirements uses that governance to obtain and track agreement (BABOK §3.3; BABOK §5.5).
 
@@ -4043,13 +4061,13 @@ In a scenario assigning approval to another stakeholder, the business analyst su
 |---|---|---|---|---|---|---|
 | C7-EL04 | A | 7 | 7.4 | situation | medium | BABOK §3.2; BABOK §5.5 |
 
-**A.** The efficiency gain motivates support; ownership remains a concern requiring clarification.
+**A.** *Correct.* The efficiency gain motivates support; ownership remains a concern requiring clarification.
 
-**B.** The first statement expresses a benefit, rather than a reservation.
+**B.** *Incorrect.* The first statement expresses a benefit, rather than a reservation.
 
-**C.** An expressed benefit is not approval while the sponsor explicitly withholds it.
+**C.** *Incorrect.* An expressed benefit is not approval while the sponsor explicitly withholds it.
 
-**D.** An easier sign-off does not replace the assigned approval authority.
+**D.** *Incorrect.* An easier sign-off does not replace the assigned approval authority.
 
 **Reasoning (two-step).** In Step 1, option C reads enthusiasm as sign-off, which it is not while a concern is open, and option D routes around the decision-maker, which exceeds ECBA scope and weakens governance. You can eliminate both. In Step 2, you choose between A and B. The two clauses pull in opposite directions: the efficiency gain pulls toward approval, which is a driver, while the support-ownership question holds back, which is a concern. Calling both “concerns,” which is option B, misreads the first. Option A fits.
 
@@ -4113,7 +4131,7 @@ Domain 7 turns on several confusable pairs, so here they are in one place for la
 
 ## Chapter 7 — Practice Questions {#p-ch7-chapter-7-practice-questions}
 
-Attempt all seven under exam discipline before you check your answers, and aim for about 90 seconds per question. Watch the pairs this domain loves to swap: impact versus influence, driver versus concern, and games versus workshops. Full answers and rationale are in **Practice Answers & Rationale** at the back of the book.
+Attempt all seven under exam discipline before you check your answers, and aim for about 90 seconds per question. Compare these pairs in this domain: impact versus influence, driver versus concern, and games versus workshops. Full answers and rationale are in **Practice Answers & Rationale** at the back of the book.
 
 ### C7-Q01 {#c7-q01}
 
@@ -4122,9 +4140,9 @@ Attempt all seven under exam discipline before you check your answers, and aim f
 A business analyst has finished analysis on a new returns process and needs to share it. The warehouse team needs to know how their daily picking and restocking steps change, the finance director needs the cost and write-off impact to make a funding call, and the integration developers need the detailed data rules. A teammate suggests sending everyone the full requirements document so no one is left out. What is the MOST appropriate approach?
 
 - A. Prepare communication tailored to each audience — the right information, format, terminology, and level of detail for each.
-- B. Send the full requirements document to all three groups, since complete information is the fairest way to keep everyone informed.
-- C. Ask the sponsor to pick one format and have all three groups work from it.
-- D. Wait until every requirement is approved, then send one final package to everyone at once.
+- B. Send the full requirements document to the three groups, since complete information is the fairest way to keep everyone informed.
+- C. Ask the sponsor to pick one format and have the three groups work from it.
+- D. Wait until the requirements are approved, then send one final package to the three groups.
 
 ### C7-Q02 {#c7-q02}
 
@@ -4135,7 +4153,7 @@ After an interview about a claims process, an analyst does two things. First, sh
 - A. Communicate Business Analysis Information, because she will share tailored summaries with operations and compliance.
 - B. Confirm Elicitation Results, checking captured notes against their source.
 - C. Manage Stakeholder Collaboration, because she is meeting with the stakeholder.
-- D. Validate Requirements and Designs, because she is checking the notes against business value.
+- D. Validate Requirements, because she is checking the notes against business value.
 
 ### C7-Q03 {#c7-q03}
 
@@ -4152,12 +4170,12 @@ A hospital is rolling out new bedside data-entry tablets. Floor nurses will use 
 
 **A.S.:** 7.2
 
-A junior analyst is compiling the initial stakeholder list for a change to a parcel-delivery process. Which group should be included?
+A junior analyst is compiling the initial stakeholder list for a change to a parcel-delivery process. Which description BEST defines the scope of that list?
 
 - A. Internal and external parties related to the change, need, or solution.
-- B. Only the sponsor and project manager, since they control budget and schedule.
-- C. Only the assigned project team, since they are the ones doing the work.
-- D. Only the implementation team, since stakeholder analysis matters after a solution is chosen.
+- B. The sponsor and project manager, since they control budget and schedule.
+- C. The assigned project team, since they are the ones doing the work.
+- D. The implementation team, since stakeholder analysis matters after a solution is chosen.
 
 ### C7-Q05 {#c7-q05}
 
@@ -4167,7 +4185,7 @@ Two stakeholder groups keep restating the same fixed positions about a new dispa
 
 - A. A workshop, because it brings the groups together to produce and agree on a defined work product.
 - B. A status meeting, because each group can report its position in turn.
-- C. A collaborative game, because a structured game-like activity is designed to surface hidden assumptions and tacit knowledge.
+- C. A collaborative game, because its structured play is designed to surface hidden assumptions.
 - D. A requirements review, because it checks that documented information is accurate.
 
 ### C7-Q06 {#c7-q06}
@@ -4179,7 +4197,7 @@ Two departments both back the initiative’s business objective but are stuck ar
 - A. Keep the discussion going until the two departments reach full agreement on a single workflow.
 - B. Ask the project manager to decide which department’s workflow takes priority.
 - C. Document both preferences and pause collaboration until the sponsor selects one.
-- D. Refocus both groups on the shared business outcome and support a structured discussion of the trade-offs.
+- D. Refocus both groups on the shared outcome and support a structured discussion of trade-offs.
 
 ### C7-Q07 {#c7-q07}
 
@@ -4189,7 +4207,7 @@ During approval review, a sponsor who holds approval authority says: “The fast
 
 - A. Treat it as approved, since the sponsor clearly values the faster close.
 - B. Treat the whole statement as a concern, since the sponsor has not signed off.
-- C. Recognize the faster close as a driver and help clarify the support-ownership concern before approval.
+- C. Treat the faster close as a driver and clarify the support concern before approval.
 - D. Seek approval from a different influential stakeholder who has fewer reservations.
 
 ---
@@ -4201,7 +4219,7 @@ During approval review, a sponsor who holds approval authority says: “The fast
 | Item                    | Detail                                                                                      |
 | ----------------------- | ------------------------------------------------------------------------------------------- |
 | Blueprint weight        | 10%                                                                                         |
-| Questions per ECBA exam | 5 out of 50                                                                                 |
+| Questions per ECBA exam | About 5 of 50 (from the weight)                                                             |
 | Source                  | BABOK Guide                                                                                 |
 | Activity Statements     | 8.1, 8.2, 8.3, 8.4                                                                          |
 | BACCM concept           | **Value** — the worth, importance, or usefulness of something to a stakeholder in a context |
@@ -4219,7 +4237,7 @@ The chapter’s hardest distinction is how loose ideas of “value” become som
 
 ### Figure 8.1 — From outcome to realized or preserved value, and how it is measured {#fig-8-1}
 
-![Figure 8.1 — From outcome to realized or preserved value, and how it is measured. The first three boxes connect desired outcome, estimated potential value, and value realized or preserved after delivery. Two separate boxes then define a metric and a KPI. The final line explains that every KPI is a metric.](../../figures/fig-08-1-value-metric-kpi.svg)
+![Figure 8.1 — From outcome to realized or preserved value, and how it is measured. The first three boxes connect desired outcome, estimated potential value, and value realized or preserved after delivery. Two separate boxes then define a metric and a KPI. The final line explains that every KPI is a metric.](figures/fig-08-1-value-metric-kpi.svg)
 
 | Stage | Meaning |
 | --- | --- |
@@ -4297,24 +4315,24 @@ The future state covers more than a target number. Recognize that it also spans 
 
 **Options.**
 
-- A. Convert the statement into a formal objective independently and add it to the future-state description.
-- B. Confirm the desired outcome with stakeholders and help clarify a measurable objective aligned to customer retention.
+- A. Confirm the desired outcome with stakeholders and help clarify a measurable objective aligned to customer retention.
+- B. Convert the statement into a formal objective independently and add it to the future-state description.
 - C. Ask the solution team to start designing service features, since the business goal is already clear.
 - D. Treat the statement as a complete business objective, since it describes the intended improvement.
 
-##### C8-EL01 — Answer: B {#c8-el01-answer}
+##### C8-EL01 — Answer: A {#c8-el01-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C8-EL01 | B | 8 | 8.1 | situation | medium | BABOK §6.2 |
+| C8-EL01 | A | 8 | 8.1 | situation | medium | BABOK §6.2 |
 
-**A.** The assigned supporting role calls for stakeholder confirmation rather than independent finalization.
+**A.** *Correct.* Clarifying a measurable, strategically aligned outcome supports Define Future State.
 
-**B.** Clarifying a measurable, strategically aligned outcome supports Define Future State.
+**B.** *Incorrect.* The assigned supporting role calls for stakeholder confirmation rather than independent finalization.
 
-**C.** Starting feature design skips clarification of what success means.
+**C.** *Incorrect.* Starting feature design skips clarification of what success means.
 
-**D.** A broad improvement statement lacks a measure and timeframe.
+**D.** *Incorrect.* A broad improvement statement lacks a measure and timeframe.
 
 **Reasoning (two-step).** First distinguish a broad improvement goal from a measurable objective. Then compare independent finalization with collaborative confirmation. The scenario assigns the analyst a supporting role under guidance.
 
@@ -4401,25 +4419,25 @@ BABOK §5.3 compares requirements using value, urgency, dependencies, risk, and 
 **Options.**
 
 - A. Recommend proceeding, because stakeholder enthusiasm is evidence of value.
-- B. Flag that “do nothing” may be a valid recommendation, based on the value analysis.
+- B. Remove the business objective so the enhancement appears more valuable.
 - C. Ask the implementation team to build the enhancement with fewer controls to reduce cost.
-- D. Remove the business objective so the enhancement appears more valuable.
+- D. Flag that “do nothing” may be a valid recommendation, based on the value analysis.
 
-##### C8-EL02 — Answer: B {#c8-el02-answer}
+##### C8-EL02 — Answer: D {#c8-el02-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C8-EL02 | B | 8 | 8.2 | situation | medium | BABOK §7.6; BABOK §8.5 |
+| C8-EL02 | D | 8 | 8.2 | situation | medium | BABOK §7.6; BABOK §8.5 |
 
-**A.** Enthusiasm alone does not outweigh the stated benefit and cost evidence.
+**A.** *Incorrect.* Enthusiasm alone does not outweigh the stated benefit and cost evidence.
 
-**B.** No change can be a valid recommendation when the evidence does not justify an enhancement.
+**B.** *Incorrect.* Changing the objective to favor an option undermines the evaluation.
 
-**C.** Weakening controls to reduce cost does not establish a worthwhile option.
+**C.** *Incorrect.* Weakening controls to reduce cost does not establish a worthwhile option.
 
-**D.** Changing the objective to favor an option undermines the evaluation.
+**D.** *Correct.* No change can be a valid recommendation when the evidence does not justify an enhancement.
 
-**Reasoning (two-step).** In Step 1, option C weakens controls to rescue a weak option, which is irresponsible, and option D edits the objective to flatter a preferred option, which undermines alignment. You can eliminate both. In Step 2, you choose between A and B. Enthusiasm is not value when the cost is high, the benefit is small, and the objective is already met. The evidence supports no change, and “do nothing” is a legitimate recommendation. Option B fits.
+**Reasoning (two-step).** In Step 1, option C weakens controls to rescue a weak option, which is irresponsible, and option B edits the objective to flatter a preferred option, which undermines alignment. You can eliminate both. In Step 2, you choose between A and D. Enthusiasm is not value when the cost is high, the benefit is small, and the objective is already met. The evidence supports no change, and “do nothing” is a legitimate recommendation. Option D fits.
 
 **Source detail:** BABOK §7.6; BABOK §8.5
 
@@ -4431,11 +4449,11 @@ BABOK §5.3 compares requirements using value, urgency, dependencies, risk, and 
 
 **Reference Map:** BABOK §4.4; BABOK §7.3
 
-**[Glossary](#p-07-glossary-glossary):** [Communicate Business Analysis Information](#gl-communicate-business-analysis-information), [Relay (active translation)](#gl-relay-active-translation), [Validate Requirements and Designs](#gl-validate-requirements-and-designs).
+**[Glossary](#p-07-glossary-glossary):** [Communicate Business Analysis Information](#gl-communicate-business-analysis-information), [Relay (active translation)](#gl-relay-active-translation), [Validate Requirements](#gl-validate-requirements).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Communicate Business Analysis Information; Validate Requirements and Designs.
+**Source:** BABOK Guide — Communicate Business Analysis Information; Validate Requirements.
 
 **What this means.** “Relay” here is active, rather than forwarding. You translate solution information into stakeholder understanding, with the right information, timing, format, and language for the audience, and communication is two-way, because you do not assume understanding just because something was sent. A validation lens sits alongside this: a solution can meet its detailed requirements yet still not support the business objective, and that gap must be communicated.
 
@@ -4476,25 +4494,25 @@ When two audiences need the same core information, change the format, the termin
 **Options.**
 
 - A. Forward the architect’s technical notes to the stakeholders so the message stays complete.
-- B. Translate the explanation into business terms, connecting reduced duplicate calls to fewer order corrections and less rework.
-- C. Ask the stakeholders to learn the technical terminology before the next review.
-- D. Remove the integration details from the discussion, since business stakeholders do not need accurate information.
+- B. Ask the stakeholders to learn the technical terminology before the next review.
+- C. Translate it into business terms: fewer duplicate calls, fewer order corrections, less rework.
+- D. Remove the integration details, since business stakeholders mainly need the decision.
 
-##### C8-EL03 — Answer: B {#c8-el03-answer}
+##### C8-EL03 — Answer: C {#c8-el03-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C8-EL03 | B | 8 | 8.3 | situation | medium | BABOK §4.4 |
+| C8-EL03 | C | 8 | 8.3 | situation | medium | BABOK §4.4 |
 
-**A.** Technical notes alone have already failed to create understanding.
+**A.** *Incorrect.* Technical notes alone have already failed to create understanding.
 
-**B.** Explaining the business consequence connects the technical change to the audience’s goal.
+**B.** *Incorrect.* Requiring stakeholders to decode jargon does not meet their communication needs.
 
-**C.** Requiring stakeholders to decode jargon does not meet their communication needs.
+**C.** *Correct.* Explaining the business consequence connects the technical change to the audience’s goal.
 
-**D.** Removing relevant detail altogether can obscure the basis for the claimed benefit.
+**D.** *Incorrect.* Removing relevant detail altogether can obscure the basis for the claimed benefit.
 
-**Reasoning (two-step).** In Step 1, option C puts the burden on stakeholders to decode jargon, and option D withholds relevant information. You can eliminate both. In Step 2, you choose between A and B. Forwarding the notes preserves detail but creates no understanding, because relaying is active. Translating the technical point into the rework goal keeps the meaning and reaches the audience. Option B fits.
+**Reasoning (two-step).** In Step 1, option B puts the burden on stakeholders to decode jargon, and option D withholds relevant information. You can eliminate both. In Step 2, you choose between A and C. Forwarding the notes preserves detail but creates no understanding, because relaying is active. Translating the technical point into the rework goal keeps the meaning and reaches the audience. Option C fits.
 
 **Source detail:** BABOK §4.4
 
@@ -4573,13 +4591,13 @@ BABOK §3.5 addresses the effectiveness of business analysis itself: establish p
 |---|---|---|---|---|---|---|
 | C8-EL04 | B | 8 | 8.4 | situation | medium | BABOK §8.1; BABOK §10.28 |
 
-**A.** Historical resolution time is baseline information, rather than a current pilot warning.
+**A.** *Incorrect.* Historical resolution time is baseline information, rather than a current pilot warning.
 
-**B.** A triage backlog can warn of future resolution delays during the pilot.
+**B.** *Correct.* A triage backlog can warn of future resolution delays during the pilot.
 
-**C.** A post-rollout score does not warn during the pilot.
+**C.** *Incorrect.* A post-rollout score does not warn during the pilot.
 
-**D.** Annual post-adoption cost is later and does not directly warn of pilot resolution delay.
+**D.** *Incorrect.* Annual post-adoption cost is later and does not directly warn of pilot resolution delay.
 
 **Reasoning (two-step).** In Step 1, options C and D are both lagging, because they report results after rollout, rather than giving early warning during the pilot. You can eliminate both. In Step 2, you choose between A and B. Option A is a useful baseline, but it says nothing about the current pilot’s trajectory. Option B watches pilot claims in real time and predicts whether the resolution-time objective is at risk, which is a leading indicator. Option B fits.
 
@@ -4643,7 +4661,7 @@ Domain 8 turns on several confusable pairs, so here they are in one place for la
 
 ## Chapter 8 — Practice Questions {#p-ch8-chapter-8-practice-questions}
 
-Attempt all seven under exam discipline before you check your answers, and aim for about 90 seconds per question. This domain’s favourite distinctions are goal versus objective, metric versus KPI, and leading versus lagging, together with the idea that “do nothing” can be the right recommendation. Full answers and rationale are in **Practice Answers & Rationale** at the back of the book.
+Attempt all seven under exam discipline before you check your answers, and aim for about 90 seconds per question. Key distinctions in this domain are goal versus objective, metric versus KPI, and leading versus lagging, together with the idea that “do nothing” can be the right recommendation. Full answers and rationale are in **Practice Answers & Rationale** at the back of the book.
 
 ### C8-Q01 {#c8-q01}
 
@@ -4665,7 +4683,7 @@ A sponsor tells the analyst, “What we want from this project is for our branch
 - A. Write a formal, measurable objective on the sponsor’s behalf and add it to the future-state description.
 - B. Record “branches feel less overwhelmed” as the business objective, since it states the intended improvement.
 - C. Pass the statement to the solution team so feature design can begin, since the intent is clear.
-- D. Restate the desired outcome, check with stakeholders how it aligns with the retention strategy, and help shape a measurable objective.
+- D. Restate the outcome, check its fit with the retention strategy, and help shape a measurable objective.
 
 ### C8-Q03 {#c8-q03}
 
@@ -4673,7 +4691,7 @@ A sponsor tells the analyst, “What we want from this project is for our branch
 
 Stakeholders are enthusiastic about a proposed loyalty-program feature. The analyst’s value analysis shows the build-and-maintenance cost is high, the projected benefit is small and uncertain, and the current program already meets the stated objective. Working under guidance, what should the analyst MOST appropriately support?
 
-- A. Raising that “do nothing” may be the valid recommendation, given that cost and risk outweigh the likely benefit.
+- A. Raising that “do nothing” may be valid, since cost and risk outweigh the likely benefit.
 - B. Proceeding with the feature, since strong stakeholder enthusiasm is itself evidence of value.
 - C. Building a cut-down version, since delivering some change is better than recommending none.
 - D. Relaxing the objective so the feature’s benefit looks large enough to justify the cost.
@@ -4731,7 +4749,7 @@ A support team’s objective is to reduce customer complaints, which currently s
 | Item                    | Detail                                                                                                     |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Blueprint weight        | 10%                                                                                                        |
-| Questions per ECBA exam | 5 out of 50                                                                                                |
+| Questions per ECBA exam | About 5 of 50 (from the weight)                                                                            |
 | Source                  | BABOK Guide                                                                                                |
 | Activity Statements     | 9.1, 9.2, 9.3, 9.4                                                                                         |
 | BACCM concept           | **Context** — the circumstances that influence, are influenced by, and provide understanding of the change |
@@ -4749,7 +4767,7 @@ The distinction the exam tests hardest here is enterprise limitation versus solu
 
 ### Figure 9.1 — The remove-the-solution test {#fig-9-1}
 
-![Figure 9.1 — The remove-the-solution test. Imagine removing the solution and ask whether the barrier remains. The Yes branch leads to enterprise limitations such as policy or culture. The No branch leads to solution limitations such as defects or missing features.](../../figures/fig-09-1-remove-the-solution.svg)
+![Figure 9.1 — The remove-the-solution test. Imagine removing the solution and ask whether the barrier remains. The Yes branch leads to enterprise limitations such as policy or culture. The No branch leads to solution limitations such as defects or missing features.](figures/fig-09-1-remove-the-solution.svg)
 
 | Remove the solution — does the barrier remain? | Classification | Examples |
 | --- | --- | --- |
@@ -4780,17 +4798,17 @@ The distinction the exam tests hardest here is enterprise limitation versus solu
 
 **Reference Map:** BABOK §3.4; BABOK §5.2; BABOK §5.5
 
-**[Glossary](#p-07-glossary-glossary):** [Approve Requirements and Designs](#gl-approve-requirements-and-designs), [Document Analysis](#gl-document-analysis), [Information management approach](#gl-information-management-approach), [Maintain Requirements and Designs](#gl-maintain-requirements-and-designs).
+**[Glossary](#p-07-glossary-glossary):** [Approve Requirements](#gl-approve-requirements), [Document Analysis](#gl-document-analysis), [Information management approach](#gl-information-management-approach), [Maintain Requirements](#gl-maintain-requirements).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Plan Business Analysis Information Management; Maintain Requirements and Designs; Approve Requirements and Designs.
+**Source:** BABOK Guide — Plan Business Analysis Information Management; Maintain Requirements; Approve Requirements.
 
 **What this means.** Useful business analysis information is accurate, complete, consistent, accessible, and appropriate for the current situation. This activity statement is about keeping information usable, meaning organized, current, findable, and reliable enough to support continued work, and about the two tasks that act on it once it is captured: Maintain, which keeps existing valid information accurate, and Approve, which gets authorized agreement to proceed.
 
 **How it is tested.** Expect a scattered-information scenario keyed to an information management approach, rather than “buy a tool,” a still-valid-but-stale-metadata scenario keyed to Maintain, and a Maintain-versus-Approve split, which is upkeep of existing information as against authorized sign-off.
 
-> 🪞 **Terminology Alert — “validate information quality.”** The activity statement uses “validate” in a broad, everyday sense, meaning “is this information good enough and appropriate?” Do not confuse it with the formal Validate Requirements and Designs task, which is about business-goal alignment, and which lives in [section 9.4](#as-9-4). Here, “validate” means checking the quality and fit of the information, which is closer to verifying and maintaining than to value-alignment. A rule of thumb for the word “validate” on the exam is this: if the scenario is about the metadata, organization, currency, or accessibility of information, it is the casual 9.1 sense, which is quality and fit, so think Maintain or information management. If it is about whether requirements support the business goal or deliver value, it is the strict Validate task from [section 9.4](#as-9-4). Follow the scenario, rather than the word.
+> 🪞 **Terminology Alert — “validate information quality.”** The activity statement uses “validate” in a broad, everyday sense, meaning “is this information good enough and appropriate?” Do not confuse it with the formal Validate Requirements task, which is about business-goal alignment, is taught in [section 5.3](#as-5-3), and is compared with Verify in [section 9.4](#as-9-4). Here, “validate” means checking the quality and fit of the information, which is closer to verifying and maintaining than to value-alignment. A rule of thumb for the word “validate” on the exam is this: if the scenario is about the metadata, organization, currency, or accessibility of information, it is the casual 9.1 sense, which is quality and fit, so think Maintain or information management. If it is about whether requirements support the business goal or deliver value, it is the strict Validate task from [section 9.4](#as-9-4). Follow the scenario, rather than the word.
 
 ### Keep Information Usable (Plan BA Information Management) {#p-ch9-keep-information-usable-plan-ba-information-management}
 
@@ -4811,7 +4829,7 @@ The information management approach defines how business analysis information is
 
 ### Exam Focus — A.S. 9.1 {#p-ch9-exam-focus-a-s-9-1}
 
-**Traps.** Check three distinctions here. The first is treating “validate information quality” as the Validate Requirements task, when it is the quality and fit of information as against business-goal alignment, from [section 9.4](#as-9-4). The second is Maintain versus Approve, which is accuracy upkeep as against authorized sign-off. The third is treating information management as buying a tool, when it is an approach, meaning organize, locate, trace, reuse, and protect.
+**Traps.** Check three distinctions here. The first is treating “validate information quality” as the Validate Requirements task, when it is the quality and fit of information as against business-goal alignment, from [section 5.3](#as-5-3). The second is Maintain versus Approve, which is accuracy upkeep as against authorized sign-off. The third is treating information management as buying a tool, when it is an approach, meaning organize, locate, trace, reuse, and protect.
 
 **How questions are framed.** Expect four shapes. The first is scattered, conflicting-version information, which points to the information management approach. The second is a valid requirement with stale metadata, which points to Maintain. The third is a “who agrees we can proceed?” item, which points to Approve. The fourth is an “approval will fix the conflict” distractor, which is wrong, because you resolve the quality first.
 
@@ -4825,25 +4843,25 @@ The information management approach defines how business analysis information is
 **Options.**
 
 - A. Request approval of the requirement, since the requirement itself has not changed.
-- B. Update the relevant attributes so the maintained requirement stays accurate.
+- B. Create a new requirement to avoid changing the historical record.
 - C. Remove the requirement until the new stakeholder confirms every detail.
-- D. Create a new requirement to avoid changing the historical record.
+- D. Update the relevant attributes so the maintained requirement stays accurate.
 
-##### C9-EL01 — Answer: B {#c9-el01-answer}
+##### C9-EL01 — Answer: D {#c9-el01-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C9-EL01 | B | 9 | 9.1 | situation | medium | BABOK §5.2; BABOK §5.5 |
+| C9-EL01 | D | 9 | 9.1 | situation | medium | BABOK §5.2; BABOK §5.5 |
 
-**A.** No sign-off is sought; the immediate issue is stale information.
+**A.** *Incorrect.* No sign-off is sought; the immediate issue is stale information.
 
-**B.** Updating attributes maintains the valid requirement accurately.
+**B.** *Incorrect.* Duplicating the requirement creates another record instead of maintaining the existing one.
 
-**C.** Removal would discard valid information without a stated reason.
+**C.** *Incorrect.* Removal would discard valid information without a stated reason.
 
-**D.** Duplicating the requirement creates another record instead of maintaining the existing one.
+**D.** *Correct.* Updating attributes maintains the valid requirement accurately.
 
-**Reasoning (two-step).** In Step 1, option C removes valid information and creates a gap, and option D duplicates rather than maintains. You can eliminate both. In Step 2, you choose between A and B. No sign-off is being sought, and the content is unchanged, so this is not an approval event. It is accuracy upkeep of stale attributes, which is Maintain. Option B fits.
+**Reasoning (two-step).** In Step 1, option C removes valid information and creates a gap, and option B duplicates rather than maintains. You can eliminate both. In Step 2, you choose between A and D. No sign-off is being sought, and the content is unchanged, so this is not an approval event. It is accuracy upkeep of stale attributes, which is Maintain. Option D fits.
 
 **Source detail:** BABOK §5.2; BABOK §5.5
 
@@ -4930,13 +4948,13 @@ Risk Analysis and Management is the technique here, because a constraint often c
 |---|---|---|---|---|---|---|
 | C9-EL02 | C | 9 | 9.2 | situation | medium | BABOK §6.1; BABOK §6.3 |
 
-**A.** The stated daily cap is a known boundary; the uncertain overflow creates exposure.
+**A.** *Incorrect.* The stated daily cap is a known boundary; the uncertain overflow creates exposure.
 
-**B.** The possible overflow is uncertain, rather than a fixed boundary.
+**B.** *Incorrect.* The possible overflow is uncertain, rather than a fixed boundary.
 
-**C.** The cap is the constraint; exceeding it and disrupting onboarding is the risk scenario.
+**C.** *Correct.* The cap is the constraint; exceeding it and disrupting onboarding is the risk scenario.
 
-**D.** This reverses the known boundary and uncertain event.
+**D.** *Incorrect.* This reverses the known boundary and uncertain event.
 
 **Reasoning (two-step).** In Step 1, option D inverts the terms, because the fixed cap is the known boundary, rather than the uncertainty, and option A calls the firmly known cap a risk. You can eliminate both. In Step 2, you choose between B and C. The cap is a fixed, known boundary, which is a constraint, while “might exceed it, possibly disrupting onboarding” is an uncertain event with an effect, which is a risk. Calling both constraints, which is option B, misses the uncertainty. Option C fits.
 
@@ -4996,13 +5014,13 @@ Requirements architecture structures requirements and their relationships so tha
 |---|---|---|---|---|---|---|
 | C9-EL03 | B | 9 | 9.3 | situation | medium | BABOK §7.4 |
 
-**A.** The assignment is requirements clarification, rather than final technical interface design.
+**A.** *Incorrect.* The assignment is requirements clarification, rather than final technical interface design.
 
-**B.** Interface requirements and dependencies help the set work together coherently.
+**B.** *Correct.* Interface requirements and dependencies help the set work together coherently.
 
-**C.** The assignment does not give platform-selection authority to the analyst.
+**C.** *Incorrect.* The assignment does not give platform-selection authority to the analyst.
 
-**D.** A delivery schedule does not clarify the requirements’ relationships.
+**D.** *Incorrect.* A delivery schedule does not clarify the requirements’ relationships.
 
 **Reasoning (two-step).** First identify the requested requirements perspective. Then compare clarifying requirements and dependencies with technical specifications, platform decisions, or delivery scheduling. The assignment calls for the requirements work.
 
@@ -5016,28 +5034,28 @@ Requirements architecture structures requirements and their relationships so tha
 
 **Reference Map:** BABOK §3.1; BABOK §7.2
 
-**[Glossary](#p-07-glossary-glossary):** [Cohesion](#gl-cohesion), [Completeness](#gl-completeness), [Atomic](#gl-atomic), [Concise](#gl-concise), [Unambiguous](#gl-unambiguous), [Prioritized](#gl-prioritized), [Understandable](#gl-understandable), [Consistency](#gl-consistency), [Correctness](#gl-correctness), [Feasibility](#gl-feasibility), [Methodology Knowledge](#gl-methodology-knowledge), [Modifiability](#gl-modifiability), [Plan Business Analysis Approach](#gl-plan-business-analysis-approach), [Testability](#gl-testability), [Validate Requirements and Designs](#gl-validate-requirements-and-designs), [Verify Requirements and Designs](#gl-verify-requirements-and-designs).
+**[Glossary](#p-07-glossary-glossary):** [Completeness](#gl-completeness), [Atomic](#gl-atomic), [Concise](#gl-concise), [Unambiguous](#gl-unambiguous), [Prioritized](#gl-prioritized), [Understandable](#gl-understandable), [Consistency](#gl-consistency), [Feasibility](#gl-feasibility), [Methodology Knowledge](#gl-methodology-knowledge), [Plan Business Analysis Approach](#gl-plan-business-analysis-approach), [Testability](#gl-testability), [Validate Requirements](#gl-validate-requirements), [Verify Requirements](#gl-verify-requirements).
 
 *Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.*
 
-**Source:** BABOK Guide — Plan Business Analysis Approach; Verify Requirements and Designs.
+**Source:** BABOK Guide — Plan Business Analysis Approach; Verify Requirements.
 
 **What this means.** Standards and frameworks guide the approach, representations, review criteria, and governance used for business analysis. BABOK §3.1 helps tailor the approach; BABOK §7.2 checks whether requirements and designs are usable for further work. Its nine named characteristics are listed below. Validation against business value is a related, separate check (BABOK §7.3).
 
-**How it is tested.** Identify whether the scenario concerns representation quality, business-value alignment, or compliance with an agreed approach. Apply the nine BABOK quality characteristics and any explicitly stated local checklist criteria without treating additional engineering terms as names from the BABOK list.
+**How it is tested.** Identify whether the scenario concerns representation quality, business-value alignment, or compliance with an agreed approach. Apply the nine BABOK quality characteristics by name, and check the look-alike partner before you commit.
 
 ### Standards Shape the Approach (Plan BA Approach) {#p-ch9-standards-shape-the-approach-plan-ba-approach}
 
 A methodology, a framework, business policies, regulation, and the risk level all shape the business analysis approach, by influencing the activities, the formality, the documentation, and the governance. At the ECBA level the business analyst applies and follows the relevant approach under guidance. It does not invent the organization’s methodology, waive a regulatory standard, or swap in a preferred prior method because it feels easier. Methodology Knowledge is the competency here: learn the current approach and align to it, rather than replacing it.
 
-### The Whole Map First: Verify vs. Validate, and the Nine Characteristics {#p-ch9-the-whole-map-first-verify-vs-validate-and-the-seven-characteristics}
+### The Whole Map First: Verify vs. Validate, and the Nine Characteristics {#p-ch9-the-whole-map-first-verify-vs-validate-and-the-nine-characteristics}
 
-Before the look-alike pairs, here is the full map. Verify and Validate are the two checks on developed requirements, and you met them in [Chapter 5, section 5.2](#as-5-2), as the table below shows.
+Before the look-alike pairs, here is the full map. Verify and Validate are the two checks on developed requirements, and you met them in [Chapter 5, section 5.3](#as-5-3), as the table below shows.
 
 |               | **Verify**                                              | **Validate**                                       |
 | ------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | Core question | “Is it usable for further work?” (good enough to use)           | “Is it the **right thing**?”                       |
-| Focus         | *Quality* of the requirement as written/modelled        | *Alignment* to business goals and value            |
+| Focus         | *Quality* of the requirement as written/modeled        | *Alignment* to business goals and value            |
 | Signal words  | vague, incomplete, inconsistent, untestable, infeasible | objective, goal, outcome, value, business need     |
 | ECBA action   | Check characteristics, flag issues, raise for rework    | Check alignment, flag misalignment, support review |
 
@@ -5063,7 +5081,7 @@ The characteristic pairs to compare are set out below, cross-referenced to where
 
 > ⚠️ **Exam Trap — consistent versus unambiguous.** Conflicting requirements or misalignment with stakeholder needs concern consistency. Several possible readings concern ambiguity. Check both against their sources; a clear sentence can still conflict with an agreed policy.
 
-> ⚠️ **Exam Trap — feasible versus testable.** Feasibility asks whether the requirement can reasonably be achieved under the constraints. Testability asks how fulfillment can be checked. Cohesion, correctness, and modifiability can be useful local review terms, but they are not names in the nine-item BABOK §7.2 list. A tailored checklist may include additional concerns.
+> ⚠️ **Exam Trap — feasible versus testable.** Feasibility asks whether the requirement can reasonably be achieved under the constraints. Testability asks how fulfillment can be checked. Terms such as modifiability or correctness come from other standards; they are not among the nine BABOK §7.2 names.
 
 > 💡 **Exam Tip — A.S. 9.4.** For a quality-characteristic question, ignore whether the requirement is valuable, because that is Validate. First ask what is wrong with the requirement as written, or with the set as organized, and then match the characteristic, checking the look-alike partner before you commit.
 
@@ -5079,31 +5097,30 @@ The characteristic pairs to compare are set out below, cross-referenced to where
 
 **A.S.:** 9.4
 
-
-**Stem.** During a verification review, a requirement says regional tax rates must be configurable. The reviewer notes the related design stores each rate separately inside dozens of screen-specific rules, so one future tax change would mean editing many places and could leave the system behaving inconsistently. The requirement does not contradict any other requirement. Which quality characteristic should the BA MOST directly question? The team’s tailored checklist defines modifiability as avoiding scattered edits and excessive ripple effects; use that stated criterion rather than treating it as a name in the nine BABOK characteristics.
+**Stem.** A requirements set for a pharmacy system is written in database terms such as “join keys” and “nullable fields.” The pharmacists who must review it say they cannot tell what the requirements mean for their work. The statements are otherwise precise and do not conflict. Which quality characteristic should the BA MOST directly question?
 
 **Options.**
 
-- A. Consistency, because the design could lead to inconsistent behavior.
-- B. Modifiability, because one change requires scattered, error-prone edits.
-- C. Completeness, because some tax rules may be missing.
-- D. Correctness, because a tax value may be wrong.
+- A. Understandable, because the terminology does not suit the intended reviewers.
+- B. Unambiguous, because each statement could be read in several ways.
+- C. Concise, because the database detail adds unnecessary content.
+- D. Feasible, because the requirements may be too technical to build within budget.
 
-##### C9-EL04 — Answer: B {#c9-el04-answer}
+##### C9-EL04 — Answer: A {#c9-el04-answer}
 
 | ID | Answer | Domain | A.S. | Type | Difficulty | Source |
 |---|---|---|---|---|---|---|
-| C9-EL04 | B | 9 | 9.4 | situation | medium | BABOK §7.2.4 |
+| C9-EL04 | A | 9 | 9.4 | situation | medium | BABOK §7.2.4 |
 
-**A.** Possible later inconsistency is a consequence, rather than the stated checklist concern.
+**A.** *Correct.* Understandable requires terms that the intended audience can follow; the reviewers cannot follow these terms.
 
-**B.** The design fails the scenario’s explicit modifiability criterion; this is supplementary checklist vocabulary.
+**B.** *Incorrect.* The statements are described as precise, so several possible readings are not the reported problem.
 
-**C.** No missing tax rule is identified.
+**C.** *Incorrect.* The detail is not unrelated content; it is expressed in the wrong vocabulary for this audience.
 
-**D.** No inaccurate tax value is identified.
+**D.** *Incorrect.* Nothing in the scenario questions whether the solution can be built within its constraints.
 
-**Reasoning (two-step).** First use the tailored checklist criterion explicitly supplied in the question. Then distinguish scattered edits from a present conflict, missing rule, or wrong value. Modifiability is supplementary checklist vocabulary here, rather than a BABOK quality-characteristic name.
+**Reasoning (two-step).** First locate the defect: the intended reviewers cannot follow the vocabulary. Then compare the look-alike characteristics. Precise wording rules out Unambiguous, relevant content rules out Concise, and no constraint is in question, so Feasible does not apply. The audience-fit problem points to Understandable.
 
 **Source detail:** BABOK §7.2.4
 
@@ -5131,7 +5148,7 @@ Use the specific defect: unnecessary content concerns Concise; missing essential
 
 ## Chapter 9 — Summary {#p-ch9-chapter-9-summary}
 
-  - Domain 9 is worth **10%** — about **5 questions** — and is built on the BACCM concept of **Context**: the circumstances shaping the change. The exam pattern is to identify the contextual factor, then choose the entry-level response. The BA supports, documents, raises, applies, and adapts — under guidance.
+  - Domain 9 is worth **10%** — about **5 questions** — and is built on the BACCM concept of **Context**: the circumstances shaping the change. A useful approach is to identify the contextual factor, then choose the entry-level response. The BA supports, documents, raises, applies, and adapts — under guidance.
   - **Information quality (9.1).** Keep BA information usable through an *information management approach* (organize, locate, trace, reuse, protect — not just a tool). **Maintain** keeps existing valid information accurate; **Approve** is authorized agreement to proceed — and approval does not fix quality problems.
   - **Constraints (9.2).** A *constraint* is a known, fixed boundary; a *risk* is an uncertain event with an effect — name each separately. A **solution limitation** is inside the solution; an **enterprise limitation** is around it (the heuristic must be checked against evidence).
   - **Technology integration (9.3).** Support *requirements architecture* — interface requirements, dependencies, views — not the technical design (API, schema, platform). The BA helps analyze how a technology trend affects requirements; it does not pick the trend.
@@ -5194,10 +5211,10 @@ Attempt all eight under exam discipline before you check your answers, and aim f
 
 An approved requirement for shift-handover reporting is still correct and no one is questioning what it says. But its owner field still names an analyst who left the team, and its priority was changed verbally in last week’s review without being recorded. No sign-off is being sought right now. Which task does this work BEST fit?
 
-- A. Approve Requirements and Designs, because authorized stakeholders must re-confirm the requirement.
-- B. Define Requirements Architecture, because the requirement must be reorganized within the set.
-- C. Validate Requirements and Designs, because the requirement must be re-checked against business value.
-- D. Maintain Requirements and Designs, because the requirement is valid but its attributes are out of date.
+- A. Approve Requirements, because authorized stakeholders should re-confirm the requirement.
+- B. Define Requirements Architecture, because the requirement needs a new place within the set.
+- C. Validate Requirements, because the requirement needs re-checking against business value.
+- D. Maintain Requirements, because the requirement is valid but its attributes are stale.
 
 ### C9-Q02 {#c9-q02}
 
@@ -5205,10 +5222,10 @@ An approved requirement for shift-handover reporting is still correct and no one
 
 Requirements for an initiative are spread across two shared drives, a spreadsheet, and an email thread. Stakeholders cannot tell which version is current, and two copies now state different approval limits for the same rule. Working under guidance, what should the analyst support FIRST?
 
-- A. Apply an information management approach defining how the information is organized, stored, accessed, and kept current.
-- B. Ask IT to purchase a single enterprise requirements-management tool to replace all current storage.
-- C. Delete the older copies so only one version of each requirement remains.
-- D. Pause all requirements work until a single owner is appointed for every document.
+- A. Apply an information management approach for how the information is stored and kept current.
+- B. Ask IT to purchase an enterprise requirements tool to replace the current storage locations.
+- C. Delete the older copies so that one version of each requirement remains.
+- D. Pause requirements work until an owner is appointed for each document.
 
 ### C9-Q03 {#c9-q03}
 
@@ -5225,23 +5242,23 @@ A new customer-analytics dashboard has been deployed and its data connectors wor
 
 **A.S.:** 9.2
 
-A supplier contract fixes a hard daily limit of 5,000 identity-verification calls. The limit itself is firmly known, but the team is unsure whether an upcoming seasonal campaign will exceed it, how badly onboarding could be disrupted if it does, and what fallback to prepare. Which BEST describes how the analyst should treat these two things?
+Midway through planning a customer-analytics initiative, the analyst learns that a newly confirmed company policy requires customer records to remain in the home country. The plan assumes a hosted analytics service that stores data in another region. Working under guidance, what should the analyst support NEXT?
 
-- A. Both the daily limit and the possible overflow are risks, since both involve the supplier.
-- B. Both are constraints, since both restrict what the team can do.
-- C. The known daily limit is a constraint; uncertain overflow and disruption are a risk.
-- D. The daily limit is a risk; the campaign overflow is a constraint that cannot be changed.
+- A. Continue with the hosted service, because the plan was approved before the policy was confirmed.
+- B. Record the policy as a risk to monitor, because its effect on the plan is not yet known.
+- C. Treat the policy as a constraint and help reassess the affected plan elements with the decision makers.
+- D. Select a different hosting provider that meets the policy, so the original schedule is protected.
 
 ### C9-Q05 {#c9-q05}
 
 **A.S.:** 9.3
 
-A new fraud-screening service must exchange data with the order system, the billing system, and a reporting database. Stakeholders disagree about which requirements depend on which interface. Working under guidance and from a requirements perspective, what should the analyst MOST appropriately support?
+A retailer’s leadership notices that competitors now offer chatbots for order tracking and asks whether the company should do the same. The analyst is asked to help with the analysis. From a business analysis perspective, what should the analyst support FIRST?
 
-- A. Producing the final API specification for each of the three interfaces.
-- B. Documenting the interface-related requirements and the dependencies among them.
-- C. Choosing which integration platform the team should standardize on.
-- D. Building the delivery schedule that assigns each interface to a development team.
+- A. Recommend adopting a chatbot quickly, because competitors already use one and customers may expect it.
+- B. Clarify the customer need it would address and how it would connect to current order data.
+- C. Draft the chatbot’s conversation scripts so stakeholders can react to a concrete design.
+- D. Ask the IT team to select a chatbot vendor and estimate its cost.
 
 ### C9-Q06 {#c9-q06}
 
@@ -5250,20 +5267,20 @@ A new fraud-screening service must exchange data with the order system, the bill
 A requirement is clear, complete, and testable, and follows the team's template. During review, however, no one can explain how it still supports the business goal after that goal was recently revised. Which concept is MOST directly being questioned, and why?
 
 - A. Verification, because the requirement may not be written to a usable quality standard.
-- B. Verification happens only after the solution is built, so the timing is wrong to check it now.
-- C. Approval, because a revised goal means the requirement must simply be re-signed.
+- B. Verification belongs after the solution is built, so the timing is wrong to check it now.
+- C. Approval, because a revised goal means the requirement should be re-signed.
 - D. Validation, because the question concerns alignment to the revised goal and value.
 
 ### C9-Q07 {#c9-q07}
 
 **A.S.:** 9.4
 
-During a verification review, a requirement states that regional tax rates must be configurable. The reviewer notes that the related design stores each rate separately inside dozens of screen-specific rules, so a single future tax change would mean editing many places and could easily leave the system behaving inconsistently. The requirement does not contradict any other requirement. The team’s tailored verification checklist defines modifiability as the ability to change the design without scattered edits and excessive ripple effects. Which checklist concern should the analyst MOST directly question?
+During verification, a reviewer reads this requirement: “The system shall validate the customer’s address, calculate the shipping cost, and email a confirmation.” Each obligation is clear and testable by itself, but stakeholders keep accepting or rejecting the statement as a whole, so agreed parts cannot move forward. Which quality characteristic should the analyst MOST directly question?
 
-- A. Modifiability, because the design cannot be changed cleanly — a single tax update requires edits in many scattered places.
-- B. Consistency, because the design could produce inconsistent behavior across different parts of the system.
-- C. Completeness, because some of the regional tax rules may be absent from the requirements.
-- D. Correctness, because one or more of the configured tax rate values may be inaccurate.
+- A. Atomic, because three separately understandable obligations are bundled into one requirement.
+- B. Unambiguous, because readers may interpret the shipping calculation differently.
+- C. Complete, because the requirement does not state which carrier rates apply.
+- D. Testable, because the combined statement would need three separate checks.
 
 ### C9-Q08 {#c9-q08}
 
@@ -5272,7 +5289,7 @@ During a verification review, a requirement states that regional tax rates must 
 A reviewer is verifying the requirements set for a warehouse-inventory initiative. The set covers receiving, storage, and picking in detail — but it also contains two requirements about planning the staff cafeteria menu, which have nothing to do with inventory. Which quality characteristic is MOST directly missing?
 
 - A. Completeness, because required inventory information may be absent.
-- B. Correctness, because the cafeteria requirements may be inaccurate.
+- B. Atomic, because each cafeteria requirement should be split into smaller statements.
 - C. Concise, because the set includes unnecessary content unrelated to the inventory need.
 - D. Testability, because the unrelated requirements make it harder to design a focused verification review.
 
@@ -5280,15 +5297,15 @@ A reviewer is verifying the requirements set for a warehouse-inventory initiativ
 
 # Chapter 10 — Practice Exam {#ch10}
 
-This is one full, blueprint-weighted practice exam, with the same shape as the real ECBA. Take it **after** you have read the nine domain chapters and worked their Practice Questions. The answer key and full rationale are in the **Practice Exam — Answer Key & Rationale** section at the back of the book; do not look at them until you have finished.
+This is one full practice exam with 50 questions in 75 minutes, weighted by domain like the ECBA Exam Blueprint. Take it **after** you have read the nine domain chapters and worked their Practice Questions. The answer key and full rationale are in the **Practice Exam — Answer Key & Rationale** section at the back of the book; do not look at them until you have finished.
 
 ## How to Take This Practice Exam {#p-ch10-practice-exam-how-to-take-this-practice-exam}
 
-Set a timer for **75 minutes** and work without notes, chapter summaries, appendices, or the answer key. Choose the best answer for every question, even when two options seem plausible. Answer every question, because a blank scores the same as a wrong choice.
+Set a timer for **75 minutes** and work without notes, chapter summaries, appendices, or the answer key. Choose the best answer for every question, even when two options seem plausible. Answer every question, because a blank cannot earn credit.
 
 Read the **role and governance** in each scenario. Where work is under guidance, support the responsible decision makers. Do not assume authority that the scenario assigns elsewhere, or ignore responsibility that it assigns to the analyst.
 
-**Pace:** 50 questions in 75 minutes is about 90 seconds each. If a question runs past two minutes, mark it, record your best guess, and move on.
+**Pace:** 50 questions in 75 minutes is about 90 seconds each. If a question runs past two minutes, record your best guess, note it for review, and move on.
 
 **Blueprint weighting of this exam:**
 
@@ -5315,9 +5332,9 @@ Read the **role and governance** in each scenario. Where work is under guidance,
 A sponsor tells a business analyst, “Your job here is just to write down the features we’ve already agreed and pass them to the developers.” Based on the Standard’s definition of business analysis, which response BEST reflects what business analysis actually is?
 
 - A. The sponsor is correct: at entry level, business analysis is the accurate documentation of agreed features.
-- B. Business analysis is whatever the sponsor authorizes, so the scope is limited to documentation in this case.
-- C. Business analysis cannot proceed until a formal requirements-management tool is in place to store the features.
-- D. Business analysis clarifies needs and recommends value-focused solutions, beyond recording agreed features.
+- B. Business analysis follows the sponsor’s direction, so the scope here is documenting the agreed features.
+- C. Business analysis should begin once a requirements-management tool is in place to store the features.
+- D. Business analysis clarifies needs and recommends solutions that deliver value.
 
 ### PE-Q02 {#pe-q02}
 
@@ -5326,7 +5343,7 @@ A sponsor tells a business analyst, “Your job here is just to write down the f
 A museum is considering extended evening hours. The proposal could increase ticket revenue and community access, but it may also raise staffing costs and reduce volunteer availability. What response BEST demonstrates business acumen in the BA role?
 
 - A. Recommend extended hours because increased revenue is the clearest measure of value.
-- B. Help stakeholders evaluate the change in terms of organizational outcomes, value, and stakeholder impacts.
+- B. Help stakeholders weigh outcomes, value, and impacts across the groups affected.
 - C. Let each department define success independently so the BA remains neutral.
 - D. Recommend against the change because increased staffing cost reduces financial value.
 
@@ -5339,7 +5356,7 @@ A city department wants to extend permit-office hours on Saturdays. The BA notic
 - A. Begin drafting Saturday staffing requirements because the solution direction has been selected.
 - B. Ask whether Saturday hours fit the department’s budget before considering residents or value.
 - C. Confirm that leadership has authority to approve the schedule change.
-- D. Clarify the need, affected stakeholders, expected value, and context before refining or recommending the solution.
+- D. Clarify the need, stakeholders, expected value, and context before refining the solution.
 
 ### PE-Q04 {#pe-q04}
 
@@ -5358,10 +5375,10 @@ Which statement BEST reflects how a Solution may be understood in the BACCM?
 
 An insurance organization is discussing a claims improvement effort. Executives focus on strategic trust, the initiative team focuses on faster claim decisions, and operations focuses on day-to-day handoff errors. The BA is asked to use BACCM to structure analysis conversations across all three groups. How can BACCM most usefully support this work?
 
-- A. By requiring all groups to use the same level of detail before analysis continues.
-- B. By allowing the business analyst to select the executive view as the only valid perspective on value.
+- A. By asking each group to use the same level of detail before analysis continues.
+- B. By letting the analyst treat the executive view as the main perspective on value.
 - C. By separating strategic, tactical, and operational concerns so they do not influence each other.
-- D. By connecting needs, stakeholders, solutions, value expectations, and context across strategic, tactical, and operational levels.
+- D. By connecting needs, stakeholders, solutions, value, and context across the three levels.
 
 ### PE-Q06 {#pe-q06}
 
@@ -5383,7 +5400,7 @@ Which option contains only activities the Standard lists as ways effective busin
 - A. Assigning project resources; approving scope changes; closing vendor contracts.
 - B. Building solution components; managing infrastructure; producing deployment scripts.
 - C. Setting executive compensation targets; auditing individual performance; enforcing disciplinary actions.
-- D. Clarifying business problems and opportunities; identifying potential value; helping teams assess trade-offs.
+- D. Clarifying problems and opportunities; identifying potential value; assessing trade-offs.
 
 ### PE-Q08 {#pe-q08}
 
@@ -5393,7 +5410,7 @@ A public transit agency receives complaints that riders are missing connecting b
 
 - A. Recommend approving the extra buses because rider complaints show the current capacity is insufficient.
 - B. Compare the cost of additional buses with the cost of updating the route-planning software.
-- C. Investigate the underlying causes of missed connections, such as schedule timing, route design, rider information, and transfer patterns.
+- C. Investigate why connections are missed, such as schedule timing and transfer patterns.
 - D. Ask customer service to categorize the complaints so the agency can report them more clearly to leadership.
 
 ### PE-Q09 {#pe-q09}
@@ -5413,10 +5430,10 @@ A hospital pharmacy initiative aims to reduce medication dispensing errors. The 
 
 Which statement BEST describes when value is discovered during an initiative?
 
-- A. Only after go-live, because actual operational outcomes can then be measured.
-- B. Only during strategic planning, before requirements and designs are discussed.
+- A. Mainly after go-live, when actual operational outcomes can be measured.
+- B. Mainly during strategic planning, before requirements and designs are discussed.
 - C. Throughout the initiative, as work progresses toward desired outcomes.
-- D. Whenever stakeholders agree to a complete feature list.
+- D. When stakeholders agree to a complete list of features.
 
 ### PE-Q11 {#pe-q11}
 
@@ -5425,7 +5442,7 @@ Which statement BEST describes when value is discovered during an initiative?
 A BA is asked to mark a set of assumptions as “confirmed” so the team can meet a launch deadline. The BA knows the assumptions have not yet been checked with affected users. Which response BEST reflects an empowering mindset aligned with shared values?
 
 - A. Mark the assumptions as confirmed because the delivery deadline is a valid organizational outcome.
-- B. Raise the concern, keep the assumptions clearly labelled as unvalidated, and support the team in deciding how to validate them.
+- B. Raise the concern, keep the assumptions labeled as unvalidated, and help plan their validation.
 - C. Mark the assumptions as confirmed now and schedule a formal validation session for after launch.
 - D. Add a private note to revisit the assumptions later, but leave the shared status as confirmed.
 
@@ -5501,9 +5518,9 @@ When would Business Acumen be especially useful for a BA applying foundational c
 
 A global retailer has business analysis activities embedded in merchandising, supply chain, and store operations teams. For a seasonal regulatory initiative, it also contracts a specialist provider for short-term analysis support. Separately, people who perform analysis across the retailer meet monthly to exchange lessons learned and useful practices. No dedicated internal standards unit is described. Which interpretation BEST aligns with the Standard?
 
-- A. The retailer is using only Business Analysis as a Service because an external specialist provider is involved.
-- B. The retailer is using a Centre of Excellence because any recurring cross-team meeting automatically becomes a standards-owning unit.
-- C. The retailer is using only dispersed delivery because most business analysis activity is embedded in business teams.
+- A. The retailer is using Business Analysis as a Service, because an external specialist provider is involved.
+- B. The retailer is using a Centre of Excellence, because practitioners meet monthly to share practices.
+- C. The retailer is using dispersed delivery, because most analysis activity is embedded in business teams.
 - D. The retailer is combining dispersed delivery, Business Analysis as a Service, and a Community of Practice.
 
 ### PE-Q19 {#pe-q19}
@@ -5512,10 +5529,10 @@ A global retailer has business analysis activities embedded in merchandising, su
 
 A team is evaluating an automated workforce scheduling tool. The preferred configuration improves utilization and is allowed under company policy, but early review suggests it may consistently assign less desirable shifts to employees with caregiving constraints. What should the BA do?
 
-- A. Raise the ethical concern with appropriate stakeholders and support analysis of whether stakeholder needs can be met ethically while still creating value.
+- A. Raise the ethical concern with the right stakeholders and support analysis of an ethical, valuable option.
 - B. Proceed with the configuration because it is allowed by policy and produces the strongest operational performance.
-- C. Reject the scheduling tool independently because any automated system that creates ethical risk should not be used.
-- D. Proceed with the configuration on a pilot basis, monitor shift assignments for three months, and raise the ethical concern only if complaints occur.
+- C. Reject the scheduling tool on the analyst’s own authority, because it creates ethical risk.
+- D. Proceed with a three-month pilot and raise the ethical concern if complaints occur.
 
 ### PE-Q20 {#pe-q20}
 
@@ -5523,10 +5540,10 @@ A team is evaluating an automated workforce scheduling tool. The preferred confi
 
 Which item is BEST classified as a design rather than a requirement?
 
-- A. Permit applicants must receive status updates within one business day.
-- B. A service blueprint specifying how the selected solution implements handoffs between permit-processing teams.
-- C. The initiative should reduce average permit review time by 20%.
-- D. Call center staff must have temporary support guidance available during the first release week.
+- A. Permit applicants receive status updates within one business day.
+- B. A service blueprint of how the chosen solution hands work between permit teams.
+- C. The initiative should reduce the average permit review time by 20% within a year.
+- D. Call center staff need temporary support guidance during the first release week.
 
 ### PE-Q21 {#pe-q21}
 
@@ -5534,9 +5551,9 @@ Which item is BEST classified as a design rather than a requirement?
 
 A change will alter how branch staff, a call center, a third-party service provider, and a compliance team coordinate customer onboarding. Stakeholders are in different countries, use different terminology, and have different levels of experience explaining their needs. What planning response BEST reflects the influence of stakeholder and organizational factors?
 
-- A. Interview only the most experienced stakeholder group and use its terminology as the standard for all others.
+- A. Interview the most experienced stakeholder group first and use its terminology as the shared standard.
 - B. Select the organization’s default methodology and avoid tailoring so that the approach remains consistent.
-- C. Tailor the business analysis approach to account for stakeholder complexity, geographic and cultural differences, terminology gaps, and participation risks.
+- C. Tailor the approach to the stakeholder, geographic, cultural, terminology, and participation factors.
 - D. Wait to plan business analysis activities until the provider confirms the final solution design.
 
 ### PE-Q22 {#pe-q22}
@@ -5547,8 +5564,8 @@ A medical device company is updating requirements and designs for complaint hand
 
 - A. Plan what needs approval, when, by whom, and how approvals are tracked.
 - B. Keep approvals informal so the team can reduce documentation and move quickly through implementation.
-- C. Focus only on the change strategy because approvals are not part of business analysis governance.
-- D. Delegate the approval process entirely to the compliance team and let them define which requirements need sign-off.
+- C. Focus on the change strategy, because approvals are handled outside business analysis governance.
+- D. Hand approval planning to the compliance team and let it decide which requirements need sign-off.
 
 ### PE-Q23 {#pe-q23}
 
@@ -5556,8 +5573,8 @@ A medical device company is updating requirements and designs for complaint hand
 
 A regulator changes the required retention period for transaction records. The BA is asked to help the team understand what may need to adapt across requirements and designs. What information would BEST support that work?
 
-- A. Trace links from the retention requirement to affected requirements, designs, and validation elements.
-- B. A list of all approved requirements sorted by priority and current status.
+- A. Trace links from the retention requirement to the affected requirements and designs.
+- B. A list of the approved requirements sorted by priority and current status.
 - C. A summary of stakeholder preferences about the user interface.
 - D. A solution performance dashboard showing current transaction volume and response time.
 
@@ -5580,8 +5597,8 @@ During a review of a self-service onboarding process, a stakeholder suggests rem
 
 - A. Remove the step from the requirement because the improvement is simple and reduces cycle time.
 - B. Ask the stakeholder to decide whether the compliance risk is acceptable because they requested the improvement.
-- C. Help capture the request and assess the policy, risk, value, and scope implications through the established change process.
-- D. Decline the request because any compliance-related step must remain unchanged.
+- C. Help capture the request and assess its policy, risk, value, and scope through the change process.
+- D. Decline the request, because compliance-related steps are outside the scope of improvement.
 
 ### PE-Q26 {#pe-q26}
 
@@ -5600,7 +5617,7 @@ A BA is preparing to understand why store associates bypass a new checkout step.
 
 In Confirm Elicitation Results, why would a BA compare elicitation results to other elicitation results and existing source material?
 
-- A. To identify possible errors, omissions, conflicts, or ambiguity before the information is used further.
+- A. To find errors, omissions, conflicts, or ambiguity before the information is used further.
 - B. To determine which requirements should receive the highest priority in the next release.
 - C. To obtain formal agreement that the requirements are approved for delivery.
 - D. To prove that the requirements and designs will deliver the intended business value.
@@ -5633,10 +5650,10 @@ Stakeholders reviewing a returns process disagree on the needed outcome. Sales w
 
 A nonprofit is prioritizing needs for a new case-management solution. A beneficiary intake change has the strongest expected service value, a donor reporting change must be ready before the next grant review, and a data cleanup requirement is needed before either reporting or advanced intake analytics will work reliably. Stakeholders want all three marked “highest priority.” What should the entry-level BA BEST support?
 
-- A. Mark all three as highest priority because stakeholders have stated that each item is important.
-- B. Put the beneficiary intake change first because the highest expected service value should always override timing and dependencies.
+- A. Mark the three items as highest priority, because stakeholders say each one is important.
+- B. Put the beneficiary intake change first, because the highest expected service value takes precedence over timing.
 - C. Ask the sponsor to decide privately and communicate the final order after the meeting.
-- D. Compare benefit, timing, dependencies, and trade-offs with stakeholders; revisit priorities as information changes.
+- D. Compare benefit, timing, and dependencies with stakeholders, and revisit priorities as information changes.
 
 ### PE-Q31 {#pe-q31}
 
@@ -5646,7 +5663,7 @@ A new employee-onboarding solution is being checked against the desired future-s
 
 - A. The equipment step should be removed from the future-state process because it lacks a trace link.
 - B. The future-state process map exists, so the onboarding solution can be considered validated.
-- C. A potential coverage gap: a future-state process step appears unsupported by requirements or designs and should be reviewed.
+- C. A potential coverage gap: a future-state step has no supporting requirement or design and needs review.
 - D. The process step should be treated as a project management task, not a solution validation concern.
 
 ### PE-Q32 {#pe-q32}
@@ -5667,9 +5684,9 @@ Which comparison BEST supports a recommendation among solution options at the EC
 A food distributor is comparing two future-state approaches for demand forecasting. Option 1 has the highest potential value but depends on a new data-sharing agreement with retailers; legal review is uncertain and implementation must finish before peak season. Option 2 has lower potential value but uses internal data and fits the enterprise’s current risk tolerance. The sponsor asks the BA to recommend Option 1 because “value should drive the decision.” What is the BEST ECBA-level response?
 
 - A. Recommend Option 1 because the option with the highest potential value should outweigh risk when it supports the business objective.
-- B. Present both options against objectives, value, feasibility, risk tolerance, and residual risk for stakeholder decision.
-- C. Reject Option 1 because legal uncertainty makes it impossible to evaluate as a design option.
-- D. Select Option 2 because it fits current risk tolerance and therefore requires no further stakeholder review.
+- B. Present both options against objectives, value, feasibility, and risk tolerance for the stakeholders to decide.
+- C. Remove Option 1 from consideration, because its legal review is still uncertain.
+- D. Select Option 2 on the analyst’s own judgment, because it fits the current risk tolerance.
 
 ### PE-Q34 {#pe-q34}
 
@@ -5699,9 +5716,9 @@ A design artifact for an employee onboarding solution describes, in long paragra
 
 A BA needs to communicate a new appointment-scheduling design to two groups. Call-center leads need to understand exception scenarios before coaching agents, while the sponsor only needs the decision impact and unresolved trade-offs. What should the BA do?
 
-- A. Give both groups the detailed exception catalogue so no information is hidden from the sponsor.
-- B. Present only the sponsor-level summary to both groups so the message stays consistent.
-- C. Create separate but aligned communication packages: scenario-focused detail for call-center leads and decision-focused summary for the sponsor.
+- A. Give both groups the detailed exception catalog so no information is hidden from the sponsor.
+- B. Present the sponsor-level summary to both groups so the message stays consistent.
+- C. Prepare aligned packages: exception detail for the call-center leads and a decision summary for the sponsor.
 - D. Ask the call-center leads to wait for the sponsor’s decision before receiving any design information.
 
 ### PE-Q37 {#pe-q37}
@@ -5721,21 +5738,21 @@ During stakeholder analysis for an electronic medication record change, nurses a
 
 Which statement BEST reflects how impact, influence, interests, and group dynamics should be used when supporting a Stakeholder Engagement Approach?
 
-- A. Stakeholders with the highest influence should always receive the most engagement, because influence is the only dimension that can affect outcomes.
+- A. Stakeholders with the highest influence should receive the most engagement, because influence shapes outcomes most directly.
 - B. Analyze stakeholder characteristics together to tailor collaboration and communication to each group.
-- C. Stakeholder impact should be analyzed only after the solution has been implemented and measured.
-- D. Stakeholder interests should be captured only for external stakeholders, because internal stakeholders share the organization’s goals.
+- C. Stakeholder impact should be analyzed after the solution has been implemented and measured.
+- D. Stakeholder interests matter mainly for external stakeholders, because internal stakeholders share the organization’s goals.
 
 ### PE-Q39 {#pe-q39}
 
 **A.S.:** 7.3
 
-Which workshop planning risk is specifically consistent with BABOK 10.50 usage considerations?
+An analyst is planning a two-hour workshop to agree on changes to a returns process. The sponsor wants to invite all 25 people who have shown interest, so that no one feels left out. Which consideration should the analyst raise about attendance?
 
-- A. Workshops cannot provide immediate feedback on issues or decisions.
-- B. Workshops do not require facilitation when the participants are subject matter experts.
-- C. Inviting more participants always improves representation and workshop effectiveness.
-- D. Too many participants can slow work; too few can leave needs overlooked.
+- A. Agreement comes fastest when every interested person attends the session.
+- B. Subject matter experts can run the session without a facilitator.
+- C. Inviting fewer people removes the need to confirm the results afterward.
+- D. Too many participants can slow it; too few can miss important needs.
 
 ### PE-Q40 {#pe-q40}
 
@@ -5743,10 +5760,10 @@ Which workshop planning risk is specifically consistent with BABOK 10.50 usage c
 
 Why should stakeholder motivations and concerns be revisited as business analysis activities continue?
 
-- A. Their perceptions and engagement needs can change, calling for adjusted collaboration or communication.
-- B. All stakeholder concerns eventually become approved requirements if they are documented long enough.
-- C. A stakeholder list cannot be created until all requirements and designs have already been approved.
-- D. Only stakeholders with negative attitudes need ongoing engagement analysis.
+- A. Their perceptions and engagement needs can change, so collaboration may need adjusting.
+- B. Stakeholder concerns become approved requirements once they have been documented.
+- C. The stakeholder list is created after the requirements and designs have been approved.
+- D. Ongoing engagement analysis is needed mainly for stakeholders with negative attitudes.
 
 ### PE-Q41 {#pe-q41}
 
@@ -5763,23 +5780,23 @@ A city wants to reduce downtown traffic congestion. One proposed business object
 
 **A.S.:** 8.1
 
-In Define Future State, which element most directly clarifies what will and will not change within the solution space?
+During future-state work on a slow claims process, stakeholders disagree about whether to consider only software changes or also policy changes and outsourcing parts of the work. Which Define Future State element is the analyst helping to clarify?
 
-- A. Business potential.
-- B. Solution scope.
-- C. Transition states.
+- A. Potential value.
+- B. Scope of solution space.
+- C. Constraints.
 - D. Business goals and objectives.
 
 ### PE-Q43 {#pe-q43}
 
 **A.S.:** 8.2
 
-Which item is a guideline or tool for BABOK 7.6 Analyze Potential Value and Recommend Solution?
+An analyst is helping compare two candidate solutions before a value recommendation is prepared. Each option depends on an outside partner that may not deliver on time. Which input would MOST directly help the analyst account for how that uncertainty could reduce each option’s value?
 
-- A. Recommended Actions
-- B. Solution Performance Measures
-- C. Stakeholder Engagement Approach
-- D. Risk Analysis Results
+- A. Recommended actions from an earlier solution evaluation.
+- B. Performance measures collected from the current solution.
+- C. The stakeholder engagement approach for the initiative.
+- D. Risk analysis results for each option.
 
 ### PE-Q44 {#pe-q44}
 
@@ -5831,7 +5848,7 @@ Which evidence BEST indicates that a value gap is caused by an internal solution
 
 A rules engine is being considered because tax-calculation rules change often across regions. What should the BA support clarifying before the technology decision is treated as final?
 
-- A. Which business rules and decision criteria must be explicit and related to requirements, regardless of implementation.
+- A. Which business rules and decision criteria need to be explicit, whatever the implementation.
 - B. Which rules engine product should be selected because it can automate the most regional variations.
 - C. Whether developers can embed the tax rules directly in code to avoid stakeholder review cycles.
 - D. Whether all tax-policy requirements can be reclassified as system performance requirements.
@@ -5842,7 +5859,7 @@ A rules engine is being considered because tax-calculation rules change often ac
 
 A team has adopted a cybersecurity framework and a defined delivery methodology. At the ECBA foundational level, what should a BA do with these when planning BA work?
 
-- A. Align BA work, deliverables, terminology, reviews, and timing with the adopted framework and methodology.
+- A. Align BA work, deliverables, and reviews with the adopted framework and methodology.
 - B. Replace them with the BA’s preferred approach if that approach is faster.
 - C. Create a new cybersecurity framework before elicitation can begin.
 - D. Treat them as background reading that should not influence BA tasks or deliverables.
@@ -5887,13 +5904,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q01 — Answer: C {#c1-q01-answer}
 
-**A.** **Option A.** *Near-miss (tempting but plainly wrong).* It correctly says documentation matters, then makes a false claim: that documentation is “the core” and that enabling change *simply means* keeping docs current. That equation is exactly what the definition rejects — enabling change is the purpose; documentation is one supporting activity, not the core.
+**A.** *Near-miss.* It correctly says documentation matters, then makes a false claim: that documentation is “the core” and that enabling change *simply means* keeping docs current. That equation is exactly what the definition rejects — enabling change is the purpose; documentation is one supporting activity, not the core.
 
-**B.** **Option B.** *Near-miss.* Recording a decision stakeholders have already made *is* documentation — so it describes the very thing “enabling change” is meant to add to, not the thing it adds. It restates the colleague’s view rather than answering it.
+**B.** *Near-miss.* Recording a decision stakeholders have already made *is* documentation — so it describes the very thing “enabling change” is meant to add to, not the thing it adds. It restates the colleague’s view rather than answering it.
 
-**C.** **Why C is correct.** The Standard’s definition begins with “enabling change.” Change here means helping the enterprise move from its current state to a desired future state in response to a need. Documentation *supports* this work, but it is not the purpose — and only C names the transformational purpose that “enabling change” adds beyond careful documentation, while correctly placing documentation as a support activity.
+**C.** *Correct.* The Standard’s definition begins with “enabling change.” Change here means helping the enterprise move from its current state to a desired future state in response to a need. Documentation *supports* this work, but it is not the purpose — and only C names the transformational purpose that “enabling change” adds beyond careful documentation, while correctly placing documentation as a support activity.
 
-**D.** The scenario assigns neither ownership of the change nor authority to decide alone. Checking a built solution also does not define the wider purpose of enabling a needs-driven change.
+**D.** *Incorrect.* The scenario assigns neither ownership of the change nor authority to decide alone. Checking a built solution also does not define the wider purpose of enabling a needs-driven change.
 
 **Trap.** B simply restates “documentation”; A and D each contain a specific false claim wrapped around a true-sounding phrase — A overstates documentation as “the core,” D overstates the BA’s ownership and swaps in verification. Only C names the transformational purpose while keeping documentation in its supporting place.
 
@@ -5905,13 +5922,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q02 — Answer: A {#c1-q02-answer}
 
-**A.** **Why A is correct.** Business analysis is role-agnostic and industry-agnostic. Anyone who defines a need, analyzes context, and recommends a value-focused change is performing business analysis — title and technology are irrelevant. The coordinator investigates the rejection problem, elicits information from graders, and recommends a change to deliver value, which fits the Standard’s definition directly.
+**A.** *Correct.* Business analysis is role-agnostic and industry-agnostic. Anyone who defines a need, analyzes context, and recommends a value-focused change is performing business analysis — title and technology are irrelevant. The coordinator investigates the rejection problem, elicits information from graders, and recommends a change to deliver value, which fits the Standard’s definition directly.
 
-**B.** **Option B.** *Near-miss.* “Checking why outputs fail a standard” does sound like quality assurance, and QA and BA can overlap — but the coordinator is not just inspecting against a standard; she investigates the underlying cause and recommends a value-focused change, which is the business analysis act.
+**B.** *Near-miss.* “Checking why outputs fail a standard” does sound like quality assurance, and QA and BA can overlap — but the coordinator is not just inspecting against a standard; she investigates the underlying cause and recommends a value-focused change, which is the business analysis act.
 
-**C.** **Option C.** *Near-miss.* Splitting the work and calling only the interviews “analytical” is tempting because elicitation is visibly analytical. But business analysis is the whole arc — understanding the need, analyzing it, and recommending a change — not just the elicitation step; the rest is not mere administration.
+**C.** *Near-miss.* Splitting the work and calling only the interviews “analytical” is tempting because elicitation is visibly analytical. But business analysis is the whole arc — understanding the need, analyzing it, and recommending a change — not just the elicitation step; the rest is not mere administration.
 
-**D.** **Option D.** *Near-miss.* The work does refine an existing procedure, so “process improvement” feels right. But process improvement *is* business analysis when it is driven by defining a need and recommending a value-focused change; the label does not remove it from BA.
+**D.** *Near-miss.* The work does refine an existing procedure, so “process improvement” feels right. But process improvement *is* business analysis when it is driven by defining a need and recommending a value-focused change; the label does not remove it from BA.
 
 **Trap.** Each distractor relabels genuine business analysis as a neighboring discipline (QA, “only the elicitation part,” process improvement). The defining act — investigating a need and recommending a value-focused change, regardless of title or technology — is what makes it business analysis.
 
@@ -5923,13 +5940,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q03 — Answer: B {#c1-q03-answer}
 
-**A.** **Option A.** *Near-miss.* This swaps CoE and CoP. A Community of Practice is a collaborative space where practitioners voluntarily share experience and lessons learned; it does not own or enforce standards and quality the way the unit here does.
+**A.** *Near-miss.* This swaps CoE and CoP. A Community of Practice is a collaborative space where practitioners voluntarily share experience and lessons learned; it does not own or enforce standards and quality the way the unit here does.
 
-**B.** **Why B is correct.** A Centre of Excellence (CoE) is a specialized unit focused on business analysis excellence — standards, templates, methods, quality, and consistency. The scenario describes exactly this: a central unit owning standards and reviewing quality across projects.
+**B.** *Correct.* A Centre of Excellence (CoE) is a specialized unit focused on business analysis excellence — standards, templates, methods, quality, and consistency. The scenario describes exactly this: a central unit owning standards and reviewing quality across projects.
 
-**C.** **Option C.** Business Analysis as a Service involves an *external* provider supplying BA capability; the unit here is internal.
+**C.** *Incorrect.* Business Analysis as a Service involves an *external* provider supplying BA capability; the unit here is internal.
 
-**D.** **Option D.** The reasoning describes the dispersed model accurately (capability embedded close to the departments), but it misreads the scenario: a central unit that owns standards and reviews quality is *concentrated*, not dispersed. The description is correct; it simply does not match this scenario.
+**D.** *Incorrect.* The reasoning describes the dispersed model accurately (capability embedded close to the departments), but it misreads the scenario: a central unit that owns standards and reviews quality is *concentrated*, not dispersed. The description is correct; it simply does not match this scenario.
 
 **Trap.** Distinguish the CoE and CoP descriptions. Keep the signal words straight: CoE = standards/quality/consistency; CoP = voluntary sharing of experience.
 
@@ -5941,15 +5958,15 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q04 — Answer: B {#c1-q04-answer}
 
-**A.** A request identifies a candidate solution, but does not establish that it satisfies the underlying need. Stakeholder preference alone is not the BACCM definition of Solution.
+**A.** *Incorrect.* A request identifies a candidate solution, but does not establish that it satisfies the underlying need. Stakeholder preference alone is not the BACCM definition of Solution.
 
-**B.** **Why B is correct.** In the BACCM, a Solution is *a specific way of satisfying one or more needs within a context*. The requested one-page checkout is one such way, so it is a *proposed* Solution — but the concept is defined by the function (satisfying the abandonment need in context), not by the specific artifact requested. Other approaches (e.g., guest checkout, saved payment details) could also satisfy the same need, which is exactly why the definition is framed around satisfying the need rather than around the requested deliverable.
+**B.** *Correct.* In the BACCM, a Solution is *a specific way of satisfying one or more needs within a context*. The requested one-page checkout is one such way, so it is a *proposed* Solution — but the concept is defined by the function (satisfying the abandonment need in context), not by the specific artifact requested. Other approaches (e.g., guest checkout, saved payment details) could also satisfy the same need, which is exactly why the definition is framed around satisfying the need rather than around the requested deliverable.
 
-**C.** **Option C.** *Near-miss.* The reduction in abandonment is the **Value** the Solution is expected to deliver, not the Solution itself. This borrows the neighboring Value concept.
+**C.** *Near-miss.* The reduction in abandonment is the **Value** the Solution is expected to deliver, not the Solution itself. This borrows the neighboring Value concept.
 
-**D.** A one-page constraint is a representation of a stated need. It does not define the BACCM concept of a Solution as a way of satisfying needs in context.
+**D.** *Incorrect.* A one-page constraint is a representation of a stated need. It does not define the BACCM concept of a Solution as a way of satisfying needs in context.
 
-**Trap.** Each distractor swaps Solution for a neighbour: the requested deliverable (A), the Value gained (C), or the requirement (D). A Solution is defined by satisfying a need in context — so the requested feature is only *a* solution, not *the* definition.
+**Trap.** Each distractor swaps Solution for a neighbor: the requested deliverable (A), the Value gained (C), or the requirement (D). A Solution is defined by satisfying a need in context — so the requested feature is only *a* solution, not *the* definition.
 
 **Topic:** BACCM: Solution vs. request, value, requirement
 
@@ -5959,13 +5976,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q05 — Answer: A {#c1-q05-answer}
 
-**A.** **Why A is correct.** Context is the set of dynamic circumstances that influence, are influenced by, and provide an understanding of the change. Shipping regulations, seasonal timing, and shifting buying habits are external circumstances that shape whether the solution delivers value — squarely the BACCM concept of Context.
+**A.** *Correct.* Context is the set of dynamic circumstances that influence, are influenced by, and provide an understanding of the change. Shipping regulations, seasonal timing, and shifting buying habits are external circumstances that shape whether the solution delivers value — squarely the BACCM concept of Context.
 
-**B.** **Option B.** *Near-miss.* This is the Context-vs-project-scope trap. Project scope defines what is inside and outside the project boundary; Context is much broader, including external forces the project does not control (regulations, market behavior, seasons).
+**B.** *Near-miss.* This is the Context-vs-project-scope trap. Project scope defines what is inside and outside the project boundary; Context is much broader, including external forces the project does not control (regulations, market behavior, seasons).
 
-**C.** **Option C.** Consumers and regulators are Stakeholders, but the analyst is pointing to the *circumstances* surrounding the change, not the people related to it.
+**C.** *Incorrect.* Consumers and regulators are Stakeholders, but the analyst is pointing to the *circumstances* surrounding the change, not the people related to it.
 
-**D.** **Option D.** Estimated revenue relates to Value, but the analyst is not discussing expected worth; the point is the external conditions that could change whether that value is realized.
+**D.** *Incorrect.* Estimated revenue relates to Value, but the analyst is not discussing expected worth; the point is the external conditions that could change whether that value is realized.
 
 **Trap.** B narrows Context to “what is in scope.” Context is wider than the project boundary and includes forces outside the team’s control.
 
@@ -5977,13 +5994,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q06 — Answer: C {#c1-q06-answer}
 
-**A.** **Option A.** *Near-miss.* Updating the Solution design is a real and necessary step, which makes it tempting — but it treats the regulation as only a design fix. A Context change can also shift the Need (are some approvals no longer required at all?) and the Value, so acting on Solution alone is too narrow.
+**A.** *Near-miss.* Updating the Solution design is a real and necessary step, which makes it tempting — but it treats the regulation as only a design fix. A Context change can also shift the Need (are some approvals no longer required at all?) and the Value, so acting on Solution alone is too narrow.
 
-**B.** **Option B.** *Near-miss.* Recalculating Value/the business case is also legitimate and sounds analytically rigorous, but it likewise isolates one concept. The point of the BACCM is that Context touches Need, Solution, *and* Value together.
+**B.** *Near-miss.* Recalculating Value/the business case is also legitimate and sounds analytically rigorous, but it likewise isolates one concept. The point of the BACCM is that Context touches Need, Solution, *and* Value together.
 
-**C.** **Why C is correct.** The BACCM concepts are systemic: when one concept changes, the others should be re-examined together. A new regulation is a change in **Context**, and Context shapes the **Need** (which approvals are genuinely required), the **Solution** (the approval logic), and the **Value** (compliance, cost, benefit). The ECBA-level move is to *flag* that these may all be affected and support re-examining them as a connected set — not to fix one in isolation. Every distractor here is an *active, reasonable* response, so the test is not “act vs. do not act” — it is recognizing the systemic ripple rather than tackling a single concept.
+**C.** *Correct.* The BACCM concepts are systemic: when one concept changes, the others should be re-examined together. A new regulation is a change in **Context**, and Context shapes the **Need** (which approvals are genuinely required), the **Solution** (the approval logic), and the **Value** (compliance, cost, benefit). The ECBA-level move is to *flag* that these may all be affected and support re-examining them as a connected set — not to fix one in isolation. Every distractor here is an *active, reasonable* response, so the test is not “act vs. do not act” — it is recognizing the systemic ripple rather than tackling a single concept.
 
-**D.** **Option D.** *Near-miss (the subtlest).* Raising a formal Change request and “resetting scope” looks proactive and disciplined. But the scenario gives the analyst no authority to reset scope unilaterally, and collapsing the regulation into a single new requirement repeats the very error C warns against — treating one concept (a new requirement) as the whole response instead of re-examining the connected set.
+**D.** *Near-miss.* Raising a formal Change request and “resetting scope” looks proactive and disciplined. But the scenario gives the analyst no authority to reset scope unilaterally, and collapsing the regulation into a single new requirement repeats the very error C warns against — treating one concept (a new requirement) as the whole response instead of re-examining the connected set.
 
 **Trap.** All three distractors are *active* moves that each fix or recalculate a single concept (Solution in A, Value in B, a new requirement in D). The “BA should do something” instinct does not separate them — only recognizing that a Context change ripples across Need, Solution, and Value together points to C.
 
@@ -5995,13 +6012,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q07 — Answer: D {#c1-q07-answer}
 
-**A.** **Option A.** *Near-miss.* “Analyze each level in isolation” sounds efficient and protective of strategic time, but it breaks the alignment the Standard describes; the levels are meant to connect, not run independently.
+**A.** *Near-miss.* “Analyze each level in isolation” sounds efficient and protective of strategic time, but it breaks the alignment the Standard describes; the levels are meant to connect, not run independently.
 
-**B.** **Option B.** *Near-miss.* This is genuinely tempting because it *sounds* like alignment — it even uses the word — and one-directional “keep the lower levels aligned to the fixed goal” is how many organizations operate. The fine point: the Standard’s alignment is not one-way. Operational and tactical realities can and should feed back and inform the strategic goal; treating the goal as permanently fixed while only the lower levels adjust misses that the connection runs both ways.
+**B.** *Near-miss.* This is genuinely tempting because it *sounds* like alignment — it even uses the word — and one-directional “keep the lower levels aligned to the fixed goal” is how many organizations operate. The fine point: the Standard’s alignment is not one-way. Operational and tactical realities can and should feed back and inform the strategic goal; treating the goal as permanently fixed while only the lower levels adjust misses that the connection runs both ways.
 
-**C.** **Option C.** *Near-miss.* The first half is true — value *is* realized through operational changes — which is exactly what makes it tempting. But the conclusion overreaches: operational results alone are not *sufficient* to confirm a strategic goal is met. Value is assessed across all three levels; the strategic outcome is not simply read off operational data.
+**C.** *Near-miss.* The first half is true — value *is* realized through operational changes — which is exactly what makes it tempting. But the conclusion overreaches: operational results alone are not *sufficient* to confirm a strategic goal is met. Value is assessed across all three levels; the strategic outcome is not simply read off operational data.
 
-**D.** **Why D is correct.** The Standard frames value creation as something business analysis supports across strategic, tactical, and operational levels by keeping them aligned — so that long-term goals, initiative decisions, and day-to-day changes all point at the same desired outcomes.
+**D.** *Correct.* The Standard frames value creation as something business analysis supports across strategic, tactical, and operational levels by keeping them aligned — so that long-term goals, initiative decisions, and day-to-day changes all point at the same desired outcomes.
 
 **Trap.** A and C lean on a true-sounding fragment (isolate to protect strategy / value shows up operationally) before drawing a wrong conclusion, and B borrows the word “align” for a one-way relationship. The Standard’s point is a two-way alignment keeping all three levels pointed at the same desired outcomes.
 
@@ -6013,13 +6030,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q08 — Answer: B {#c1-q08-answer}
 
-**A.** **Option A.** *Near-miss.* “Planned features delivered on schedule and adoption is high” is an output-and-delivery view that feels like success. The trap is mistaking delivery and usage for value: the problem the project targeted has not improved.
+**A.** *Near-miss.* “Planned features delivered on schedule and adoption is high” is an output-and-delivery view that feels like success. The trap is mistaking delivery and usage for value: the problem the project targeted has not improved.
 
-**B.** **Why B is correct.** The performance enhancement function means business analysis does not stop at delivery: it continues to monitor and evaluate outcomes. Here, features shipped and adoption is high, but the intended outcome (fewer illegal-parking complaints) has not been achieved, so continued monitoring and analysis is the appropriate contribution.
+**B.** *Correct.* The performance enhancement function means business analysis does not stop at delivery: it continues to monitor and evaluate outcomes. Here, features shipped and adoption is high, but the intended outcome (fewer illegal-parking complaints) has not been achieved, so continued monitoring and analysis is the appropriate contribution.
 
-**C.** **Option C.** *Near-miss.* Reporting high adoption as *the* success measure is the subtlest trap here — usage is a real, encouraging signal and looks like evidence the solution works. But adoption is an output/usage measure, not the outcome (fewer complaints); strong usage that has not moved the target is exactly what performance enhancement exists to catch.
+**C.** *Near-miss.* Reporting high adoption as *the* success measure is the subtlest trap here — usage is a real, encouraging signal and looks like evidence the solution works. But adoption is an output/usage measure, not the outcome (fewer complaints); strong usage that has not moved the target is exactly what performance enhancement exists to catch.
 
-**D.** **Option D.** *Near-miss.* Reframing the unmet outcome as a downstream “operational concern for enforcement” sounds like a clean handoff, but it abandons the outcome the initiative was meant to deliver; the performance enhancement function keeps business analysis engaged until value is assessed, not until the artifact ships.
+**D.** *Near-miss.* Reframing the unmet outcome as a downstream “operational concern for enforcement” sounds like a clean handoff, but it abandons the outcome the initiative was meant to deliver; the performance enhancement function keeps business analysis engaged until value is assessed, not until the artifact ships.
 
 **Trap.** A, C, and D each declare success or hand off on a non-outcome basis — schedule (A), adoption (C), or an operational handoff (D). Only continued outcome monitoring (B) matches the performance enhancement function. Distinguish output/usage vs. outcome.
 
@@ -6031,13 +6048,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q09 — Answer: C {#c1-q09-answer}
 
-**A.** **Option A.** *Near-miss.* Separating “risk management” from “value” sounds disciplined — many organizations do track risks on a separate register. But in the BACCM, reducing or avoiding loss *is* preserved value; carving it out as “not value” contradicts the Standard’s own definition.
+**A.** *Near-miss.* Separating “risk management” from “value” sounds disciplined — many organizations do track risks on a separate register. But in the BACCM, reducing or avoiding loss *is* preserved value; carving it out as “not value” contradicts the Standard’s own definition.
 
-**B.** **Option B.** *Near-miss.* Adding the condition “valuable only if it also lowers operating cost” sounds rigorous but invents a requirement the Standard does not impose; risk mitigation alone is already a valid form of value.
+**B.** *Near-miss.* Justifying the capability by operating-cost savings sounds rigorous but sets aside the losses it avoids, a condition the Standard does not impose; risk mitigation alone is already a valid form of value.
 
-**C.** **Why C is correct.** Value can be *realized* through gains and improvements, and it can be *preserved* by mitigating losses, risks, and costs. Preventing a severe failure that would cause revenue and reputation loss is preserved value — genuine value even though customers see nothing new.
+**C.** *Correct.* Value can be *realized* through gains and improvements, and it can be *preserved* by mitigating losses, risks, and costs. Preventing a severe failure that would cause revenue and reputation loss is preserved value — genuine value even though customers see nothing new.
 
-**D.** **Option D.** *Also tempting.* Requiring the capability to have “measurably prevented a loss” before value counts sounds rigorous, but preserved value is recognized prospectively: the purpose of risk mitigation is to act before the loss, so value need not wait for a prevented incident to be real.
+**D.** *Near-miss.* Requiring the capability to have “measurably prevented a loss” before value counts sounds rigorous, but preserved value is recognized prospectively: the purpose of risk mitigation is to act before the loss, so value need not wait for a prevented incident to be real.
 
 **Trap.** All three distractors deny or constrain preserved value: A relabels it as “not value,” B attaches a false cost-saving condition, D delays it until a loss is provably prevented. Reducing or avoiding loss is genuine value in its own right.
 
@@ -6049,13 +6066,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C1-Q10 — Answer: A {#c1-q10-answer}
 
-**A.** **Why A is correct.** Value is relative: it depends on the stakeholder and the context, so no option is “most valuable” in the abstract. The sound move is to anchor the comparison on the outcomes the hospital has *agreed* to pursue and assess both options against those — which is exactly what A does, without crowning a winner or refusing to help. (Note A is deliberately the plainest option here; do not pick it just because it sounds like “the textbook answer” — pick it because comparing options against agreed desired outcomes is what the relativity of value requires.)
+**A.** *Correct.* Value is relative: it depends on the stakeholder and the context, so no option is “most valuable” in the abstract. The sound move is to anchor the comparison on the outcomes the hospital has *agreed* to pursue and assess both options against those — which is exactly what A does, without crowning a winner or refusing to help. (Note A is deliberately the plainest option here; do not pick it just because it sounds like “the textbook answer” — pick it because comparing options against agreed desired outcomes is what the relativity of value requires.)
 
-**B.** **Option B.** *Near-miss.* Choosing Option A because bookings are “objective and measurable” is the measurable-equals-valuable trap; a measurable gain is not automatically the most valuable outcome once stakeholder perspectives and context are considered.
+**B.** *Near-miss.* Choosing Option A because bookings are “objective and measurable” is the measurable-equals-valuable trap; a measurable gain is not automatically the most valuable outcome once stakeholder perspectives and context are considered.
 
-**C.** **Option C.** *Near-miss.* This one even speaks the language of outcomes, which makes it tempting. But it still has the analyst unilaterally crown a winner, and it treats Option B’s outcomes as objectively more valuable — when value is relative to stakeholder and context, and the finance perspective is not invalid.
+**C.** *Near-miss.* This one even speaks the language of outcomes, which makes it tempting. But it still has the analyst unilaterally crown a winner, and it treats Option B’s outcomes as objectively more valuable — when value is relative to stakeholder and context, and the finance perspective is not invalid.
 
-**D.** **Option D.** *Near-miss.* Averaging the scores into one figure looks neutral and “objective,” which is its pull. But it falsely assumes the two options’ value is measured on the same scale and that a blended number is meaningful — it erases the stakeholder-and-context relativity rather than surfacing it, and quietly substitutes a number for the outcome-based assessment.
+**D.** *Near-miss.* Averaging the scores into one figure looks neutral and “objective,” which is its pull. But it falsely assumes the two options’ value is measured on the same scale and that a blended number is meaningful — it erases the stakeholder-and-context relativity rather than surfacing it, and quietly substitutes a number for the outcome-based assessment.
 
 **Trap.** Three distractors flank the answer: B picks the measurable option (measurability ≠ value), C picks the outcome-sounding option (still a unilateral verdict, still ignores that value is relative), and D manufactures a single “objective” number that hides the relativity. The ECBA-correct stance is to support a context-and-outcome-based assessment without declaring a winner.
 
@@ -6086,13 +6103,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q01 — Answer: C {#c2-q01-answer}
 
-**A.** **Option A.** *Near-miss.* “Deciding how to approach the work” is a focus area for developing the mindset, not an ability the mindset produces.
+**A.** *Near-miss.* “Deciding how to approach the work” is a focus area for developing the mindset, not an ability the mindset produces.
 
-**B.** **Option B.** *Near-miss.* “Developing foundational competencies” is also a focus area.
+**B.** *Near-miss.* “Developing foundational competencies” is also a focus area.
 
-**C.** **Why C is correct.** “Collaborating to build allies for change” is one of the *abilities an empowering mindset enables* — it describes what the developed mindset lets the analyst do. The other three are *focus areas* — the things an analyst works on to develop the mindset in the first place.
+**C.** *Correct.* “Collaborating to build allies for change” is one of the *abilities an empowering mindset enables* — it describes what the developed mindset lets the analyst do. The other three are *focus areas* — the things an analyst works on to develop the mindset in the first place.
 
-**D.** **Option D.** *Near-miss.* “Adopting business analysis principles” is a focus area as well.
+**D.** *Near-miss.* “Adopting business analysis principles” is a focus area as well.
 
 **Trap.** Focus areas and enabled abilities are two parallel lists that sound interchangeable. Only C is on the “enabled” list.
 
@@ -6106,13 +6123,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q02 — Answer: A {#c2-q02-answer}
 
-**A.** **Why A is correct.** An empowering mindset is flexible and evidence-driven: when new information (member abandonment at the identity step) changes the team’s understanding, the analyst learns from it and adapts the approach rather than defending the original plan.
+**A.** *Correct.* An empowering mindset is flexible and evidence-driven: when new information (member abandonment at the identity step) changes the team’s understanding, the analyst learns from it and adapts the approach rather than defending the original plan.
 
-**B.** **Option B.** *Near-miss.* Protecting “the team’s discipline” by sticking to an agreed plan sounds responsible, but it reuses a settled approach without checking fit against new evidence — the opposite of an adaptable mindset.
+**B.** *Near-miss.* Protecting “the team’s discipline” by sticking to an agreed plan sounds responsible, but it reuses a settled approach without checking fit against new evidence — the opposite of an adaptable mindset.
 
-**C.** **Option C.** Deferring the whole judgment to the sponsor and just recording it reduces the analyst to a recorder; the empowering mindset contributes to the approach.
+**C.** *Incorrect.* Deferring the whole judgment to the sponsor and just recording it reduces the analyst to a recorder; the empowering mindset contributes to the approach.
 
-**D.** **Option D.** Handing the data to the delivery team to “adjust the form” skips the analysis: the evidence may point to a need beyond the form itself.
+**D.** *Incorrect.* Handing the data to the delivery team to “adjust the form” skips the analysis: the evidence may point to a need beyond the form itself.
 
 **Trap.** B is the strongest pull because discipline and consistency feel professional. The mindset point is that consistency must not override adapting to what the evidence now shows.
 
@@ -6124,13 +6141,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q03 — Answer: D {#c2-q03-answer}
 
-**A.** **Option A.** *Near-miss.* Bringing the concern to stakeholders does involve others, so Collaboration is tempting, but the essence here is the willingness to raise an uncomfortable truth, not the act of working together.
+**A.** *Near-miss.* Bringing the concern to stakeholders does involve others, so Collaboration is tempting, but the essence here is the willingness to raise an uncomfortable truth, not the act of working together.
 
-**B.** Customer focus may matter when examining assumptions, but this scenario emphasizes raising an uncomfortable concern rather than understanding the customer experience.
+**B.** *Incorrect.* Customer focus may matter when examining assumptions, but this scenario emphasizes raising an uncomfortable concern rather than understanding the customer experience.
 
-**C.** **Option C.** The analyst is flagging an untested assumption, not learning from new feedback; Continuous learning does not fit the action shown.
+**C.** *Incorrect.* The analyst is flagging an untested assumption, not learning from new feedback; Continuous learning does not fit the action shown.
 
-**D.** **Why D is correct.** Courage is raising difficult facts, assumptions, or risks even when it is uncomfortable. The analyst surfaces an untested assumption behind a popular feature despite expecting an unwelcome reception — the defining behavior of Courage.
+**D.** *Correct.* Courage is raising difficult facts, assumptions, or risks even when it is uncomfortable. The analyst surfaces an untested assumption behind a popular feature despite expecting an unwelcome reception — the defining behavior of Courage.
 
 **Trap.** A and B are adjacent values that are genuinely present in the background. Ask what the *defining* act is: here it is raising the uncomfortable, evidence-based concern, which is Courage.
 
@@ -6142,13 +6159,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q04 — Answer: A {#c2-q04-answer}
 
-**A.** **Why A is correct.** Curiosity is asking questions and exploring beyond the first answer — treating a stakeholder’s initial statement as a starting point and probing what they are really trying to accomplish.
+**A.** *Correct.* Curiosity is asking questions and exploring beyond the first answer — treating a stakeholder’s initial statement as a starting point and probing what they are really trying to accomplish.
 
-**B.** **Option B.** This is the opposite of Curiosity: accepting the first request as the final need so work can start.
+**B.** *Incorrect.* This is the opposite of Curiosity: accepting the first request as the final need so work can start.
 
-**C.** **Option C.** *Near-miss.* This is an accurate description of *Avoid waste* (a principle), not Curiosity. Correct concept, wrong label.
+**C.** *Near-miss.* This is an accurate description of *Avoid waste* (a principle), not Curiosity. Correct concept, wrong label.
 
-**D.** Technical feasibility alone does not establish that the first proposed solution meets a need or delivers value. Accepting it without further inquiry does not demonstrate Curiosity.
+**D.** *Incorrect.* Technical feasibility alone does not establish that the first proposed solution meets a need or delivers value. Accepting it without further inquiry does not demonstrate Curiosity.
 
 **Trap.** Avoid waste is a valid principle, but Curiosity is demonstrated by exploring the meaning behind an initial request. Technical feasibility alone does not replace that inquiry.
 
@@ -6160,13 +6177,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q05 — Answer: C {#c2-q05-answer}
 
-**A.** **Option A.** *Near-miss.* These are adjacent principles. Understand what is doable is about constraints and what can realistically be achieved; the action here is removing non-value-adding work, not scoping to constraints.
+**A.** *Near-miss.* These are adjacent principles. Understand what is doable is about constraints and what can realistically be achieved; the action here is removing non-value-adding work, not scoping to constraints.
 
-**B.** **Option B.** *Near-miss.* Analyze to determine what is valuable is about prioritizing work by value; the analyst is eliminating a step, not ranking competing items.
+**B.** *Near-miss.* Analyze to determine what is valuable is about prioritizing work by value; the analyst is eliminating a step, not ranking competing items.
 
-**C.** **Why C is correct.** Avoid waste means identifying value-adding and non-value-adding activities and removing those that do not help satisfy the need. The approval step no longer affects accuracy or risk and supports no decision — evidence that it has become non-value-adding — so removing it is exactly this principle in action.
+**C.** *Correct.* Avoid waste means identifying value-adding and non-value-adding activities and removing those that do not help satisfy the need. The approval step no longer affects accuracy or risk and supports no decision — evidence that it has become non-value-adding — so removing it is exactly this principle in action.
 
-**D.** **Option D.** *Near-miss.* “Improving the process” borrows the language of Stimulate collaboration and continuous improvement, but that principle is about creating conditions for stakeholders to contribute and adapt through feedback — not removing a redundant step.
+**D.** *Near-miss.* “Improving the process” borrows the language of Stimulate collaboration and continuous improvement, but that principle is about creating conditions for stakeholders to contribute and adapt through feedback — not removing a redundant step.
 
 **Trap.** D bait: the word “improvement” pulls toward the collaboration principle. The specific action — removing work that does not help satisfy the need — is Avoid waste.
 
@@ -6178,15 +6195,15 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q06 — Answer: B {#c2-q06-answer}
 
-**A.** **Option A.** *Near-miss.* Collaboration is the tempting answer because it is the thing most visibly happening — but it is happening *well*, not at risk. The gap is the missing big picture, not the collaboration.
+**A.** *Near-miss.* Collaboration is the tempting answer because it is the thing most visibly happening — but it is happening *well*, not at risk. The gap is the missing big picture, not the collaboration.
 
-**B.** **Why B is correct.** See the whole means analyzing the need in its big-picture context — the reason for the change, the desired outcome, the stakeholders, and the wider impact. The analyst has skipped exactly that: workshops are running, but no one has connected the work to *why* escalation is being changed or how it affects customers downstream.
+**B.** *Correct.* See the whole means analyzing the need in its big-picture context — the reason for the change, the desired outcome, the stakeholders, and the wider impact. The analyst has skipped exactly that: workshops are running, but no one has connected the work to *why* escalation is being changed or how it affects customers downstream.
 
-**C.** **Option C.** *Near-miss.* No concrete customer cases were used, so Get real using examples looks plausible, but the central failure is the missing connection to purpose and outcome, not the absence of examples.
+**C.** *Near-miss.* No concrete customer cases were used, so Get real using examples looks plausible, but the central failure is the missing connection to purpose and outcome, not the absence of examples.
 
-**D.** **Option D.** *Near-miss.* “Multiple workshops may duplicate effort” baits Avoid waste, but nothing in the scenario says the workshops are redundant; the issue is direction, not waste.
+**D.** *Near-miss.* “Multiple workshops may duplicate effort” baits Avoid waste, but nothing in the scenario says the workshops are redundant; the issue is direction, not waste.
 
-**Trap.** The scenario is full of collaboration, which makes A inviting and hides the real gap. A room full of stakeholders is not “See the whole” unless the big picture is actually being analysed.
+**Trap.** The scenario is full of collaboration, which makes A inviting and hides the real gap. A room full of stakeholders is not “See the whole” unless the big picture is actually being analyzed.
 
 **Topic:** Principle: See the whole vs. Stimulate collaboration
 
@@ -6196,13 +6213,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q07 — Answer: D {#c2-q07-answer}
 
-**A.** **Option A.** *Near-miss.* Leadership and Influencing (guiding stakeholders toward a direction) is a priority competency and is adjacent, but the defining act here is reconciling two opposing positions in a session — which §3.4 places under Facilitation — not building general support toward a direction.
+**A.** *Near-miss.* Leadership and Influencing (guiding stakeholders toward a direction) is a priority competency and is adjacent, but the defining act here is reconciling two opposing positions in a session — which §3.4 places under Facilitation — not building general support toward a direction.
 
-**B.** **Option B.** *Near-miss.* Weighing throughput against complex-case impacts touches Systems Thinking (also a priority competency), but that is background; the dominant behavior is running the session that reconciles the conflict.
+**B.** *Near-miss.* Weighing throughput against complex-case impacts touches Systems Thinking (also a priority competency), but that is background; the dominant behavior is running the session that reconciles the conflict.
 
-**C.** **Option C.** *Near-miss.* Adaptability (adjusting one’s behavioral style) is a priority competency, and “adjusting the rule” sounds adaptive — but the rule is the *output* of the reconciliation; the competency in action is the facilitation that produced it, not a change in the analyst’s own style.
+**C.** *Near-miss.* Adaptability (adjusting one’s behavioral style) is a priority competency, and “adjusting the rule” sounds adaptive — but the rule is the *output* of the reconciliation; the competency in action is the facilitation that produced it, not a change in the analyst’s own style.
 
-**D.** **Why D is correct.** This question asks specifically within the **five priority foundational competencies** of Standard §3.4. There, **Facilitation** is defined broadly — it *covers* running sessions, **negotiating, and helping resolve conflicts**. The analyst bringing two opposing sides together, surfacing their interests, and guiding them to a blended rule is exactly that. (In the full BABOK list, “Negotiation and Conflict Resolution” is a separate underlying competency — but it is **not** one of the §3.4 priority five, so it is not the answer to *this* question.)
+**D.** *Correct.* This question asks specifically within the **five priority foundational competencies** of Standard §3.4. There, **Facilitation** is defined broadly — it *covers* running sessions, **negotiating, and helping resolve conflicts**. The analyst bringing two opposing sides together, surfacing their interests, and guiding them to a blended rule is exactly that. (In the full BABOK list, “Negotiation and Conflict Resolution” is a separate underlying competency — but it is **not** one of the §3.4 priority five, so it is not the answer to *this* question.)
 
 **Trap.** The instinct is to reach for “Negotiation and Conflict Resolution” — but that is a *separate* underlying competency, not one of the §3.4 priority five. Within §3.4, the Standard folds negotiating and resolving conflict **into Facilitation**. When a question is scoped to the priority five, match the behavior to that list, not to the broader BABOK competency set.
 
@@ -6214,13 +6231,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C2-Q08 — Answer: B {#c2-q08-answer}
 
-**A.** **Option A.** *Near-miss.* The behavior is sometimes mistaken for Problem Solving, but Problem Solving is about ensuring value addresses the root cause; choosing among options on agreed criteria is Decision Making. And even if it were Problem Solving, that would make the classification correct — which the question states it is not.
+**A.** *Near-miss.* The behavior is sometimes mistaken for Problem Solving, but Problem Solving is about ensuring value addresses the root cause; choosing among options on agreed criteria is Decision Making. And even if it were Problem Solving, that would make the classification correct — which the question states it is not.
 
-**B.** **Why B is correct.** Comparing options against agreed criteria to recommend one is Decision Making. Decision Making is a BABOK underlying competency that is testable in this domain, but it is *not* among the five priority foundational competencies named in Standard §3.4 (Adaptability, Facilitation, Leadership and Influencing, Problem Solving, Systems Thinking) — so the study guide’s classification is wrong.
+**B.** *Correct.* Comparing options against agreed criteria to recommend one is Decision Making. Decision Making is a BABOK underlying competency that is testable in this domain, but it is *not* among the five priority foundational competencies named in Standard §3.4 (Adaptability, Facilitation, Leadership and Influencing, Problem Solving, Systems Thinking) — so the study guide’s classification is wrong.
 
-**C.** **Option C.** *Near-miss.* Systems Thinking *is* one of the priority five, which is what makes this tempting — but the behavior (weighing options against criteria to recommend one) is Decision Making, not Systems Thinking, so the option both mislabels the behavior and wrongly affirms that it belongs on the priority list.
+**C.** *Near-miss.* Systems Thinking *is* one of the priority five, which is what makes this tempting — but the behavior (weighing options against criteria to recommend one) is Decision Making, not Systems Thinking, so the option both mislabels the behavior and wrongly affirms that it belongs on the priority list.
 
-**D.** **Option D.** *Near-miss.* The behavior is a competency in action, not a business analysis principle; this misplaces the category entirely (principle vs. competency), which is a different error from the one the question is testing.
+**D.** *Near-miss.* The behavior is a competency in action, not a business analysis principle; this misplaces the category entirely (principle vs. competency), which is a different error from the one the question is testing.
 
 **Trap.** Decision Making feels like it must belong to the priority five because it is so central to BA work. The precise source point is that it does not — it is a BABOK underlying competency, important but outside the §3.4 priority list.
 
@@ -6255,9 +6272,9 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 **B.** *Near-miss.* The analysts do sit in different departments, which makes a dispersed *structure* tempting — but a delivery model is judged by what the *arrangement* is, and a voluntary peer forum is a community activity (a CoP), not a reporting line. Dispersed describes *where business analysis sits* in the org; CoP describes *how practitioners choose to collaborate*.
 
-**C.** **Why C is correct.** A Community of Practice is a voluntary, peer-to-peer space where practitioners share experience and practices. The monthly forum is voluntary, peer-led, and owns no standards — exactly a CoP.
+**C.** *Correct.* A Community of Practice is a voluntary, peer-to-peer space where practitioners share experience and practices. The monthly forum is voluntary, peer-led, and owns no standards — exactly a CoP.
 
-**D.** Business Analysis as a Service involves an external provider supplying capability; no outside provider is described.
+**D.** *Incorrect.* Business Analysis as a Service involves an external provider supplying capability; no outside provider is described.
 
 **Quick rule.** CoE owns standards and consistency. CoP is voluntary peer sharing with no governance authority.
 
@@ -6269,13 +6286,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C3-Q02 — Answer: D {#c3-q02-answer}
 
-**A.** **Option A.** *Near-miss.* It correctly recognizes the regulated part, but over-applies predictive to the whole initiative, forcing the uncertain application flow into a plan-first mould.
+**A.** *Near-miss.* It correctly recognizes the regulated part, but over-applies predictive to the whole initiative, forcing the uncertain application flow into a plan-first mould.
 
-**B.** **Option B.** *Near-miss.* It correctly recognizes the evolving part, but over-applies adaptive to the regulated calculations, which need formal documentation and sign-off.
+**B.** *Near-miss.* It correctly recognizes the evolving part, but over-applies adaptive to the regulated calculations, which need formal documentation and sign-off.
 
-**C.** **Option C.** Adaptive work is not undocumented; it uses just-enough, just-in-time documentation, so “adaptive cannot meet audit needs” is false — and in any case the audit applies to the regulated part, which would be handled predictively.
+**C.** *Incorrect.* Adaptive work is not undocumented; it uses just-enough, just-in-time documentation, so “adaptive cannot meet audit needs” is false — and in any case the audit applies to the regulated part, which would be handled predictively.
 
-**D.** **Why D is correct.** One initiative contains two kinds of work: regulated, fixed calculations that suit a predictive, documented, sequential approach, and an uncertain student-facing flow that suits adaptive prototyping. Using different approaches for different parts of the same initiative is the “within one initiative” hybrid pattern.
+**D.** *Correct.* One initiative contains two kinds of work: regulated, fixed calculations that suit a predictive, documented, sequential approach, and an uncertain student-facing flow that suits adaptive prototyping. Using different approaches for different parts of the same initiative is the “within one initiative” hybrid pattern.
 
 **Trap.** A and B are each “right about one half, wrong to apply it to the whole.” Here, hybrid accommodates the fixed calculations and the evolving application flow.
 
@@ -6287,13 +6304,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C3-Q03 — Answer: A {#c3-q03-answer}
 
-**A.** **Why A is correct.** Adaptive work uses just-enough documentation produced just in time: documenting high-level stories now and adding the acceptance detail as each increment becomes clearer is exactly right-sizing, not poor analysis.
+**A.** *Correct.* Adaptive work uses just-enough documentation produced just in time: documenting high-level stories now and adding the acceptance detail as each increment becomes clearer is exactly right-sizing, not poor analysis.
 
-**B.** **Option B.** *Near-miss.* The stakeholder is applying a predictive “baseline and sign off everything up front” standard. Adaptive work plans the upcoming iteration and lets detail emerge with feedback, so the absence of a full up-front baseline is by design, not a defect.
+**B.** *Near-miss.* The stakeholder is applying a predictive “baseline and sign off everything up front” standard. Adaptive work plans the upcoming iteration and lets detail emerge with feedback, so the absence of a full up-front baseline is by design, not a defect.
 
-**C.** **Option C.** Dropping written requirements entirely is the “adaptive = no documentation” misconception; adaptive right-sizes documentation, it does not eliminate it.
+**C.** *Incorrect.* Dropping written requirements entirely is the “adaptive = no documentation” misconception; adaptive right-sizes documentation, it does not eliminate it.
 
-**D.** **Option D.** Deferring all acceptance detail until after release turns documentation into an after-the-fact record and removes its value in guiding the current increment.
+**D.** *Incorrect.* Deferring all acceptance detail until after release turns documentation into an after-the-fact record and removes its value in guiding the current increment.
 
 **Watch.** Two opposite errors flank the answer: “baseline everything up front” (B) and “document nothing” (C). Adaptive is the middle path — *just enough, just in time*.
 
@@ -6305,13 +6322,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C3-Q04 — Answer: B {#c3-q04-answer}
 
-**A.** **Option A.** *Near-miss.* Children’s data makes Ethical Analysis tempting, but no biased or unfair *outcome* is described; the live gap is that security is being deferred and the needed expertise is absent.
+**A.** *Near-miss.* Children’s data makes Ethical Analysis tempting, but no biased or unfair *outcome* is described; the live gap is that security is being deferred and the needed expertise is absent.
 
-**B.** **Why B is correct.** Security Integration means security is considered *during* analysis, not bolted on later, and that the right expertise is brought into the discussion. Sensitive children’s records plus automated password resets are being scoped with no cybersecurity specialist present and a proposal to defer protections — the security consideration the BA should raise first.
+**B.** *Correct.* Security Integration means security is considered *during* analysis, not bolted on later, and that the right expertise is brought into the discussion. Sensitive children’s records plus automated password resets are being scoped with no cybersecurity specialist present and a proposal to defer protections — the security consideration the BA should raise first.
 
-**C.** **Option C.** Sustainability is a stretch here; data storage is not the consideration the scenario turns on.
+**C.** *Incorrect.* Sustainability is a stretch here; data storage is not the consideration the scenario turns on.
 
-**D.** **Option D.** *Near-miss.* “Parents who share an email account may be excluded” is a genuine inclusion/access concern and a fair distractor, but it is secondary to the missing security expertise during analysis.
+**D.** *Near-miss.* “Parents who share an email account may be excluded” is a genuine inclusion/access concern and a fair distractor, but it is secondary to the missing security expertise during analysis.
 
 **Trap.** The scenario deliberately offers two plausible considerations (ethics via children’s data, inclusion via shared email). The defining facts — sensitive records, automated access, no security expert, “sort it out later” — point to Security Integration, and the BA’s job is to raise it and bring in the right people, not to design the controls. Ethics and inclusion may still deserve later analysis; they do not remove the immediate need to bring security expertise into the analysis before the access rules are finalized.
 
@@ -6323,13 +6340,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C3-Q05 — Answer: C {#c3-q05-answer}
 
-**A.** **Option A.** *Near-miss.* This is the common “non-functional requirements are really designs” error. A performance target is still a requirement (a needed quality), not a design (a way of building it).
+**A.** *Near-miss.* This is the common “non-functional requirements are really designs” error. A performance target is still a requirement (a needed quality), not a design (a way of building it).
 
-**B.** **Option B.** *Near-miss.* Functional requirements describe behavior or information the system manages (“display delayed orders”); a speed-under-load target is a quality condition, which is non-functional.
+**B.** *Near-miss.* Functional requirements describe behavior or information the system manages (“display delayed orders”); a speed-under-load target is a quality condition, which is non-functional.
 
-**C.** **Why C is correct.** “Confirm within two seconds, even at peak load” states a *quality* the solution must have, without saying how to build it — a non-functional solution requirement.
+**C.** *Correct.* “Confirm within two seconds, even at peak load” states a *quality* the solution must have, without saying how to build it — a non-functional solution requirement.
 
-**D.** **Option D.** Transition requirements are temporary capabilities for moving from current to future state (e.g., data conversion, training). A permanent performance target is not a transition requirement.
+**D.** *Incorrect.* Transition requirements are temporary capabilities for moving from current to future state (e.g., data conversion, training). A permanent performance target is not a transition requirement.
 
 **Quick rule.** Functional = what it does. Non-functional = how well it must do it. Neither is a design — a design says *how it is built*.
 
@@ -6341,15 +6358,15 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C3-Q06 — Answer: D {#c3-q06-answer}
 
-**A.** Format does not decide classification; a diagram, model, or mock-up can be either.
+**A.** *Incorrect.* Format does not decide classification; a diagram, model, or mock-up can be either.
 
 **B.** *Near-miss.* "Requirements come from business people, designs from technical people" is a common but wrong rule; authorship does not determine whether something represents a need or a solution.
 
-**C.** Timing does not decide it either; requirements and designs evolve together, so "anything after sign-off is a design" is false.
+**C.** *Incorrect.* Timing does not decide it either; requirements and designs evolve together, so "anything after sign-off is a design" is false.
 
-**D.** Purpose decides: a model is a requirement when it represents a need and a design when it represents a solution. Models can express either throughout the initiative; selection or sign-off timing alone does not decide.
+**D.** *Correct.* Purpose decides: a model is a requirement when it represents a need and a design when it represents a solution. Models can express either throughout the initiative; selection or sign-off timing alone does not decide.
 
-**Quick rule.** Don't classify by format, author, or timing. Ask: does it represent a *need* (requirement) or a *solution* (design)?
+**Quick rule.** Do not classify by format, author, or timing. Ask: does it represent a *need* (requirement) or a *solution* (design)?
 
 **Topic:** Requirement vs. design: purpose decides
 
@@ -6369,7 +6386,7 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 | C4-Q04 | B | 4 | 4.3 | situation | medium | BABOK §5.1 |
 | C4-Q05 | C | 4 | 4.3 | situation | easy | BABOK §10.28 |
 | C4-Q06 | A | 4 | 4.3 | situation | medium | BABOK §8.1 |
-| C4-Q07 | C | 4 | 4.4 | situation | hard | BABOK §5.4; BABOK §3.3 |
+| C4-Q07 | C | 4 | 4.4 | situation | medium | BABOK §3.3; BABOK §5.4 |
 
 -----
 
@@ -6377,13 +6394,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C4-Q01 — Answer: B {#c4-q01-answer}
 
-**A.** An enterprise limitation concerns factors around the solution. Here the stated cause is the tool’s conflict-checking defect, while surrounding policies and processes work as intended.
+**A.** *Incorrect.* An enterprise limitation concerns factors around the solution. Here the stated cause is the tool’s conflict-checking defect, while surrounding policies and processes work as intended.
 
-**B.** **Why B is correct.** A solution limitation is a barrier *inside* the solution — a defect, missing functionality, or poor performance of the solution itself. The conflict-checking flaw that double-books rooms is internal to the tool, so it is a solution limitation.
+**B.** *Correct.* A solution limitation is a barrier *inside* the solution — a defect, missing functionality, or poor performance of the solution itself. The conflict-checking flaw that double-books rooms is internal to the tool, so it is a solution limitation.
 
-**C.** A current-state description may document this behavior, but it is a description of the situation rather than the requested classification of the value barrier.
+**C.** *Incorrect.* A current-state description may document this behavior, but it is a description of the situation rather than the requested classification of the value barrier.
 
-**D.** Nothing suggests the planning method caused the defect; the approach is not the barrier.
+**D.** *Incorrect.* Nothing suggests the planning method caused the defect; the approach is not the barrier.
 
 **Quick rule.** Inside the solution (defect, missing function, performance) → solution limitation. Outside it (culture, policy, structure, incentives) → enterprise limitation.
 
@@ -6397,13 +6414,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C4-Q02 — Answer: A {#c4-q02-answer}
 
-**A.** **Why A is correct.** SWOT places internal strengths and weaknesses next to external opportunities and threats in one view. The strong logistics network (strength) and ageing IT (weakness) are internal; the competitor (threat) and tax incentive (opportunity) are external — exactly what SWOT is for.
+**A.** *Correct.* SWOT places internal strengths and weaknesses next to external opportunities and threats in one view. The strong logistics network (strength) and ageing IT (weakness) are internal; the competitor (threat) and tax incentive (opportunity) are external — exactly what SWOT is for.
 
-**B.** **Option B.** *Near-miss.* Business Capability Analysis is now tempting because “does well / is weak” sounds like strengths and weaknesses. But it focuses on the enterprise’s *internal* abilities and gaps; it does not pair those with *external* opportunities and threats, which is exactly what the scenario asks for and what makes SWOT the fit.
+**B.** *Near-miss.* Business Capability Analysis is now tempting because “does well / is weak” sounds like strengths and weaknesses. But it focuses on the enterprise’s *internal* abilities and gaps; it does not pair those with *external* opportunities and threats, which is exactly what the scenario asks for and what makes SWOT the fit.
 
-**C.** **Option C.** Organizational Modelling maps roles and reporting structures, not strengths/threats.
+**C.** *Incorrect.* Organizational Modelling maps roles and reporting structures, not strengths/threats.
 
-**D.** **Option D.** Root Cause Analysis finds the underlying causes of a problem; no single problem is being diagnosed here.
+**D.** *Incorrect.* Root Cause Analysis finds the underlying causes of a problem; no single problem is being diagnosed here.
 
 **Topic:** Technique: SWOT vs. Business Capability Analysis
 
@@ -6413,13 +6430,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C4-Q03 — Answer: D {#c4-q03-answer}
 
-**A.** Transformational change fundamentally changes how the business operates. Changing a core process does not by itself establish transformation; the scenario emphasizes modest incremental improvements. Transformation can also be delivered in stages.
+**A.** *Incorrect.* Transformational change fundamentally changes how the business operates. Changing a core process does not by itself establish transformation; the scenario emphasizes modest incremental improvements. Transformation can also be delivered in stages.
 
-**B.** **Option B.** *Near-miss.* Incremental change is not the same as an adaptive delivery approach. Evolutionary/transformational describe the *scale and nature* of the change, not whether the team works predictively or adaptively.
+**B.** *Near-miss.* Incremental change is not the same as an adaptive delivery approach. Evolutionary/transformational describe the *scale and nature* of the change, not whether the team works predictively or adaptively.
 
-**C.** **Option C.** *Near-miss.* The same confusion in reverse: a long planning horizon does not make the change “predictive.” That label belongs to the delivery approach, not the change strategy.
+**C.** *Near-miss.* The same confusion in reverse: a long planning horizon does not make the change “predictive.” That label belongs to the delivery approach, not the change strategy.
 
-**D.** **Why D is correct.** A change delivered as small, incremental improvements over time is an evolutionary change strategy. The retailer is improving the process step by step rather than replacing it all at once.
+**D.** *Correct.* A change delivered as small, incremental improvements over time is an evolutionary change strategy. The retailer is improving the process step by step rather than replacing it all at once.
 
 **Quick rule.** Evolutionary vs. transformational concerns the nature and extent of change; transformation need not occur all at once. Predictive vs. adaptive describes the *delivery approach*. Do not mix the two axes.
 
@@ -6431,15 +6448,15 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C4-Q04 — Answer: B {#c4-q04-answer}
 
-**A.** **Option A.** *Near-miss.* Derives From applies when one requirement is developed from another at a different level of abstraction; A is not a more detailed version of B, it simply needs B in place.
+**A.** *Near-miss.* Derives From applies when one requirement is developed from another at a different level of abstraction; A is not a more detailed version of B, it simply needs B in place.
 
-**B.** **Why B is correct.** When one requirement cannot be implemented without another, the relationship is Depends On. Requirement A (email a receipt) cannot be implemented unless Requirement B (capture a verified email address) is implemented.
+**B.** *Correct.* When one requirement cannot be implemented without another, the relationship is Depends On. Requirement A (email a receipt) cannot be implemented unless Requirement B (capture a verified email address) is implemented.
 
-**C.** **Option C.** *Near-miss.* Satisfies links an implementation element (a solution component) to a requirement; both A and B here are requirements, not a component fulfilling one.
+**C.** *Near-miss.* Satisfies links an implementation element (a solution component) to a requirement; both A and B here are requirements, not a component fulfilling one.
 
-**D.** **Option D.** *Near-miss.* Validates links a test case (or similar) to a requirement to confirm the solution meets it; B is not a test of A.
+**D.** *Near-miss.* Validates links a test case (or similar) to a requirement to confirm the solution meets it; B is not a test of A.
 
-**Quick rule.** Derives From = abstraction levels · Depends On = needs another to be implemented · Satisfies = component fulfils requirement · Validates = test confirms requirement.
+**Quick rule.** Derives From = abstraction levels · Depends On = needs another to be implemented · Satisfies = component fulfills requirement · Validates = test confirms requirement.
 
 **Topic:** Traceability: Depends On
 
@@ -6449,13 +6466,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C4-Q05 — Answer: C {#c4-q05-answer}
 
-**A.** **Option A.** *Near-miss.* “Both are numbers we track” collapses the distinction. Being tracked does not make a number a KPI; the link to a strategic goal does.
+**A.** *Near-miss.* “Both are numbers we track” collapses the distinction. Being tracked does not make a number a KPI; the link to a strategic goal does.
 
-**B.** **Option B.** This reverses the two: the goal-linked measure is the KPI, not the bare daily count.
+**B.** *Incorrect.* This reverses the two: the goal-linked measure is the KPI, not the bare daily count.
 
-**C.** **Why C is correct.** A metric is a quantifiable level of an indicator; a KPI is a metric that measures progress toward a strategic goal. Daily tickets closed is a bare count (metric); the resolution-time reduction measured against the annual customer-experience goal is tied to a strategic objective (KPI).
+**C.** *Correct.* A metric is a quantifiable level of an indicator; a KPI is a metric that measures progress toward a strategic goal. Daily tickets closed is a bare count (metric); the resolution-time reduction measured against the annual customer-experience goal is tied to a strategic objective (KPI).
 
-**D.** **Option D.** Formal leadership approval is not what makes a measure a KPI; its relationship to a strategic goal is.
+**D.** *Incorrect.* Formal leadership approval is not what makes a measure a KPI; its relationship to a strategic goal is.
 
 **Quick rule.** Every KPI is a metric; not every metric is a KPI. A metric becomes a KPI when it tracks progress toward a strategic goal.
 
@@ -6469,13 +6486,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C4-Q06 — Answer: A {#c4-q06-answer}
 
-**A.** **Why A is correct.** No measures exist yet; the work is to decide and set up what should be collected, which is Measure Solution Performance (BABOK 8.1). Its output is the set of solution performance measures.
+**A.** *Correct.* No measures exist yet; the work is to decide and set up what should be collected, which is Measure Solution Performance (BABOK 8.1). Its output is the set of solution performance measures.
 
-**B.** **Option B.** *Near-miss.* Analyze Performance Measures (8.2) interprets measures that have *already* been collected. There is nothing to analyze yet, so this is premature.
+**B.** *Near-miss.* Analyze Performance Measures (8.2) interprets measures that have *already* been collected. There is nothing to analyze yet, so this is premature.
 
-**C.** **Option C.** *Near-miss.* Identify Business Analysis Performance Improvements assesses the performance of the *BA work*, not the solution’s value delivery.
+**C.** *Near-miss.* Identify Business Analysis Performance Improvements assesses the performance of the *BA work*, not the solution’s value delivery.
 
-**D.** **Option D.** Trace Requirements manages relationships between requirements and designs; it is not about establishing performance measures.
+**D.** *Incorrect.* Trace Requirements manages relationships between requirements and designs; it is not about establishing performance measures.
 
 **Quick rule.** Deciding *what* to measure → Measure Solution Performance (8.1). Interpreting *what was already measured* → Analyze Performance Measures (8.2).
 
@@ -6487,19 +6504,19 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C4-Q07 — Answer: C {#c4-q07-answer}
 
-**A.** **Option A.** *Near-miss.* “Small and beneficial” is exactly the trap: small changes can still ripple across requirements, designs, and training, so “implement it directly” skips the governance the change needs.
+**A.** *Incorrect.* The refund limit changes the requirement’s meaning, so the guideline sends it through change control however small it looks.
 
-**B.** **Option B.** *Near-miss.* Touching three artifacts does not make the change too large to consider; it is a reason to assess impact, not to decline outright.
+**B.** *Near-miss.* Both artifacts are governed, but the agreed guideline already permits analysts to correct spelling directly. Routing the typo through change control ignores the guideline rather than following it.
 
-**C.** **Why C is correct.** A change that touches a requirement, a design, and training material affects business analysis information, so it goes through the established change control process, where its impact, value, and scope are assessed. At the ECBA level the BA raises and supports; it follows the decision responsibilities stated in the scenario.
+**C.** *Correct.* Working within clear guidelines means applying them as written: the spelling fix is inside the analyst’s agreed authority, and the refund-limit change is a requirements change to be assessed through the established process (BABOK §3.3; BABOK §5.4).
 
-**D.** **Option D.** *Near-miss.* Sending it to development first and updating the requirement and training guide afterward bypasses change control and reverses the proper sequence.
+**D.** *Incorrect.* This reverses the guideline: it adds process to the permitted fix and bypasses change control for the change in meaning.
 
-**Watch.** “Small” never means “skip governance.” If a change touches requirements or designs, route it through change control and help assess it — do not implement, reject, or hand it off on your own.
+**Watch.** Simple improvements are implemented within the limits the guidelines set. A change in meaning, value, or scope goes to the agreed change process.
 
-**Topic:** Suggesting improvements: small ≠ skip governance
+**Topic:** Simple improvements within clear guidelines
 
-**Source detail:** BABOK §5.4; BABOK §3.3
+**Source detail:** BABOK §3.3; BABOK §5.4
 
 **Review:** [A.S. 4.4](#as-4-4)
 
@@ -6523,13 +6540,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C5-Q01 — Answer: D {#c5-q01-answer}
 
-**A.** **Option A.** *Near-miss.* Logistics is the participant list, roles, schedule, and location. Thinking about *which dynamics exist between groups* is a scope element; arranging *who sits in the room* is logistics. The analyst is doing the former.
+**A.** *Near-miss.* Logistics is the participant list, roles, schedule, and location. Thinking about *which dynamics exist between groups* is a scope element; arranging *who sits in the room* is logistics. The analyst is doing the former.
 
-**B.** **Option B.** Securing supporting material means gathering policies, documents, and existing information; that is not what the scenario describes.
+**B.** *Incorrect.* Securing supporting material means gathering policies, documents, and existing information; that is not what the scenario describes.
 
-**C.** **Option C.** Preparing stakeholders means helping them understand the purpose, their role, and what to review beforehand. She is analyzing the dynamics, not yet briefing the participants.
+**C.** *Incorrect.* Preparing stakeholders means helping them understand the purpose, their role, and what to review beforehand. She is analyzing the dynamics, not yet briefing the participants.
 
-**D.** **Why D is correct.** Understanding the scope of elicitation covers the business domain, the expected outputs, and stakeholder dynamics. Working out which areas the activity touches, what the results feed, and that the union and HR groups talk past each other is exactly scope work.
+**D.** *Correct.* Understanding the scope of elicitation covers the business domain, the expected outputs, and stakeholder dynamics. Working out which areas the activity touches, what the results feed, and that the union and HR groups talk past each other is exactly scope work.
 
 **Quick rule.** Stakeholder *dynamics* = scope of elicitation. Stakeholder *list/schedule* = logistics. “Union and HR must both attend” leans logistics; “union and HR read the problem differently” is scope/dynamics.
 
@@ -6541,13 +6558,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C5-Q02 — Answer: A {#c5-q02-answer}
 
-**A.** **Why A is correct.** An interview draws in-depth knowledge from one person (or a small group) with room for follow-up questions — exactly right for one experienced adjuster’s detailed, exception-heavy knowledge.
+**A.** *Correct.* An interview draws in-depth knowledge from one person (or a small group) with room for follow-up questions — exactly right for one experienced adjuster’s detailed, exception-heavy knowledge.
 
-**B.** **Option B.** *Near-miss.* Several teams touching the process makes a workshop tempting, but the first step needs one expert’s deep, branching exception knowledge with follow-up — that is an interview. A workshop for shared understanding could come later, but it does not fit this first step.
+**B.** *Near-miss.* Several teams touching the process makes a workshop tempting, but the first step needs one expert’s deep, branching exception knowledge with follow-up — that is an interview. A workshop for shared understanding could come later, but it does not fit this first step.
 
-**C.** **Option C.** Document Analysis examines existing materials, but the scenario says this knowledge lives with the adjuster, including exceptions only she handles — it may not be written down.
+**C.** *Incorrect.* Document Analysis examines existing materials, but the scenario says this knowledge lives with the adjuster, including exceptions only she handles — it may not be written down.
 
-**D.** **Option D.** A survey gathers brief, structured responses at scale; it cannot probe deep, branching exceptions with follow-up the way the situation needs.
+**D.** *Incorrect.* A survey gathers brief, structured responses at scale; it cannot probe deep, branching exceptions with follow-up the way the situation needs.
 
 **Quick rule.** One person, depth, follow-up → interview. Many people, shared understanding/consensus → workshop.
 
@@ -6559,13 +6576,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C5-Q03 — Answer: C {#c5-q03-answer}
 
-**A.** **Option A.** *Near-miss.* A conflict is two *sources* contradicting each other on the same fact. Here a single captured statement is read differently by different people — that is ambiguity, not a source-versus-source conflict.
+**A.** *Near-miss.* A conflict is two *sources* contradicting each other on the same fact. Here a single captured statement is read differently by different people — that is ambiguity, not a source-versus-source conflict.
 
-**B.** **Option B.** *Near-miss.* Validation asks whether the requirement supports the business objective; nothing here questions the objective. The problem is unclear meaning in the raw notes.
+**B.** *Near-miss.* Validation asks whether the requirement supports the business objective; nothing here questions the objective. The problem is unclear meaning in the raw notes.
 
-**C.** **Why C is correct.** “Promptly” and “low” are read differently by different stakeholders — wording that allows multiple interpretations is an ambiguity, one of the problems found when confirming elicitation results. Confirm checks the captured information for accuracy and consistency before it is used, so the call is to clarify the intended meaning.
+**C.** *Correct.* “Promptly” and “low” are read differently by different stakeholders — wording that allows multiple interpretations is an ambiguity, one of the problems found when confirming elicitation results. Confirm checks the captured information for accuracy and consistency before it is used, so the call is to clarify the intended meaning.
 
-**D.** **Option D.** Verification concerns the quality of a *specified requirement*; this is still raw elicitation output being confirmed, not a written requirement being checked for format.
+**D.** *Incorrect.* Verification concerns the quality of a *specified requirement*; this is still raw elicitation output being confirmed, not a written requirement being checked for format.
 
 **Quick rule.** One statement, many readings → ambiguity (Confirm). Two sources disagree → conflict (Confirm). Both are confirmation problems, not validation.
 
@@ -6577,13 +6594,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C5-Q04 — Answer: B {#c5-q04-answer}
 
-**A.** Validation is a close alternative because it also examines requirements, but the stated gap is specification quality. The scenario already establishes agreement on the objective and scope.
+**A.** *Incorrect.* Validation is a close alternative because it also examines requirements, but the stated gap is specification quality. The scenario already establishes agreement on the objective and scope.
 
-**B.** **Why B is correct.** Stakeholders already agree the requirement supports the objective and is in scope — so value alignment (validation) is settled. The live problem is *quality*: the requirement is incomplete (no data content, no definition of "monthly," no completeness criterion) and not testable, so two developers could build different things. Checking those quality characteristics is Verify Requirements and Designs.
+**B.** *Correct.* Stakeholders already agree the requirement supports the objective and is in scope — so value alignment (validation) is settled. The live problem is *quality*: the requirement is incomplete (no data content, no definition of "monthly," no completeness criterion) and not testable, so two developers could build different things. Checking those quality characteristics is Verify Requirements.
 
 **C.** *Near-miss.* Confirm checks raw elicitation results against sources; this is a specified requirement being checked for quality, not notes being checked for accuracy.
 
-**D.** Prioritization ranks requirements by importance; an unclear requirement is fixed by verifying and improving it, not by ranking it lower.
+**D.** *Incorrect.* Prioritization ranks requirements by importance; an unclear requirement is fixed by verifying and improving it, not by ranking it lower.
 
 **Quick rule.** Verify = "Is the requirement/design specified well enough to use?" (quality: complete, consistent, testable…). Validate = "Does it still support the right need, objective, and value?" Here value alignment is already agreed, so the gap is specification quality — verification.
 
@@ -6600,13 +6617,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C5-Q05 — Answer: D {#c5-q05-answer}
 
-**A.** **Option A.** *Near-miss.* Being clear, testable, and in scope addresses quality and scope, but value here depends on an unexamined assumption, so approving it skips the validation concern.
+**A.** *Near-miss.* Being clear, testable, and in scope addresses quality and scope, but value here depends on an unexamined assumption, so approving it skips the validation concern.
 
-**B.** **Option B.** Building the portal first to observe behavior inverts the analysis: the assumption can and should be examined before committing the work.
+**B.** *Incorrect.* Building the portal first to observe behavior inverts the analysis: the assumption can and should be examined before committing the work.
 
-**C.** An untested assumption calls for investigation of the value risk. It does not establish that the requirement can never deliver value or authorize its immediate removal in this supporting assignment.
+**C.** *Incorrect.* An untested assumption calls for investigation of the value risk. It does not establish that the requirement can never deliver value or authorize its immediate removal in this supporting assignment.
 
-**D.** **Why D is correct.** Validation includes identifying assumptions and defining how value will be assessed. The projected value rests on an untested assumption about customer behavior, so the validation-focused action is to make that assumption explicit and flag the related value risk for review.
+**D.** *Correct.* Validation includes identifying assumptions and defining how value will be assessed. The projected value rests on an untested assumption about customer behavior, so the validation-focused action is to make that assumption explicit and flag the related value risk for review.
 
 **Watch.** A clear, in-scope requirement can still fail validation if its value rests on an untested assumption. The ECBA move is to surface and flag the assumption, not to approve or delete the requirement.
 
@@ -6618,13 +6635,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C5-Q06 — Answer: C {#c5-q06-answer}
 
-**A.** **Option A.** *Near-miss.* Judging the cleanup only on the value it *directly* creates is exactly the trap; its importance comes from what it *unblocks*, not its own visible value.
+**A.** *Near-miss.* Judging the cleanup only on the value it *directly* creates is exactly the trap; its importance comes from what it *unblocks*, not its own visible value.
 
-**B.** **Option B.** Urgency is about time sensitivity, and the scenario gives the cleanup no deadline of its own; the pressure comes from dependency, not the calendar.
+**B.** *Incorrect.* Urgency is about time sensitivity, and the scenario gives the cleanup no deadline of its own; the pressure comes from dependency, not the calendar.
 
-**C.** **Why C is correct.** A requirement with little direct value that nonetheless blocks several high-value features is a dependency: other requirements cannot be delivered until it is complete. Helping stakeholders see the dependency is the relevant prioritization basis.
+**C.** *Correct.* A requirement with little direct value that nonetheless blocks several high-value features is a dependency: other requirements cannot be delivered until it is complete. Helping stakeholders see the dependency is the relevant prioritization basis.
 
-**D.** **Option D.** *Near-miss.* Most stakeholders wanting it ranked low is precisely why the analyst should raise the dependency, not defer to the majority; stakeholder agreement does not override a hard dependency.
+**D.** *Near-miss.* Most stakeholders wanting it ranked low is precisely why the analyst should raise the dependency, not defer to the majority; stakeholder agreement does not override a hard dependency.
 
 **Quick rule.** When a low-value item blocks high-value items, the basis is dependencies — not the item’s own direct value.
 
@@ -6636,13 +6653,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C5-Q07 — Answer: B {#c5-q07-answer}
 
-**A.** **Option A.** *Near-miss.* “Keep it fixed unless the sponsor reopens it” captures the formality of governance but contradicts the continual nature of prioritization; priorities shift as conditions change, and a new dependency plus a moved deadline are precisely that.
+**A.** *Near-miss.* “Keep it fixed unless the sponsor reopens it” captures the formality of governance but contradicts the continual nature of prioritization; priorities shift as conditions change, and a new dependency plus a moved deadline are precisely that.
 
-**B.** **Why B is correct.** Prioritization is continual: priorities are revisited as value, risk, dependencies, costs, and context change. A new dependency and a shifted deadline are exactly such changes, so the order should be reconsidered. At the ECBA level the analyst supports the criteria-based discussion and documents the rationale — it is not a one-time event and not the analyst’s decision alone.
+**B.** *Correct.* Prioritization is continual: priorities are revisited as value, risk, dependencies, costs, and context change. A new dependency and a shifted deadline are exactly such changes, so the order should be reconsidered. At the ECBA level the analyst supports the criteria-based discussion and documents the rationale — it is not a one-time event and not the analyst’s decision alone.
 
-**C.** **Option C.** Re-ranking the items alone exceeds the entry-level role; the analyst supports and facilitates, it follows the agreed prioritization authority.
+**C.** *Incorrect.* Re-ranking the items alone exceeds the entry-level role; the analyst supports and facilitates, it follows the agreed prioritization authority.
 
-**D.** **Option D.** Reordering only because one stakeholder insists abandons agreed criteria and trade-offs; prioritization weighs competing factors, not one voice.
+**D.** *Incorrect.* Reordering only because one stakeholder insists abandons agreed criteria and trade-offs; prioritization weighs competing factors, not one voice.
 
 **Watch.** Two opposite errors: “freeze the priorities” (A) and “reorder on one person’s say-so” (D). The correct stance is continual, criteria-based revisiting that the analyst supports rather than decides.
 
@@ -6672,13 +6689,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C6-Q01 — Answer: D {#c6-q01-answer}
 
-**A.** **Option A.** *Near-miss.* This describes the *opposite* gap: a solution component with no requirement (possible scope creep). Here it is a requirement with no support, not an orphaned component — and in either case the ECBA action is to record and raise, not to remove anything.
+**A.** *Near-miss.* This describes the *opposite* gap: a solution component with no requirement (possible scope creep). Here it is a requirement with no support, not an orphaned component — and in either case the ECBA action is to record and raise, not to remove anything.
 
-**B.** **Option B.** A missing link is the opposite of a passed validation; the requirement cannot be marked complete when nothing supports it.
+**B.** *Incorrect.* A missing link is the opposite of a passed validation; the requirement cannot be marked complete when nothing supports it.
 
-**C.** **Option C.** Verification concerns the requirement’s quality (clear, complete, testable); nothing says the requirement is poorly written, only that nothing implements it.
+**C.** *Incorrect.* Verification concerns the requirement’s quality (clear, complete, testable); nothing says the requirement is poorly written, only that nothing implements it.
 
-**D.** **Why D is correct.** A requirement with no linked design, solution component, or test may be an unaddressed need — the solution might not deliver it. At the ECBA level the analyst records the gap and raises it for review.
+**D.** *Correct.* A requirement with no linked design, solution component, or test may be an unaddressed need — the solution might not deliver it. At the ECBA level the analyst records the gap and raises it for review.
 
 **Quick rule.** Requirement with no support → possible unaddressed need. Component with no requirement → possible scope creep. Either way: record and raise, do not act alone.
 
@@ -6690,15 +6707,15 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C6-Q02 — Answer: B {#c6-q02-answer}
 
-**A.** **Option A.** *Near-miss.* This swaps the two — a reversal of the two defined relationships. A test does not “satisfy” a requirement, and a workflow component does not “validate” one.
+**A.** *Near-miss.* This swaps the two — a reversal of the two defined relationships. A test does not “satisfy” a requirement, and a workflow component does not “validate” one.
 
-**B.** **Why B is correct.** A test case linked to a requirement to check whether the solution meets it is “validates” (test → requirement). A solution component that implements a requirement is “satisfies” (component → requirement). So TC-22 → R-40 is validates, and the workflow → R-15 is satisfies.
+**B.** *Correct.* A test case linked to a requirement to check whether the solution meets it is “validates” (test → requirement). A solution component that implements a requirement is “satisfies” (component → requirement). So TC-22 → R-40 is validates, and the workflow → R-15 is satisfies.
 
-**C.** **Option C.** Both cannot be satisfies; a test case does not satisfy a requirement, it validates it.
+**C.** *Incorrect.* Both cannot be satisfies; a test case does not satisfy a requirement, it validates it.
 
-**D.** **Option D.** Both cannot be validates; a solution component does not validate a requirement, it satisfies it.
+**D.** *Incorrect.* Both cannot be validates; a solution component does not validate a requirement, it satisfies it.
 
-**Quick rule.** Satisfies = a solution component fulfils a requirement. Validates = a test case confirms a requirement is met. Pick the label from the *role of the linked item*: tests validate; components satisfy.
+**Quick rule.** Satisfies = a solution component fulfills a requirement. Validates = a test case confirms a requirement is met. Pick the label from the *role of the linked item*: tests validate; components satisfy.
 
 **Topic:** Satisfies vs. validates (direction)
 
@@ -6708,13 +6725,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C6-Q03 — Answer: B {#c6-q03-answer}
 
-**A.** **Option A.** (2) the four-month rollout and (4) the single integration developer are *implementation* constraints (time and resources to build), not design constraints — A correctly identifies them but as the wrong category for the question asked.
+**A.** *Incorrect.* (2) the four-month rollout and (4) the single integration developer are *implementation* constraints (time and resources to build), not design constraints — A correctly identifies them but as the wrong category for the question asked.
 
-**B.** **Why B is correct.** A design constraint defines what must be true about the *solution itself*. Encrypting stored health data (1) and running on the existing identity-provider (3) shape the nature of the solution, so both are design constraints.
+**B.** *Correct.* A design constraint defines what must be true about the *solution itself*. Encrypting stored health data (1) and running on the existing identity-provider (3) shape the nature of the solution, so both are design constraints.
 
-**C.** **Option C.** *Near-miss.* This adds (2) the deadline, treating “anything mandatory” as a design constraint. A deadline is mandatory but limits *how/when* the solution is built, not what the solution must be.
+**C.** *Near-miss.* This adds (2) the deadline, treating “anything mandatory” as a design constraint. A deadline is mandatory but limits *how/when* the solution is built, not what the solution must be.
 
-**D.** **Option D.** *Near-miss.* “Every constraint affects the solution” is the broadest version of the same error; affecting the effort is not the same as constraining the design.
+**D.** *Near-miss.* Including all four constraints is the broadest version of the same error; affecting the effort is not the same as constraining the design.
 
 **Quick rule.** Design constraint = the *nature* of the solution (what it must/must not be or do). Implementation constraint = the *resources, time, or method* to build it.
 
@@ -6728,11 +6745,11 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 **A.** *Near-miss.* Mitigate *reduces* a risk's probability or impact while the risk itself remains; here the unsupported-vendor risk is eliminated entirely, not reduced. The new integration effort is a separate, unrelated consideration.
 
-**B.** Transfer shifts responsibility to another party (e.g., insurance or a vendor contract) while the risk still exists; switching components does not transfer it.
+**B.** *Incorrect.* Transfer shifts responsibility to another party (e.g., insurance or a vendor contract) while the risk still exists; switching components does not transfer it.
 
-**C.** Accept means proceeding with the risk knowingly; the team is doing the opposite by removing it.
+**C.** *Incorrect.* Accept means proceeding with the risk knowingly; the team is doing the opposite by removing it.
 
-**D.** **Why D is correct.** Switching components so the exposure no longer exists at all changes the approach so the risk is not taken — that is Avoid. The separate integration effort the new component brings is a *different* consideration; it does not change the fact that the unsupported-vendor risk itself has been eliminated.
+**D.** *Correct.* Switching components so the exposure no longer exists at all changes the approach so the risk is not taken — that is Avoid. The separate integration effort the new component brings is a *different* consideration; it does not change the fact that the unsupported-vendor risk itself has been eliminated.
 
 **Quick rule.** Avoid = remove the risk by changing the approach. Mitigate = reduce it (residual remains). Transfer = move it to someone else. Accept = keep it knowingly.
 
@@ -6744,13 +6761,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C6-Q05 — Answer: A {#c6-q05-answer}
 
-**A.** **Why A is correct.** BABOK 6.2 Define Future State produces three outputs: Business Objectives, Future State Description, and Potential Value. The sponsor wants only the description, so the BEST response is to explain that the description alone is incomplete and that all three belong together.
+**A.** *Correct.* BABOK 6.2 Define Future State produces three outputs: Business Objectives, Future State Description, and Potential Value. The sponsor wants only the description, so the BEST response is to explain that the description alone is incomplete and that all three belong together.
 
-**B.** **Option B.** *Near-miss.* The Future State Description is one of the three outputs, and the sponsor explicitly asked for just it — but providing only the description gives an incomplete view of the future state, which is the trap.
+**B.** *Near-miss.* The Future State Description is one of the three outputs, and the sponsor explicitly asked for just it — but providing only the description gives an incomplete view of the future state, which is the trap.
 
-**C.** **Option C.** Solution Scope and Change Strategy are outputs of Define Change Strategy (6.4), and Requirements Architecture comes from 7.4 — different tasks.
+**C.** *Incorrect.* Solution Scope and Change Strategy are outputs of Define Change Strategy (6.4), and Requirements Architecture comes from 7.4 — different tasks.
 
-**D.** These come from other tasks: Design Options from Define Design Options, Risk Analysis Results from Assess Risks, and Solution Recommendation from Analyze Potential Value and Recommend Solution.
+**D.** *Incorrect.* These come from other tasks: Design Options from Define Design Options, Risk Analysis Results from Assess Risks, and Solution Recommendation from Analyze Potential Value and Recommend Solution.
 
 **Quick rule.** Define Future State = Business Objectives + Future State Description + Potential Value. If an option lists only one, it is the incomplete-answer trap.
 
@@ -6762,13 +6779,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C6-Q06 — Answer: A {#c6-q06-answer}
 
-**A.** **Why A is correct.** Organizing requirements so they work as a cohesive whole, showing how business-process, data, security, and service requirements relate, and surfacing gaps — without designing system components — is Define Requirements Architecture.
+**A.** *Correct.* Organizing requirements so they work as a cohesive whole, showing how business-process, data, security, and service requirements relate, and surfacing gaps — without designing system components — is Define Requirements Architecture.
 
-**B.** The requested work organizes requirements and their relationships; it explicitly excludes technical component design. The assigned purpose, rather than a blanket ban on technical work by analysts, determines the distinction.
+**B.** *Incorrect.* The requested work organizes requirements and their relationships; it explicitly excludes technical component design. The assigned purpose, rather than a blanket ban on technical work by analysts, determines the distinction.
 
-**C.** **Option C.** *Near-miss.* Tracing links requirements to designs and tests, but the need here is to organize requirements into a coherent structure and find gaps across perspectives, which is broader than one-to-one tracing.
+**C.** *Near-miss.* Tracing links requirements to designs and tests, but the need here is to organize requirements into a coherent structure and find gaps across perspectives, which is broader than one-to-one tracing.
 
-**D.** **Option D.** Missing security requirements surfaced while organizing the set is an architecture/gap finding, not a stakeholder-initiated change request to assess.
+**D.** *Incorrect.* Missing security requirements surfaced while organizing the set is an architecture/gap finding, not a stakeholder-initiated change request to assess.
 
 **Quick rule.** Requirements architecture organizes *requirements* (relationships, perspectives, gaps). Solution architecture concerns the technical system. Here the analyst is explicitly assigned requirements work rather than technical design; that scenario responsibility determines the boundary.
 
@@ -6782,13 +6799,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C6-Q07 — Answer: C {#c6-q07-answer}
 
-**A.** **Option A.** *Near-miss.* Something is being updated during implementation, which tempts “assess changes,” but Assess Requirements Changes is triggered by a *new or changed requirement* request. Here the requirement is unchanged; only its metadata is wrong.
+**A.** *Near-miss.* Something is being updated during implementation, which tempts “assess changes,” but Assess Requirements Changes is triggered by a *new or changed requirement* request. Here the requirement is unchanged; only its metadata is wrong.
 
-**B.** **Option B.** Requirements architecture organizes a set of requirements into a structure; correcting one artifact’s attributes is not architecture work.
+**B.** *Incorrect.* Requirements architecture organizes a set of requirements into a structure; correcting one artifact’s attributes is not architecture work.
 
-**C.** **Why C is correct.** The design is still correct and no change to what it does is requested; only the attributes (status, source stakeholder) are inaccurate. Keeping existing requirements and designs accurate and consistent — including attributes — is Maintain Requirements and Designs.
+**C.** *Correct.* The design is still correct and no change to what it does is requested; only the attributes (status, source stakeholder) are inaccurate. Keeping existing requirements and designs accurate and consistent — including attributes — is Maintain Requirements.
 
-**D.** **Option D.** Define Design Options generates possible ways to meet a need; the design here is settled and valid, so re-evaluating options does not apply.
+**D.** *Incorrect.* Define Design Options generates possible ways to meet a need; the design here is settled and valid, so re-evaluating options does not apply.
 
 **Quick rule.** Existing item, accuracy/attributes/upkeep → Maintain (5.2). New or changed capability requested → Assess Changes (5.4).
 
@@ -6818,13 +6835,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C7-Q01 — Answer: A {#c7-q01-answer}
 
-**A.** **Why A is correct.** Communicating business analysis information (BABOK 4.4) is about creating shared understanding by tailoring the information, format, terminology, and level of detail to each audience. The warehouse, finance, and integration audiences need different things, so tailored packages fit.
+**A.** *Correct.* Communicating business analysis information (BABOK 4.4) is about creating shared understanding by tailoring the information, format, terminology, and level of detail to each audience. The warehouse, finance, and integration audiences need different things, so tailored packages fit.
 
-**B.** **Option B.** *Near-miss.* Sending everyone the full document feels fair and consistent, but identical delivery is not shared understanding: it overwhelms some readers and under-serves others. Consistency of delivery ≠ clarity for the audience.
+**B.** *Near-miss.* Sending everyone the full document feels fair and consistent, but identical delivery is not shared understanding: it overwhelms some readers and under-serves others. Consistency of delivery ≠ clarity for the audience.
 
-**C.** **Option C.** B single sponsor-chosen format does not meet three different audience needs; sponsor preference does not replace communication needs.
+**C.** *Incorrect.* B single sponsor-chosen format does not meet three different audience needs; sponsor preference does not replace communication needs.
 
-**D.** **Option D.** Communication supports understanding throughout the change, not only after approval; waiting leaves stakeholders uninformed when they need the information.
+**D.** *Incorrect.* Communication supports understanding throughout the change, not only after approval; waiting leaves stakeholders uninformed when they need the information.
 
 **Quick rule.** Tailor to the audience: right information, timing, format, terminology, detail. Same package for everyone is the fairness trap.
 
@@ -6838,11 +6855,11 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 **A.** *Near-miss.* The later step (tailored summaries for operations and compliance) genuinely *is* Communicate Business Analysis Information (4.4) — but the question asks about the FIRST step, and the scenario is designed so the two steps are easy to blur. The key signal is *what is being checked*: in step one she is checking captured information for accuracy against the source, which is confirming, not communicating.
 
-**B.** **Why B is correct.** The FIRST step — reviewing the notes with the SME and asking "did I get this right?" — checks that captured information is accurate and consistent with the source. That is Confirm Elicitation Results (4.3).
+**B.** *Correct.* The FIRST step — reviewing the notes with the SME and asking "did I get this right?" — checks that captured information is accurate and consistent with the source. That is Confirm Elicitation Results (4.3).
 
-**C.** Manage Stakeholder Collaboration is about sustaining engagement toward a common goal, not verifying notes; meeting with a stakeholder is not by itself collaboration management.
+**C.** *Incorrect.* Manage Stakeholder Collaboration is about sustaining engagement toward a common goal, not verifying notes; meeting with a stakeholder is not by itself collaboration management.
 
-**D.** Validate checks requirements against business value; these are raw elicitation notes being checked for accuracy, not requirements being checked for alignment.
+**D.** *Incorrect.* Validate checks requirements against business value; these are raw elicitation notes being checked for accuracy, not requirements being checked for alignment.
 
 **Quick rule.** Checking captured information for accuracy → Confirm (4.3). Delivering assembled information for understanding → Communicate (4.4).
 
@@ -6854,13 +6871,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C7-Q03 — Answer: B {#c7-q03-answer}
 
-**A.** **Option A.** *Near-miss.* This uses the right two terms but swaps them — a reversal of impact and influence. Nurses are affected (impact), not able to stop it (influence); the officer is the reverse.
+**A.** *Near-miss.* This uses the right two terms but swaps them — a reversal of impact and influence. Nurses are affected (impact), not able to stop it (influence); the officer is the reverse.
 
-**B.** **Why B is correct.** Impact is how much the change affects a stakeholder; influence is their ability to affect the change. Nurses are highly affected (routines change every shift) but cannot redirect the rollout — high impact. The data-protection officer barely uses the tablets but can halt the launch — high influence.
+**B.** *Correct.* Impact is how much the change affects a stakeholder; influence is their ability to affect the change. Nurses are highly affected (routines change every shift) but cannot redirect the rollout — high impact. The data-protection officer barely uses the tablets but can halt the launch — high influence.
 
-**C.** **Option C.** Being affected differs from being able to affect; the two stakeholders are not both high-impact, and impact is a dimension, not a role.
+**C.** *Incorrect.* Being affected differs from being able to affect; the two stakeholders are not both high-impact, and impact is a dimension, not a role.
 
-**D.** **Option D.** Only the officer can affect whether the change proceeds; the nurses cannot, so “both high influence” is wrong.
+**D.** *Incorrect.* Only the officer can affect whether the change proceeds; the nurses cannot, so “both high influence” is wrong.
 
 **Quick rule.** “Affected by the change” → impact. “Can affect the change” → influence. A stakeholder can be high on one and low on the other.
 
@@ -6872,13 +6889,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C7-Q04 — Answer: A {#c7-q04-answer}
 
-**A.** **Why A is correct.** A stakeholder is anyone with a relationship to the change, need, or solution — internal and external. For a delivery-process change that includes affected operations staff, customers, delivery partners, and regulators where relevant.
+**A.** *Correct.* A stakeholder is anyone with a relationship to the change, need, or solution — internal and external. For a delivery-process change that includes affected operations staff, customers, delivery partners, and regulators where relevant.
 
-**B.** **Option B.** *Near-miss.* The sponsor and project manager are important, but restricting the list to budget/schedule authority ignores everyone affected by or able to affect the change.
+**B.** *Near-miss.* The sponsor and project manager are important, but restricting the list to budget/schedule authority ignores everyone affected by or able to affect the change.
 
-**C.** **Option C.** The project team is only a subset; limiting analysis to them misses affected and influential groups.
+**C.** *Incorrect.* The project team is only a subset; limiting analysis to them misses affected and influential groups.
 
-**D.** **Option D.** Stakeholder analysis happens early and is revisited; it is not deferred until a solution is chosen.
+**D.** *Incorrect.* Stakeholder analysis happens early and is revisited; it is not deferred until a solution is chosen.
 
 **Quick rule.** Stakeholders = anyone with a relationship to the change, need, or solution — not just the team or the approvers.
 
@@ -6890,13 +6907,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C7-Q05 — Answer: C {#c7-q05-answer}
 
-**A.** A workshop can also build shared understanding, but the option offers a conventional work-product session rather than the structured game requested here. Collaborative games can be used within workshops; the techniques are not mutually exclusive.
+**A.** *Incorrect.* A workshop can also build shared understanding, but the option offers a conventional work-product session rather than the structured game requested here. Collaborative games can be used within workshops; the techniques are not mutually exclusive.
 
-**B.** A status meeting lets each group restate its position separately; it repeats the stuck positions rather than surfacing what is unsaid.
+**B.** *Incorrect.* A status meeting lets each group restate its position separately; it repeats the stuck positions rather than surfacing what is unsaid.
 
-**C.** **Why C is correct.** Collaborative games are structured, game-like activities designed to surface hidden assumptions, unspoken concerns, and tacit knowledge — exactly what is needed when groups restate fixed positions and the goal is shared understanding rather than a signed work product.
+**C.** *Correct.* Collaborative games are structured, game-like activities designed to surface hidden assumptions, unspoken concerns, and tacit knowledge — exactly what is needed when groups restate fixed positions and the goal is shared understanding rather than a signed work product.
 
-**D.** A requirements review checks that documented information is accurate; nothing here is about document accuracy.
+**D.** *Incorrect.* A requirements review checks that documented information is accurate; nothing here is about document accuracy.
 
 **Quick rule.** Collaborative games use structured play to explore assumptions. A workshop can contain such a game; select the technique described by the requested activity.
 
@@ -6908,13 +6925,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C7-Q06 — Answer: D {#c7-q06-answer}
 
-**A.** **Option A.** *Near-miss.* “Reach full agreement on a single workflow” sounds like good collaboration, but full consensus on every detail is not the bar; productive collaboration can hold disagreement while staying aligned on the outcome.
+**A.** *Near-miss.* “Reach full agreement on a single workflow” sounds like good collaboration, but full consensus on every detail is not the bar; productive collaboration can hold disagreement while staying aligned on the outcome.
 
-**B.** **Option B.** Handing the decision to the project manager bypasses collaboration and escalates too early.
+**B.** *Incorrect.* Handing the decision to the project manager bypasses collaboration and escalates too early.
 
-**C.** **Option C.** Pausing collaboration until the sponsor picks one preference also abandons collaboration prematurely and skips the trade-off discussion the analyst can support.
+**C.** *Incorrect.* Pausing collaboration until the sponsor picks one preference also abandons collaboration prematurely and skips the trade-off discussion the analyst can support.
 
-**D.** **Why D is correct.** Collaboration means working toward a common goal, not forcing complete agreement on every detail. Both departments support the business objective, so the first move is to refocus them on that shared outcome and support a structured discussion of the trade-offs.
+**D.** *Correct.* Collaboration means working toward a common goal, not forcing complete agreement on every detail. Both departments support the business objective, so the first move is to refocus them on that shared outcome and support a structured discussion of the trade-offs.
 
 **Quick rule.** Collaboration = aligned on the common goal, not unanimous on every detail. Beware options that demand full consensus or escalate/pause too soon.
 
@@ -6926,13 +6943,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C7-Q07 — Answer: C {#c7-q07-answer}
 
-**A.** **Option A.** *Near-miss.* The sponsor liking the benefit makes “treat it as approved” tempting, but support for a benefit is not approval when a concern remains unresolved.
+**A.** *Near-miss.* The sponsor liking the benefit makes “treat it as approved” tempting, but support for a benefit is not approval when a concern remains unresolved.
 
-**B.** **Option B.** The statement is not all concern; the faster close is a genuine driver. Reading both parts as concern misses the motivational direction.
+**B.** *Incorrect.* The statement is not all concern; the faster close is a genuine driver. Reading both parts as concern misses the motivational direction.
 
-**C.** **Why C is correct.** A driver pulls a stakeholder toward support; a concern holds them back. The faster month-end close is the driver; the unresolved support-ownership question is a concern. Early support is not approval while a decision factor is open, so the analyst helps clarify what is needed before approval proceeds.
+**C.** *Correct.* A driver pulls a stakeholder toward support; a concern holds them back. The faster month-end close is the driver; the unresolved support-ownership question is a concern. Early support is not approval while a decision factor is open, so the analyst helps clarify what is needed before approval proceeds.
 
-**D.** The sponsor holds approval authority in this scenario. Seeking an easier sign-off from someone else bypasses that responsibility.
+**D.** *Incorrect.* The sponsor holds approval authority in this scenario. Seeking an easier sign-off from someone else bypasses that responsibility.
 
 **Quick rule.** Driver = what pulls toward support. Concern = what holds back. Early support ≠ approval while a concern is open; the ECBA move is to clarify and help resolve it. Approval authority cannot be bypassed just because another stakeholder is more influential or easier to satisfy.
 
@@ -6962,13 +6979,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C8-Q01 — Answer: C {#c8-q01-answer}
 
-**A.** **Option A.** A broad, directional aspiration (“most trusted… in the region”) with no measure is a goal.
+**A.** *Incorrect.* A broad, directional aspiration (“most trusted… in the region”) with no measure is a goal.
 
-**B.** **Option B.** *Near-miss.* “Strengthen the reputation for fast, fair claims handling” sounds purposeful and even names a focus area, but it has no measure or timeframe, so it is a goal, not an objective.
+**B.** *Near-miss.* “Strengthen the reputation for fast, fair claims handling” sounds purposeful and even names a focus area, but it has no measure or timeframe, so it is a goal, not an objective.
 
-**C.** **Why C is correct.** A business objective is specific, measurable, and time-bound. “Cut average claim-settlement time from 12 days to 7 days by the end of Q3” has a baseline, a target, and a deadline — the hallmarks of an objective.
+**C.** *Correct.* A business objective is specific, measurable, and time-bound. “Cut average claim-settlement time from 12 days to 7 days by the end of Q3” has a baseline, a target, and a deadline — the hallmarks of an objective.
 
-**D.** **Option D.** “Improve the overall experience” is directional and unmeasured — a goal.
+**D.** *Incorrect.* “Improve the overall experience” is directional and unmeasured — a goal.
 
 **Quick rule.** Objectives specify measurable results and a timeframe; a baseline helps assess progress. Goals express broader direction. SMART is a useful test for objectives, rather than a rule that every objective sentence must contain its baseline.
 
@@ -6980,13 +6997,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C8-Q02 — Answer: D {#c8-q02-answer}
 
-**A.** **Option A.** *Near-miss.* Writing a crisp measurable objective seems helpful, but the analyst should not independently author and finalize the objective on the sponsor’s behalf; it is shaped with stakeholders, not created alone.
+**A.** *Near-miss.* Writing a crisp measurable objective seems helpful, but the analyst should not independently author and finalize the objective on the sponsor’s behalf; it is shaped with stakeholders, not created alone.
 
-**B.** **Option B.** Recording the vague phrase as the objective treats a goal-like statement as a measurable objective.
+**B.** *Incorrect.* Recording the vague phrase as the objective treats a goal-like statement as a measurable objective.
 
-**C.** **Option C.** Jumping to feature design skips confirming a measurable, aligned outcome; “branches feel less overwhelmed” is not yet a clear objective.
+**C.** *Incorrect.* Jumping to feature design skips confirming a measurable, aligned outcome; “branches feel less overwhelmed” is not yet a clear objective.
 
-**D.** **Why D is correct.** At the ECBA level the analyst confirms understanding and supports clarification of a measurable objective under guidance: restate the outcome, check alignment with the retention strategy, and help shape a measurable objective with stakeholders.
+**D.** *Correct.* At the ECBA level the analyst confirms understanding and supports clarification of a measurable objective under guidance: restate the outcome, check alignment with the retention strategy, and help shape a measurable objective with stakeholders.
 
 **Watch.** “Confirm the desired outcome” ≠ “invent the objective yourself.” The ECBA move is to restate, check alignment, and help shape it under guidance.
 
@@ -6998,13 +7015,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C8-Q03 — Answer: A {#c8-q03-answer}
 
-**A.** **Why A is correct.** BABOK treats “do nothing” as a valid, defensible recommendation when the cost and risk of change outweigh the likely benefit and the current state already meets the objective. The analyst supports raising it as a legitimate option.
+**A.** *Correct.* BABOK treats “do nothing” as a valid, defensible recommendation when the cost and risk of change outweigh the likely benefit and the current state already meets the objective. The analyst supports raising it as a legitimate option.
 
-**B.** **Option B.** *Near-miss.* Stakeholder enthusiasm feels like evidence of value, but enthusiasm is not value; the analysis shows cost and risk exceed the small, uncertain benefit.
+**B.** *Near-miss.* Stakeholder enthusiasm feels like evidence of value, but enthusiasm is not value; the analysis shows cost and risk exceed the small, uncertain benefit.
 
-**C.** **Option C.** Building a cut-down version assumes some change must happen; “any delivered change is better than none” contradicts the evidence that change is not justified.
+**C.** *Incorrect.* Building a cut-down version assumes some change must happen; “any delivered change is better than none” contradicts the evidence that change is not justified.
 
-**D.** **Option D.** Relaxing the objective to make the feature look worthwhile manipulates the baseline and undermines alignment.
+**D.** *Incorrect.* Relaxing the objective to make the feature look worthwhile manipulates the baseline and undermines alignment.
 
 **Watch.** “Do nothing” is not giving up. When evidence shows change is not justified, recommending no change (with reasons) is sound analysis.
 
@@ -7016,13 +7033,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C8-Q04 — Answer: B {#c8-q04-answer}
 
-**A.** **Option A.** *Near-miss.* Low adoption tempts “the solution is failing,” but the scenario states the system works as designed; the block is the unretired old process, not the solution.
+**A.** *Near-miss.* Low adoption tempts “the solution is failing,” but the scenario states the system works as designed; the block is the unretired old process, not the solution.
 
-**B.** **Why B is correct.** The system works and has no defects, yet value is blocked by the surrounding context — finance keeping the old channel open and managers accepting it. A barrier outside the solution is an enterprise limitation.
+**B.** *Correct.* The system works and has no defects, yet value is blocked by the surrounding context — finance keeping the old channel open and managers accepting it. A barrier outside the solution is an enterprise limitation.
 
-**C.** **Option C.** Ignoring adoption data is not a classification and dodges the real barrier.
+**C.** *Incorrect.* Ignoring adoption data is not a classification and dodges the real barrier.
 
-**D.** **Option D.** Comparing design options does not apply; the design is fine, the context is not.
+**D.** *Incorrect.* Comparing design options does not apply; the design is fine, the context is not.
 
 **Quick rule.** Remove the solution entirely — would the barrier still exist? If yes (incentives, process, culture) → enterprise limitation. If no (defect, missing function) → solution limitation.
 
@@ -7034,13 +7051,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C8-Q05 — Answer: B {#c8-q05-answer}
 
-**A.** **Option A.** *Near-miss.* Forwarding the technical note unchanged preserves detail but does not create shared understanding — that is passive forwarding, not relaying.
+**A.** *Near-miss.* Forwarding the technical note unchanged preserves detail but does not create shared understanding — that is passive forwarding, not relaying.
 
-**B.** Explaining the verified business consequence makes the technical message useful to stakeholders. The scenario establishes that preventing duplicate writes to customer records reduces duplicate records; this is not a general claim about every database write.
+**B.** *Correct.* Explaining the verified business consequence makes the technical message useful to stakeholders. The scenario establishes that preventing duplicate writes to customer records reduces duplicate records; this is not a general claim about every database write.
 
-**C.** **Option C.** Stakeholders should not have to decode technical vocabulary to understand value.
+**C.** *Incorrect.* Stakeholders should not have to decode technical vocabulary to understand value.
 
-**D.** **Option D.** *Near-miss.* Stating only that duplicate records will fall, without explaining how the change produces that, drops the connection that makes the message useful. Relaying keeps the meaning *and* the link intact; this gives a conclusion with no reasoning the stakeholders can act on.
+**D.** *Near-miss.* Stating only that duplicate records will fall, without explaining how the change produces that, drops the connection that makes the message useful. Relaying keeps the meaning *and* the link intact; this gives a conclusion with no reasoning the stakeholders can act on.
 
 **Quick rule.** Relay = translate and contextualize for the audience, keeping the meaning accurate. Forwarding raw technical content is not relaying.
 
@@ -7052,13 +7069,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C8-Q06 — Answer: D {#c8-q06-answer}
 
-**A.** **Option A.** *Near-miss.* Being on a dashboard does not make a measure a KPI; the link to a strategic goal does. The raw weekly count has no such link.
+**A.** *Near-miss.* Being on a dashboard does not make a measure a KPI; the link to a strategic goal does. The raw weekly count has no such link.
 
-**B.** **Option B.** This reverses the two: the goal-linked completion rate is the KPI, not the bare count.
+**B.** *Incorrect.* This reverses the two: the goal-linked completion rate is the KPI, not the bare count.
 
-**C.** **Option C.** Conversion to cost figures is not what makes a measure a KPI; its tie to a strategic goal is.
+**C.** *Incorrect.* Conversion to cost figures is not what makes a measure a KPI; its tie to a strategic goal is.
 
-**D.** **Why D is correct.** A metric is a quantifiable level of an indicator; a KPI is a metric tied to a strategic goal or objective. The weekly returns count is a bare metric; the 48-hour completion rate tracked against the customer-experience goal is linked to a strategic objective, making it a KPI.
+**D.** *Correct.* A metric is a quantifiable level of an indicator; a KPI is a metric tied to a strategic goal or objective. The weekly returns count is a bare metric; the 48-hour completion rate tracked against the customer-experience goal is linked to a strategic objective, making it a KPI.
 
 **Quick rule.** All KPIs are metrics; not all metrics are KPIs. The KPI is the one tied to a business goal or objective.
 
@@ -7070,13 +7087,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C8-Q07 — Answer: A {#c8-q07-answer}
 
-**A.** **Why A is correct.** A leading indicator predicts future performance and gives early warning. The percentage of cases nearing a service-level breach this week signals likely complaints before they appear in the quarterly survey — exactly the early-warning purpose requested.
+**A.** *Correct.* A leading indicator predicts future performance and gives early warning. The percentage of cases nearing a service-level breach this week signals likely complaints before they appear in the quarterly survey — exactly the early-warning purpose requested.
 
-**B.** Last quarter’s count describes completed results. It can inform trends, but alone does not provide the current early warning requested before the next survey.
+**B.** *Incorrect.* Last quarter’s count describes completed results. It can inform trends, but alone does not provide the current early warning requested before the next survey.
 
-**C.** **Option C.** *Near-miss.* The previous survey’s satisfaction score is also lagging; it reflects how customers already felt, not an early signal for the coming quarter.
+**C.** *Near-miss.* The previous survey’s satisfaction score is also lagging; it reflects how customers already felt, not an early signal for the coming quarter.
 
-**D.** **Option D.** Annual support-customer revenue is neither focused on complaints nor an early signal; it does not serve the early-warning need.
+**D.** *Incorrect.* Annual support-customer revenue is neither focused on complaints nor an early signal; it does not serve the early-warning need.
 
 **Quick rule.** Leading = predicts/early warning (act before results land). Lagging = confirms what already happened. The need here is early warning, so choose the leading indicator.
 
@@ -7095,10 +7112,10 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 | C9-Q01 | D | 9 | 9.1 | situation | medium | BABOK §5.2; BABOK §5.5 |
 | C9-Q02 | A | 9 | 9.1 | situation | medium | BABOK §3.4; BABOK §10.18 |
 | C9-Q03 | B | 9 | 9.2 | situation | hard | BABOK §8.3; BABOK §8.4 |
-| C9-Q04 | C | 9 | 9.2 | situation | medium | BABOK §6.1; BABOK §6.3; BABOK §10.38 |
-| C9-Q05 | B | 9 | 9.3 | situation | medium | BABOK §7.4 |
+| C9-Q04 | C | 9 | 9.2 | situation | medium | BABOK §6.1; BABOK §6.2 |
+| C9-Q05 | B | 9 | 9.3 | situation | medium | BABOK §6.1; BABOK §7.4 |
 | C9-Q06 | D | 9 | 9.4 | situation | easy | BABOK §7.2; BABOK §7.3 |
-| C9-Q07 | A | 9 | 9.4 | situation | hard | BABOK §7.2.4 |
+| C9-Q07 | A | 9 | 9.4 | situation | medium | BABOK §7.2.4 |
 | C9-Q08 | C | 9 | 9.4 | situation | medium | BABOK §7.2 |
 
 -----
@@ -7107,13 +7124,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C9-Q01 — Answer: D {#c9-q01-answer}
 
-**A.** **Option A.** *Near-miss.* Approval may eventually be needed, but no sign-off is being sought now and the requirement itself has not changed; the immediate issue is inaccurate metadata, which is maintenance.
+**A.** *Near-miss.* Approval may eventually be needed, but no sign-off is being sought now and the requirement itself has not changed; the immediate issue is inaccurate metadata, which is maintenance.
 
-**B.** **Option B.** Requirements architecture organizes a set of requirements into a structure; correcting one requirement’s attributes is not architecture work.
+**B.** *Incorrect.* Requirements architecture organizes a set of requirements into a structure; correcting one requirement’s attributes is not architecture work.
 
-**C.** **Option C.** Validation checks alignment to business value; nothing here questions the requirement’s value, only its attributes.
+**C.** *Incorrect.* Validation checks alignment to business value; nothing here questions the requirement’s value, only its attributes.
 
-**D.** **Why D is correct.** The requirement is still valid; only its attributes (owner, priority) are out of date. Keeping existing requirements accurate and consistent — including metadata — is Maintain Requirements and Designs.
+**D.** *Correct.* The requirement is still valid; only its attributes (owner, priority) are out of date. Keeping existing requirements accurate and consistent — including metadata — is Maintain Requirements.
 
 **Quick rule.** Requirement unchanged, metadata out of date → Maintain (5.2). Authorized stakeholders agreeing it is ready to proceed → Approve (5.5).
 
@@ -7125,13 +7142,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C9-Q02 — Answer: A {#c9-q02-answer}
 
-**A.** **Why A is correct.** Scattered storage, unclear versions, and conflicting copies are information-management problems. The fix is an information management approach defining how business analysis information is organized, stored, accessed, and kept current.
+**A.** *Correct.* Scattered storage, unclear versions, and conflicting copies are information-management problems. The fix is an information management approach defining how business analysis information is organized, stored, accessed, and kept current.
 
-**B.** **Option B.** *Near-miss.* Buying a tool is the “information management = IT picks a repository” trap; the approach (structure, versioning, access, currency) matters more than the tool, and a tool alone will not resolve the conflicts.
+**B.** *Near-miss.* Buying a tool is the “information management = IT picks a repository” trap; the approach (structure, versioning, access, currency) matters more than the tool, and a tool alone will not resolve the conflicts.
 
-**C.** **Option C.** Deleting older copies without first establishing which is current risks losing the accurate version and does not address the underlying disorganization.
+**C.** *Incorrect.* Deleting older copies without first establishing which is current risks losing the accurate version and does not address the underlying disorganization.
 
-**D.** **Option D.** Appointing a single owner per document is too narrow and halts work; the need is an organizing approach, not a freeze.
+**D.** *Incorrect.* Appointing a single owner per document is too narrow and halts work; the need is an organizing approach, not a freeze.
 
 **Watch.** “Information management” is not “buy a repository.” It is how information is organized, stored, accessed, traced, reused, and maintained.
 
@@ -7143,13 +7160,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C9-Q03 — Answer: B {#c9-q03-answer}
 
-**A.** **Option A.** *Near-miss.* “Value not realized” tempts solution limitation, but the scenario states the solution works as designed; the block is organizational, not internal to the dashboard.
+**A.** *Near-miss.* “Value not realized” tempts solution limitation, but the scenario states the solution works as designed; the block is organizational, not internal to the dashboard.
 
-**B.** **Why B is correct.** The dashboard works exactly as designed; value is blocked by the incentives and reporting structure around it (units withhold data). A barrier outside the solution is an enterprise limitation.
+**B.** *Correct.* The dashboard works exactly as designed; value is blocked by the incentives and reporting structure around it (units withhold data). A barrier outside the solution is an enterprise limitation.
 
-**C.** **Option C.** Nothing here is about whether the dashboard’s value can be measured; that is not the barrier.
+**C.** *Incorrect.* Nothing here is about whether the dashboard’s value can be measured; that is not the barrier.
 
-**D.** **Option D.** *Near-miss.* The data withholding is a present, ongoing behavior driven by incentives, not an uncertain future event; it is a limitation now, not a risk.
+**D.** *Near-miss.* The data withholding is a present, ongoing behavior driven by incentives, not an uncertain future event; it is a limitation now, not a risk.
 
 **Quick rule.** Remove the solution entirely — would the barrier still exist? Incentives and reporting lines would remain → enterprise limitation. A defect or missing function would vanish → solution limitation.
 
@@ -7161,37 +7178,37 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C9-Q04 — Answer: C {#c9-q04-answer}
 
-**A.** **Option A.** Calling the firm daily limit a risk misreads it; the limit is certain and fixed, not uncertain.
+**A.** *Incorrect.* An earlier approval does not override a confirmed policy; continuing would leave the plan out of alignment with a known boundary.
 
-**B.** **Option B.** *Near-miss.* The limit is indeed a constraint, but the campaign overflow is not a fixed boundary; it is an uncertain event, so treating both as constraints misses the risk dimension.
+**B.** *Near-miss.* The policy is confirmed, so it is a known boundary rather than an uncertain event. Its consequences for the plan still need analysis, but the policy itself is a constraint.
 
-**C.** **Why C is correct.** A constraint is a known boundary; a risk is an uncertain event and its effect. The fixed 5,000-call daily limit is a constraint. Whether the campaign will exceed it, how badly onboarding would be hit, and what fallback to prepare are uncertainties — a risk to analyze and plan responses for.
+**C.** *Correct.* A confirmed policy that limits the options is a constraint. The analyst helps identify which plan elements it affects, such as the hosting choice and the schedule, and supports the decision makers in adapting the plan so it stays aligned (BABOK §6.1; BABOK §6.2).
 
-**D.** **Option D.** This reverses the two: the known limit is the constraint, and the uncertain overflow is the risk.
+**D.** *Incorrect.* Choosing the provider is a solution decision that the scenario does not assign to the analyst, and the plan’s other elements still need reassessment.
 
-**Quick rule.** Constraint = a known, fixed boundary. Risk = an uncertain event and its potential effect. A constraint can create a risk.
+**Quick rule.** A known, fixed boundary is a constraint; an uncertain event is a risk. When a new constraint appears, help reassess and adapt the plan instead of ignoring it or deciding alone.
 
-**Topic:** Constraint vs. risk
+**Topic:** Recognizing a constraint and adapting the plan
 
-**Source detail:** BABOK §6.1; BABOK §6.3; BABOK §10.38
+**Source detail:** BABOK §6.1; BABOK §6.2
 
 **Review:** [A.S. 9.2](#as-9-2)
 
 ### C9-Q05 — Answer: B {#c9-q05-answer}
 
-**A.** The scenario assigns requirements clarification, rather than production of the final technical API specification.
+**A.** *Incorrect.* A competitor’s use of a technology is a trend to analyze, not evidence that it meets this company’s need.
 
-**B.** **Why B is correct.** From a requirements perspective, the analyst supports requirements architecture: documenting the interface-related requirements and the dependencies among them so the set works together. This is BA work and stays within ECBA scope.
+**B.** *Correct.* Analyzing a technology trend starts with the need it would serve and the current state it would join: here, the customer need and the existing order data and processes it would connect to. That analysis supports any later integration decision (BABOK §6.1; BABOK §7.4).
 
-**C.** **Option C.** The scenario assigns the analyst requirements analysis, rather than authority to choose the integration platform.
+**C.** *Near-miss.* Early designs can help stakeholders learn, but scripting the conversation assumes the chatbot is the solution before the need and integration points are understood.
 
-**D.** **Option D.** A delivery schedule assigning interfaces to teams is project management, not requirements clarification.
+**D.** *Incorrect.* Vendor selection is a later solution decision, and it would skip the analysis of need and fit.
 
-**Quick rule.** Match the contribution to the assigned responsibility: here the analyst clarifies requirements and dependencies rather than producing technical specifications or making platform and scheduling decisions.
+**Quick rule.** Trend first, fit second: what need would it address, and how would it connect to what already exists?
 
-**Topic:** Requirements architecture vs. solution architecture
+**Topic:** Analyzing a technology trend
 
-**Source detail:** BABOK §7.4
+**Source detail:** BABOK §6.1; BABOK §7.4
 
 **Review:** [A.S. 9.3](#as-9-3)
 
@@ -7199,11 +7216,11 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 **A.** *Near-miss.* Verification checks whether the requirement is specified well enough to use — clear, complete, consistent, testable — but the scenario explicitly says the requirement is well-written; the doubt is about goal alignment, not specification quality.
 
-**B.** Timing does not define these tasks; both occur during analysis, not "only after build."
+**B.** *Incorrect.* Timing does not define these tasks; both occur during analysis, not "only after build."
 
-**C.** Re-signing a requirement is approval, not the analysis of whether it still supports the goal; approval does not resolve a possible value-misalignment.
+**C.** *Incorrect.* Re-signing a requirement is approval, not the analysis of whether it still supports the goal; approval does not resolve a possible value-misalignment.
 
-**D.** **Why D is correct.** The requirement is already clear, complete, and testable — so its *quality* (verification) is settled. The open question is whether it still aligns with the revised business goal and needed value, which is exactly what Validate Requirements and Designs (7.3) checks.
+**D.** *Correct.* The requirement is already clear, complete, and testable — so its *quality* (verification) is settled. The open question is whether it still aligns with the revised business goal and needed value, which is exactly what Validate Requirements (7.3) checks.
 
 **Quick rule.** Quality of the writing → Verify (7.2). Alignment to goals and value → Validate (7.3). Here the writing is fine, so the question is validation.
 
@@ -7215,17 +7232,17 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C9-Q07 — Answer: A {#c9-q07-answer}
 
-**A.** **Why A is correct.** The scenario explicitly defines modifiability as a criterion on the team’s tailored checklist. Scattered tax-rate rules fail that criterion. BABOK §7.2.4 permits checklists to include specific concerns; modifiability is supplementary vocabulary here, rather than one of its nine named characteristics.
+**A.** *Correct.* Atomic means a requirement is self-contained and can be understood on its own. Bundling three separable obligations prevents stakeholders from accepting one while questioning another, which is the problem described (BABOK §7.2.4).
 
-**B.** *Near-miss.* "Inconsistent behavior" tempts Consistency, but consistency is about requirements contradicting each other; the scenario explicitly says this requirement does not contradict any other. The issue is how hard it is to change cleanly.
+**B.** *Near-miss.* Ambiguity would matter if readers disagreed about meaning, but each obligation is described as clear.
 
-**C.** Completeness is about missing required information; nothing is described as missing.
+**C.** *Incorrect.* Carrier rates may belong elsewhere in the set; the scenario reports no missing detail needed for subsequent work.
 
-**D.** Correctness is about a value being inaccurate or not agreed; the concern is the cost of future change, not a wrong tax value today.
+**D.** *Incorrect.* Each obligation is testable; needing several checks follows from the bundling and is not the characteristic in question.
 
-**Quick rule.** Hard to change cleanly without ripple effects → Modifiability. Requirements contradict each other → Consistency. Don't let the word "inconsistent" in a scenario auto-select Consistency.
+**Quick rule.** Several separately understandable obligations in one statement → Atomic. Readers disagree about meaning → Unambiguous.
 
-**Topic:** Quality characteristic: modifiability
+**Topic:** Quality characteristic: atomic
 
 **Source detail:** BABOK §7.2.4
 
@@ -7233,13 +7250,13 @@ This section gives the answers and rationale for the end-of-chapter Practice Que
 
 ### C9-Q08 — Answer: C {#c9-q08-answer}
 
-**A.** **Option A.** *Near-miss.* Completeness is about *missing* required content; the problem here is *extra, unrelated* content, which is the opposite — conciseness, not completeness.
+**A.** *Near-miss.* Completeness is about *missing* required content; the problem here is *extra, unrelated* content, which is the opposite — conciseness, not completeness.
 
-**B.** **Option B.** Correctness is about inaccurate or unagreed information; the cafeteria items are not described as wrong, just out of place.
+**B.** *Incorrect.* Atomic concerns whether each requirement stands on its own; splitting the cafeteria items would keep content that does not belong in this set.
 
-**C.** **Why C is correct.** Concise means excluding unnecessary content. Cafeteria-menu requirements add material unrelated to the inventory need, so conciseness is directly affected (BABOK §7.2.4).
+**C.** *Correct.* Concise means excluding unnecessary content. Cafeteria-menu requirements add material unrelated to the inventory need, so conciseness is directly affected (BABOK §7.2.4).
 
-**D.** **Option D.** *Near-miss.* It is true that unrelated requirements can make a focused verification review harder, which makes “testability” sound plausible. But testability is about whether a requirement’s fulfillment can be verified; the actual defect is that out-of-place content sits in the set, which is a conciseness problem.
+**D.** *Near-miss.* It is true that unrelated requirements can make a focused verification review harder, which makes “testability” sound plausible. But testability is about whether a requirement’s fulfillment can be verified; the actual defect is that out-of-place content sits in the set, which is a conciseness problem.
 
 **Quick rule.** Extra unrelated content in the set → Conciseness. Missing required content → Completeness. They are opposite failures.
 
@@ -7297,11 +7314,11 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 | PE-Q36 | C | 7 | 7.1 | situation | medium | BABOK §4.4 |
 | PE-Q37 | A | 7 | 7.2 | situation | hard | BABOK §3.2; BABOK §9.5.2 |
 | PE-Q38 | B | 7 | 7.2 | standard | easy | BABOK §3.2 |
-| PE-Q39 | D | 7 | 7.3 | standard | easy | BABOK §10.50 |
+| PE-Q39 | D | 7 | 7.3 | situation | easy | BABOK §10.50 |
 | PE-Q40 | A | 7 | 7.4 | standard | medium | BABOK §3.2 |
 | PE-Q41 | C | 8 | 8.1 | situation | hard | BABOK §6.2 |
-| PE-Q42 | B | 8 | 8.1 | standard | easy | BABOK §6.2 |
-| PE-Q43 | D | 8 | 8.2 | standard | medium | BABOK §7.6; BABOK §8.1; BABOK §8.5 |
+| PE-Q42 | B | 8 | 8.1 | situation | medium | BABOK §6.2 |
+| PE-Q43 | D | 8 | 8.2 | situation | medium | BABOK §7.6; BABOK §8.1; BABOK §8.5 |
 | PE-Q44 | D | 8 | 8.3 | situation | hard | BABOK §4.4; BABOK §7.3; BABOK §9.4.3 |
 | PE-Q45 | A | 8 | 8.4 | situation | medium | BABOK §8.1; BABOK §10.28 |
 | PE-Q46 | D | 9 | 9.1 | situation | easy | BABOK §3.4 |
@@ -7316,13 +7333,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q01 — Answer: D {#pe-q01-answer}
 
-**A.** **A is the near-miss:** It sounds reasonable because documentation *is* part of the work, but it narrows business analysis to recording decisions already made, dropping the “defining needs / delivering value” core of the definition.
+**A.** *Near-miss.* It sounds reasonable because documentation *is* part of the work, but it narrows business analysis to recording decisions already made, dropping the “defining needs / delivering value” core of the definition.
 
-**B.** **B is wrong:** Scope may be shaped by direction, but the *definition* of business analysis does not change based on what a single stakeholder authorizes.
+**B.** *Incorrect.* Scope may be shaped by direction, but the *definition* of business analysis does not change based on what a single stakeholder authorizes.
 
-**C.** **C is wrong:** A requirements-management tool is optional tooling, not a precondition for business analysis; the definition is tool-agnostic.
+**C.** *Incorrect.* A requirements-management tool is optional tooling, not a precondition for business analysis; the definition is tool-agnostic.
 
-**D.** **D is correct:** Standard §2.1 defines business analysis as enabling change by defining needs and recommending solutions that deliver value to stakeholders within a context. Documenting agreed features is one activity, but the practice also clarifies the underlying need and the value the change should deliver — it is not reducible to transcription.
+**D.** *Correct.* Standard §2.1 defines business analysis as enabling change by defining needs and recommending solutions that deliver value to stakeholders within a context. Documenting agreed features is one activity, but the practice also clarifies the underlying need and the value the change should deliver — it is not reducible to transcription.
 
 **Source detail:** Standard §2.1
 
@@ -7330,13 +7347,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q02 — Answer: B {#pe-q02-answer}
 
-**A.** **A is wrong:** Revenue alone is too narrow a measure of value and does not account for the other dimensions the Standard requires.
+**A.** *Incorrect.* Revenue alone is too narrow a measure of value and does not account for the other dimensions the Standard requires.
 
-**B.** **B is correct:** Standard §2.4 frames BA around value, outcomes, and stakeholder concerns; Standard §4.1 links BA work to high-value organizational outcomes. Business acumen requires evaluating broader impacts across multiple dimensions.
+**B.** *Correct.* Standard §2.4 frames BA around value, outcomes, and stakeholder concerns; Standard §4.1 links BA work to high-value organizational outcomes. Business acumen requires evaluating broader impacts across multiple dimensions.
 
-**C.** **C is wrong:** Separate definitions of success can preserve misalignment rather than support shared understanding of value.
+**C.** *Incorrect.* Separate definitions of success can preserve misalignment rather than support shared understanding of value.
 
-**D.** **D is the near-miss:** Cost is a real value consideration, but business acumen requires broader evaluation of organizational outcomes, community access, and stakeholder impacts rather than rejecting the change on one dimension (staffing cost) alone.
+**D.** *Near-miss.* Cost is a real value consideration, but business acumen requires broader evaluation of organizational outcomes, community access, and stakeholder impacts rather than rejecting the change on one dimension (staffing cost) alone.
 
 **Source detail:** Standard §2.4; Standard §4.1; BABOK §9.3.1
 
@@ -7344,13 +7361,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q03 — Answer: D {#pe-q03-answer}
 
-**A.** **A is wrong:** Drafting requirements jumps into solution detail before establishing the basis for the change.
+**A.** *Incorrect.* Drafting requirements jumps into solution detail before establishing the basis for the change.
 
-**B.** **B is the near-miss:** Budget is a valid contextual constraint, but considering budget alone is narrower than the full BA definition and skips need, stakeholders, and expected value.
+**B.** *Near-miss.* Budget is a valid contextual constraint, but considering budget alone is narrower than the full BA definition and skips need, stakeholders, and expected value.
 
-**C.** **C is wrong:** Approval authority does not replace defining need, value, stakeholders, and context.
+**C.** *Incorrect.* Approval authority does not replace defining need, value, stakeholders, and context.
 
-**D.** The BA should clarify the need, stakeholders, value, and context rather than assuming the proposed hours solve the problem. This understanding can develop iteratively as the initiative proceeds.
+**D.** *Correct.* The BA should clarify the need, stakeholders, value, and context rather than assuming the proposed hours solve the problem. This understanding can develop iteratively as the initiative proceeds.
 
 **Source detail:** Standard §2.1
 
@@ -7358,13 +7375,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q04 — Answer: C {#pe-q04-answer}
 
-**A.** **A is the near-miss:** A technology product can be part of a solution, but BACCM does not limit solutions to technology; a solution may include process, organizational, or other components.
+**A.** *Near-miss.* A technology product can be part of a solution, but BACCM does not limit solutions to technology; a solution may include process, organizational, or other components.
 
-**B.** **B is wrong:** Project activities are delivery work, not the BACCM concept of Solution.
+**B.** *Incorrect.* Project activities are delivery work, not the BACCM concept of Solution.
 
-**C.** **C is correct:** Standard §2.2 defines Solution as a specific way of satisfying one or more needs in a context and notes that solutions may include combinations of components, not only technology.
+**C.** *Correct.* Standard §2.2 defines Solution as a specific way of satisfying one or more needs in a context and notes that solutions may include combinations of components, not only technology.
 
-**D.** **D is wrong:** A business objective is closer to the rationale for a Need or desired outcome, not the Solution itself.
+**D.** *Incorrect.* A business objective is closer to the rationale for a Need or desired outcome, not the Solution itself.
 
 **Source detail:** Standard §2.2
 
@@ -7372,13 +7389,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q05 — Answer: D {#pe-q05-answer}
 
-**A.** **A is wrong:** BACCM provides shared structure, not a requirement for identical levels of detail across all stakeholder groups.
+**A.** *Incorrect.* BACCM provides shared structure, not a requirement for identical levels of detail across all stakeholder groups.
 
-**B.** **B is the near-miss:** Strategic alignment matters, but the executive view should not eliminate tactical and operational understanding. BACCM is designed to connect, not to privilege one perspective.
+**B.** *Near-miss.* Strategic alignment matters, but the executive view should not eliminate tactical and operational understanding. BACCM is designed to connect, not to privilege one perspective.
 
-**C.** **C is wrong:** Structured thinking should connect related concerns, not isolate them from one another.
+**C.** *Incorrect.* Structured thinking should connect related concerns, not isolate them from one another.
 
-**D.** **D is correct:** Standard §2.5 describes business analysis as supporting value creation across strategic, tactical, and operational levels; BACCM helps connect the core concepts — needs, stakeholders, solutions, value, context — across those levels to enable shared understanding.
+**D.** *Correct.* Standard §2.5 describes business analysis as supporting value creation across strategic, tactical, and operational levels; BACCM helps connect the core concepts — needs, stakeholders, solutions, value, context — across those levels to enable shared understanding.
 
 **Source detail:** Standard §2.3; Standard §2.5
 
@@ -7386,13 +7403,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q06 — Answer: B {#pe-q06-answer}
 
-**A.** **A is wrong:** The scenario is not about how a stakeholder request becomes a solution; it is about value implications of a completed change.
+**A.** *Incorrect.* The scenario is not about how a stakeholder request becomes a solution; it is about value implications of a completed change.
 
-**B.** **B is correct:** Standard §2.2 explains that changes can create needs by reducing or increasing the value delivered by existing solutions. The packaging change achieved its waste-reduction target but created a new need through reduced delivery quality.
+**B.** *Correct.* Standard §2.2 explains that changes can create needs by reducing or increasing the value delivered by existing solutions. The packaging change achieved its waste-reduction target but created a new need through reduced delivery quality.
 
-**C.** **C is wrong:** Context remains relevant because the change can influence and be influenced by circumstances around it, including customer outcomes.
+**C.** *Incorrect.* Context remains relevant because the change can influence and be influenced by circumstances around it, including customer outcomes.
 
-**D.** **D is the near-miss:** The first measurable benefit is real, but BACCM requires attention to broader value impacts, including newly created needs, losses, and risks that emerge after implementation.
+**D.** *Near-miss.* The first measurable benefit is real, but BACCM requires attention to broader value impacts, including newly created needs, losses, and risks that emerge after implementation.
 
 **Source detail:** Standard §2.2
 
@@ -7400,13 +7417,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q07 — Answer: D {#pe-q07-answer}
 
-**A.** **A is wrong:** These are project governance and procurement actions, not the listed §2.5 value-creation activities.
+**A.** *Incorrect.* These are project governance and procurement actions, not the listed §2.5 value-creation activities.
 
-**B.** **B is the near-miss:** Implementation work can enable value, but building solution components, managing infrastructure, and producing deployment scripts are not the business analysis activities listed in §2.5.
+**B.** *Near-miss.* Implementation work can enable value, but building solution components, managing infrastructure, and producing deployment scripts are not the business analysis activities listed in §2.5.
 
-**C.** **C is wrong:** These activities are entirely outside the listed business analysis value-creation activities and exceed the ECBA scope.
+**C.** *Incorrect.* These activities are entirely outside the listed business analysis value-creation activities and exceed the ECBA scope.
 
-**D.** **D is correct:** Standard §2.5 lists clarifying business problems and opportunities, identifying potential value, and helping teams assess trade-offs as ways business analysis helps create value.
+**D.** *Correct.* Standard §2.5 lists clarifying business problems and opportunities, identifying potential value, and helping teams assess trade-offs as ways business analysis helps create value.
 
 **Source detail:** Standard §2.5
 
@@ -7414,13 +7431,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q08 — Answer: C {#pe-q08-answer}
 
-**A.** **A is wrong:** It assumes capacity is the root cause before analysis has confirmed the real problem.
+**A.** *Incorrect.* It assumes capacity is the root cause before analysis has confirmed the real problem.
 
-**B.** **B is the near-miss:** Cost comparison may be useful later, but it still compares solution options before the underlying need is understood.
+**B.** *Near-miss.* Cost comparison may be useful later, but it still compares solution options before the underlying need is understood.
 
-**C.** **C is correct:** Standard §2.4 describes business analysis as going beyond symptoms to identify underlying causes and support targeted solutions.
+**C.** *Correct.* Standard §2.4 describes business analysis as going beyond symptoms to identify underlying causes and support targeted solutions.
 
-**D.** **D is wrong:** Complaint categorization can support analysis, but reporting complaints more clearly is not enough to create value.
+**D.** *Incorrect.* Complaint categorization can support analysis, but reporting complaints more clearly is not enough to create value.
 
 **Source detail:** Standard §2.4
 
@@ -7428,13 +7445,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q09 — Answer: B {#pe-q09-answer}
 
-**A.** **A is wrong:** Installed scanners are an output measure and do not show whether the error-reduction outcome is being achieved.
+**A.** *Incorrect.* Installed scanners are an output measure and do not show whether the error-reduction outcome is being achieved.
 
-**B.** **B is correct:** Standard §2.5 links value discovery to outcomes; this KPI directly measures progress toward the desired outcome of fewer dispensing errors and reflects actual operational performance.
+**B.** *Correct.* Standard §2.5 links value discovery to outcomes; this KPI directly measures progress toward the desired outcome of fewer dispensing errors and reflects actual operational performance.
 
-**C.** **C is wrong:** Project meetings are process activities that do not measure value realization or outcome achievement.
+**C.** *Incorrect.* Project meetings are process activities that do not measure value realization or outcome achievement.
 
-**D.** **D is the near-miss:** Training attendance is relevant to adoption and readiness but is an activity measure. It does not directly indicate whether the dispensing error outcome is being achieved.
+**D.** *Near-miss.* Training attendance is relevant to adoption and readiness but is an activity measure. It does not directly indicate whether the dispensing error outcome is being achieved.
 
 **Source detail:** Standard §2.5
 
@@ -7442,13 +7459,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q10 — Answer: C {#pe-q10-answer}
 
-**A.** **A is the near-miss:** Actual outcome measurement after go-live is important, but Standard §2.5 is explicit that value discovery is not limited to the post-implementation period.
+**A.** *Near-miss.* Actual outcome measurement after go-live is important, but Standard §2.5 is explicit that value discovery is not limited to the post-implementation period.
 
-**B.** **B is wrong:** Strategy matters, but value creation also involves tactical execution and operational performance; limiting it to strategic planning is too narrow.
+**B.** *Incorrect.* Strategy matters, but value creation also involves tactical execution and operational performance; limiting it to strategic planning is too narrow.
 
-**C.** **C is correct:** Standard §2.5 states that value is discovered throughout the initiative when benefits are delivered efficiently and effectively as work moves toward desired outcomes; it is not confined to a single phase.
+**C.** *Correct.* Standard §2.5 states that value is discovered throughout the initiative when benefits are delivered efficiently and effectively as work moves toward desired outcomes; it is not confined to a single phase.
 
-**D.** **D is wrong:** Agreement on a feature list is a scope agreement, not value discovery or outcome achievement.
+**D.** *Incorrect.* Agreement on a feature list is a scope agreement, not value discovery or outcome achievement.
 
 **Source detail:** Standard §2.5
 
@@ -7456,13 +7473,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q11 — Answer: B {#pe-q11-answer}
 
-**A.** **A is wrong:** Organizational deadlines do not justify inaccurate or misleading analysis information; this conflicts with ethics as a shared value.
+**A.** *Incorrect.* Organizational deadlines do not justify inaccurate or misleading analysis information; this conflicts with ethics as a shared value.
 
-**B.** **B is correct:** Standard §3.2 includes ethics among shared values and frames BA as human-centred work. The BA must not misrepresent unvalidated assumptions; the appropriate action is to raise the concern and support appropriate validation while maintaining transparency.
+**B.** *Correct.* Standard §3.2 includes ethics among shared values and frames BA as human-centered work. The BA must not misrepresent unvalidated assumptions; the appropriate action is to raise the concern and support appropriate validation while maintaining transparency.
 
-**C.** **C is wrong:** Deferring validation until after launch leaves the shared information misleading during the decision-making period when it matters most.
+**C.** *Incorrect.* Deferring validation until after launch leaves the shared information misleading during the decision-making period when it matters most.
 
-**D.** **D is the near-miss:** Privately noting the issue may seem careful and responsible, but the shared information would still mislead stakeholders who rely on the confirmed status for their decisions.
+**D.** *Near-miss.* Privately noting the issue may seem careful and responsible, but the shared information would still mislead stakeholders who rely on the confirmed status for their decisions.
 
 **Source detail:** Standard §3.2
 
@@ -7470,13 +7487,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q12 — Answer: A {#pe-q12-answer}
 
-**A.** **A is correct:** Standard §3.1 identifies achieving organizational outcomes as a focus area for developing an empowering mindset; the scenario shows the team discussing artifacts before clarifying the intended outcome.
+**A.** *Correct.* Standard §3.1 identifies achieving organizational outcomes as a focus area for developing an empowering mindset; the scenario shows the team discussing artifacts before clarifying the intended outcome.
 
-**B.** **B is wrong:** Techniques may help later, but the scenario is not primarily about using techniques.
+**B.** *Incorrect.* Techniques may help later, but the scenario is not primarily about using techniques.
 
-**C.** **C is wrong:** Competency development is important, but the immediate issue is lack of outcome orientation.
+**C.** *Incorrect.* Competency development is important, but the immediate issue is lack of outcome orientation.
 
-**D.** **D is the near-miss:** Discovering stakeholder value is also a valid focus area, but the immediate gap is the missing organizational outcome that should guide the work.
+**D.** *Near-miss.* Discovering stakeholder value is also a valid focus area, but the immediate gap is the missing organizational outcome that should guide the work.
 
 **Source detail:** Standard §3.1
 
@@ -7484,13 +7501,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q13 — Answer: B {#pe-q13-answer}
 
-**A.** **A is wrong:** Respect means stakeholder requests are heard and considered; it does not drive the prioritization of work by value contribution.
+**A.** *Incorrect.* Respect means stakeholder requests are heard and considered; it does not drive the prioritization of work by value contribution.
 
-**B.** **B is correct:** Value maximization is the shared value of focusing effort on the greatest value in context. Comparing dashboard requests by their *expected contribution to stakeholder value* before committing capacity is value maximization in action — steering limited effort toward the highest-value work.
+**B.** *Correct.* Value maximization is the shared value of focusing effort on the greatest value in context. Comparing dashboard requests by their *expected contribution to stakeholder value* before committing capacity is value maximization in action — steering limited effort toward the highest-value work.
 
-**C.** **C is wrong:** Improvement is about making the work and outcomes better over time; prioritizing by value contribution sounds adjacent, but the driving logic is maximizing delivered value, not improvement itself. *(For reference, the nine shared values are Respect, Courage, Collaboration, Ethics, Curiosity, Continuous learning, Improvement, Customer focus, and Value maximization — note that “quality” and “transparency” are not on this list.)*
+**C.** *Incorrect.* Improvement is about making the work and outcomes better over time; prioritizing by value contribution sounds adjacent, but the driving logic is maximizing delivered value, not improvement itself. *(For reference, the nine shared values are Respect, Courage, Collaboration, Ethics, Curiosity, Continuous learning, Improvement, Customer focus, and Value maximization — note that “quality” and “transparency” are not on this list.)*
 
-**D.** **D is the near-miss:** Customer focus is about understanding and serving what stakeholders consider valuable, and it is genuinely close here — but the BA’s defining act is *ranking work by value contribution to allocate scarce capacity*, which is value maximization. Customer focus would be the answer if the act were centering the customer’s perspective rather than maximizing value across competing requests.
+**D.** *Near-miss.* Customer focus is about understanding and serving what stakeholders consider valuable, and it is genuinely close here — but the BA’s defining act is *ranking work by value contribution to allocate scarce capacity*, which is value maximization. Customer focus would be the answer if the act were centering the customer’s perspective rather than maximizing value across competing requests.
 
 **Source detail:** Standard §3.2
 
@@ -7498,13 +7515,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q14 — Answer: B {#pe-q14-answer}
 
-**A.** **A is the near-miss:** Collaboration is involved because the BA is improving the group discussion. However, the most direct behavior is respectful handling of a stakeholder voice that was being overlooked.
+**A.** *Near-miss.* Collaboration is involved because the BA is improving the group discussion. However, the most direct behavior is respectful handling of a stakeholder voice that was being overlooked.
 
-**B.** **B is correct:** Respect is shown by taking the stakeholder’s contribution seriously and ensuring it is heard and considered. This supports business analysis work by helping relevant concerns enter the analysis.
+**B.** *Correct.* Respect is shown by taking the stakeholder’s contribution seriously and ensuring it is heard and considered. This supports business analysis work by helping relevant concerns enter the analysis.
 
-**C.** **C is wrong:** The concern may later affect value decisions, but the immediate value shown is not value maximization.
+**C.** *Incorrect.* The concern may later affect value decisions, but the immediate value shown is not value maximization.
 
-**D.** **D is wrong:** Courage might be needed to interrupt the pattern, but the primary shared value demonstrated is respect.
+**D.** *Incorrect.* Courage might be needed to interrupt the pattern, but the primary shared value demonstrated is respect.
 
 **Source detail:** Standard §3.2
 
@@ -7512,13 +7529,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q15 — Answer: B {#pe-q15-answer}
 
-**A.** **A is wrong:** “Think as a customer” focuses specifically on customer needs and experience, not on the broader value-versus-stakeholder-need comparison described here.
+**A.** *Incorrect.* “Think as a customer” focuses specifically on customer needs and experience, not on the broader value-versus-stakeholder-need comparison described here.
 
-**B.** **B is correct:** Standard §3.3 defines “Analyze to determine what is valuable” as continuously assessing and prioritizing work to maximize delivered value using context, needs, stakeholders, and solution possibilities — exactly what the BA is doing.
+**B.** *Correct.* Standard §3.3 defines “Analyze to determine what is valuable” as continuously assessing and prioritizing work to maximize delivered value using context, needs, stakeholders, and solution possibilities — exactly what the BA is doing.
 
-**C.** **C is wrong:** “Get real using examples” supports grounding abstract concepts in concrete scenarios, not the prioritization work described.
+**C.** *Incorrect.* “Get real using examples” supports grounding abstract concepts in concrete scenarios, not the prioritization work described.
 
-**D.** **D is the near-miss:** Feasibility may enter the discussion, but the scenario is primarily about value-based comparison and prioritization across multiple request types, not about understanding constraints and doability.
+**D.** *Near-miss.* Feasibility may enter the discussion, but the scenario is primarily about value-based comparison and prioritization across multiple request types, not about understanding constraints and doability.
 
 **Source detail:** Standard §3.3
 
@@ -7526,13 +7543,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q16 — Answer: C {#pe-q16-answer}
 
-**A.** **A is wrong:** Rider experience matters, but the scenario is broader than customer-experience breakdown.
+**A.** *Incorrect.* Rider experience matters, but the scenario is broader than customer-experience breakdown.
 
-**B.** **B is the near-miss:** Collaboration may be involved, but the key action is not primarily creating a feedback environment; it is broadening the view of the change and its context.
+**B.** *Near-miss.* Collaboration may be involved, but the key action is not primarily creating a feedback environment; it is broadening the view of the change and its context.
 
-**C.** **C is correct:** See the whole focuses on analyzing the need in the big-picture context and understanding why the change is necessary. The BA broadens the analysis beyond message wording to the operational and stakeholder context around the issue.
+**C.** *Correct.* See the whole focuses on analyzing the need in the big-picture context and understanding why the change is necessary. The BA broadens the analysis beyond message wording to the operational and stakeholder context around the issue.
 
-**D.** **D is wrong:** No concrete examples are being used to derive acceptance criteria, design input, or testing foundations.
+**D.** *Incorrect.* No concrete examples are being used to derive acceptance criteria, design input, or testing foundations.
 
 **Source detail:** Standard §3.3
 
@@ -7540,13 +7557,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q17 — Answer: C {#pe-q17-answer}
 
-**A.** **A is wrong:** Understanding industry regulations and market practices aligns more closely with Industry Knowledge as a competency, not Business Acumen.
+**A.** *Incorrect.* Understanding industry regulations and market practices aligns more closely with Industry Knowledge as a competency, not Business Acumen.
 
-**B.** **B is the near-miss:** Learning a software product’s configuration may seem like relevant business knowledge for a technical BA, but product configuration belongs to Solution Knowledge (9.3.4). Business Acumen covers broader understanding of the organization’s goals, operations, and value model.
+**B.** *Near-miss.* Learning a software product’s configuration may seem like relevant business knowledge for a technical BA, but product configuration belongs to Solution Knowledge (9.3.4). Business Acumen covers broader understanding of the organization’s goals, operations, and value model.
 
-**C.** BABOK §9.3.1 Business Acumen concerns how the enterprise operates and achieves its goals, including its value and business context. This connects the initiative to goals, operations, costs, and value.
+**C.** *Correct.* BABOK §9.3.1 Business Acumen concerns how the enterprise operates and achieves its goals, including its value and business context. This connects the initiative to goals, operations, costs, and value.
 
-**D.** **D is wrong:** Choosing communication tools for remote collaboration aligns more closely with Communication Tools and Technology, not Business Acumen.
+**D.** *Incorrect.* Choosing communication tools for remote collaboration aligns more closely with Communication Tools and Technology, not Business Acumen.
 
 **Source detail:** BABOK §9.3.1; BABOK §9.3.2; BABOK §9.3.4; BABOK §9.6.3
 
@@ -7554,13 +7571,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q18 — Answer: D {#pe-q18-answer}
 
-**A.** **A is wrong:** BAaS is present, but it does not describe the embedded business-unit activity or the monthly sharing forum.
+**A.** *Incorrect.* BAaS is present, but it does not describe the embedded business-unit activity or the monthly sharing forum.
 
-**B.** **B is wrong:** A recurring sharing forum aligns with a Community of Practice; a Centre of Excellence would require a specialized unit or function dedicated to BA excellence, which the scenario does not describe.
+**B.** *Incorrect.* A recurring sharing forum aligns with a Community of Practice; a Centre of Excellence would require a specialized unit or function dedicated to BA excellence, which the scenario does not describe.
 
-**C.** **C is the near-miss:** Dispersed delivery is clearly present, but selecting it alone misses the outsourced support and the community-sharing structure, both of which are explicitly described.
+**C.** *Near-miss.* Dispersed delivery is clearly present, but selecting it alone misses the outsourced support and the community-sharing structure, both of which are explicitly described.
 
-**D.** **D is correct:** Standard §4.6 allows organizations to combine delivery models. The scenario describes dispersed business-unit delivery, outsourced specialist support through BAaS, and a CoP for sharing lessons and practices — three models in combination.
+**D.** *Correct.* Standard §4.6 allows organizations to combine delivery models. The scenario describes dispersed business-unit delivery, outsourced specialist support through BAaS, and a CoP for sharing lessons and practices — three models in combination.
 
 **Source detail:** Standard §4.6
 
@@ -7568,13 +7585,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q19 — Answer: A {#pe-q19-answer}
 
-**A.** **A is correct:** Standard §4.5.2 emphasizes careful ethical analysis, eliminating personal biases, ethically meeting stakeholder needs, and keeping work aligned with professional ethical expectations while generating value.
+**A.** *Correct.* Standard §4.5.2 emphasizes careful ethical analysis, eliminating personal biases, ethically meeting stakeholder needs, and keeping work aligned with professional ethical expectations while generating value.
 
-**B.** **B is the near-miss:** Policy compliance and operational performance are relevant, but the Standard distinguishes the “best” choice from the “ethical” choice. What is legally or policy-permitted is not automatically what is ethical.
+**B.** *Near-miss.* Policy compliance and operational performance are relevant, but the Standard distinguishes the “best” choice from the “ethical” choice. What is legally or policy-permitted is not automatically what is ethical.
 
-**C.** **C is wrong:** The BA should not independently reject the tool. At ECBA scope, the appropriate response is to raise and support analysis of the concern with appropriate stakeholders.
+**C.** *Incorrect.* The BA should not independently reject the tool. At ECBA scope, the appropriate response is to raise and support analysis of the concern with appropriate stakeholders.
 
-**D.** **D is wrong:** Deferring the ethical concern until complaints occur means stakeholders cannot make an informed decision before proceeding. Ethical analysis requires the concern to be raised before action, not after harm has been observed.
+**D.** *Incorrect.* Deferring the ethical concern until complaints occur means stakeholders cannot make an informed decision before proceeding. Ethical analysis requires the concern to be raised before action, not after harm has been observed.
 
 **Source detail:** Standard §4.5.2
 
@@ -7582,13 +7599,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q20 — Answer: B {#pe-q20-answer}
 
-**A.** **A is the near-miss:** This sounds solution-oriented because it includes a measurable service expectation, but it still expresses what the solution must enable — a constraint on the solution’s behavior. It is better classified as a requirement.
+**A.** *Near-miss.* This sounds solution-oriented because it includes a measurable service expectation, but it still expresses what the solution must enable — a constraint on the solution’s behavior. It is better classified as a requirement.
 
-**B.** **B is correct:** Standard §4.4.1 defines designs as usable representations of solutions that focus on how value might be realized. A service blueprint showing proposed handoffs is a representation of how a solution could work.
+**B.** *Correct.* Standard §4.4.1 defines designs as usable representations of solutions that focus on how value might be realized. A service blueprint showing proposed handoffs is a representation of how a solution could work.
 
-**C.** **C is wrong:** A target such as reducing review time expresses an objective or desired outcome for the change, which aligns with business requirements rather than a design.
+**C.** *Incorrect.* A target such as reducing review time expresses an objective or desired outcome for the change, which aligns with business requirements rather than a design.
 
-**D.** This states a temporary capability needed to support transition during the first release week. It does not specify the design of the guidance or script.
+**D.** *Incorrect.* This states a temporary capability needed to support transition during the first release week. It does not specify the design of the guidance or script.
 
 **Source detail:** Standard §4.4
 
@@ -7596,13 +7613,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q21 — Answer: C {#pe-q21-answer}
 
-**A.** **A is the near-miss:** Experienced stakeholders can provide useful input, so this may seem efficient. It is wrong because it ignores other affected groups and fails to account for the broader stakeholder environment and its complexity.
+**A.** *Near-miss.* Experienced stakeholders can provide useful input, so this may seem efficient. It is wrong because it ignores other affected groups and fails to account for the broader stakeholder environment and its complexity.
 
-**B.** **B is wrong:** Organizational standards may guide the approach, but BABOK explicitly allows tailoring to the specific needs, risks, and complexities of the initiative.
+**B.** *Incorrect.* Organizational standards may guide the approach, but BABOK explicitly allows tailoring to the specific needs, risks, and complexities of the initiative.
 
-**C.** **C is correct:** BABOK 3.1 treats stakeholder complexity, geographic and cultural considerations, stakeholder experience, risk, and organizational context as factors that can shape the business analysis approach. Systems thinking also supports seeing how multiple stakeholder groups and enterprise relationships interact.
+**C.** *Correct.* BABOK 3.1 treats stakeholder complexity, geographic and cultural considerations, stakeholder experience, risk, and organizational context as factors that can shape the business analysis approach. Systems thinking also supports seeing how multiple stakeholder groups and enterprise relationships interact.
 
-**D.** **D is wrong:** The business analysis approach should guide and inform analysis work; it should not wait for a final solution design from a provider.
+**D.** *Incorrect.* The business analysis approach should guide and inform analysis work; it should not wait for a final solution design from a provider.
 
 **Source detail:** BABOK §3.1; BABOK §9.1.5
 
@@ -7610,13 +7627,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q22 — Answer: A {#pe-q22-answer}
 
-**A.** **A is correct:** BABOK 3.3 states that approval planning formalizes stakeholder agreement that requirements and designs are accurate, adequate, and sufficiently detailed. The formality, timing, and participants depend on factors such as complexity, risk, organizational culture, and regulatory context.
+**A.** *Correct.* BABOK 3.3 states that approval planning formalizes stakeholder agreement that requirements and designs are accurate, adequate, and sufficiently detailed. The formality, timing, and participants depend on factors such as complexity, risk, organizational culture, and regulatory context.
 
-**B.** **B is wrong:** A highly regulated, high-risk context calls for more rigorous review and approval governance, not less.
+**B.** *Incorrect.* A highly regulated, high-risk context calls for more rigorous review and approval governance, not less.
 
-**C.** **C is wrong:** Planning approvals is explicitly part of business analysis governance in BABOK 3.3.
+**C.** *Incorrect.* Planning approvals is explicitly part of business analysis governance in BABOK 3.3.
 
-**D.** **D is the near-miss:** Compliance involvement is appropriate, but delegating the entire approval process to one team without a plan means there is no shared clarity on what needs approval, when, or how it will be tracked. BABOK 3.3 requires all of these elements to be explicitly identified.
+**D.** *Near-miss.* Compliance involvement is appropriate, but delegating the entire approval process to one team without a plan means there is no shared clarity on what needs approval, when, or how it will be tracked. BABOK 3.3 requires all of these elements to be explicitly identified.
 
 **Source detail:** BABOK §3.3
 
@@ -7624,13 +7641,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q23 — Answer: A {#pe-q23-answer}
 
-**A.** **A is correct:** BABOK 5.1 uses traceability to ensure requirements and designs remain aligned and to manage the effects of change on related requirements and designs. Trace relationships show what is connected to the affected requirement and therefore what may need to adapt.
+**A.** *Correct.* BABOK 5.1 uses traceability to ensure requirements and designs remain aligned and to manage the effects of change on related requirements and designs. Trace relationships show what is connected to the affected requirement and therefore what may need to adapt.
 
-**B.** **B is the near-miss:** A prioritized requirements list is useful context, but without trace relationships it does not show which downstream requirements, designs, or validation elements may be affected by the retention-period change.
+**B.** *Near-miss.* A prioritized requirements list is useful context, but without trace relationships it does not show which downstream requirements, designs, or validation elements may be affected by the retention-period change.
 
-**C.** **C is wrong:** User interface preferences do not identify the technical or regulatory impact of a retention-period change.
+**C.** *Incorrect.* User interface preferences do not identify the technical or regulatory impact of a retention-period change.
 
-**D.** **D is wrong:** Current performance data may be useful for evaluation purposes, but it does not show trace relationships needed to understand change impact on related analysis artefacts.
+**D.** *Incorrect.* Current performance data may be useful for evaluation purposes, but it does not show trace relationships needed to understand change impact on related analysis artefacts.
 
 **Source detail:** BABOK §5.1
 
@@ -7638,13 +7655,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q24 — Answer: C {#pe-q24-answer}
 
-**A.** **A is wrong:** Lessons learned can be valuable at milestones or phase boundaries, not only at final initiative closure.
+**A.** *Incorrect.* Lessons learned can be valuable at milestones or phase boundaries, not only at final initiative closure.
 
-**B.** **B is wrong:** Lessons learned is a reflective improvement technique; it does not replace objective performance metrics when monitoring solution value targets.
+**B.** *Incorrect.* Lessons learned is a reflective improvement technique; it does not replace objective performance metrics when monitoring solution value targets.
 
-**C.** **C is correct:** BABOK 10.27 describes Lessons Learned as compiling and documenting successes, opportunities for improvement, failures, and recommendations for improving future projects or project phases, supporting adaptation by turning experience into improvement actions.
+**C.** *Correct.* BABOK 10.27 describes Lessons Learned as compiling and documenting successes, opportunities for improvement, failures, and recommendations for improving future projects or project phases, supporting adaptation by turning experience into improvement actions.
 
-**D.** **D is the near-miss:** Variances and causes may be discussed, so accountability can sound related. It is wrong because BABOK 10.27 emphasizes that lessons learned should focus on solutions and improvement opportunities, not blame assignment.
+**D.** *Near-miss.* Variances and causes may be discussed, so accountability can sound related. It is wrong because BABOK 10.27 emphasizes that lessons learned should focus on solutions and improvement opportunities, not blame assignment.
 
 **Source detail:** BABOK §10.27
 
@@ -7652,13 +7669,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q25 — Answer: C {#pe-q25-answer}
 
-**A.** **A is wrong:** Faster cycle time is not sufficient justification to independently remove a step that may serve a compliance function.
+**A.** *Incorrect.* Faster cycle time is not sufficient justification to independently remove a step that may serve a compliance function.
 
-**B.** **B is the near-miss:** It recognizes that risk acceptance matters, but the requesting stakeholder alone may not have the authority to decide compliance risk or to approve the change without a formal governance review.
+**B.** *Near-miss.* It recognizes that risk acceptance matters, but the requesting stakeholder alone may not have the authority to decide compliance risk or to approve the change without a formal governance review.
 
-**C.** **C is correct:** BABOK 3.3 and 5.4 establish that proposed changes should be assessed for their policy, risk, value, and scope implications through the appropriate governance process. The request may improve value, but it also may affect compliance obligations.
+**C.** *Correct.* BABOK 3.3 and 5.4 establish that proposed changes should be assessed for their policy, risk, value, and scope implications through the appropriate governance process. The request may improve value, but it also may affect compliance obligations.
 
-**D.** **D is wrong:** The BA should not independently reject the request; it should be assessed through the established change process by appropriate decision makers.
+**D.** *Incorrect.* The BA should not independently reject the request; it should be assessed through the established change process by appropriate decision makers.
 
 **Source detail:** BABOK §3.3; BABOK §5.4
 
@@ -7666,13 +7683,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q26 — Answer: B {#pe-q26-answer}
 
-**A.** **A is the near-miss:** A workshop may be useful later for shared understanding, but the scenario emphasizes a sensitive individual source and the need for trust-building.
+**A.** *Near-miss.* A workshop may be useful later for shared understanding, but the scenario emphasizes a sensitive individual source and the need for trust-building.
 
-**B.** **B is correct:** An interview is appropriate when the BA needs focused discussion, clarification, and rapport with an individual or small group.
+**B.** *Correct.* An interview is appropriate when the BA needs focused discussion, clarification, and rapport with an individual or small group.
 
-**C.** **C is wrong:** Documents may provide context, but the workaround is tacit and needs stakeholder clarification.
+**C.** *Incorrect.* Documents may provide context, but the workaround is tacit and needs stakeholder clarification.
 
-**D.** **D is wrong:** Brainstorming generates ideas; it does not best address a specific stakeholder’s experience or rapport needs.
+**D.** *Incorrect.* Brainstorming generates ideas; it does not best address a specific stakeholder’s experience or rapport needs.
 
 **Source detail:** BABOK §10.25
 
@@ -7680,13 +7697,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q27 — Answer: A {#pe-q27-answer}
 
-**A.** **A is correct:** BABOK 4.3 describes comparing elicitation results to other information as a way to identify quality issues such as errors, omissions, conflicts, and ambiguity before the information is used further.
+**A.** *Correct.* BABOK 4.3 describes comparing elicitation results to other information as a way to identify quality issues such as errors, omissions, conflicts, and ambiguity before the information is used further.
 
-**B.** **B is wrong:** Ranking by importance belongs to prioritization activities, not confirmation of elicitation results.
+**B.** *Incorrect.* Ranking by importance belongs to prioritization activities, not confirmation of elicitation results.
 
-**C.** **C is wrong:** Formal agreement on approved requirements belongs to approval activities under governance, not the confirmation step.
+**C.** *Incorrect.* Formal agreement on approved requirements belongs to approval activities under governance, not the confirmation step.
 
-**D.** **D is the near-miss:** Value delivery is important, but proving that requirements will deliver value belongs to validation, not the confirmation of elicitation results. Confirmation addresses information quality, not outcome alignment.
+**D.** *Near-miss.* Value delivery is important, but proving that requirements will deliver value belongs to validation, not the confirmation of elicitation results. Confirmation addresses information quality, not outcome alignment.
 
 **Source detail:** BABOK §4.3
 
@@ -7694,13 +7711,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q28 — Answer: B {#pe-q28-answer}
 
-**A.** **A is the near-miss:** Process modeling may help if the primary problem were workflow steps, but the scenario specifically asks for a model of information and relationships, not activity sequencing.
+**A.** *Near-miss.* Process modeling may help if the primary problem were workflow steps, but the scenario specifically asks for a model of information and relationships, not activity sequencing.
 
-**B.** **B is correct:** BABOK 10.15 describes Data Modelling as representing data entities and their relationships relevant to requirements. The scenario focuses on understanding information relationships, which is precisely what data modeling addresses.
+**B.** *Correct.* BABOK 10.15 describes Data Modelling as representing data entities and their relationships relevant to requirements. The scenario focuses on understanding information relationships, which is precisely what data modeling addresses.
 
-**C.** **C is wrong:** User stories can express user goals, but they are not appropriate for modeling complex data entities and their relationships.
+**C.** *Incorrect.* User stories can express user goals, but they are not appropriate for modeling complex data entities and their relationships.
 
-**D.** **D is wrong:** Workshops may elicit information, but they are an elicitation technique, not the representation technique needed to model entities and relationships.
+**D.** *Incorrect.* Workshops may elicit information, but they are an elicitation technique, not the representation technique needed to model entities and relationships.
 
 **Source detail:** BABOK §7.1; BABOK §10.15
 
@@ -7708,13 +7725,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q29 — Answer: B {#pe-q29-answer}
 
-**A.** **A is wrong:** Prioritizing requests by expected value does not explain why the conflict exists or address what is causing the refund dispute pattern.
+**A.** *Incorrect.* Prioritizing requests by expected value does not explain why the conflict exists or address what is causing the refund dispute pattern.
 
-**B.** **B is correct:** BABOK 10.40 describes Root Cause Analysis as identifying and evaluating underlying causes rather than addressing only visible effects. The data points to a possible underlying cause — missing serial numbers — that should be examined before choosing a corrective direction.
+**B.** *Correct.* BABOK 10.40 describes Root Cause Analysis as identifying and evaluating underlying causes rather than addressing only visible effects. The data points to a possible underlying cause — missing serial numbers — that should be examined before choosing a corrective direction.
 
-**C.** **C is the near-miss:** Stakeholder discussion may help with conflict review, but voting between competing positions does not analyze the underlying cause of the disagreement or the operational problem driving it.
+**C.** *Near-miss.* Stakeholder discussion may help with conflict review, but voting between competing positions does not analyze the underlying cause of the disagreement or the operational problem driving it.
 
-**D.** **D is wrong:** Verification of wording and testability is a quality check on requirements, not a root cause investigation.
+**D.** *Incorrect.* Verification of wording and testability is a quality check on requirements, not a root cause investigation.
 
 **Source detail:** BABOK §10.40; BABOK §7.3
 
@@ -7722,13 +7739,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q30 — Answer: D {#pe-q30-answer}
 
-**A.** **A is wrong:** If everything is highest priority, stakeholders have not made the trade-offs that prioritization requires. This approach preserves the conflict rather than resolving it.
+**A.** *Incorrect.* If everything is highest priority, stakeholders have not made the trade-offs that prioritization requires. This approach preserves the conflict rather than resolving it.
 
-**B.** **B is the near-miss:** Service value is genuinely important, but the scenario includes a grant review deadline and a technical dependency that may affect the required sequence. Highest expected value does not always mean first in the delivery sequence.
+**B.** *Near-miss.* Service value is genuinely important, but the scenario includes a grant review deadline and a technical dependency that may affect the required sequence. Highest expected value does not always mean first in the delivery sequence.
 
-**C.** **C is wrong:** Private sponsor decision-making skips the collaborative comparison of criteria and rationale that BABOK 5.3 calls for.
+**C.** *Incorrect.* Private sponsor decision-making skips the collaborative comparison of criteria and rationale that BABOK 5.3 calls for.
 
-**D.** **D is correct:** BABOK 5.3 treats prioritization as a relative and continual process. The BA should help stakeholders compare different bases — benefit and value, time sensitivity, dependencies, and trade-offs — rather than accept all items as equally highest priority.
+**D.** *Correct.* BABOK 5.3 treats prioritization as a relative and continual process. The BA should help stakeholders compare different bases — benefit and value, time sensitivity, dependencies, and trade-offs — rather than accept all items as equally highest priority.
 
 **Source detail:** BABOK §5.3
 
@@ -7736,13 +7753,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q31 — Answer: C {#pe-q31-answer}
 
-**A.** **A is wrong:** A missing trace link is a potential coverage gap to investigate, not an automatic reason to delete the process step from the future-state design.
+**A.** *Incorrect.* A missing trace link is a potential coverage gap to investigate, not an automatic reason to delete the process step from the future-state design.
 
-**B.** **B is the near-miss:** A process map is helpful documentation, but merely having the map does not prove the solution supports every important future-state step. Validation requires checking that the solution actually addresses each step.
+**B.** *Near-miss.* A process map is helpful documentation, but merely having the map does not prove the solution supports every important future-state step. Validation requires checking that the solution actually addresses each step.
 
-**C.** **C is correct:** BABOK 5.1 uses traceability to detect missing functionality and assess whether requirements and designs cover the solution space. Process Analysis can reveal gaps between future-state steps and existing requirements. A missing trace link is a finding to record and investigate.
+**C.** *Correct.* BABOK 5.1 uses traceability to detect missing functionality and assess whether requirements and designs cover the solution space. Process Analysis can reveal gaps between future-state steps and existing requirements. A missing trace link is a finding to record and investigate.
 
-**D.** **D is wrong:** Whether the solution covers a future-state process step is a solution validation concern, not a project management matter.
+**D.** *Incorrect.* Whether the solution covers a future-state process step is a solution validation concern, not a project management matter.
 
 **Source detail:** BABOK §10.34; BABOK §5.1
 
@@ -7750,13 +7767,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q32 — Answer: C {#pe-q32-answer}
 
-**A.** **A is wrong:** Stakeholder acceptance is a relevant consideration, but enthusiasm alone is not a sufficient or complete basis for an option recommendation.
+**A.** *Incorrect.* Stakeholder acceptance is a relevant consideration, but enthusiasm alone is not a sufficient or complete basis for an option recommendation.
 
-**B.** **B is the near-miss:** Cost matters and is part of economic feasibility, but initial purchase price alone ignores operational feasibility, risk, requirements fit, and potential value delivered over time.
+**B.** *Near-miss.* Cost matters and is part of economic feasibility, but initial purchase price alone ignores operational feasibility, risk, requirements fit, and potential value delivered over time.
 
-**C.** **C is correct:** A well-supported recommendation draws on objectives, value, feasibility (technical, operational, economic), risk, and clear trade-offs so decision makers can understand the full basis for the recommendation.
+**C.** *Correct.* A well-supported recommendation draws on objectives, value, feasibility (technical, operational, economic), risk, and clear trade-offs so decision makers can understand the full basis for the recommendation.
 
-**D.** **D is wrong:** Implementation input is useful, but the easiest technical path does not replace broader option evaluation and stakeholder decision making.
+**D.** *Incorrect.* Implementation input is useful, but the easiest technical path does not replace broader option evaluation and stakeholder decision making.
 
 **Source detail:** BABOK §6.2; BABOK §6.3; BABOK §7.5; BABOK §7.6; BABOK §9.1.2
 
@@ -7764,13 +7781,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q33 — Answer: B {#pe-q33-answer}
 
-**A.** **A is the near-miss:** Potential value is important and should influence the recommendation, but value alone should not override feasibility, legal uncertainty, risk tolerance, and peak-season timing constraints in the recommendation to decision makers.
+**A.** *Near-miss.* Potential value is important and should influence the recommendation, but value alone should not override feasibility, legal uncertainty, risk tolerance, and peak-season timing constraints in the recommendation to decision makers.
 
-**B.** **B is correct:** The ECBA-level role is to support the recommendation with clear analysis of value, feasibility, constraints, risk tolerance, response options, and remaining uncertainty; the final decision remains with appropriate decision makers.
+**B.** *Correct.* The ECBA-level role is to support the recommendation with clear analysis of value, feasibility, constraints, risk tolerance, response options, and remaining uncertainty; the final decision remains with appropriate decision makers.
 
-**C.** **C is wrong:** Legal uncertainty is a risk to assess and characterize, not a reason to declare an option impossible to evaluate.
+**C.** *Incorrect.* Legal uncertainty is a risk to assess and characterize, not a reason to remove the option from consideration.
 
-**D.** **D is wrong:** Risk tolerance is an important input, but independently selecting an option and bypassing stakeholder review exceeds the appropriate entry-level contribution and removes the decision from those with authority.
+**D.** *Incorrect.* Risk tolerance is an important input, but independently selecting an option and bypassing stakeholder review exceeds the appropriate entry-level contribution and removes the decision from those with authority.
 
 **Source detail:** BABOK §6.2; BABOK §6.3; BABOK §7.5; BABOK §7.6; BABOK §10.38; BABOK §9.1.2
 
@@ -7778,13 +7795,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q34 — Answer: A {#pe-q34-answer}
 
-**A.** **A is correct:** BABOK 10.35 describes process modeling as a graphical way to show how work is carried out, including sequential flow, participants, triggers, activities, decision points, paths, and outcomes — exactly what is needed to clarify handoff timing and exception paths.
+**A.** *Correct.* BABOK 10.35 describes process modeling as a graphical way to show how work is carried out, including sequential flow, participants, triggers, activities, decision points, paths, and outcomes — exactly what is needed to clarify handoff timing and exception paths.
 
-**B.** **B is the near-miss:** Scope modeling is relevant to solution boundary work in A.S. 6.3, and it would help if the boundaries were disputed. In this scenario, the boundaries are already agreed; the problem is workflow sequencing and handoffs, not scope definition.
+**B.** *Near-miss.* Scope modeling is relevant to solution boundary work in A.S. 6.3, and it would help if the boundaries were disputed. In this scenario, the boundaries are already agreed; the problem is workflow sequencing and handoffs, not scope definition.
 
-**C.** **C is wrong:** A data model addresses information entities and relationships, which does not directly help resolve timing, handoffs, or exception paths.
+**C.** *Incorrect.* A data model addresses information entities and relationships, which does not directly help resolve timing, handoffs, or exception paths.
 
-**D.** **D is wrong:** Requirements architecture organizes the overall set of requirements and stakeholder views; it is broader than the immediate need to visualize operational handoffs and sequence.
+**D.** *Incorrect.* Requirements architecture organizes the overall set of requirements and stakeholder views; it is broader than the immediate need to visualize operational handoffs and sequence.
 
 **Source detail:** BABOK §10.35
 
@@ -7792,13 +7809,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q35 — Answer: D {#pe-q35-answer}
 
-**A.** **A is wrong:** Removing necessary design information from the artifact shifts ambiguity into implementation, where it is more costly and less visible to stakeholders.
+**A.** *Incorrect.* Removing necessary design information from the artifact shifts ambiguity into implementation, where it is more costly and less visible to stakeholders.
 
-**B.** **B is the near-miss:** More explanation can sometimes help, but the problem is ambiguity arising from prose format. Adding more prose may preserve the same interpretation risk rather than resolving it through a clearer representation.
+**B.** *Near-miss.* More explanation can sometimes help, but the problem is ambiguity arising from prose format. Adding more prose may preserve the same interpretation risk rather than resolving it through a clearer representation.
 
-**C.** **C is wrong:** Approving one interpretation verbally does not update or maintain the artifact itself. The artifact should be corrected to communicate that interpretation clearly.
+**C.** *Incorrect.* Approving one interpretation verbally does not update or maintain the artifact itself. The artifact should be corrected to communicate that interpretation clearly.
 
-**D.** **D is correct:** BABOK 7.1 supports using representations such as matrices when they make requirements and designs clearer and less ambiguous. BABOK 5.2 requires maintaining related notes and attributes consistently when a design is updated.
+**D.** *Correct.* BABOK 7.1 supports using representations such as matrices when they make requirements and designs clearer and less ambiguous. BABOK 5.2 requires maintaining related notes and attributes consistently when a design is updated.
 
 **Source detail:** BABOK §7.1; BABOK §5.2
 
@@ -7806,13 +7823,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q36 — Answer: C {#pe-q36-answer}
 
-**A.** **A is wrong:** The most detailed package is not necessarily appropriate for every stakeholder; the sponsor needs decision-relevant summary, not the full exception catalogue.
+**A.** *Incorrect.* The most detailed package is not necessarily appropriate for every stakeholder; the sponsor needs decision-relevant summary, not the full exception catalog.
 
-**B.** **B is wrong:** A sponsor-level summary is unlikely to give call-center leads the operational and scenario-level detail they need for agent coaching.
+**B.** *Incorrect.* A sponsor-level summary is unlikely to give call-center leads the operational and scenario-level detail they need for agent coaching.
 
-**C.** **C is correct:** BABOK 4.4 supports packaging business analysis information in suitable formats, terminology, and levels of detail for each audience while maintaining a shared and aligned understanding across groups.
+**C.** *Correct.* BABOK 4.4 supports packaging business analysis information in suitable formats, terminology, and levels of detail for each audience while maintaining a shared and aligned understanding across groups.
 
-**D.** **D is the near-miss:** Sponsor decisions may affect timing in some contexts, but the call-center leads have a legitimate preparation need independent of the sponsor’s decision. Delaying all design communication to them can reduce readiness and stakeholder engagement.
+**D.** *Near-miss.* Sponsor decisions may affect timing in some contexts, but the call-center leads have a legitimate preparation need independent of the sponsor’s decision. Delaying all design communication to them can reduce readiness and stakeholder engagement.
 
 **Source detail:** BABOK §4.4
 
@@ -7820,13 +7837,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q37 — Answer: A {#pe-q37-answer}
 
-**A.** **A is correct:** BABOK 9.5.2 describes Leadership and Influencing as encouraging stakeholder support and collaboration by understanding motives, needs, and capabilities and channeling them toward shared objectives. This response also stays within ECBA scope by supporting and documenting under guidance.
+**A.** *Correct.* BABOK 9.5.2 describes Leadership and Influencing as encouraging stakeholder support and collaboration by understanding motives, needs, and capabilities and channeling them toward shared objectives. This response also stays within ECBA scope by supporting and documenting under guidance.
 
-**B.** **B is the near-miss:** It attempts to gain support and reduce resistance, so it can sound like influencing. It is wrong because it dismisses a highly impacted stakeholder group’s concerns rather than reframing them toward shared patient-safety goals.
+**B.** *Near-miss.* It attempts to gain support and reduce resistance, so it can sound like influencing. It is wrong because it dismisses a highly impacted stakeholder group’s concerns rather than reframing them toward shared patient-safety goals.
 
-**C.** **C is wrong:** Lower formal authority does not make a highly impacted stakeholder group low priority; nurses are directly affected by the change and their concerns are operationally relevant.
+**C.** *Incorrect.* Lower formal authority does not make a highly impacted stakeholder group low priority; nurses are directly affected by the change and their concerns are operationally relevant.
 
-**D.** Seeking design approval before examining the nurses’ concerns skips relevant stakeholder analysis. The problem is the premature decision, rather than a universal ban on a junior analyst facilitating approval.
+**D.** *Incorrect.* Seeking design approval before examining the nurses’ concerns skips relevant stakeholder analysis. The problem is the premature decision, rather than a universal ban on a junior analyst facilitating approval.
 
 **Source detail:** BABOK §3.2; BABOK §9.5.2
 
@@ -7834,13 +7851,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q38 — Answer: B {#pe-q38-answer}
 
-**A.** **A is the near-miss:** High influence is important and may require careful engagement planning. It is wrong because influence alone is not sufficient; highly impacted or resistant stakeholders may also require tailored engagement regardless of their formal authority level.
+**A.** *Near-miss.* High influence is important and may require careful engagement planning. It is wrong because influence alone is not sufficient; highly impacted or resistant stakeholders may also require tailored engagement regardless of their formal authority level.
 
-**B.** **B is correct:** BABOK 3.2 states that the Stakeholder Engagement Approach is informed by analyzed stakeholder characteristics and identifies collaboration and communication approaches for the initiative. Impact, influence, interests, attitudes, roles, and group dynamics all help shape tailored engagement planning.
+**B.** *Correct.* BABOK 3.2 states that the Stakeholder Engagement Approach is informed by analyzed stakeholder characteristics and identifies collaboration and communication approaches for the initiative. Impact, influence, interests, attitudes, roles, and group dynamics all help shape tailored engagement planning.
 
-**C.** **C is wrong:** Stakeholder impact should be analyzed during planning to inform engagement decisions; it is not reserved for post-implementation review.
+**C.** *Incorrect.* Stakeholder impact should be analyzed during planning to inform engagement decisions; it is not reserved for post-implementation review.
 
-**D.** **D is wrong:** Internal stakeholders can have distinct interests, concerns, and attitudes that differ from organizational goals and that should be analyzed.
+**D.** *Incorrect.* Internal stakeholders can have distinct interests, concerns, and attitudes that differ from organizational goals and that should be analyzed.
 
 **Source detail:** BABOK §3.2
 
@@ -7848,13 +7865,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q39 — Answer: D {#pe-q39-answer}
 
-**A.** **A is wrong:** Workshops are designed to provide immediate feedback; this is one of their documented benefits in BABOK 10.50.
+**A.** *Incorrect.* BABOK §10.50 notes that too many participants can slow a workshop; inviting everyone does not make agreement faster.
 
-**B.** **B is wrong:** Workshop success is highly dependent on facilitator expertise; expert participants alone do not remove the need for facilitation.
+**B.** *Incorrect.* Workshop success depends heavily on the facilitator’s expertise as well as the participants’ knowledge, so expert attendees do not remove the need for facilitation.
 
-**C.** **C is the near-miss:** Broad representation does matter in workshop planning, so more participants can sound beneficial. It is wrong because simply adding participants does not always improve a workshop and may reduce its effectiveness.
+**C.** *Near-miss.* A smaller group can be easier to run, but results still need to be confirmed, and too small a group can miss needs that matter to other stakeholders.
 
-**D.** **D is correct:** BABOK 10.50 usage considerations specifically note that too many participants can slow the workshop process, while too few can lead to overlooked needs or issues.
+**D.** *Correct.* BABOK §10.50 usage considerations state both sides of the trade-off: too many participants can slow the workshop, and too few can lead to overlooked needs or to decisions that do not represent most stakeholders. The analyst raises this so attendance can be chosen deliberately.
 
 **Source detail:** BABOK §10.50
 
@@ -7862,13 +7879,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q40 — Answer: A {#pe-q40-answer}
 
-**A.** **A is correct:** BABOK 3.2 treats stakeholder analysis as a repeated activity as business analysis continues. Changes in attitudes, impact levels, or engagement needs can require adjustments to collaboration and communication approaches.
+**A.** *Correct.* BABOK 3.2 treats stakeholder analysis as a repeated activity as business analysis continues. Changes in attitudes, impact levels, or engagement needs can require adjustments to collaboration and communication approaches.
 
-**B.** **B is wrong:** Concerns may lead to further analysis or design changes, but they do not automatically become approved requirements through documentation alone.
+**B.** *Incorrect.* Concerns may lead to further analysis or design changes, but they do not automatically become approved requirements through documentation alone.
 
-**C.** **C is the near-miss:** Stakeholder analysis can uncover new or overlooked stakeholders over time, so revisiting it sounds related to building the stakeholder list. It is wrong because the initial stakeholder list and engagement approach are not delayed until after requirements and designs are approved.
+**C.** *Near-miss.* Stakeholder analysis can uncover new or overlooked stakeholders over time, so revisiting it sounds related to building the stakeholder list. It is wrong because the initial stakeholder list and engagement approach are not delayed until after requirements and designs are approved.
 
-**D.** **D is wrong:** Positive, neutral, and negative stakeholders can all have motivations, concerns, and changing engagement needs that require ongoing attention.
+**D.** *Incorrect.* Positive, neutral, and negative stakeholders can all have motivations, concerns, and changing engagement needs that require ongoing attention.
 
 **Source detail:** BABOK §3.2
 
@@ -7876,13 +7893,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q41 — Answer: C {#pe-q41-answer}
 
-**A.** The evidence identifies a possible alignment concern that needs clarification. Recommending cancellation immediately is premature; it is not necessary to assume analysts can never recommend stopping an option.
+**A.** *Incorrect.* The evidence identifies a possible alignment concern that needs clarification. Recommending cancellation immediately is premature; it is not necessary to assume analysts can never recommend stopping an option.
 
-**B.** **B is the near-miss:** Independently rewriting the objective responds to the alignment concern, but it exceeds ECBA-level authority and may eliminate the congestion-reduction focus, which is also a stated strategic goal.
+**B.** *Near-miss.* Independently rewriting the objective responds to the alignment concern, but it exceeds ECBA-level authority and may eliminate the congestion-reduction focus, which is also a stated strategic goal.
 
-**C.** **C is correct:** BABOK 6.2 identifies organizational strategy as a guideline for defining the future state and clarifying whether objectives align with strategic direction. The appropriate ECBA-level action is to flag the concern and support clarification under guidance before proceeding.
+**C.** *Correct.* BABOK 6.2 identifies organizational strategy as a guideline for defining the future state and clarifying whether objectives align with strategic direction. The appropriate ECBA-level action is to flag the concern and support clarification under guidance before proceeding.
 
-**D.** **D is wrong:** Deferring alignment checking until after a pilot design is underway moves into solution work before confirming desired-outcome alignment with organizational strategy.
+**D.** *Incorrect.* Deferring alignment checking until after a pilot design is underway moves into solution work before confirming desired-outcome alignment with organizational strategy.
 
 **Source detail:** BABOK §6.2
 
@@ -7890,13 +7907,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q42 — Answer: B {#pe-q42-answer}
 
-**A.** **A is wrong:** Business potential focuses on the value and opportunity that could be realized from the future state, not the boundary of what will change.
+**A.** *Incorrect.* Potential value estimates the benefit of the future state; it does not decide which kinds of options are considered.
 
-**B.** **B is correct:** BABOK 6.2 defines solution scope as the element that clarifies the boundaries of what the solution will and will not address or change within the solution space.
+**B.** *Correct.* In BABOK §6.2, the scope of the solution space defines which kinds of options will be considered when investigating possible solutions, such as changes to processes, technology, policies, or relationships with outside organizations. The stakeholders’ disagreement is about exactly that range.
 
-**C.** **C is wrong:** Transition states describe intermediate conditions between the current and future states during implementation, not the overall solution scope boundary.
+**C.** *Near-miss.* Constraints are aspects that may not be changed by the solution. A constraint could narrow the range later, but the open question here is which kinds of options to consider at all.
 
-**D.** **D is the near-miss:** Business goals and objectives explain why the change is needed and what outcomes are desired, but they do not directly define or bound the solution-space boundary.
+**D.** *Incorrect.* Goals and objectives state what the organization wants to achieve; they guide the choice of options but do not define the range of options.
 
 **Source detail:** BABOK §6.2
 
@@ -7904,13 +7921,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q43 — Answer: D {#pe-q43-answer}
 
-**A.** **A is wrong:** Recommended Actions is an output of BABOK 8.5, not a guideline or tool for the 7.6 task.
+**A.** *Incorrect.* Recommended actions are the output of Recommend Actions to Increase Solution Value (BABOK §8.5) for an existing solution; they do not describe the uncertainty of these candidate options.
 
-**B.** Solution Performance Measures are associated with Measure Solution Performance, but are not listed as a guideline or tool in BABOK §7.6. Solution evaluation can also occur on prototypes or components before full implementation.
+**B.** *Incorrect.* Performance measures from the current solution come from Measure Solution Performance (BABOK §8.1). They describe today’s results, not the uncertainty around future options.
 
-**C.** **C is the near-miss:** Stakeholder engagement is important across business analysis work and may seem broadly applicable here, but Stakeholder Engagement Approach is not a listed guideline or tool in BABOK 7.6 for this specific task.
+**C.** *Near-miss.* The engagement approach helps plan collaboration with stakeholders, but it does not assess how a partner’s possible delay could reduce each option’s value.
 
-**D.** **D is correct:** Risk Analysis Results are a guideline and tool for BABOK 7.6 because risks and uncertainty directly affect the estimated value of solution options and must be considered when recommending a solution.
+**D.** *Correct.* BABOK §7.6 uses risk analysis results as a guideline when analyzing potential value, because uncertainty such as a partner’s possible delay can reduce the value an option is expected to deliver.
 
 **Source detail:** BABOK §7.6; BABOK §8.1; BABOK §8.5
 
@@ -7918,13 +7935,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q44 — Answer: D {#pe-q44-answer}
 
-**A.** **A is wrong:** It hides a validation finding — the adoption risk from the consent step — that affects confidence in value realization and requires leadership attention.
+**A.** *Incorrect.* It hides a validation finding — the adoption risk from the consent step — that affects confidence in value realization and requires leadership attention.
 
-**B.** **B is the near-miss:** Sharing all supporting material can appear complete and transparent. It is wrong because attaching raw notes and mockups is not the same as relaying a clear, contextualized message that stakeholders can act on; it places the interpretive burden on the reader.
+**B.** *Near-miss.* Sharing all supporting material can appear complete and transparent. It is wrong because attaching raw notes and mockups is not the same as relaying a clear, contextualized message that stakeholders can act on; it places the interpretive burden on the reader.
 
-**C.** The update proposes stopping work and assigns redesign before the relevant decision makers review the risk. The communication task calls for clear findings and a review focus, not a premature design conclusion.
+**C.** *Incorrect.* The update proposes stopping work and assigns redesign before the relevant decision makers review the risk. The communication task calls for clear findings and a review focus, not a premature design conclusion.
 
-**D.** **D is correct:** This written communication is concise, balanced, and audience-aware. It explains how the solution supports the business goal, communicates the validation finding, identifies the value-related adoption risk, and suggests a review focus without making the design decision independently.
+**D.** *Correct.* This written communication is concise, balanced, and audience-aware. It explains how the solution supports the business goal, communicates the validation finding, identifies the value-related adoption risk, and suggests a review focus without making the design decision independently.
 
 **Source detail:** BABOK §4.4; BABOK §7.3; BABOK §9.4.3
 
@@ -7932,13 +7949,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q45 — Answer: A {#pe-q45-answer}
 
-**A.** **A is correct:** BABOK 8.1 and 10.28 establish that a useful KPI needs a baseline, defined data source, collection frequency, and reporting structure so performance can be meaningfully compared against the target over time.
+**A.** *Correct.* BABOK 8.1 and 10.28 establish that a useful KPI needs a baseline, defined data source, collection frequency, and reporting structure so performance can be meaningfully compared against the target over time.
 
-**B.** **B is wrong:** Targets may be defined before implementation; the issue here is not the existence of a target but the missing measurement infrastructure.
+**B.** *Incorrect.* Targets may be defined before implementation; the issue here is not the existence of a target but the missing measurement infrastructure.
 
-**C.** **C is the near-miss:** Having a clear target is a good start, but without baseline and collection infrastructure the KPI cannot be used to evaluate whether the target is being met. The target alone is necessary but not sufficient.
+**C.** *Near-miss.* Having a clear target is a good start, but without baseline and collection infrastructure the KPI cannot be used to evaluate whether the target is being met. The target alone is necessary but not sufficient.
 
-**D.** **D is wrong:** The number of approved requirements is a delivery measure, not a direct measure of permitting performance or value realization.
+**D.** *Incorrect.* The number of approved requirements is a delivery measure, not a direct measure of permitting performance or value realization.
 
 **Source detail:** BABOK §8.1; BABOK §10.28
 
@@ -7946,13 +7963,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q46 — Answer: D {#pe-q46-answer}
 
-**A.** **A is the near-miss:** Storage and access determines where information is kept and who can access it, but the scenario is specifically about metadata fields attached to individual requirement records, which is requirements attributes.
+**A.** *Near-miss.* Storage and access determines where information is kept and who can access it, but the scenario is specifically about metadata fields attached to individual requirement records, which is requirements attributes.
 
-**B.** **B is wrong:** Plan traceability approach focuses on the relationships among requirements, designs, and related artefacts, not on descriptive metadata fields on a single requirement record.
+**B.** *Incorrect.* Plan traceability approach focuses on the relationships among requirements, designs, and related artefacts, not on descriptive metadata fields on a single requirement record.
 
-**C.** **C is wrong:** Organization of business analysis information helps structure and locate information within a repository, but the specific need is for requirement-level attribute fields, not structural organization.
+**C.** *Incorrect.* Organization of business analysis information helps structure and locate information within a repository, but the specific need is for requirement-level attribute fields, not structural organization.
 
-**D.** **D is correct:** BABOK 3.4 defines requirements attributes as metadata attached to requirement records that help manage them throughout the change, including fields such as source, status, priority, ownership, and review information.
+**D.** *Correct.* BABOK 3.4 defines requirements attributes as metadata attached to requirement records that help manage them throughout the change, including fields such as source, status, priority, ownership, and review information.
 
 **Source detail:** BABOK §3.4
 
@@ -7960,13 +7977,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q47 — Answer: C {#pe-q47-answer}
 
-**A.** **A is the near-miss:** The user behavior occurs alongside the solution, but the cause is an external sales operations policy — a business rule outside the solution — which points to an enterprise limitation rather than a solution limitation.
+**A.** *Near-miss.* The user behavior occurs alongside the solution, but the cause is an external sales operations policy — a business rule outside the solution — which points to an enterprise limitation rather than a solution limitation.
 
-**B.** **B is wrong:** A vendor service-level agreement is an external contractual constraint on support access, not an internal component limitation of the implemented solution.
+**B.** *Incorrect.* A vendor service-level agreement is an external contractual constraint on support access, not an internal component limitation of the implemented solution.
 
-**C.** **C is correct:** BABOK 8.3 describes solution limitations as internal restrictions within the solution itself that reduce value realization. The matching algorithm is an internal solution component, and its behavior directly restricts value delivery.
+**C.** *Correct.* BABOK 8.3 describes solution limitations as internal restrictions within the solution itself that reduce value realization. The matching algorithm is an internal solution component, and its behavior directly restricts value delivery.
 
-**D.** **D is wrong:** Management evaluation practices and the trust issues they create are enterprise factors — organizational behaviors and policies — that fall outside the solution itself.
+**D.** *Incorrect.* Management evaluation practices and the trust issues they create are enterprise factors — organizational behaviors and policies — that fall outside the solution itself.
 
 **Source detail:** BABOK §8.3; BABOK §8.4
 
@@ -7974,13 +7991,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q48 — Answer: A {#pe-q48-answer}
 
-**A.** **A is correct:** BABOK 10.9 states that Business Rules Analysis helps clarify rules in business terms; BABOK 7.4 supports relating those rules to the broader requirements architecture. The BA should support clarity about what the rules are and their relationships to requirements before a technology choice constrains the design.
+**A.** *Correct.* BABOK 10.9 states that Business Rules Analysis helps clarify rules in business terms; BABOK 7.4 supports relating those rules to the broader requirements architecture. The BA should support clarity about what the rules are and their relationships to requirements before a technology choice constrains the design.
 
-**B.** **B is the near-miss:** Product capability matters, but selecting the rules engine is a technology decision. The BA should first support clarity about the rules themselves and their relationship to requirements; the product decision follows from that analysis.
+**B.** *Near-miss.* Product capability matters, but selecting the rules engine is a technology decision. The BA should first support clarity about the rules themselves and their relationship to requirements; the product decision follows from that analysis.
 
-**C.** The option explicitly bypasses stakeholder review. Rules may be implemented in code, but that does not remove the need for business-understandable rules and appropriate review.
+**C.** *Incorrect.* The option explicitly bypasses stakeholder review. Rules may be implemented in code, but that does not remove the need for business-understandable rules and appropriate review.
 
-**D.** **D is wrong:** Tax policies and decision criteria are not performance requirements; reclassifying them misrepresents their nature and would prevent proper stakeholder review and traceability.
+**D.** *Incorrect.* Tax policies and decision criteria are not performance requirements; reclassifying them misrepresents their nature and would prevent proper stakeholder review and traceability.
 
 **Source detail:** BABOK §10.9; BABOK §7.4
 
@@ -7988,13 +8005,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q49 — Answer: A {#pe-q49-answer}
 
-**A.** **A is correct:** BABOK 9.3.5 Methodology Knowledge describes how relevant standards and frameworks should influence BA planning and work products, including activities, deliverables, terminology, timing, and procedures.
+**A.** *Correct.* BABOK 9.3.5 Methodology Knowledge describes how relevant standards and frameworks should influence BA planning and work products, including activities, deliverables, terminology, timing, and procedures.
 
-**B.** **B is wrong:** Applying relevant standards means aligning to the current context and organizational commitments; a personal preference for a faster approach does not justify replacing adopted standards.
+**B.** *Incorrect.* Applying relevant standards means aligning to the current context and organizational commitments; a personal preference for a faster approach does not justify replacing adopted standards.
 
-**C.** **C is wrong:** ECBA-level work applies existing standards and frameworks under appropriate guidance; it does not independently create new industry frameworks before beginning analysis.
+**C.** *Incorrect.* ECBA-level work applies existing standards and frameworks under appropriate guidance; it does not independently create new industry frameworks before beginning analysis.
 
-**D.** **D is the near-miss:** Standards and frameworks might be read as reference documents, but BABOK 9.3.5 is explicit that relevant ones should actively influence BA planning and deliverables, not be treated as background reading.
+**D.** *Near-miss.* Standards and frameworks might be read as reference documents, but BABOK 9.3.5 is explicit that relevant ones should actively influence BA planning and deliverables, not be treated as background reading.
 
 **Source detail:** BABOK §3.1; BABOK §9.3.5
 
@@ -8002,13 +8019,13 @@ This section gives the answers and the full rationale for the [Chapter 10](#ch10
 
 ### PE-Q50 — Answer: B {#pe-q50-answer}
 
-**A.** **A is the near-miss:** This sounds important, but questioning whether a requirement supports the intended business outcome is a validation concern — it is about alignment with business value and outcomes, which belongs to BABOK 7.3.
+**A.** *Near-miss.* This sounds important, but questioning whether a requirement supports the intended business outcome is a validation concern — it is about alignment with business value and outcomes, which belongs to BABOK 7.3.
 
-**B.** BABOK §7.2 checks whether a requirement or design is specified well enough to use. Here “quickly” lacks a criterion or analysis method to establish fulfillment, creating a testability problem.
+**B.** *Correct.* BABOK §7.2 checks whether a requirement or design is specified well enough to use. Here “quickly” lacks a criterion or analysis method to establish fulfillment, creating a testability problem.
 
-**C.** **C is wrong:** Deferral due to value priority is a prioritization and governance decision, not a verification or validation quality finding about the requirement itself.
+**C.** *Incorrect.* Deferral due to value priority is a prioritization and governance decision, not a verification or validation quality finding about the requirement itself.
 
-**D.** **D is wrong:** End-user workflow preference is a stakeholder preference and solution-fit concern, not a quality characteristic that affects whether the requirement can be verified.
+**D.** *Incorrect.* End-user workflow preference is a stakeholder preference and solution-fit concern, not a quality characteristic that affects whether the requirement can be verified.
 
 **Source detail:** BABOK §7.2; BABOK §7.3
 
@@ -8045,7 +8062,7 @@ This is a one-page reference card for the **Business Analysis Core Concept Model
 
 ## The Six Core Concepts {#p-03-appendix-baccm-the-six-core-concepts}
 
-The BACCM is a thinking and organizing model built on six concepts that appear in almost every situation. Their defining feature — and the thing the exam tests most — is that they are **interrelated**: change any one, and you re-check the others.
+The BACCM is a thinking and organizing model built on six concepts that appear in almost every situation. Their defining feature — and the point to hold onto — is that they are **interrelated**: change any one, and you re-check the others.
 
 | Concept         | Definition to know                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------ |
@@ -8062,7 +8079,7 @@ The BACCM is a thinking and organizing model built on six concepts that appear i
 
 ### Appendix figure — The BACCM card {#fig-app-baccm-card}
 
-![Appendix figure — The BACCM card. The quick reference repeats six related concepts inside a Context boundary. Need and Change affect one another. A Solution satisfies a Need and delivers Value; Stakeholders judge that Value. Revisit the other concepts when one changes.](../../figures/fig-app-baccm-card.svg)
+![Appendix figure — The BACCM card. The quick reference repeats six related concepts inside a Context boundary. Need and Change affect one another. A Solution satisfies a Need and delivers Value; Stakeholders judge that Value. Revisit the other concepts when one changes.](figures/fig-app-baccm-card.svg)
 
 | Relationship | What it means |
 | --- | --- |
@@ -8099,7 +8116,7 @@ A fast way to use the model on any scenario is to ask six questions:
 
 -----
 
-## Two BACCM Distinctions to Check {#p-03-appendix-baccm-the-two-baccm-traps-the-exam-loves}
+## Two BACCM Distinctions to Check {#p-03-appendix-baccm-two-baccm-distinctions-to-check}
 
 > ⚠️ **Context vs. project environment.** Context is the *dynamic circumstances that influence, are influenced by, and provide understanding of the change* — culture, attitudes, regulations, technology, competition, market trends, and more. It is **much broader** than the project boundary or scope statement. If an option narrows Context to “what is inside the project,” it is wrong.
 
@@ -8111,7 +8128,7 @@ A fast way to use the model on any scenario is to ask six questions:
 
 # Appendix A - ECBA Techniques Quick Reference {#p-04-appendix-a-techniques-appendix-a-ecba-techniques-quick-reference}
 
-This appendix is a last-day review sheet for the 20 ECBA-testable techniques from BABOK Guide [Chapter 10](#ch10). Use it to recognize the exam trigger, choose the right technique, and avoid near-miss distinctions.
+This appendix is a last-day review sheet for the 20 techniques from BABOK Guide Chapter 10 that the ECBA Exam Blueprint lists for study. The Standard’s foundational techniques, including Customer Journey Mapping and Data Storytelling, are introduced in [section 3.2](#p-ch3-foundational-techniques-in-the-standard). Use it to recognize the exam trigger, choose the right technique, and avoid near-miss distinctions.
 
 | Technique Number | Technique Name                     | Primary Domain(s) |
 | ---------------- | ---------------------------------- | ----------------- |
@@ -8277,7 +8294,7 @@ This appendix is a last-day review sheet for the 20 ECBA-testable techniques fro
 ### 10.41 Scope Modelling {#tech-10-41}
 
   - **Purpose:** Scope Modelling defines and communicates the boundaries of a change, need, or solution.
-  - **Key description:** Scope models help stakeholders see what is included, excluded, adjacent, or interacting with the change. They can clarify solution scope, business analysis scope, interfaces, stakeholders, systems, and external dependencies. This technique is an exam favorite when confusion exists about what is in or out.
+  - **Key description:** Scope models help stakeholders see what is included, excluded, adjacent, or interacting with the change. They can clarify solution scope, business analysis scope, interfaces, stakeholders, systems, and external dependencies. Use it when stakeholders are unsure what is in or out.
   - **When the exam asks about it:** Choose this technique when stakeholders need to agree on boundaries, interfaces, included areas, excluded areas, or impacted components.
   - **Near-miss pair:** Process Modelling - Scope Modelling defines boundaries; Process Modelling shows the sequence of activities inside or across those boundaries.
   - **Primary domain(s):** D4 Change, D6 Solution, D9 Context.
@@ -8329,7 +8346,7 @@ At the ECBA level, remember the authority boundary: you **support**, **assist**,
 
 -----
 
-## Summary Table — Competencies and Study Links {#p-05-appendix-b-competencies-summary-table-competencies-and-primary-domain}
+## Summary Table — Competencies and Study Links {#p-05-appendix-b-competencies-summary-table-competencies-and-study-links}
 
 | Category                                | Competency                                     | Primary domain                               |
 | --------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
@@ -8793,20 +8810,20 @@ When a question asks for a competency, do not choose the option that sounds most
 
 > **How to use this appendix:** Compare each pair by its purpose and the facts that distinguish it. The groups organize your review; they do not rank the likelihood of topics appearing on the exam.
 
-## Study Groups {#p-06-appendix-c-concept-pairs-priority-tiers}
+## Study Groups {#p-06-appendix-c-concept-pairs-study-groups}
 
 ### Group 1 — Quality, Decisions, and Evaluation {#p-06-appendix-c-concept-pairs-tier-1-must-master}
 
 Use these pairs to distinguish quality checks, decision authority, and evaluation tasks.
 
   - **Verify vs. Validate**
-  - **Confirm Elicitation Results vs. Validate Requirements and Designs**
+  - **Confirm Elicitation Results vs. Validate Requirements**
   - **Assess Solution Limitations vs. Assess Enterprise Limitations**
   - **Goal vs. Objective**
   - **Atomic vs. Complete**
   - **Consistent vs. Unambiguous**
   - **Measure Solution Performance vs. Analyze Performance Measures**
-  - **Maintain Requirements and Designs vs. Assess Requirements Changes**
+  - **Maintain Requirements vs. Assess Requirements Changes**
 
 ### Group 2 — Value, Measures, and Interaction {#p-06-appendix-c-concept-pairs-tier-2-common-traps}
 
@@ -8894,7 +8911,7 @@ One-line memory anchor: Think of **verify** as “is this information good enoug
 
 -----
 
-## Atomic vs. Complete {#p-06-appendix-c-concept-pairs-cohesion-vs-completeness}
+## Atomic vs. Complete {#p-06-appendix-c-concept-pairs-atomic-vs-complete}
 
 | | Atomic | Complete |
 |---|---|---|
@@ -8903,7 +8920,7 @@ One-line memory anchor: Think of **verify** as “is this information good enoug
 
 BABOK §7.2.4 names both characteristics. An item may satisfy one and fail the other.
 
-## Consistent vs. Unambiguous {#p-06-appendix-c-concept-pairs-consistency-vs-correctness}
+## Consistent vs. Unambiguous {#p-06-appendix-c-concept-pairs-consistent-vs-unambiguous}
 
 | | Consistent | Unambiguous |
 |---|---|---|
@@ -8912,18 +8929,18 @@ BABOK §7.2.4 names both characteristics. An item may satisfy one and fail the o
 
 Both checks are from BABOK §7.2.4. Clarity alone does not establish consistency or value.
 
-## Feasible vs. Testable {#p-06-appendix-c-concept-pairs-feasibility-vs-modifiability}
+## Feasible vs. Testable {#p-06-appendix-c-concept-pairs-feasible-vs-testable}
 
 | | Feasible | Testable |
 |---|---|---|
 | Meaning | Achievable under the agreed constraints, or suitable for further investigation. | Fulfillment can be checked at the relevant level of detail. |
 | Check | Can this be achieved within risk, time, and budget constraints? | How could we establish whether it has been met? |
 
-These paraphrase BABOK §7.2.4. Modifiability, cohesion, and correctness can be local review vocabulary but are not names in its nine-characteristic list.
+These paraphrase BABOK §7.2.4. Terms such as modifiability or correctness come from other standards and are not among the nine BABOK names.
 
-## Confirm Elicitation Results vs. Validate Requirements and Designs {#p-06-appendix-c-concept-pairs-confirm-elicitation-results-vs-validate-requirements-and-designs}
+## Confirm Elicitation Results vs. Validate Requirements {#p-06-appendix-c-concept-pairs-confirm-elicitation-results-vs-validate-requirements-and-designs}
 
-|              | Confirm Elicitation Results (4.3)                                           | Validate Requirements and Designs (7.3)                                         |
+|              | Confirm Elicitation Results (4.3)                                           | Validate Requirements (7.3)                                         |
 | ------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | Definition   | Check elicitation results for accuracy and consistency.                     | Check whether requirements and designs support business requirements and value. |
 | Focus        | Recently captured elicitation information.                                  | Refined requirements and designs.                                               |
@@ -8947,9 +8964,9 @@ One-line memory anchor: Think of **confirm** as checking the capture. Think of *
 
 -----
 
-## Maintain Requirements and Designs vs. Assess Requirements Changes {#p-06-appendix-c-concept-pairs-maintain-requirements-and-designs-vs-assess-requirements-changes}
+## Maintain Requirements vs. Assess Requirements Changes {#p-06-appendix-c-concept-pairs-maintain-requirements-and-designs-vs-assess-requirements-changes}
 
-|              | Maintain Requirements and Designs (5.2)                                    | Assess Requirements Changes (5.4)                                      |
+|              | Maintain Requirements (5.2)                                    | Assess Requirements Changes (5.4)                                      |
 | ------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | Definition   | Keep requirements and designs accurate, current, consistent, and reusable. | Evaluate the impact, value, risk, and priority of a proposed change.   |
 | Focus        | Integrity of existing information.                                         | Decision support for a change request.                                 |
@@ -9179,9 +9196,9 @@ One-line memory anchor: Think of **business value** as importance. Think of **ur
 | Atomic vs. Complete                                                 | BABOK 7.2; BABOK 7.4                                 | [Chapter 6](#ch6) - Solution; [Chapter 9](#ch9) - Context                        |
 | Consistent vs. Unambiguous                                               | BABOK 7.2                                            | [Chapter 5](#ch5) - Need; [Chapter 9](#ch9) - Context                            |
 | Feasible vs. Testable                                             | BABOK 5.1; BABOK 7.2; BABOK 7.4                      | [Chapter 6](#ch6) - Solution; [Chapter 9](#ch9) - Context                        |
-| Confirm Elicitation Results vs. Validate Requirements and Designs         | BABOK 4.3; BABOK 7.3                                 | [Chapter 5](#ch5) - Need                                                 |
+| Confirm Elicitation Results vs. Validate Requirements         | BABOK 4.3; BABOK 7.3                                 | [Chapter 5](#ch5) - Need                                                 |
 | Confirm Elicitation Results vs. Communicate Business Analysis Information | BABOK 4.3; BABOK 4.4                                 | [Chapter 7](#ch7) - Stakeholder                                          |
-| Maintain Requirements and Designs vs. Assess Requirements Changes         | BABOK 5.2; BABOK 5.4                                 | [Chapter 6](#ch6) - Solution; [Chapter 9](#ch9) - Context                        |
+| Maintain Requirements vs. Assess Requirements Changes         | BABOK 5.2; BABOK 5.4                                 | [Chapter 6](#ch6) - Solution; [Chapter 9](#ch9) - Context                        |
 | Measure Solution Performance vs. Analyze Performance Measures             | BABOK 8.1; BABOK 8.2                                 | [Chapter 4](#ch4) - Change; [Chapter 8](#ch8) - Value                            |
 | Assess Solution Limitations vs. Assess Enterprise Limitations             | BABOK 8.3; BABOK 8.4                                 | [Chapter 8](#ch8) - Value; [Chapter 9](#ch9) - Context                           |
 | Design Constraint vs. Implementation Constraint                           | BABOK 6.2                                            | [Chapter 6](#ch6) - Solution; [Chapter 8](#ch8) - Value                          |
@@ -9261,9 +9278,9 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 *(A.S. [7.4](#as-7-4))* The record of *what* was approved, *by whom*, and *when* — regardless of whether approval was formal or informal.
 
-### Approve Requirements and Designs {#gl-approve-requirements-and-designs}
+### Approve Requirements {#gl-approve-requirements}
 
-*(BABOK task · A.S. [7.4](#as-7-4), [9.1](#as-9-1))* Obtains and tracks agreement under the roles and process set through governance. Complete agreement is not always necessary; identify and manage the risks of disagreement. Approval does not repair poor quality (BABOK §5.5).
+*(BABOK task · A.S. [7.4](#as-7-4), [9.1](#as-9-1))* Obtains and tracks agreement under the roles and process set through governance. Complete agreement is not always necessary; identify and manage the risks of disagreement. Approval does not repair poor quality (BABOK §5.5). *The Business Analysis Standard* (2025) calls this task Approve Requirements and Designs.
 
 ### Assess Enterprise Limitations {#gl-assess-enterprise-limitations}
 
@@ -9389,10 +9406,6 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 *(output · A.S. [4.2](#as-4-2))* The recommended route across the gap from current to future state. One of the two outputs of Define Change Strategy.
 
-### Cohesion {#gl-cohesion}
-
-*(supplementary review term · A.S. [9.4](#as-9-4))* How well a set belongs to one concern. It is not a named characteristic in BABOK §7.2; the BABOK characteristic Concise addresses unnecessary content.
-
 ### Collaboration {#gl-collaboration}
 
 *(A.S. [2.2](#as-2-2), [7.3](#as-7-3))* Working toward a common goal — not forcing complete agreement on every detail. As a *shared value* (D2) it is the belief that stakeholders work together to improve understanding and outcomes; as an *engagement concept* (D7) it means sustaining productive joint work toward the shared outcome.
@@ -9469,10 +9482,6 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 *(shared value · A.S. [2.2](#as-2-2))* Using feedback and evidence to improve understanding.
 
-### Correctness {#gl-correctness}
-
-*(general quality term · A.S. [9.4](#as-9-4))* Accuracy against the relevant source or need. It is not a named characteristic in the nine-item BABOK §7.2 list. Consistent includes alignment with stakeholder needs as well as avoidance of conflicts.
-
 ### Courage {#gl-courage}
 
 *(shared value · A.S. [2.2](#as-2-2))* Raising difficult facts, assumptions, or risks even when uncomfortable.
@@ -9505,11 +9514,19 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 *(competency · A.S. [2.4](#as-2-4))* See [Communication Tools and Technology](#comp-9-6-3) in [Appendix B](#p-05-appendix-b-competencies-appendix-b-competency-quick-reference) for its purpose, meaning, and effectiveness measures.
 
+### Customer Journey Mapping {#gl-customer-journey-mapping}
+
+*(Standard foundational technique · A.S. [3.2](#as-3-2))* A visual definition of the customer’s end-to-end experience with a solution, including motivations and experience at each interaction (Standard §4.3). Described in full in the *Guide to Product Ownership Analysis*, not in BABOK Chapter 10.
+
 ## D {#p-07-glossary-d}
 
 ### Data Modelling {#gl-data-modelling}
 
 *(technique · A.S. [5.2](#as-5-2))* Represents data objects, attributes, and relationships. Recognition-level for the ECBA.
+
+### Data Storytelling {#gl-data-storytelling}
+
+*(Standard foundational technique · A.S. [3.2](#as-3-2))* Presenting insights from data as an engaging narrative with business context, to support better decisions (Standard §4.3). Described in full in the *Guide to Business Data Analytics*, not in BABOK Chapter 10.
 
 ### Decision factor {#gl-decision-factor}
 
@@ -9785,7 +9802,7 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 ### Lessons Learned {#gl-lessons-learned}
 
-*(technique · A.S. [4.3](#as-4-3))* Captures qualitative retrospective insight: what went well, what didn't, what to change next time.
+*(technique · A.S. [4.3](#as-4-3))* Captures qualitative retrospective insight: what went well, what did not, what to change next time.
 
 ### Level of abstraction {#gl-level-of-abstraction}
 
@@ -9805,9 +9822,9 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 ## M {#p-07-glossary-m}
 
-### Maintain Requirements and Designs {#gl-maintain-requirements-and-designs}
+### Maintain Requirements {#gl-maintain-requirements}
 
-*(BABOK task · A.S. [6.4](#as-6-4), [9.1](#as-9-1))* Retains accuracy and consistency throughout and beyond the change and enables reuse. Includes content, relationships, and attributes; approved changes are reflected in the maintained information (BABOK §5.2).
+*(BABOK task · A.S. [6.4](#as-6-4), [9.1](#as-9-1))* Retains accuracy and consistency throughout and beyond the change and enables reuse. Includes content, relationships, and attributes; approved changes are reflected in the maintained information (BABOK §5.2). *The Business Analysis Standard* (2025) calls this task Maintain Requirements and Designs.
 
 ### Manage Stakeholder Collaboration {#gl-manage-stakeholder-collaboration}
 
@@ -9819,7 +9836,7 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 ### Measurable evaluation criteria {#gl-measurable-evaluation-criteria}
 
-*(A.S. [5.3](#as-5-3))* How we'll know the change worked; defined during validation.
+*(A.S. [5.3](#as-5-3))* How the team will know the change worked; defined during validation.
 
 ### Measure Solution Performance {#gl-measure-solution-performance}
 
@@ -9827,7 +9844,7 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 ### Methodology Knowledge {#gl-methodology-knowledge}
 
-*(competency · A.S. [9.4](#as-9-4))* Learn the organization's current approach and align to it; don't replace it with a preferred prior method.
+*(competency · A.S. [9.4](#as-9-4))* Learn the organization's current approach and align to it; do not replace it with a preferred prior method.
 
 ### Metric {#gl-metric}
 
@@ -9844,10 +9861,6 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 ### Mitigate {#gl-mitigate}
 
 *(risk response · A.S. [6.2](#as-6-2))* Reduce the probability or impact of a risk you are *still taking* (e.g., pilot before rollout).
-
-### Modifiability {#gl-modifiability}
-
-*(supplementary checklist term · A.S. [9.4](#as-9-4))* Ease of making changes without excessive ripple effects. Use it when a local review explicitly includes it; it is not one of the nine named BABOK §7.2 characteristics.
 
 ## N {#p-07-glossary-n}
 
@@ -10083,9 +10096,9 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 *(concept · A.S. [6.1](#as-6-1))* Checking whether the solution aligns with the business need and expected value ("are we building the right thing?"). Not software or user-acceptance testing.
 
-### Specify and Model Requirements and Designs {#gl-specify-and-model-requirements-and-designs}
+### Specify and Model Requirements {#gl-specify-and-model-requirements}
 
-*(BABOK task · A.S. [5.2](#as-5-2))* Turns confirmed results into clear, usable requirements and designs (text, matrices, diagrams) at the right level of abstraction.
+*(BABOK task · A.S. [5.2](#as-5-2))* Turns confirmed results into clear, usable requirements and designs (text, matrices, diagrams) at the right level of abstraction. *The Business Analysis Standard* (2025) calls this task Specify and Model Requirements and Designs.
 
 ### Sponsor {#gl-sponsor}
 
@@ -10097,7 +10110,7 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 ### Stakeholder Engagement {#gl-stakeholder-engagement}
 
-*(output · A.S. [7.3](#as-7-3))* Genuine willingness to participate; attendance alone isn't engagement.
+*(output · A.S. [7.3](#as-7-3))* Genuine willingness to participate; attendance alone is not engagement.
 
 ### Stakeholder Engagement Approach {#gl-stakeholder-engagement-approach}
 
@@ -10165,9 +10178,9 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 *(business analysis principle · A.S. [2.3](#as-2-3))* Understand the customer experience and break it into usable detail.
 
-### Trace Requirements and Designs {#gl-trace-requirements-and-designs}
+### Trace Requirements {#gl-trace-requirements}
 
-*(BABOK task · A.S. [4.3](#as-4-3), [6.1](#as-6-1))* Keeps requirements and designs aligned across levels and reveals the ripple of a change; uses the five relationships to detect solution gaps (orphan components/requirements, workflow gaps). Also called Trace Requirements.
+*(BABOK task · A.S. [4.3](#as-4-3), [6.1](#as-6-1))* Keeps requirements and designs aligned across levels and reveals the ripple of a change; uses the five relationships to detect solution gaps (orphan components/requirements, workflow gaps). Also called Trace Requirements. *The Business Analysis Standard* (2025) calls this task Trace Requirements and Designs.
 
 ### Traceability {#gl-traceability}
 
@@ -10211,11 +10224,11 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 ### Validate {#gl-validate}
 
-*(traceability relationship · A.S. [4.3](#as-4-3))* A test case or check determines whether the built solution fulfils a requirement. (Distinct from the *Validate Requirements and Designs* task.)
+*(traceability relationship · A.S. [4.3](#as-4-3))* A test case or check determines whether the built solution fulfills a requirement. (Distinct from the *Validate Requirements* task.)
 
-### Validate Requirements and Designs {#gl-validate-requirements-and-designs}
+### Validate Requirements {#gl-validate-requirements}
 
-*(BABOK task · A.S. [5.3](#as-5-3), [8.3](#as-8-3), [9.4](#as-9-4))* Checks alignment to business goals and the delivery of needed value ("is it the right thing?"). Output: Requirements (Validated).
+*(BABOK task · A.S. [5.3](#as-5-3), [8.3](#as-8-3), [9.4](#as-9-4))* Checks alignment to business goals and the delivery of needed value ("is it the right thing?"). Output: Requirements (Validated). *The Business Analysis Standard* (2025) calls this task Validate Requirements and Designs.
 
 ### Value {#gl-value}
 
@@ -10233,9 +10246,9 @@ For related distinctions, see [Appendix C — Concept Pairs](#p-06-appendix-c-co
 
 *(A.S. [1.4](#as-1-4))* Value created through new returns, gains, or improvements (e.g., a new flow that lifts completed applications).
 
-### Verify Requirements and Designs {#gl-verify-requirements-and-designs}
+### Verify Requirements {#gl-verify-requirements}
 
-*(BABOK task · A.S. [5.3](#as-5-3), [9.4](#as-9-4))* Checks whether requirements and designs are usable for further work. BABOK §7.2 names Atomic, Complete, Consistent, Concise, Feasible, Unambiguous, Testable, Prioritized, and Understandable. Checks are repeated as information develops.
+*(BABOK task · A.S. [5.3](#as-5-3), [9.4](#as-9-4))* Checks whether requirements and designs are usable for further work. BABOK §7.2 names Atomic, Complete, Consistent, Concise, Feasible, Unambiguous, Testable, Prioritized, and Understandable. Checks are repeated as information develops. *The Business Analysis Standard* (2025) calls this task Verify Requirements and Designs.
 
 ### View {#gl-view}
 

@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td>Questions per ECBA exam</td>
-<td>5 out of 50</td>
+<td>About 5 of 50 (from the weight)</td>
 </tr>
 <tr>
 <td>Source</td>
@@ -120,19 +120,19 @@
 <h2 id="as-6-1">6.1 — A.S. 6.1: Solution Validation Concepts</h2>
 <p><strong>Activity Statement 6.1:</strong> “Explain basic solution validation concepts and record findings.”</p>
 <p><strong>Reference Map:</strong> BABOK §5.1</p>
-<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-orphan-component">Orphan component</a>, <a href="glossary.html#gl-orphan-requirement">Orphan requirement</a>, <a href="glossary.html#gl-process-analysis">Process Analysis</a>, <a href="glossary.html#gl-solution-validation">Solution validation</a>, <a href="glossary.html#gl-trace-requirements-and-designs">Trace Requirements and Designs</a>, <a href="glossary.html#gl-workflow-gap">Workflow gap</a>.</p>
+<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-orphan-component">Orphan component</a>, <a href="glossary.html#gl-orphan-requirement">Orphan requirement</a>, <a href="glossary.html#gl-process-analysis">Process Analysis</a>, <a href="glossary.html#gl-solution-validation">Solution validation</a>, <a href="glossary.html#gl-trace-requirements">Trace Requirements</a>, <a href="glossary.html#gl-workflow-gap">Workflow gap</a>.</p>
 <p><em>Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.</em></p>
-<p><strong>Source:</strong> BABOK Guide — Trace Requirements and Designs.</p>
+<p><strong>Source:</strong> BABOK Guide — Trace Requirements.</p>
 <p><strong>What this means.</strong> Explain how evidence shows that a solution addresses its requirements and business need, and record any gaps. The mapped source, BABOK §5.1, is Trace Requirements: it links requirements and designs across levels and helps manage change. Tests can supply evidence that requirements are fulfilled. Passing a test against a specification does not by itself establish that the specification addresses the business need; traceability and value checks are also needed.</p>
 <p><strong>How it is tested.</strong> The exam shows you a traceability gap, and asks you to identify it or choose the right action. Distinguish validation, which is value alignment, against verification, which is quality, and over-stepping by removing or approving scope instead of recording and raising the finding.</p>
 <h3 id="p-ch6-validation-vs-verification-the-one-line-reminder">Validation vs. Verification — the One-Line Reminder</h3>
-<p>You met the full Confirm, Verify, and Validate map in <a href="chapter-5.html#as-5-2">Chapter 5, section 5.2</a>, in <a href="chapter-5.html#fig-5-1">Figure 5.1</a>. Domain 6 leans on just the two that act on developed work.</p>
+<p>You met the full Confirm, Verify, and Validate map in <a href="chapter-5.html#as-5-2">Chapter 5, section 5.2</a>, in <a href="chapter-5.html#fig-5-1">Figure 5.1</a>. Domain 6 uses just the two that act on developed work.</p>
 <ul>
 <li>Validate asks “are we building the right thing?”, which is alignment to business goals, needs, and value. This is the focus of this domain.</li>
 <li>Verify asks “are the requirements and designs usable?”, which is the quality and usability of the requirement or design.</li>
 </ul>
 <p>If a delivered feature works but does not achieve the business outcome, that is validation. If a requirement or design is unclear, inconsistent, or unusable, that is verification. The nine verification quality characteristics live in <a href="chapter-9.html#as-9-4">section 9.4</a>, and you do not need them by name for Domain 6. This is the same “right thing, value alignment” logic you learned in Domain 5. Only the lens differs: in Domain 5 you validated a requirement against the objective, while here you assess solution coverage through traceability gaps.</p>
-<h3 id="p-ch6-traceability-for-gap-detection-trace-requirements-and-designs">Traceability for Gap Detection (Trace Requirements and Designs)</h3>
+<h3 id="p-ch6-traceability-for-gap-detection-trace-requirements-and-designs">Traceability for Gap Detection (Trace Requirements)</h3>
 <p>Traceability is more than a requirements list, because it records relationships, and that is what lets it expose gaps. You met the five relationships in <a href="chapter-4.html#as-4-3">Chapter 4, section 4.3</a>. Here they are in one line each, so that you need not flip back, as the table below shows.</p>
 <table>
 <thead>
@@ -155,7 +155,7 @@
 </tr>
 <tr>
 <td>Validate</td>
-<td>A <strong>test case</strong> checks the built solution fulfils a requirement</td>
+<td>A <strong>test case</strong> checks the built solution fulfills a requirement</td>
 </tr>
 <tr>
 <td>Cover</td>
@@ -193,10 +193,10 @@
 </tbody></table>
 <p>Process Analysis is the technique that surfaces the workflow side of this: bottlenecks, unnecessary handoffs, missed steps, and duplicated work. Reach for it when the scenario is about a workflow that the solution does not fully support. For example, tracing a returns process and finding a step where nothing in the solution handles damaged-item approval, Process Analysis is what exposes that missing step.</p>
 <blockquote>
-<p>⚠️ <strong>Exam Trap — satisfies versus validates (from <a href="chapter-4.html#as-4-3">section 4.3</a>).</strong> The defining directions still hold. A solution component satisfies a requirement, which runs from component to requirement, because it implements it. A test case validates a requirement, which runs from test to requirement, because it checks that the built solution fulfils it. Questions swap the two, so “the solution component validates the requirement” is the wrong-direction bait.</p>
+<p>⚠️ <strong>Exam Trap — satisfies versus validates (from <a href="chapter-4.html#as-4-3">section 4.3</a>).</strong> The defining directions still hold. A solution component satisfies a requirement, which runs from component to requirement, because it implements it. A test case validates a requirement, which runs from test to requirement, because it checks that the built solution fulfills it. Questions swap the two, so “the solution component validates the requirement” is the wrong-direction bait.</p>
 </blockquote>
 <blockquote>
-<p>🪞 <strong>Terminology Alert — “validate.”</strong> This word does double duty in Domain 6, and the exam knows it. Solution validation, which is this activity statement, is the concept, meaning “are we building the right thing?”, which is value alignment. The Validate traceability relationship, above, is narrower, meaning a test case checking that the built solution fulfils a requirement. A test confirms that the thing was built to spec. It does not confirm that the spec was the right thing. A rule of thumb is this: if the sentence is about a test case linked to a requirement, it is the relationship, but if it is about whether the solution serves the need or value, it is the concept.</p>
+<p>🪞 <strong>Terminology Alert — “validate.”</strong> This word does double duty in Domain 6, and the exam knows it. Solution validation, which is this activity statement, is the concept, meaning “are we building the right thing?”, which is value alignment. The Validate traceability relationship, above, is narrower, meaning a test case checking that the built solution fulfills a requirement. A test confirms that the thing was built to spec. It does not confirm that the spec was the right thing. A rule of thumb is this: if the sentence is about a test case linked to a requirement, it is the relationship, but if it is about whether the solution serves the need or value, it is the concept.</p>
 </blockquote>
 <blockquote>
 <p>💡 <strong>Exam Tip — A.S. 6.1.</strong> When a feature “works but does not achieve the outcome,” that is a validation finding, and the ECBA move is to record and raise, rather than to approve the feature, because a design alone does not prove alignment, or to unilaterally remove it from scope.</p>
@@ -213,11 +213,11 @@
 <p><strong>Options.</strong></p>
 <ul>
 <li>A. Approve the feature, because it already has a design component.</li>
-<li>B. Record the traceability gap and raise it for review with the appropriate stakeholders.</li>
-<li>C. Remove the feature from scope immediately, because unsupported features are always invalid.</li>
-<li>D. Ask testers to validate the feature so no further analysis is needed.</li>
+<li>B. Ask testers to validate the feature before any further analysis.</li>
+<li>C. Remove the feature from scope now, because it is not linked to a requirement.</li>
+<li>D. Record the traceability gap and raise it with the appropriate stakeholders.</li>
 </ul>
-<details class="answer" id="c6-el01-answer"><summary>C6-EL01 — Show answer and explanation</summary><div class="answer-body"><h5>C6-EL01 — Answer: B</h5>
+<details class="answer" id="c6-el01-answer"><summary>C6-EL01 — Show answer and explanation</summary><div class="answer-body"><h5>C6-EL01 — Answer: D</h5>
 <table>
 <thead>
 <tr>
@@ -232,7 +232,7 @@
 </thead>
 <tbody><tr>
 <td>C6-EL01</td>
-<td>B</td>
+<td>D</td>
 <td>6</td>
 <td>6.1</td>
 <td>situation</td>
@@ -240,11 +240,11 @@
 <td>BABOK §5.1</td>
 </tr>
 </tbody></table>
-<p><strong>A.</strong> A design link alone does not establish a business need or objective.</p>
-<p><strong>B.</strong> Recording and raising the gap supports review of possible unsupported scope.</p>
-<p><strong>C.</strong> A missing link needs investigation, rather than automatic deletion.</p>
-<p><strong>D.</strong> Testing this specification alone does not restore its missing business justification.</p>
-<p><strong>Reasoning (two-step).</strong> In Step 1, option A treats “has a design” as proof of alignment, which it is not, and option C has the business analyst unilaterally removing scope, which is out of role. You can eliminate both. In Step 2, you choose between B and D. A test confirms that the feature works, rather than that it is needed, so it cannot fill a requirement or objective gap. Recording the gap and raising it is the entry-level action. Option B fits.</p>
+<p><strong>A.</strong> <em>Incorrect.</em> A design link alone does not establish a business need or objective.</p>
+<p><strong>B.</strong> <em>Incorrect.</em> Testing this specification alone does not restore its missing business justification.</p>
+<p><strong>C.</strong> <em>Incorrect.</em> A missing link needs investigation, rather than automatic deletion.</p>
+<p><strong>D.</strong> <em>Correct.</em> Recording and raising the gap supports review of possible unsupported scope.</p>
+<p><strong>Reasoning (two-step).</strong> In Step 1, option A treats “has a design” as proof of alignment, which it is not, and option C has the business analyst unilaterally removing scope, which is out of role. You can eliminate both. In Step 2, you choose between B and D. A test confirms that the feature works, rather than that it is needed, so it cannot fill a requirement or objective gap. Recording the gap and raising it is the entry-level action. Option D fits.</p>
 <p><strong>Source detail:</strong> BABOK §5.1</p>
 <p><strong>Review:</strong> <a href="#as-6-1">A.S. 6.1</a></p>
 </div></details>
@@ -362,24 +362,24 @@
 <p>💡 <strong>Exam Tip — A.S. 6.2.</strong> When comparing options, distrust any answer that decides on one factor, such as cheapest, fastest, or most requirements. The ECBA answer supports a balanced comparison, across value, time, opportunity cost, risk, and feasibility, for the decision-makers.</p>
 </blockquote>
 <blockquote>
-<p><strong>In Practice — the cheaper option that cost more.</strong> A business analyst helps compare two future states for the same need. Option 1 is cheaper, but it barely moves customer value, and it leaves several high-value opportunities on the table. Option 2 costs more up front, but it improves self-service, cuts operational effort, and builds reusable capability. The stakeholder’s instinct is to “go cheap.” The contribution of the business analyst is not to argue for a favourite. It is to lay the comparison out honestly: the quantitative and qualitative value, the time, the opportunity cost, and what level of investment is acceptable, so that the decision-makers see that the cheaper sticker hides a larger opportunity cost.</p>
+<p><strong>In Practice — the cheaper option that cost more.</strong> A business analyst helps compare two future states for the same need. Option 1 is cheaper, but it barely moves customer value, and it leaves several high-value opportunities on the table. Option 2 costs more up front, but it improves self-service, cuts operational effort, and builds reusable capability. The stakeholder’s instinct is to “go cheap.” The contribution of the business analyst is not to argue for a favorite. It is to lay the comparison out honestly: the quantitative and qualitative value, the time, the opportunity cost, and what level of investment is acceptable, so that the decision-makers see that the cheaper sticker hides a larger opportunity cost.</p>
 </blockquote>
 <h3 id="p2-6-2-source-connection">Recommend Actions to Increase Solution Value</h3>
 <p>BABOK §8.5 connects option evaluation with action after limitations are understood. Compare whether to adjust performance measures, change organizational conditions, simplify interfaces, remove duplication or waste, use additional capabilities, retire a solution, or take no action. Record the rationale and the relevant governance decision.</p>
 <h3 id="p-ch6-exam-focus-a-s-6-2">Exam Focus — A.S. 6.2</h3>
-<p><strong>Traps.</strong> Four traps recur here. The first is design versus implementation constraint, which is the nature of the solution as against the resources and time to build it. The second is that Define Future State has three outputs, rather than just the Future State Description. The third is avoid versus mitigate, which is risk gone as against risk lessened. The fourth is a one-factor option choice, because cheapest or fastest is not automatically best.</p>
+<p><strong>Traps.</strong> Check four distinctions here. The first is design versus implementation constraint, which is the nature of the solution as against the resources and time to build it. The second is that Define Future State has three outputs, rather than just the Future State Description. The third is avoid versus mitigate, which is risk gone as against risk lessened. The fourth is a one-factor option choice, because cheapest or fastest is not automatically best.</p>
 <p><strong>How questions are framed.</strong> Expect four shapes. The first is a list of limits to sort into design versus implementation. The second is an outputs question, where the three-part set is correct. The third is a risk-response scenario that turns on the defining move. The fourth is an option comparison keyed to balanced trade-offs, rather than a single metric.</p>
 <h4 id="c6-el02">Exam Lens C6-EL02</h4>
 <p><strong>A.S.:</strong> 6.2</p>
 <p><strong>Stem.</strong> A team compares two solution options. Option 1 must store data in the existing enterprise platform. Option 2 must be delivered before a regulatory deadline using only the current team. Which BEST classifies these constraints?</p>
 <p><strong>Options.</strong></p>
 <ul>
-<li>A. Both are design constraints, because both affect the solution.</li>
-<li>B. Existing-platform storage is a design constraint; deadline and staffing constrain implementation.</li>
+<li>A. The storage rule is a design constraint; the deadline and staffing constrain implementation.</li>
+<li>B. Both are design constraints, because both affect the solution that is delivered.</li>
 <li>C. The deadline is a design constraint; the data-storage rule is an implementation constraint.</li>
 <li>D. Both are implementation constraints, because both affect delivery planning.</li>
 </ul>
-<details class="answer" id="c6-el02-answer"><summary>C6-EL02 — Show answer and explanation</summary><div class="answer-body"><h5>C6-EL02 — Answer: B</h5>
+<details class="answer" id="c6-el02-answer"><summary>C6-EL02 — Show answer and explanation</summary><div class="answer-body"><h5>C6-EL02 — Answer: A</h5>
 <table>
 <thead>
 <tr>
@@ -394,7 +394,7 @@
 </thead>
 <tbody><tr>
 <td>C6-EL02</td>
-<td>B</td>
+<td>A</td>
 <td>6</td>
 <td>6.2</td>
 <td>situation</td>
@@ -402,11 +402,11 @@
 <td>BABOK §6.2</td>
 </tr>
 </tbody></table>
-<p><strong>A.</strong> The deadline and team availability constrain implementation, rather than the solution’s nature.</p>
-<p><strong>B.</strong> Platform storage constrains the solution; time and staffing constrain implementation.</p>
-<p><strong>C.</strong> This reverses the two categories of constraint.</p>
-<p><strong>D.</strong> The storage platform rule constrains the solution itself.</p>
-<p><strong>Reasoning (two-step).</strong> In Step 1, option C reverses the distinction, and option D ignores that the storage rule shapes the solution itself, rather than just delivery. You can eliminate both. In Step 2, you choose between A and B. The storage rule constrains what the solution must be, which is design, while the deadline and the team availability constrain how it gets built, which is implementation. They are mixed, so “both the same,” which is option A, is wrong. Option B fits.</p>
+<p><strong>A.</strong> <em>Correct.</em> Platform storage constrains the solution; time and staffing constrain implementation.</p>
+<p><strong>B.</strong> <em>Incorrect.</em> The deadline and team availability constrain implementation, rather than the solution’s nature.</p>
+<p><strong>C.</strong> <em>Incorrect.</em> This reverses the two categories of constraint.</p>
+<p><strong>D.</strong> <em>Incorrect.</em> The storage platform rule constrains the solution itself.</p>
+<p><strong>Reasoning (two-step).</strong> In Step 1, option C reverses the distinction, and option D ignores that the storage rule shapes the solution itself, rather than just delivery. You can eliminate both. In Step 2, you choose between A and B. The storage rule constrains what the solution must be, which is design, while the deadline and the team availability constrain how it gets built, which is implementation. They are mixed, so “both the same,” which is option B, is wrong. Option A fits.</p>
 <p><strong>Source detail:</strong> BABOK §6.2</p>
 <p><strong>Review:</strong> <a href="#as-6-2">A.S. 6.2</a></p>
 </div></details>
@@ -506,7 +506,7 @@
 <ul>
 <li>A. Approve the dashboard, because it uses existing data and may add value.</li>
 <li>B. Reject the dashboard, because implementation has already started.</li>
-<li>C. Help assess the proposed change for scope, value, schedule, risk, and related requirement impacts.</li>
+<li>C. Help assess the proposed change for scope, value, schedule, and risk.</li>
 <li>D. Ask the technical architect to design the dashboard before analysis continues.</li>
 </ul>
 <details class="answer" id="c6-el03-answer"><summary>C6-EL03 — Show answer and explanation</summary><div class="answer-body"><h5>C6-EL03 — Answer: C</h5>
@@ -532,10 +532,10 @@
 <td>BABOK §5.4; BABOK §7.4</td>
 </tr>
 </tbody></table>
-<p><strong>A.</strong> Possible value does not replace scope and impact assessment.</p>
-<p><strong>B.</strong> Implementation starting does not automatically rule out changes.</p>
-<p><strong>C.</strong> Assessing scope, value, schedule, risk, and related requirements supports the change decision.</p>
-<p><strong>D.</strong> Technical design does not replace assessment of the requested change.</p>
+<p><strong>A.</strong> <em>Incorrect.</em> Possible value does not replace scope and impact assessment.</p>
+<p><strong>B.</strong> <em>Incorrect.</em> Implementation starting does not automatically rule out changes.</p>
+<p><strong>C.</strong> <em>Correct.</em> Assessing scope, value, schedule, risk, and related requirements supports the change decision.</p>
+<p><strong>D.</strong> <em>Incorrect.</em> Technical design does not replace assessment of the requested change.</p>
 <p><strong>Reasoning (two-step).</strong> First recognize a proposed scope change during implementation. Then distinguish impact assessment from immediate approval, refusal, or detailed design. The assigned task is to help assess the change through the established process.</p>
 <p><strong>Source detail:</strong> BABOK §5.4; BABOK §7.4</p>
 <p><strong>Review:</strong> <a href="#as-6-3">A.S. 6.3</a></p>
@@ -543,14 +543,14 @@
 <h2 id="as-6-4">6.4 — A.S. 6.4: Maintain Design Artifacts</h2>
 <p><strong>Activity Statement 6.4:</strong> “Support preparation and updating of design artifacts to maintain clarity.”</p>
 <p><strong>Reference Map:</strong> BABOK §3.4; BABOK §5.2; BABOK §7.1</p>
-<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-information-management-approach">Information management approach</a>, <a href="glossary.html#gl-maintain-requirements-and-designs">Maintain Requirements and Designs</a>, <a href="glossary.html#gl-plan-business-analysis-information-management">Plan Business Analysis Information Management</a>.</p>
+<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-information-management-approach">Information management approach</a>, <a href="glossary.html#gl-maintain-requirements">Maintain Requirements</a>, <a href="glossary.html#gl-plan-business-analysis-information-management">Plan Business Analysis Information Management</a>.</p>
 <p><em>Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.</em></p>
 <p><strong>Source:</strong> BABOK §3.4; BABOK §5.2; BABOK §7.1.</p>
 <p><strong>What this means.</strong> Keep business analysis information usable, which means findable, current, understandable, and trusted. The mapped tasks cover information management, maintenance, and specification/modeling: an information management approach, which is how business analysis information is organized, stored, accessed, traced, and reused, and maintaining existing requirements and designs, which is keeping them accurate and consistent, including the attributes and reuse.</p>
 <p><strong>How it is tested.</strong> Compare Maintain with Assess Requirements Changes: fixing or upkeeping existing, still-valid information is Maintain, while a request for something new or different is Assess Changes. A second angle is an information-management problem, such as artifacts scattered or versions unclear, which calls for the approach, rather than buying a tool.</p>
 <h3 id="p-ch6-keep-information-usable-plan-business-analysis-information-management">Keep Information Usable (Plan Business Analysis Information Management)</h3>
 <p>The information management approach defines how business analysis information is organized, the right level of abstraction, the traceability approach, the plan for reuse, the storage and access, and the requirement attributes, which are metadata, used to manage it. A repository can help, but this task is about the approach, rather than simply buying or replacing a tool.</p>
-<h3 id="p-ch6-maintain-existing-requirements-and-designs-maintain-requirements-and-designs">Maintain Existing Requirements and Designs (Maintain Requirements and Designs)</h3>
+<h3 id="p-ch6-maintain-existing-requirements-and-designs-maintain-requirements-and-designs">Maintain Existing Requirements and Designs (Maintain Requirements)</h3>
 <p>Maintain keeps existing requirements and designs accurate and consistent, by correcting attributes, fixing errors, and enabling reuse, when what the requirement says is still valid. The trigger tells you whether it is Maintain or Assess Changes, as the table below shows.</p>
 <table>
 <thead>
@@ -600,10 +600,10 @@
 <p><strong>Stem.</strong> A design diagram is still valid, but it shows the wrong owner, an outdated status, and no link to its related requirement. What should the ECBA-level BA support?</p>
 <p><strong>Options.</strong></p>
 <ul>
-<li>A. Assess it as a requirements change, because any update during implementation is a change request.</li>
-<li>B. Maintain the artifact by correcting attributes and restoring traceability per the information-management approach.</li>
+<li>A. Assess it as a requirements change, because the update happens during implementation.</li>
+<li>B. Maintain the artifact by correcting its attributes and restoring its trace link.</li>
 <li>C. Replace the diagram with a text document, because diagrams are too hard to maintain.</li>
-<li>D. Ask the sponsor to approve the artifact before any metadata can be corrected.</li>
+<li>D. Ask the sponsor to approve the artifact before the metadata is corrected.</li>
 </ul>
 <details class="answer" id="c6-el04-answer"><summary>C6-EL04 — Show answer and explanation</summary><div class="answer-body"><h5>C6-EL04 — Answer: B</h5>
 <table>
@@ -628,10 +628,10 @@
 <td>BABOK §3.4; BABOK §5.2</td>
 </tr>
 </tbody></table>
-<p><strong>A.</strong> A metadata correction is not automatically a request for a different capability.</p>
-<p><strong>B.</strong> Correcting attributes and relationships maintains accurate, usable design information.</p>
-<p><strong>C.</strong> No evidence justifies discarding a valid diagram.</p>
-<p><strong>D.</strong> Follow the agreed maintenance permissions; the scenario does not require fresh sponsor approval.</p>
+<p><strong>A.</strong> <em>Incorrect.</em> A metadata correction is not automatically a request for a different capability.</p>
+<p><strong>B.</strong> <em>Correct.</em> Correcting attributes and relationships maintains accurate, usable design information.</p>
+<p><strong>C.</strong> <em>Incorrect.</em> No evidence justifies discarding a valid diagram.</p>
+<p><strong>D.</strong> <em>Incorrect.</em> Follow the agreed maintenance permissions; the scenario does not require fresh sponsor approval.</p>
 <p><strong>Reasoning (two-step).</strong> First distinguish a valid design with stale attributes from a request to change its capability. Then apply the agreed maintenance and access rules to correct the information and relationships.</p>
 <p><strong>Source detail:</strong> BABOK §3.4; BABOK §5.2</p>
 <p><strong>Review:</strong> <a href="#as-6-4">A.S. 6.4</a></p>
@@ -732,7 +732,7 @@
 <li>A. A solution component without a requirement, so the analyst should remove the orphaned component.</li>
 <li>B. A passed validation, so the analyst should mark the requirement complete.</li>
 <li>C. A verification issue, so the analyst should rewrite the requirement more clearly.</li>
-<li>D. An unaddressed requirement, so the analyst should record the gap and raise it for review.</li>
+<li>D. An unaddressed requirement, so the analyst should record the gap and raise it.</li>
 </ul>
 <h3 id="c6-q02">C6-Q02</h3>
 <p><strong>A.S.:</strong> 6.1</p>
@@ -748,9 +748,9 @@
 <p>While comparing solution options, a team records four limits: (1) the solution must encrypt all stored health data; (2) the rollout must be finished within four months; (3) the solution must run on the hospital’s existing identity-provider; (4) only one integration developer is available. Which limits are design constraints?</p>
 <ul>
 <li>A. (2) and (4), because both restrict the project’s schedule and resources.</li>
-<li>B. (1) and (3), because both define what must be true about the solution itself.</li>
+<li>B. (1) and (3), because both restrict what the solution itself can be.</li>
 <li>C. (1), (2), and (3), because anything mandatory shapes the design.</li>
-<li>D. All four, because every constraint affects the solution that gets built.</li>
+<li>D. (1), (2), (3), and (4), because each constraint affects the solution that gets built.</li>
 </ul>
 <h3 id="c6-q04">C6-Q04</h3>
 <p><strong>A.S.:</strong> 6.2</p>
@@ -776,7 +776,7 @@
 <ul>
 <li>A. Define Requirements Architecture, organizing related requirements and identifying gaps.</li>
 <li>B. Solution architecture, because the team needs the technical components and their interactions designed.</li>
-<li>C. Trace Requirements and Designs, because each requirement must be linked to a test case.</li>
+<li>C. Trace Requirements, because each requirement must be linked to a test case.</li>
 <li>D. Assess Requirements Changes, because missing security requirements are a change request.</li>
 </ul>
 <h3 id="c6-q07">C6-Q07</h3>
@@ -785,7 +785,7 @@
 <ul>
 <li>A. Assess Requirements Changes, because the design information is being updated during implementation.</li>
 <li>B. Define Requirements Architecture, because the design must be fitted into a cohesive structure.</li>
-<li>C. Maintain Requirements and Designs, because existing design information and its attributes must be kept accurate and current.</li>
+<li>C. Maintain Requirements, because existing design information and its attributes must be kept accurate and current.</li>
 <li>D. Define Design Options, because the design needs to be re-evaluated before it can be corrected.</li>
 </ul>
 </article><nav class="page-turn" aria-label="Chapter navigation"><a href="chapter-5.html"><small>Previous</small>Chapter 5 — Need</a><a href="chapter-7.html"><small>Next</small>Chapter 7 — Stakeholder</a></nav><footer>© Kadir Çamoğlu · <a href="copyright.html">CC BY-NC 4.0 & notices</a> · Independent, unofficial study aid.<br>Check the <a href="official-resources.html">current official IIBA information</a> before your exam.</footer></main></div></body></html>
