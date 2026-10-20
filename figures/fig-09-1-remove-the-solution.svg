@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 530" width="960" height="530" role="img" aria-labelledby="title desc">
+<title id="title">The remove-the-solution test</title>
+<desc id="desc">Author teaching diagram. Read the companion table for the full meaning.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#172b3a"/></marker></defs>
+<rect x="0" y="0" width="960" height="530" fill="#ffffff"/>
+<text x="36" y="48" font-size="28" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">The remove-the-solution test</text>
+<rect x="36" y="90" width="888" height="90" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="125" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Imagine removing the solution</text>
+<text x="60" y="162" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Does the barrier remain?</text>
+<path d="M 350 190 L 250 260" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 610 190 L 710 260" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="225" y="238" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="middle">YES</text>
+<text x="735" y="238" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="middle">NO</text>
+<rect x="36" y="270" width="426" height="122" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="305" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Enterprise limitation</text>
+<text x="60" y="342" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Around the solution</text>
+<text x="60" y="374" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Policy · culture · approval rule</text>
+<rect x="498" y="270" width="426" height="122" rx="10" fill="#fff4e5" stroke="#a65300" stroke-width="2"/>
+<text x="522" y="305" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Solution limitation</text>
+<text x="522" y="342" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Inside the solution</text>
+<text x="522" y="374" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Defect · missing feature</text>
+<text x="480" y="490" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="middle">Classify the barrier using the scenario facts.</text>
+</svg>

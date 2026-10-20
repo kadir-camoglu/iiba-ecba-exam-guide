@@ -1,0 +1,638 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light dark"><meta name="description" content="A freely shared, independent study guide for IIBA ECBA. Concepts, worked examples and practice questions with explanations."><title>Chapter 3 — Implementing Business Analysis · IIBA® ECBA™ Exam Guide</title><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/site.css"><script src="assets/site.js" defer></script></head>
+<body><a class="skip" href="#reading">Skip to content</a>
+<header class="topbar"><a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">BA</span><span>IIBA® ECBA™ Exam Guide<small>Free study guide · Kadir Çamoğlu</small></span></a><div class="tools"><button type="button" id="theme" aria-label="Change colour theme">Theme</button><button type="button" id="menu" aria-controls="book-nav" aria-expanded="false">Contents</button></div></header>
+<div class="draft" role="note"><strong>Public draft · 2026-10.</strong> Independent review is pending. <a href="mailto:kadir.camoglu@gmail.com">Send feedback</a>.</div>
+<div class="layout"><nav class="sidebar" id="book-nav" aria-label="Book contents"><label for="nav-search">Find a chapter or reference</label><input id="nav-search" type="search" placeholder="Filter contents…" autocomplete="off"><p id="nav-empty" hidden>No matching sections.</p><section class="nav-group"><h2>Start here</h2><ul><li><a href="index.html">Guide overview</a></li><li><a href="copyright.html">Copyright and notices</a></li><li><a href="introduction.html">Introduction</a></li><li><a href="objective-map.html">Objective Map</a></li></ul></section><section class="nav-group"><h2>Chapters</h2><ul><li><a href="chapter-0.html">Chapter 0 — ECBA Exam Onboarding</a></li><li><a href="chapter-1.html">Chapter 1 — Understanding Business Analysis</a></li><li><a href="chapter-2.html">Chapter 2 — Mindset for Effective Business Analysis</a></li><li><a aria-current="page" href="chapter-3.html">Chapter 3 — Implementing Business Analysis</a></li><li><a href="chapter-4.html">Chapter 4 — Change</a></li><li><a href="chapter-5.html">Chapter 5 — Need</a></li><li><a href="chapter-6.html">Chapter 6 — Solution</a></li><li><a href="chapter-7.html">Chapter 7 — Stakeholder</a></li><li><a href="chapter-8.html">Chapter 8 — Value</a></li><li><a href="chapter-9.html">Chapter 9 — Context</a></li><li><a href="chapter-10.html">Chapter 10 — Practice Exam</a></li></ul></section><section class="nav-group"><h2>Reference & answers</h2><ul><li><a href="practice-answers.html">Practice Answers and Rationale</a></li><li><a href="exam-answers.html">Practice Exam Answers and Rationale</a></li><li><a href="baccm.html">BACCM Quick Reference</a></li><li><a href="techniques.html">Appendix A — Techniques</a></li><li><a href="competencies.html">Appendix B — Competencies</a></li><li><a href="concept-pairs.html">Appendix C — Concept Pairs</a></li><li><a href="glossary.html">Glossary</a></li><li><a href="official-resources.html">Official Resources</a></li></ul></section><div class="nav-extras"><a href="all.html">Complete guide on one page</a><a href="book.md">Read as Markdown</a></div></nav>
+<main id="reading" tabindex="-1"><div class="reading-label">Chapters</div><details class="on-page"><summary>On this page</summary><ul><li><a href="#p-ch3-3-0-domain-snapshot">3.0 — Domain Snapshot</a></li><li><a href="#as-3-1">3.1 — A.S. 3.1: Roles and Delivery Models</a></li><li><a href="#as-3-2">3.2 — A.S. 3.2: Choosing an Approach</a></li><li><a href="#as-3-3">3.3 — A.S. 3.3: Organizational Considerations</a></li><li><a href="#as-3-4">3.4 — A.S. 3.4: Requirements vs. Designs</a></li><li><a href="#p-ch3-chapter-3-summary">Chapter 3 — Summary</a></li><li><a href="#p-ch3-chapter-3-exam-essentials">Chapter 3 — Exam Essentials</a></li><li><a href="#p-ch3-chapter-3-practice-questions">Chapter 3 — Practice Questions</a></li></ul></details><article><h1 id="ch3">Chapter 3 — Implementing Business Analysis</h1>
+<h2 id="p-ch3-3-0-domain-snapshot">3.0 — Domain Snapshot</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Blueprint weight</td>
+<td>6% — the smallest domain</td>
+</tr>
+<tr>
+<td>Questions per ECBA exam</td>
+<td>3 out of 50</td>
+</tr>
+<tr>
+<td>Source</td>
+<td>The Business Analysis Standard (2025), Ch. 4 — Implementing Business Analysis</td>
+</tr>
+<tr>
+<td>Activity Statements</td>
+<td>3.1, 3.2, 3.3, 3.4</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>A.S.</th>
+<th>Full Activity Statement</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>3.1</td>
+<td>Identify roles that perform business analysis and describe how responsibilities vary across contexts.</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>Compare business analysis approaches and explain how to choose an approach based on the situation.</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>Identify organizational considerations that influence your work and explain their potential impact.</td>
+</tr>
+<tr>
+<td>3.4</td>
+<td>Describe the difference between requirements and designs and explain how they evolve throughout the initiative.</td>
+</tr>
+</tbody></table>
+<p>Domain 3 is about how business analysis is put into practice. It covers who performs it, how the work is approached, what organizational factors shape it, and how requirements and designs evolve together. It is the smallest ECBA domain. However, it carries a distinction, which is requirement versus design, that recurs throughout Domains 4 to 9, so the points you learn here pay off well beyond their three questions.</p>
+<blockquote>
+<p>💡 <strong>Exam Tips — Domain 3</strong></p>
+<ul>
+<li>The 6% domain weight corresponds to about three of fifty questions. Study all four activity statements; the blueprint does not promise a question for each on every exam.</li>
+<li>Practice telling related concepts apart by their purpose and behavior, such as CoE versus CoP, predictive versus adaptive, and requirement versus design.</li>
+<li>For organizational considerations, such as security, ethics, inclusion, and sustainability, the entry-level business analyst recognizes and raises the issue, rather than deciding it alone. Check whether the scenario assigns the business analyst sole decision authority before choosing such an option.</li>
+<li>Explain the requirement-versus-design distinction here, then use it when reviewing later chapters.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="as-3-1">3.1 — A.S. 3.1: Roles and Delivery Models</h2>
+<p><strong>Activity Statement 3.1:</strong> “Identify roles that perform business analysis and describe how responsibilities vary across contexts.”</p>
+<p><strong>Reference Map:</strong> Standard ch.4</p>
+<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-business-analysis-as-a-service-baas">Business Analysis as a Service (BAaS)</a>, <a href="glossary.html#gl-business-analysis-competency-model">Business Analysis Competency Model</a>, <a href="glossary.html#gl-centre-of-excellence-coe">Centre of Excellence (CoE)</a>, <a href="glossary.html#gl-community-of-practice-cop">Community of Practice (CoP)</a>, <a href="glossary.html#gl-dispersed-delivery-dispersed-across-business-units">Dispersed delivery (dispersed across business units)</a>.</p>
+<p><em>Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.</em></p>
+<p><strong>What this means.</strong> Two ideas sit inside this statement. First, business analysis is role-agnostic, because it is not tied to the job title “business analyst.” Second, how the work is organized, and who is responsible for what, varies with the context, because the same analysis activity can sit in a central team, an informal network, an outside provider, or inside a department. You should be able to identify business analysis work across these arrangements, and recognize how responsibilities shift between them.</p>
+<p><strong>How it is tested.</strong> Practice matching descriptions to the four delivery models, including the distinction between Centre of Excellence and Community of Practice, and explaining which arrangement fits an organization’s stated goal, such as standards and consistency, peer learning, outside capacity, or embedding analysis in the business. The role-agnostic point from <a href="chapter-1.html#ch1">Chapter 1</a> is assumed here, because Domain 3 tests it at the implementation level.</p>
+<h3 id="p-ch3-who-performs-business-analysis-revisited-at-implementation-level">Who Performs Business Analysis — Revisited at Implementation Level</h3>
+<p><a href="chapter-1.html#as-1-1">Chapter 1, in section 1.1</a>, established that anyone applying business analysis concepts, practices, and tasks may be doing business analysis, whatever their title. Domain 3 takes the next step. The work has to be organized somewhere, and the way an enterprise organizes it changes who is responsible for which part. A titled analyst in a central team, a product owner in a department, and a consultant from an outside firm may all perform business analysis. However, their responsibilities, autonomy, and standards differ, because their context differs.</p>
+<p>The Business Analysis Competency Model is worth recognizing here. It is a research and reference guide for developing business analysis skills, available to anyone who performs the work, regardless of title, in order to build the competencies an organization needs. It is not the ECBA blueprint, and it is not a certification syllabus, so do not let a distractor describe it as one. For the exam, that is all you need: recognize what it is and what it is not. There is no separate list inside it to memorize, so it is not a rabbit hole.</p>
+<h3 id="p-ch3-the-four-delivery-models">The Four Delivery Models</h3>
+<p>You met these four models in <a href="chapter-1.html#as-1-1">section 1.1</a> as part of recognizing business analysis broadly. Here, they are tested as the implementation arrangements that an organization actually uses. For that reason, the table below adds what each one is for, and the governance it carries, with a decision cue in the third column, rather than re-teaching the definitions.</p>
+<table>
+<thead>
+<tr>
+<th>Delivery model</th>
+<th>How the organization arranges BA capability</th>
+<th>An organization leans toward it when…</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Centre of Excellence (CoE)</td>
+<td>A dedicated internal unit that owns standards, templates, methods, and quality — often with a governance role.</td>
+<td>it needs <strong>consistency and quality</strong> across many initiatives.</td>
+</tr>
+<tr>
+<td>Community of Practice (CoP)</td>
+<td>An informal, voluntary network where practitioners share experience and good practices; no authority to set rules.</td>
+<td>it wants <strong>peer learning and shared practice</strong>, not a formal standards body.</td>
+</tr>
+<tr>
+<td>Business Analysis as a Service (BAaS)</td>
+<td>BA work is bought from an outside provider.</td>
+<td>it needs <strong>external capability or flexible capacity</strong> it does not hold in-house.</td>
+</tr>
+<tr>
+<td>Dispersed across business units</td>
+<td>BA work is embedded inside each department, with no central home.</td>
+<td>it wants analysis <strong>close to local business areas</strong>, integrated where the work happens.</td>
+</tr>
+</tbody></table>
+<p>These models are not mutually exclusive. A single organization may run a CoE for standards, a CoP for sharing lessons, and dispersed practitioners inside product and operations teams at the same time. An exam scenario that names standards and a dedicated unit points to a CoE, even if other arrangements coexist.</p>
+<blockquote>
+<p>⚠️ <strong>Exam Trap — CoE versus CoP.</strong> The defining act, from <a href="chapter-1.html#as-1-1">section 1.1</a>, still holds at the implementation level: the CoE sets the standard, while the CoP shares the practice. The implementation twist to watch is that a question describing a central, standards-owning unit may try to draw you toward “dispersed.” Anchor on who has the authority to set rules, because only the CoE does.</p>
+</blockquote>
+<blockquote>
+<p><strong>In Practice — the same job, two different shapes.</strong> An analyst moves from a company where a Centre of Excellence owns every template and reviews her work against published standards, to a company where business analysis is dispersed. She now sits inside the operations team, with no central rulebook and far more latitude to decide how to document things locally. Her skills are identical, but her responsibilities are not. In the first context she applies standards that others set, while in the second she shapes the approach herself, under her manager’s direction. That shift, which is the same work but different responsibilities because the context differs, is exactly what A.S. 3.1 is pointing at.</p>
+</blockquote>
+<h3 id="p-ch3-exam-focus-a-s-3-1">Exam Focus — A.S. 3.1</h3>
+<p><strong>Traps.</strong> Check three distinctions here. The first is CoE versus CoP, a distinction where the CoE owns standards, quality, and governance, while the CoP is voluntary sharing. The second is BAaS versus CoE, because both can supply expert business analysis capability, but BAaS is external or outsourced, while the CoE is an internal unit. The third is treating the Business Analysis Competency Model as a certification guide, when it is a research and reference guide for skill development, and not a syllabus.</p>
+<p><strong>How questions are framed.</strong> Expect three shapes. The first asks “Which delivery model best fits?”, where the stated goal, which may be consistency, peer learning, outside capacity, or local embedding, points to one model. The second is a CoE-versus-CoP description swap. The third is a “responsibilities vary across contexts” angle, where the same analysis work carries different authority depending on how the organization is arranged. The keyed answer matches the model to the goal in the scenario, and not to whichever sounds most prestigious.</p>
+<h4 id="c3-el01">Exam Lens C3-EL01</h4>
+<p><strong>A.S.:</strong> 3.1</p>
+<p><strong>Stem.</strong> An insurer has skilled analysts scattered across claims, underwriting, and IT, but each group uses different templates and quality bars, and reviews are inconsistent. Leadership wants one internal group to publish shared standards, maintain templates, and check the quality of analysis across initiatives. Which delivery model BEST fits?</p>
+<p><strong>Options.</strong></p>
+<ul>
+<li>A. Community of Practice, because the analysts can meet to compare templates and learn from each other.</li>
+<li>B. Business Analysis as a Service, because an outside provider can impose consistent standards.</li>
+<li>C. Centre of Excellence, because a dedicated internal unit can own standards, templates, and quality across initiatives.</li>
+<li>D. Dispersed across business units, because each department can keep refining its own templates locally.</li>
+</ul>
+<details class="answer" id="c3-el01-answer"><summary>C3-EL01 — Show answer and explanation</summary><div class="answer-body"><h5>C3-EL01 — Answer: C</h5>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Answer</th>
+<th>Domain</th>
+<th>A.S.</th>
+<th>Type</th>
+<th>Difficulty</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>C3-EL01</td>
+<td>C</td>
+<td>3</td>
+<td>3.1</td>
+<td>situation</td>
+<td>medium</td>
+<td>Standard §4.6</td>
+</tr>
+</tbody></table>
+<p><strong>A.</strong> A peer-sharing community alone does not meet the requested dedicated standards function.</p>
+<p><strong>B.</strong> No external provider is requested.</p>
+<p><strong>C.</strong> A dedicated internal standards and quality function fits a Centre of Excellence.</p>
+<p><strong>D.</strong> Keeping separate local practices does not meet the request for shared standards.</p>
+<p><strong>Reasoning (two-step).</strong> In Step 1, you eliminate the clearly wrong options. Option B introduces an outside provider that the scenario never asks for, and option D keeps the very inconsistency that leadership wants to fix. That leaves options A and C. In Step 2, you apply the defining-act filter. The goal is to set and maintain shared standards and check quality, which is a capability function with authority, in other words a CoE. A CoP can compare and share, but it has no mandate to publish standards that others must follow. Option C fits.</p>
+<p><strong>Source detail:</strong> Standard §4.6</p>
+<p><strong>Review:</strong> <a href="#as-3-1">A.S. 3.1</a></p>
+</div></details>
+<h2 id="as-3-2">3.2 — A.S. 3.2: Choosing an Approach</h2>
+<p><strong>Activity Statement 3.2:</strong> “Compare business analysis approaches and explain how to choose an approach based on the situation.”</p>
+<p><strong>Reference Map:</strong> Standard ch.4</p>
+<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-adaptive-approach">Adaptive approach</a>, <a href="glossary.html#gl-approach">Approach</a>, <a href="glossary.html#gl-backlog">Backlog</a>, <a href="glossary.html#gl-hybrid-approach">Hybrid approach</a>, <a href="glossary.html#gl-just-enough-just-in-time">Just enough, just in time</a>, <a href="glossary.html#gl-predictive-approach">Predictive approach</a>.</p>
+<p><em>Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.</em></p>
+<p><strong>What this means.</strong> An approach is how business analysis work is performed in a given situation. You should be able to compare the three approaches, which are predictive, adaptive, and hybrid, and explain why a particular situation calls for one rather than another. Choosing an approach is meant to be intentional, and driven by the context: how well-defined the work is, how regulated it is, and how much uncertainty it carries.</p>
+<p><strong>How it is tested.</strong> Expect a scenario that describes the character of the work, which may be defined and regulated, or uncertain and feedback-driven, or a mix within one initiative, and asks which approach fits. A mistake to check for is reading “adaptive” as “no documentation.” A second angle tests scope: at the entry level the business analyst does not always choose the approach, because it can be imposed, but the business analyst can support a fitting choice when asked.</p>
+<h3 id="p-ch3-comparing-the-three-approaches">Comparing the Three Approaches</h3>
+<table>
+<thead>
+<tr>
+<th>Approach</th>
+<th>Core idea</th>
+<th>Documentation</th>
+<th>Best fit when the work is…</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Predictive</td>
+<td>Start with a plan; identify the information needed up front, then work the plan and track against it.</td>
+<td>More formal and up front: scope, requirements, design documents, baselines, test plans.</td>
+<td>well-defined, heavily regulated, relatively straightforward, or suitable for sequential completion; weigh the whole context.</td>
+</tr>
+<tr>
+<td>Adaptive</td>
+<td>Deliver value in small, prioritized increments; share with stakeholders, learn from feedback, and adapt.</td>
+<td><strong>Just enough, just in time</strong> — right-sized for the current increment, not eliminated.</td>
+<td>facing complex or poorly defined needs, uncertainty, and requirements that emerge as you go.</td>
+</tr>
+<tr>
+<td>Hybrid</td>
+<td>Use predictive and adaptive together — across initiatives, or within parts of one initiative.</td>
+<td>Mixed, matched to whichever part uses which approach.</td>
+<td>different parts of the situation genuinely need different approaches.</td>
+</tr>
+</tbody></table>
+<p>Hybrid is not “the average” of the other two, and it is not a polite default for “we are not sure.” It means using what works best for each part. Consider an example of one initiative with two kinds of work. For example, a fixed regulatory component is handled predictively, alongside a new user experience that is refined through feedback. A hybrid approach fits this example because it deliberately combines predictive and adaptive work.</p>
+<p>The threshold that separates “adaptive” from “hybrid” trips people up, so use the cue in <a href="#fig-3-1">Figure 3.1</a>.</p>
+<h3 id="fig-3-1">Figure 3.1 — Choosing predictive, adaptive, or hybrid</h3>
+<p><figure><img src="figures/fig-03-1-approach-decision-tree.svg" alt="Figure 3.1 — Choosing predictive, adaptive, or hybrid. Begin with context and governance, including any imposed approach. The next box branches to three contextual cues: fixed and sequential work suggests predictive, uncertainty and feedback suggest adaptive, and mixed kinds of work suggest hybrid." loading="lazy" decoding="async"><figcaption>Figure 3.1 — Choosing predictive, adaptive, or hybrid.</figcaption></figure></p>
+<table>
+<thead>
+<tr>
+<th>Condition</th>
+<th>Approach</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Core requirements all fixed; regulated and sequential</td>
+<td>Predictive</td>
+</tr>
+<tr>
+<td>The whole thing is uncertain and feedback-driven</td>
+<td>Adaptive</td>
+</tr>
+<tr>
+<td>Some parts fixed, others genuinely uncertain</td>
+<td>Hybrid (two different kinds of work in one initiative)</td>
+</tr>
+</tbody></table>
+<p>Adaptive work, when it needs to record and prioritize the remaining items, often does so through a managed backlog, which is a prioritized, evolving list of work that the team draws from increment by increment. Use <a href="techniques.html#p-04-appendix-a-techniques-appendix-a-ecba-techniques-quick-reference">Appendix A</a> for Backlog Management purpose and usage considerations. Recognize that “prioritized, emerging, iteration-by-iteration work” signals an adaptive setting, and not a predictive one.</p>
+<blockquote>
+<p>⚠️ <strong>Exam Trap — “Adaptive means no documentation.”</strong> Adaptive approaches use just-enough, just-in-time documentation. They change when and how much you document, and not whether you document at all. The claim that “the team is adaptive, so requirements do not need to be written down” is wrong. Right-sized is not zero.</p>
+</blockquote>
+<blockquote>
+<p>💡 <strong>Exam Tip — A.S. 3.2.</strong> Predictive is not “old,” and adaptive is not “better.” The exam never rewards a fashion judgment. It rewards matching the approach to the situation. Regulated, known, and sequential work points to predictive. Uncertain, emerging, and feedback-driven work points to adaptive. Two kinds of work in one initiative point to hybrid.</p>
+</blockquote>
+<blockquote>
+<p><strong>In Practice — working within an imposed approach.</strong> A bank requires baselined requirements and formal reviews for a regulated change. The analyst follows that governance while identifying where feedback or prototypes can help. Standard §4.2 allows an approach to be imposed; where practitioners can choose, they select an approach that fits the context. Entry-level status alone does not remove that choice.</p>
+</blockquote>
+<h3 id="p-ch3-exam-focus-a-s-3-2">Exam Focus — A.S. 3.2</h3>
+<p><strong>Traps.</strong> Check three distinctions here. The first is that adaptive equals no documentation, when it is just-enough and just-in-time, rather than none. The second is using hybrid as a hedge, when hybrid fits only when parts of the work genuinely differ, and is not a safe default. The third is treating predictive as outdated and adaptive as modern, when both are valid and the context decides.</p>
+<p><strong>How questions are framed.</strong> Expect four shapes. The first is a single-character scenario, which is regulated and sequential, or uncertain and emerging, keyed to predictive or adaptive. The second is a two-part initiative keyed to hybrid, with single-approach options as near-misses. The third is an “adaptive, therefore skip the documents” claim, where the keyed answer restores just-enough documentation. The fourth, occasionally, is a scope angle where the approach is imposed and the role of the business analyst is to support, rather than to override.</p>
+<h4 id="c3-el02">Exam Lens C3-EL02</h4>
+<p><strong>A.S.:</strong> 3.2</p>
+<p><strong>Stem.</strong> A government agency must replace the form citizens use to renew a license. The legal rules are already fixed, the required fields are known, and the change must pass a defined sequence of formal reviews before release. Which approach is MOST appropriate?</p>
+<p><strong>Options.</strong></p>
+<ul>
+<li>A. Adaptive, because building in increments lets the team learn the legal rules as it goes.</li>
+<li>B. Predictive, because the work is well-defined, regulated, and can be completed sequentially.</li>
+<li>C. Hybrid, because any government initiative should blend predictive and adaptive work.</li>
+<li>D. Adaptive, because regulated work benefits most from reducing documentation.</li>
+</ul>
+<details class="answer" id="c3-el02-answer"><summary>C3-EL02 — Show answer and explanation</summary><div class="answer-body"><h5>C3-EL02 — Answer: B</h5>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Answer</th>
+<th>Domain</th>
+<th>A.S.</th>
+<th>Type</th>
+<th>Difficulty</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>C3-EL02</td>
+<td>B</td>
+<td>3</td>
+<td>3.2</td>
+<td>situation</td>
+<td>medium</td>
+<td>Standard §4.2</td>
+</tr>
+</tbody></table>
+<p><strong>A.</strong> The stated rules are already known; discovering them iteratively is not the identified need.</p>
+<p><strong>B.</strong> Known work and a defined sequential review route support a predictive approach here.</p>
+<p><strong>C.</strong> Government work does not automatically require a hybrid approach.</p>
+<p><strong>D.</strong> Reducing documentation does not address the stated review obligations.</p>
+<p><strong>Reasoning (two-step).</strong> First identify the known rules, fields, and mandatory sequential reviews. Then compare the approaches against those facts. Predictive fits this work; neither public-sector status nor regulation alone dictates an approach.</p>
+<p><strong>Source detail:</strong> Standard §4.2</p>
+<p><strong>Review:</strong> <a href="#as-3-2">A.S. 3.2</a></p>
+</div></details>
+<h2 id="as-3-3">3.3 — A.S. 3.3: Organizational Considerations</h2>
+<p><strong>Activity Statement 3.3:</strong> “Identify organizational considerations that influence your work and explain their potential impact.”</p>
+<p><strong>Reference Map:</strong> Standard ch.4</p>
+<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-ethical-analysis">Ethical Analysis</a>, <a href="glossary.html#gl-inclusion-and-representation">Inclusion and Representation</a>, <a href="glossary.html#gl-organizational-considerations">Organizational considerations</a>, <a href="glossary.html#gl-security-integration">Security Integration</a>, <a href="glossary.html#gl-sustainability-practices">Sustainability Practices</a>.</p>
+<p><em>Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.</em></p>
+<p><strong>What this means.</strong> Certain organization-wide considerations shape how analysis work should be done, beyond the immediate need. They are security, ethics, inclusion, and sustainability. You should be able to recognize which consideration a scenario raises, and explain how it affects the work. Most importantly, you should know what the entry-level business analyst does about it.</p>
+<p><strong>How it is tested.</strong> These come as recognition scenarios. A situation surfaces one of the four considerations and asks which it is, or what the business analyst should do. Check for an option that makes the business analyst the sole decision-maker, for example approving an ethics call, designing the security solution, or deciding whose voice counts. At the ECBA level, the business analyst recognizes the consideration, raises it with the right stakeholders, brings in the right expertise, and supports an informed decision. The business analyst does not decide alone.</p>
+<h3 id="p-ch3-the-four-considerations">The Four Considerations</h3>
+<table>
+<thead>
+<tr>
+<th>Consideration</th>
+<th>What it means in analysis</th>
+<th>Scenario signal</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Security Integration</td>
+<td>Security belongs in analysis, not only after build; the BA flags risks and brings in security expertise when needed.</td>
+<td>Access rights, payment or health data, sensitive records, account recovery — and the security people are missing from the discussion.</td>
+</tr>
+<tr>
+<td>Ethical Analysis</td>
+<td>The work should be <em>right and fair</em>, not merely legal or fast — especially where automated systems or AI affect people.</td>
+<td>A “best” or most profitable option may disadvantage a group, misuse data, or produce an unfair automated outcome.</td>
+</tr>
+<tr>
+<td>Inclusion and Representation</td>
+<td>More than ticking a representation box: diverse perspectives are actively sought and amplified so they actually shape decisions.</td>
+<td>One token representative attended once, but affected groups have no voice in the ongoing decisions.</td>
+</tr>
+<tr>
+<td>Sustainability Practices</td>
+<td>Weigh current needs against future resources — environmental, social-equity, health, and economic viability.</td>
+<td>A cheaper or faster option creates waste, inequity, health concerns, or long-term cost.</td>
+</tr>
+</tbody></table>
+<p>There are two quick anchors for the abstract pair. First, inclusion is not satisfied by a token representative who attends once but never shapes the ongoing decisions, because representation happened but inclusion did not. Second, sustainability is not only “environmental,” because it covers long-term viability, social equity, and health, so a cheap disposable part can lose on lifetime cost and waste. In both cases, the business analyst raises the trade-off for the stakeholders who own the decision.</p>
+<blockquote>
+<p>⚠️ <strong>Exam Trap — check who owns the decision.</strong> Recognize security, ethical, inclusion, and sustainability concerns and make their implications visible. Use the responsibilities and governance in the scenario to identify who may decide or approve. Neither ignoring a concern nor assuming authority assigned to someone else is justified by being proactive.</p>
+</blockquote>
+<blockquote>
+<p><strong>In Practice — “we will secure it later.”</strong> A small team is designing a portal that will hold customer payment details. The plan is moving fast, and someone suggests locking the access rules now and letting IT “add the security afterwards.” The analyst, working under direction, does not try to design the protections himself, and does not stop the project, because neither is his call. What he does is name the gap: sensitive data is in scope, no security specialist is in the room, and security needs to be part of the analysis now, rather than bolted on later.</p>
+</blockquote>
+<h3 id="p-ch3-exam-focus-a-s-3-3">Exam Focus — A.S. 3.3</h3>
+<p><strong>Traps.</strong> Several traps recur here. The first is the business analyst as the sole decider, when the business analyst raises and supports rather than approving, overriding, or designing alone. The second is treating ethics as legality only, when a legal and profitable option can still be unfair. The third is treating inclusion as mere representation. The fourth is deferring security to “later.”</p>
+<p><strong>How questions are framed.</strong> Expect three shapes. The first asks “Which consideration applies?”, as a recognition from a scenario signal. The second asks “What should the business analyst do first?”, where the keyed answer raises the concern and involves the right people, while the distractors either proceed regardless or unilaterally halt. The third is a “legal and profitable, so proceed” option that the ethical-analysis answer declines to rubber-stamp.</p>
+<h4 id="c3-el03">Exam Lens C3-EL03</h4>
+<p><strong>A.S.:</strong> 3.3</p>
+<p><strong>Stem.</strong> A retailer is designing dynamic pricing that adjusts prices by neighbourhood. Early analysis suggests the rule would charge higher prices in lower-income areas. The sponsor notes it is legal and would raise margins, and asks the analyst to write it into the requirements. Working under direction, what should the BA do FIRST?</p>
+<p><strong>Options.</strong></p>
+<ul>
+<li>A. Write the rule into the requirements, since it is legal and the sponsor has decided.</li>
+<li>B. Remove the rule on the BA’s own authority, because any fairness concern makes a feature unusable.</li>
+<li>C. Raise the fairness concern with the appropriate stakeholders and support an analysis of the impact before the rule is accepted.</li>
+<li>D. Quietly soften the rule in the requirements so the disparity is less visible.</li>
+</ul>
+<details class="answer" id="c3-el03-answer"><summary>C3-EL03 — Show answer and explanation</summary><div class="answer-body"><h5>C3-EL03 — Answer: C</h5>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Answer</th>
+<th>Domain</th>
+<th>A.S.</th>
+<th>Type</th>
+<th>Difficulty</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>C3-EL03</td>
+<td>C</td>
+<td>3</td>
+<td>3.3</td>
+<td>situation</td>
+<td>medium</td>
+<td>Standard §4.5.2</td>
+</tr>
+</tbody></table>
+<p><strong>A.</strong> Legal compliance and margin alone do not resolve the fairness concern.</p>
+<p><strong>B.</strong> The scenario does not authorize the analyst to remove the rule independently.</p>
+<p><strong>C.</strong> Raising the concern supports informed ethical analysis before acceptance.</p>
+<p><strong>D.</strong> Concealing the disparity prevents an informed decision.</p>
+<p><strong>Reasoning (two-step).</strong> First separate legal compliance from ethical acceptability. Then compare unilateral removal with raising the concern for informed review. The assigned supporting role calls for the latter.</p>
+<p><strong>Source detail:</strong> Standard §4.5.2</p>
+<p><strong>Review:</strong> <a href="#as-3-3">A.S. 3.3</a></p>
+</div></details>
+<h2 id="as-3-4">3.4 — A.S. 3.4: Requirements vs. Designs</h2>
+<p><strong>Activity Statement 3.4:</strong> “Describe the difference between requirements and designs and explain how they evolve throughout the initiative.”</p>
+<p><strong>Reference Map:</strong> Standard ch.4</p>
+<p><strong><a href="glossary.html#p-07-glossary-glossary">Glossary</a>:</strong> <a href="glossary.html#gl-business-requirement">Business requirement</a>, <a href="glossary.html#gl-design">Design</a>, <a href="glossary.html#gl-design-idea">Design idea</a>, <a href="glossary.html#gl-evolve-together">Evolve together</a>, <a href="glossary.html#gl-functional-requirement">Functional requirement</a>, <a href="glossary.html#gl-non-functional-requirement">Non-functional requirement</a>, <a href="glossary.html#gl-requirement">Requirement</a>, <a href="glossary.html#gl-stakeholder-requirement">Stakeholder requirement</a>, <a href="glossary.html#gl-traceability">Traceability</a>, <a href="glossary.html#gl-transition-requirement">Transition requirement</a>.</p>
+<p><em>Activity statement: IIBA ECBA Exam Blueprint V1.1; source mapping: ECBA Reference Map.</em></p>
+<p><strong>What this means.</strong> A requirement is a usable representation of a need, while a design is a usable representation of a solution. The difference is purpose, and not format, because the same diagram or document can be either. You should be able to tell them apart, recognize the main requirement types, and explain that requirements and designs evolve together, rather than in a fixed sequence.</p>
+<p><strong>How it is tested.</strong> Expect classification questions, which ask “Is this a requirement or a design?” or “Which requirement type is this?”, and judgment scenarios where a stakeholder hands the business analyst a solution-shaped request. The trap is classifying by format, where a mock-up “must” be a design, or by who said it, where the sponsor said it, so it “must” be a business requirement. The keyed answer classifies by what the thing represents, which is a need or a solution.</p>
+<h3 id="p-ch3-the-distinction-purpose-not-format">The Distinction: Purpose, Not Format</h3>
+<p>This is the most important idea in the chapter, and the figure below is the one to carry into the exam.</p>
+<h3 id="fig-3-2">Figure 3.2 — Requirement versus design (purpose decides which)</h3>
+<p><figure><img src="figures/fig-03-2-requirements-designs.svg" alt="Figure 3.2 — Requirement versus design (purpose decides which). Three boxes distinguish purpose. A requirement represents a need and possible value; a design represents a solution and how value might be realized. The final box explains that the same artifact can serve either purpose and that traceability links both." loading="lazy" decoding="async"><figcaption>Figure 3.2 — Requirement versus design (purpose decides which).</figcaption></figure></p>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>What it represents</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Requirement</td>
+<td>a need — what value could be delivered if it were fulfilled</td>
+</tr>
+<tr>
+<td>Design</td>
+<td>a solution — how value might be realized if it were built</td>
+</tr>
+<tr>
+<td>Key point</td>
+<td>the same artifact can be either; purpose decides; the two evolve together; traceability links the chain both ways</td>
+</tr>
+</tbody></table>
+<p>A <strong>future-state process model</strong> makes the point concrete. If it expresses <em>what the business needs the process to achieve</em>, it is functioning as a requirement; if it shows <em>how a chosen solution would work</em>, it is functioning as a design. Same model, classified by purpose. So when a question hands you a diagram, a mock-up, or a workflow, do not ask “what format is this?” — ask “does it represent a need, or a solution?”</p>
+<blockquote>
+<p>⚠️ <strong>Exam Trap — requirement versus design.</strong> A requirement represents a need, which is what value could be delivered if it were fulfilled. A design represents a solution, which is how value might be realized if it were built. The same artifact, whether a process model, a screen, or a document, can be either. Purpose distinguishes them, and not the notation, the tool, or who produced it.</p>
+</blockquote>
+<h3 id="p-ch3-the-five-requirement-types">The Five Requirement Types</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement type</th>
+<th>What it is</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Business requirement</td>
+<td>A goal, objective, or outcome — <em>why</em> the change is being made.</td>
+<td>“Cut order-fulfillment time by 20%.”</td>
+</tr>
+<tr>
+<td>Stakeholder requirement</td>
+<td>What a stakeholder group needs from the solution; bridges business and solution requirements.</td>
+<td>“Warehouse supervisors need visibility into delayed picking tasks.”</td>
+</tr>
+<tr>
+<td>Solution requirement — functional</td>
+<td>A capability the solution must have — behavior or information it handles.</td>
+<td>“The system displays delayed orders by warehouse zone.”</td>
+</tr>
+<tr>
+<td>Solution requirement — non-functional</td>
+<td>A <em>quality or condition</em> the solution must meet — not what it does, but how well.</td>
+<td>“The dashboard loads within three seconds.”</td>
+</tr>
+<tr>
+<td>Transition requirement</td>
+<td>A <em>temporary</em> capability needed only to move from the current to the future state.</td>
+<td>“Train warehouse staff before the new dashboard goes live.”</td>
+</tr>
+</tbody></table>
+<p>Beginners blur these five types, so fix the pairs that trip people up.</p>
+<table>
+<thead>
+<tr>
+<th>Easily confused</th>
+<th>How to tell them apart</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Business vs. stakeholder</td>
+<td>Business = the organization’s <em>why</em> (a strategic goal or outcome). Stakeholder = what a <em>specific group</em> needs from the solution to reach that goal. “Cut fulfillment time 20%” is the business goal; “supervisors need to see delayed tasks” is the stakeholder need that serves it.</td>
+</tr>
+<tr>
+<td>Stakeholder vs. functional</td>
+<td>Stakeholder states the <em>need</em> in the group’s terms (“supervisors need visibility into delays”); functional states the <em>capability</em> that meets it (“the system displays delayed orders by zone”). The stakeholder requirement is the bridge; the functional one is the solution behavior.</td>
+</tr>
+<tr>
+<td>Functional vs. non-functional</td>
+<td>Functional = what the solution <em>does</em> (a capability); non-functional = how <em>well</em> it must do it (speed, availability, security — a quality). A performance target like “within three seconds” is non-functional.</td>
+</tr>
+<tr>
+<td>Transition vs. everything else</td>
+<td>Transition requirements are <strong>temporary</strong> — they exist only to cross from old to new (data conversion, training, cutover) and then fall away. The exam signal is the giveaway: <strong>if the requirement is only needed during cutover and goes away after go-live, it is transition.</strong> If a need persists after go-live, it is not.</td>
+</tr>
+</tbody></table>
+<p>The clearest way to hold all five in mind is to watch one need flow through them, using the same scenario classified at each level.</p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>One scenario, five levels</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Business (<em>why</em>)</td>
+<td>“Reduce order-to-cash time by 30%.”</td>
+</tr>
+<tr>
+<td>Stakeholder (<em>who needs what</em>)</td>
+<td>“The credit team needs to see which approvals are pending and how long they have waited.”</td>
+</tr>
+<tr>
+<td>Functional (<em>what it does</em>)</td>
+<td>“The system displays a sorted list of pending approvals with customer tier and days waiting.”</td>
+</tr>
+<tr>
+<td>Non-functional (<em>how well</em>)</td>
+<td>“The list loads within two seconds and refreshes every minute.”</td>
+</tr>
+<tr>
+<td>Transition (<em>temporary</em>)</td>
+<td>“Credit-team members complete training on the new workflow before go-live.”</td>
+</tr>
+</tbody></table>
+<p>A memory hook for the order is this: why, then who needs what, then what it does, then how well, then temporary.</p>
+<blockquote>
+<p>💡 <strong>Exam Tip — A.S. 3.4.</strong> Non-functional requirements are still requirements, and not designs, because a quality the solution must have is a need about the solution, rather than a decision about how to build it. A “must respond in two seconds” target is the classic non-functional cue.</p>
+</blockquote>
+<p>A boundary worth keeping straight is this: a stakeholder requirement and a design idea can both come from a stakeholder, so you should classify by what they describe. If the stakeholder states the need or behavior they require, such as “supervisors need to see delayed tasks,” it is a requirement. If they dictate the layout, the mechanism, or the specific solution, such as “put these five fields in this order on this screen,” they have stepped into design, so you should treat it as a design idea and work back to the need.</p>
+<h3 id="p-ch3-requirements-and-designs-evolve-together">Requirements and Designs Evolve Together</h3>
+<p>Requirements and designs are interdependent and cyclical, rather than a one-way pipeline. Exploring a design can reveal a need that no one had stated, and a changed requirement can force a design to be revisited. So, when a stakeholder opens with a solution-shaped request, such as “build me a dashboard with exactly these columns,” the move is not to reject it, and not to record it as the requirement. It is to treat it as a design idea, and use it to surface the underlying need and the value behind it.</p>
+<p>Traceability keeps this chain honest. It tracks the relationships from the original need forward to the solution components, and backward from a component to the need it serves, in both directions. That is why a traceability model does something that a plain requirements list cannot. A list shows names, owners, and status, while traceability shows relationships, so it can expose a solution component that serves no stated need, or a need with nothing built to satisfy it. To make this concrete: if you trace forward from “supervisors need to see delays,” you should land on a built component that shows delays, and if you cannot, the need has nothing behind it. If you trace backward from a “weekly export” feature, you should land on a stated need, and if you cannot, you have found a component that no one asked for.</p>
+<blockquote>
+<p><strong>In Practice — the design that found a missing requirement.</strong> While sketching a future-state screen for a returns process, the analyst and a warehouse lead notice that the mock-up has nowhere to flag items returned damaged, and they realize that no one had ever stated that the business needs to separate damaged returns from resaleable ones. The design did not just propose a solution. Exploring it surfaced a requirement that had been invisible until then. That back-and-forth, where the design informs the requirement and the requirement reshapes the design, is what “evolve together” means in practice, and it is why a good business analyst treats an early design as a way to learn, rather than a contract to lock down.</p>
+</blockquote>
+<h3 id="p-ch3-exam-focus-a-s-3-4">Exam Focus — A.S. 3.4</h3>
+<p><strong>Traps.</strong> Several traps recur here. The first is classifying a requirement or a design by format, when you should classify by purpose, which is need versus solution, and not by notation, tool, or author. The second is business versus stakeholder, where the business requirement is the organization’s why, while the stakeholder requirement is what a specific group needs to reach it. The third is stakeholder versus functional, where the stakeholder need, such as “supervisors need to see delays,” differs from the capability that meets it, such as “the system displays delays by zone.” The fourth is treating a non-functional requirement as a design, when a quality the solution must have is still a requirement. The fifth is treating a transition requirement as permanent, when transition requirements are temporary and exist only for crossing to the future state. The sixth is treating a solution-shaped request as the requirement, when you should treat it as a design idea and explore the underlying need.</p>
+<p><strong>How questions are framed.</strong> Expect four shapes. The first asks “Is this a requirement or a design?”, where the artifact, such as a process model or a mock-up, could be either, and purpose decides. The second asks “Which requirement type?”, with functional, non-functional, and transition as the common confusions. The third is a stakeholder who states a design-shaped request, where the keyed answer uses it to explore the need. The fourth is a traceability angle, where bidirectional tracing exposes a gap that a flat list would hide.</p>
+<h4 id="c3-el04">Exam Lens C3-EL04</h4>
+<p><strong>A.S.:</strong> 3.4</p>
+<p><strong>Stem.</strong> A senior stakeholder tells the BA, “The new claims tool must open straight to a screen with these five fields in this exact order.” The BA has not yet clarified what the claims team is trying to achieve or what would count as success. How should the BA BEST interpret the statement?</p>
+<p><strong>Options.</strong></p>
+<ul>
+<li>A. As a business requirement, because it came from a senior stakeholder and states what the business wants.</li>
+<li>B. As a design idea, to be used as a starting point for exploring the underlying need and value.</li>
+<li>C. As a transition requirement, because the screen will help users move to the new tool.</li>
+<li>D. As a non-functional requirement, because it specifies how the interface must be laid out.</li>
+</ul>
+<details class="answer" id="c3-el04-answer"><summary>C3-EL04 — Show answer and explanation</summary><div class="answer-body"><h5>C3-EL04 — Answer: B</h5>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Answer</th>
+<th>Domain</th>
+<th>A.S.</th>
+<th>Type</th>
+<th>Difficulty</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>C3-EL04</td>
+<td>B</td>
+<td>3</td>
+<td>3.4</td>
+<td>situation</td>
+<td>medium</td>
+<td>Standard §4.4</td>
+</tr>
+</tbody></table>
+<p><strong>A.</strong> The seniority of the speaker does not turn a screen design into a business goal.</p>
+<p><strong>B.</strong> The specific screen arrangement proposes a solution whose underlying need must be explored.</p>
+<p><strong>C.</strong> No temporary transition capability is described.</p>
+<p><strong>D.</strong> A prescribed layout represents a solution rather than a quality target.</p>
+<p><strong>Reasoning (two-step).</strong> In Step 1, option C misuses “transition,” because there is nothing temporary here, since the screen is meant to be permanent. Option D misreads the layout as a quality target, but a specific screen-and-field arrangement is a proposed solution, and not a quality the solution must meet. In Step 2, you choose between A and B. The request is solution-shaped, because it specifies a particular screen and field order, so it is not a statement of the business goal. A business requirement would say why, meaning the outcome sought, and not what the screen looks like. The right move is to treat it as a design idea and work back to the need. Option B fits.</p>
+<p><strong>Source detail:</strong> Standard §4.4</p>
+<p><strong>Review:</strong> <a href="#as-3-4">A.S. 3.4</a></p>
+</div></details>
+<h2 id="p-ch3-chapter-3-summary">Chapter 3 — Summary</h2>
+<ul>
+<li>Domain 3 is the smallest domain — <strong>6%</strong>, about <strong>3 questions</strong> — but it sets up distinctions used throughout Domains 4–9. With four A.S. and three questions, one A.S. can sit out any given exam, so study all four.</li>
+<li>Business analysis is <strong>role-agnostic</strong>, and <em>how</em> it is organized — and who is responsible for what — <strong>varies with context</strong>. The four delivery models are different ways to arrange the capability: <strong>CoE</strong> sets standards, <strong>CoP</strong> shares practice, <strong>BAaS</strong> is outsourced, <strong>dispersed</strong> is embedded in business units; organizations often combine them.</li>
+<li>An <strong>approach</strong> is chosen intentionally for the situation: <strong>predictive</strong> for defined, regulated, sequential work; <strong>adaptive</strong> for uncertainty and emerging needs; <strong>hybrid</strong> when one initiative holds genuinely different kinds of work. Adaptive uses <em>just-enough, just-in-time</em> documentation — not none. An approach may be imposed; where selection or tailoring is permitted, practitioners compare options and choose according to context and governance.</li>
+<li>Four <strong>organizational considerations</strong> — security, ethics, inclusion, sustainability — shape the work. The entry-level BA <strong>recognizes and raises</strong> them and brings in the right people; it respects the decision, approval, and design responsibilities in the scenario.</li>
+<li>A <strong>requirement</strong> represents a <em>need</em>; a <strong>design</strong> represents a <em>solution</em>. The difference is <strong>purpose, not format</strong>. The five requirement types are business, stakeholder, functional, non-functional, and transition. Requirements and designs <strong>evolve together</strong>, and <strong>traceability</strong> links them both ways so gaps in either direction show up.</li>
+</ul>
+<h2 id="p-ch3-chapter-3-exam-essentials">Chapter 3 — Exam Essentials</h2>
+<p>Use this as your prioritized revision list — what to <strong>memorize</strong>, what to <strong>recognize</strong>, and what to <strong>watch</strong>.</p>
+<p><strong>Memorize exactly.</strong></p>
+<ul>
+<li>A requirement is a usable representation of a need, and a design is a usable representation of a solution. They are distinguished by purpose, and not by format.</li>
+<li>The four delivery models by name: CoE, CoP, BAaS, and dispersed.</li>
+<li>The five requirement types: business, stakeholder, functional, non-functional, and transition. In order, the memory hook is why, then who needs what, then what it does, then how well, then temporary.</li>
+<li>The four organizational considerations: security, ethics, inclusion, and sustainability.</li>
+</ul>
+<p><strong>Recognize by clues.</strong></p>
+<ul>
+<li>CoE means standards, quality, and governance in a dedicated internal unit; CoP means voluntary sharing; BAaS means external or outsourced; and dispersed means embedded in units.</li>
+<li>Predictive fits defined, regulated, and sequential work. Adaptive fits uncertain, emerging, and feedback-driven work. Hybrid fits two kinds of work in one initiative.</li>
+<li>“Just enough, just in time” is adaptive documentation, and not the absence of documentation.</li>
+<li>A “must respond in N seconds” target, or an availability or security-level target, is a non-functional requirement.</li>
+<li>A temporary enabler, such as data conversion, training, or cutover, is a transition requirement.</li>
+<li>A stakeholder’s solution-shaped request is a design idea, to be used to explore the need behind it, while a stakeholder need stated in the group’s terms is a stakeholder requirement.</li>
+<li>Traceability is lower-frequency but a clean distinction: a flat list shows names, owners, and status, while bidirectional traceability shows relationships, so it exposes a component with no need, or a need with nothing built for it.</li>
+</ul>
+<p><strong>Watch (traps).</strong></p>
+<ul>
+<li>A CoE is not a CoP, and BAaS, which is external, is not a CoE, which is internal.</li>
+<li>The Business Analysis Competency Model is not a certification syllabus; it is a reference guide.</li>
+<li>“Adaptive” is not “no documentation,” and hybrid is not a safe default.</li>
+<li>Predictive is not outdated, and adaptive is not automatically better, because the context decides.</li>
+<li>Requirement versus design is decided by purpose, and not by notation, tool, or author.</li>
+<li>A business requirement, which is the why, is not a stakeholder requirement, which is what a group needs; and a stakeholder requirement, which is the need, is not a functional requirement, which is the capability that meets it.</li>
+<li>A non-functional requirement is not a design, and a transition requirement is not permanent.</li>
+<li>On security, ethics, inclusion, and sustainability, the business analyst raises and supports. The role and governance determine who decides, approves, and designs; assess options against those stated responsibilities.</li>
+</ul>
+<blockquote>
+<p>🚀 <strong>Fast Track — Domain 3 (last-minute).</strong> There are only about three questions, so review fast and do not over-invest. Know the four delivery models by their signal words: CoE means standards and quality, CoP means voluntary sharing, BAaS means an external provider, and dispersed means embedded in units. Then hold the one reflex that pays off most: requirement versus design is decided by purpose, and not by notation or who wrote it. For predictive, adaptive, and hybrid, remember that hybrid needs two genuinely different kinds of work, and not mere uncertainty.</p>
+</blockquote>
+<h2 id="p-ch3-chapter-3-practice-questions">Chapter 3 — Practice Questions</h2>
+<p>Domain 3 has four activity statements but only about three exam questions, so any one of them can rotate out, and you should study all four. Attempt all six under exam discipline before you check your answers, and aim for about 90 seconds per question. Full answers and rationale are in <strong>Practice Answers &amp; Rationale</strong> at the back of the book.</p>
+<h3 id="c3-q01">C3-Q01</h3>
+<p><strong>A.S.:</strong> 3.1</p>
+<p>At a bank, analysts who sit in different departments arrange a voluntary monthly forum where they walk through recent initiatives, compare what worked, and pass techniques on to newer colleagues. No one in the forum owns templates or sets rules that others must follow. Which delivery model does this arrangement BEST represent?</p>
+<ul>
+<li>A. Centre of Excellence, because experienced analysts are guiding newer ones.</li>
+<li>B. Dispersed across business units, because each analyst reports within their own department, not a shared BA team.</li>
+<li>C. Community of Practice, because peers share experience and practices with no governance role.</li>
+<li>D. Business Analysis as a Service, because the forum makes analysis support available to teams that need advice.</li>
+</ul>
+<h3 id="c3-q02">C3-Q02</h3>
+<p><strong>A.S.:</strong> 3.2</p>
+<p>A university is replacing its financial-aid system. The award-calculation and disbursement rules are set by federal regulation, follow a fixed approval sequence, and must be documented for audit. The student-facing application flow, by contrast, is unclear, and the team will refine it through prototypes and student feedback. Which approach is MOST appropriate?</p>
+<ul>
+<li>A. Predictive across the whole initiative, because the regulated calculations require formal documentation.</li>
+<li>B. Adaptive across the whole initiative, because student feedback will shape the application flow.</li>
+<li>C. Predictive, because adaptive work cannot meet audit documentation needs.</li>
+<li>D. Hybrid, combining predictive calculations with an adaptive application flow.</li>
+</ul>
+<h3 id="c3-q03">C3-Q03</h3>
+<p><strong>A.S.:</strong> 3.2</p>
+<p>An adaptive team documents only high-level user stories before each iteration and adds the acceptance details as the next increment becomes clearer through stakeholder feedback. A stakeholder objects that this is poor analysis because all requirements were not baselined and signed off up front. What is the BEST response?</p>
+<ul>
+<li>A. The current documentation is appropriate: adaptive work uses just-enough documentation, created just in time to support each increment and its feedback.</li>
+<li>B. The stakeholder is right; without a full requirements baseline up front, the analysis cannot be trusted.</li>
+<li>C. The team should stop writing requirements altogether, since an adaptive approach relies on conversation rather than documents.</li>
+<li>D. The team should keep the current practice but defer all acceptance details until after each increment is released, as a record.</li>
+</ul>
+<h3 id="c3-q04">C3-Q04</h3>
+<p><strong>A.S.:</strong> 3.3</p>
+<p>A school district is designing a parent portal that will store children’s health and attendance records and allow account access through automated password resets. In the requirements workshop, operations and teaching staff participate, but no cybersecurity specialist is involved, and a stakeholder suggests finalizing the access rules now and letting IT “sort out the protections later.” Which organizational consideration should the business analyst raise FIRST?</p>
+<ul>
+<li>A. Ethical Analysis, because storing children’s records raises fairness questions.</li>
+<li>B. Security Integration, because access protections need specialist input during analysis.</li>
+<li>C. Sustainability Practices, because storing records over the long term consumes resources.</li>
+<li>D. Inclusion and Representation, because parents who share an email account may be excluded.</li>
+</ul>
+<h3 id="c3-q05">C3-Q05</h3>
+<p><strong>A.S.:</strong> 3.4</p>
+<p>While defining a new booking system, a stakeholder states that “the system must confirm a reservation within two seconds, even during peak load, because slow confirmations cause customers to abandon bookings at busy times.” A team member argues this is a design detail that engineers should decide later. How is this statement BEST classified?</p>
+<ul>
+<li>A. A design, because performance targets describe how the solution will be implemented.</li>
+<li>B. A functional solution requirement, because it describes a capability the system performs.</li>
+<li>C. A non-functional solution requirement, specifying performance rather than implementation.</li>
+<li>D. A transition requirement, because it applies during the move to the new system.</li>
+</ul>
+<h3 id="c3-q06">C3-Q06</h3>
+<p><strong>A.S.:</strong> 3.4</p>
+<p>A business analyst builds a future-state process model showing how order handling could work after a proposed change. Whether this model is a requirement or a design depends MOST on:</p>
+<ul>
+<li>A. The notation used, since formal diagrams are designs and informal ones are requirements.</li>
+<li>B. Who created it, since requirements come from business stakeholders and designs from technical staff.</li>
+<li>C. When it is produced, since anything created after requirements are signed off is a design.</li>
+<li>D. Whether it represents what the business needs, or how a chosen solution would work.</li>
+</ul>
+</article><nav class="page-turn" aria-label="Chapter navigation"><a href="chapter-2.html"><small>Previous</small>Chapter 2 — Mindset for Effective Business Analysis</a><a href="chapter-4.html"><small>Next</small>Chapter 4 — Change</a></nav><footer>© Kadir Çamoğlu · <a href="copyright.html">CC BY-NC 4.0 & notices</a> · Independent, unofficial study aid.<br>Check the <a href="official-resources.html">current official IIBA information</a> before your exam.</footer></main></div></body></html>

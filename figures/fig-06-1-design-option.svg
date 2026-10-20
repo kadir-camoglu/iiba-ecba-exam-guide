@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 610" width="960" height="610" role="img" aria-labelledby="title desc">
+<title id="title">A design option · two judgments</title>
+<desc id="desc">Author teaching diagram. Read the companion table for the full meaning.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#172b3a"/></marker></defs>
+<rect x="0" y="0" width="960" height="610" fill="#ffffff"/>
+<text x="36" y="48" font-size="28" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">A design option · two judgments</text>
+<rect x="36" y="90" width="888" height="90" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="125" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Need → Requirement → Design → Design options</text>
+<text x="60" y="162" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Design options are solution options.</text>
+<path d="M 350 188 L 250 260" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 610 188 L 710 260" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="270" width="426" height="122" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="305" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Verify · quality</text>
+<text x="60" y="342" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Usable for further work?</text>
+<text x="60" y="374" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Requirement or design</text>
+<rect x="498" y="270" width="426" height="122" rx="10" fill="#fff4e5" stroke="#a65300" stroke-width="2"/>
+<text x="522" y="305" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Solution validation · value</text>
+<text x="522" y="342" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Right thing?</text>
+<text x="522" y="374" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Serves the need and objective</text>
+<text x="480" y="525" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="middle">Evaluate both quality and value.</text>
+</svg>

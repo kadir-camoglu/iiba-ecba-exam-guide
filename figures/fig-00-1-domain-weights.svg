@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 830" width="960" height="830" role="img" aria-labelledby="title desc">
+<title id="title">Nine domains · exam weights</title>
+<desc id="desc">Author teaching diagram. Read the companion table for the full meaning.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#172b3a"/></marker></defs>
+<rect x="0" y="0" width="960" height="830" fill="#ffffff"/>
+<text x="36" y="48" font-size="28" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Nine domains · exam weights</text>
+<text x="36" y="100" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">1  Understanding Business Analysis</text>
+<rect x="36" y="112" width="700" height="18" rx="4" fill="#0072b2"/>
+<text x="800" y="128" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">20%</text>
+<text x="36" y="175" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">2  Mindset for Effective Business Analysis</text>
+<rect x="36" y="187" width="490" height="18" rx="4" fill="#0072b2"/>
+<text x="800" y="203" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">14%</text>
+<text x="36" y="250" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">3  Implementing Business Analysis</text>
+<rect x="36" y="262" width="210" height="18" rx="4" fill="#0072b2"/>
+<text x="800" y="278" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">6%</text>
+<text x="36" y="325" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">4  Change</text>
+<rect x="36" y="337" width="350" height="18" rx="4" fill="#a65300"/>
+<text x="800" y="353" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">10%</text>
+<text x="36" y="400" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">5  Need</text>
+<rect x="36" y="412" width="350" height="18" rx="4" fill="#a65300"/>
+<text x="800" y="428" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">10%</text>
+<text x="36" y="475" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">6  Solution</text>
+<rect x="36" y="487" width="350" height="18" rx="4" fill="#a65300"/>
+<text x="800" y="503" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">10%</text>
+<text x="36" y="550" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">7  Stakeholder</text>
+<rect x="36" y="562" width="350" height="18" rx="4" fill="#a65300"/>
+<text x="800" y="578" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">10%</text>
+<text x="36" y="625" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">8  Value</text>
+<rect x="36" y="637" width="350" height="18" rx="4" fill="#a65300"/>
+<text x="800" y="653" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">10%</text>
+<text x="36" y="700" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">9  Context</text>
+<rect x="36" y="712" width="350" height="18" rx="4" fill="#a65300"/>
+<text x="800" y="728" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">10%</text>
+<text x="36" y="805" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Domains 1–3: Standard · Domains 4–9: BABOK</text>
+</svg>

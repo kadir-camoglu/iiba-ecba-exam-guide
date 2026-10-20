@@ -1,0 +1,31 @@
+# IIBA® ECBA™ Exam Guide: From Business Analysis Basics to Exam-Ready
+
+By Kadir Çamoğlu. Freely shared independent study guide. Public draft; independent review pending.
+
+Author material: CC BY-NC 4.0; IIBA and other third-party material excluded. See copyright.html.
+
+- [Complete text](all.html)
+- [Markdown](book.md)
+- [IIBA® ECBA™ Exam Guide: From Business Analysis Basics to Exam-Ready](index.html)
+- [Copyright and notices](copyright.html)
+- [Introduction](introduction.html)
+- [Objective Map](objective-map.html)
+- [Chapter 0 — ECBA Exam Onboarding](chapter-0.html)
+- [Chapter 1 — Understanding Business Analysis](chapter-1.html)
+- [Chapter 2 — Mindset for Effective Business Analysis](chapter-2.html)
+- [Chapter 3 — Implementing Business Analysis](chapter-3.html)
+- [Chapter 4 — Change](chapter-4.html)
+- [Chapter 5 — Need](chapter-5.html)
+- [Chapter 6 — Solution](chapter-6.html)
+- [Chapter 7 — Stakeholder](chapter-7.html)
+- [Chapter 8 — Value](chapter-8.html)
+- [Chapter 9 — Context](chapter-9.html)
+- [Chapter 10 — Practice Exam](chapter-10.html)
+- [Practice Answers and Rationale](practice-answers.html)
+- [Practice Exam Answers and Rationale](exam-answers.html)
+- [BACCM Quick Reference](baccm.html)
+- [Appendix A — Techniques](techniques.html)
+- [Appendix B — Competencies](competencies.html)
+- [Appendix C — Concept Pairs](concept-pairs.html)
+- [Glossary](glossary.html)
+- [Official Resources](official-resources.html)

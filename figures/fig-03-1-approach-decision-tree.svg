@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 650" width="960" height="650" role="img" aria-labelledby="title desc">
+<title id="title">Choosing an approach · context first</title>
+<desc id="desc">Author teaching diagram. Read the companion table for the full meaning.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#172b3a"/></marker></defs>
+<rect x="0" y="0" width="960" height="650" fill="#ffffff"/>
+<text x="36" y="48" font-size="28" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Choosing an approach · context first</text>
+<rect x="36" y="90" width="888" height="90" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="125" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Check the context and governance</text>
+<text x="60" y="162" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">An approach may be imposed; otherwise select for the situation.</text>
+<path d="M 480 184 L 480 225" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="230" width="888" height="75" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="480" y="276" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="middle">What kind of work does the initiative contain?</text>
+<path d="M 480 309 L 176 370" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="376" width="280" height="122" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="411" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Predictive</text>
+<text x="60" y="448" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Fixed requirements;</text>
+<text x="60" y="480" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">regulated, sequential</text>
+<path d="M 480 309 L 480 370" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="340" y="376" width="280" height="122" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="364" y="411" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Adaptive</text>
+<text x="364" y="448" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Uncertain;</text>
+<text x="364" y="480" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">feedback-driven</text>
+<path d="M 480 309 L 784 370" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="644" y="376" width="280" height="122" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="668" y="411" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Hybrid</text>
+<text x="668" y="448" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Some fixed work;</text>
+<text x="668" y="480" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">some uncertain work</text>
+<text x="480" y="580" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="middle">Use these cues with the stated context.</text>
+<text x="480" y="618" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="middle">A regulation alone does not settle every approach decision.</text>
+</svg>

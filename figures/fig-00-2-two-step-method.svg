@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 628" width="960" height="628" role="img" aria-labelledby="title desc">
+<title id="title">Two-step answering strategy</title>
+<desc id="desc">Author teaching diagram. Read the companion table for the full meaning.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#172b3a"/></marker></defs>
+<rect x="0" y="0" width="960" height="628" fill="#ffffff"/>
+<text x="36" y="48" font-size="28" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Two-step answering strategy</text>
+<rect x="36" y="90" width="888" height="90" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="125" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Start</text>
+<text x="60" y="162" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Read all four answer options.</text>
+<path d="M 480 184 L 480 214" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="222" width="888" height="90" rx="10" fill="#fff4e5" stroke="#a65300" stroke-width="2"/>
+<text x="60" y="257" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">1  Eliminate the clearly wrong</text>
+<text x="60" y="294" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Check definitions, role, and scenario facts.</text>
+<path d="M 480 316 L 480 346" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="354" width="888" height="90" rx="10" fill="#edf6fb" stroke="#0072b2" stroke-width="2"/>
+<text x="60" y="389" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">2  Compare the remaining options</text>
+<text x="60" y="426" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Test each distinction against the exact wording.</text>
+<path d="M 480 448 L 480 478" fill="none" stroke="#172b3a" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="486" width="888" height="90" rx="10" fill="#fff4e5" stroke="#a65300" stroke-width="2"/>
+<text x="60" y="521" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="700" text-anchor="start">Choose</text>
+<text x="60" y="558" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#172b3a" font-weight="400" text-anchor="start">Pick the option that fits.</text>
+</svg>
